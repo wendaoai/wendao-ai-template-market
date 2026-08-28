@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "md-simple",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "极简排版",
+  "description": "参考 doocs/md 简洁主题，减少装饰。",
+  "source": "md",
+  "category": "knowledge",
+  "tags": [
+    "极简",
+    "教程",
+    "干货"
+  ],
+  "accent": "#4f6f8f",
+  "background": "#ffffff",
+  "surface": "#f4f7fa",
+  "text": "#20242a",
+  "muted": "#68717b",
+  "border": "#d9e2ec",
+  "headingStyle": "plain",
+  "blockStyle": "line",
+  "density": "compact",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

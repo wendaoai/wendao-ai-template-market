@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-basic",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "基础白纸",
+  "description": "参考 WeMD basic，尽量少装饰，适合所有内容兜底。",
+  "source": "wemd",
+  "category": "recommended",
+  "tags": [
+    "基础",
+    "白纸",
+    "兜底"
+  ],
+  "accent": "#576b95",
+  "background": "#ffffff",
+  "surface": "#f7f8fa",
+  "text": "#2b2f36",
+  "muted": "#747b86",
+  "border": "#e5e7eb",
+  "headingStyle": "plain",
+  "blockStyle": "quiet",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

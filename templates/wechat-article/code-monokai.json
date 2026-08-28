@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "code-monokai",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "代码 Monokai",
+  "description": "经典高对比代码配色，适合代码讲解。",
+  "source": "neurapress",
+  "category": "code",
+  "tags": [
+    "代码",
+    "Monokai",
+    "高对比"
+  ],
+  "accent": "#a6e22e",
+  "background": "#fcfff5",
+  "surface": "#272822",
+  "text": "#272822",
+  "muted": "#6f725f",
+  "border": "#dfe7ce",
+  "headingStyle": "marker",
+  "blockStyle": "boxed",
+  "density": "standard",
+  "codeTheme": "monokai",
+  "selectable": true,
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "首版发布，新增 文到AI 官方正文风格。",
+  "status": "active",
+  "replacementId": "",
+  "source": "cw",
+  "selectable": true,
+  "id": "cw-skyline-report",
+  "name": "天际报告",
+  "description": "清晰蓝色报告风格，适合数据分析、行业观察和产品复盘。",
+  "category": "tech",
+  "tags": [
+    "报告",
+    "数据",
+    "复盘"
+  ],
+  "accent": "#3478b5",
+  "background": "#f7fbff",
+  "surface": "#eaf3fb",
+  "text": "#172a3a",
+  "muted": "#60788b",
+  "border": "#cbddeb",
+  "headingStyle": "marker",
+  "blockStyle": "line",
+  "density": "compact",
+  "codeTheme": "github",
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

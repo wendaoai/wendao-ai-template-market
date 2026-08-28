@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-knowledge-base",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "知识库",
+  "description": "结构感强，适合知识卡片和步骤清单。",
+  "source": "wemd",
+  "category": "knowledge",
+  "tags": [
+    "知识",
+    "清单",
+    "收藏"
+  ],
+  "accent": "#3269a8",
+  "background": "#fbfdff",
+  "surface": "#eef5ff",
+  "text": "#1f2b38",
+  "muted": "#637080",
+  "border": "#ccdcf0",
+  "headingStyle": "card",
+  "blockStyle": "boxed",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

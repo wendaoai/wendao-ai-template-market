@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-aurora-glass",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "极光玻璃",
+  "description": "轻玻璃与渐变气质，适合 AI 新品和趋势稿。",
+  "source": "wemd",
+  "category": "visual",
+  "tags": [
+    "极光",
+    "玻璃",
+    "AI"
+  ],
+  "accent": "#4f9cff",
+  "background": "#f6fbff",
+  "surface": "#eaf4ff",
+  "text": "#142235",
+  "muted": "#657489",
+  "border": "#c9def5",
+  "headingStyle": "card",
+  "blockStyle": "note",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

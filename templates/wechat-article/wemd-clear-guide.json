@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-clear-guide",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "清晰指南",
+  "description": "方法论和教程友好，小标题醒目。",
+  "source": "wemd",
+  "category": "recommended",
+  "tags": [
+    "教程",
+    "方法论",
+    "清晰"
+  ],
+  "accent": "#1f7a68",
+  "background": "#fbfffb",
+  "surface": "#edf8f2",
+  "text": "#1f2f29",
+  "muted": "#60706a",
+  "border": "#cfe6db",
+  "headingStyle": "bar",
+  "blockStyle": "note",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

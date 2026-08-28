@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-whitespace-gallery",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "留白画册",
+  "description": "大留白和画册感，适合审美和故事稿。",
+  "source": "wemd",
+  "category": "lifestyle",
+  "tags": [
+    "留白",
+    "画册",
+    "审美"
+  ],
+  "accent": "#3f5f73",
+  "background": "#ffffff",
+  "surface": "#f6f8f8",
+  "text": "#20282d",
+  "muted": "#6c777c",
+  "border": "#e0e7e8",
+  "headingStyle": "plain",
+  "blockStyle": "quiet",
+  "density": "loose",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

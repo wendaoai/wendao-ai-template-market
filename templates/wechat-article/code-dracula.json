@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "code-dracula",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "代码 Dracula",
+  "description": "高识别暗色代码主题。",
+  "source": "neurapress",
+  "category": "code",
+  "tags": [
+    "代码",
+    "Dracula",
+    "暗色"
+  ],
+  "accent": "#bd93f9",
+  "background": "#fbf8ff",
+  "surface": "#282a36",
+  "text": "#282a36",
+  "muted": "#6f6680",
+  "border": "#d9ccef",
+  "headingStyle": "marker",
+  "blockStyle": "boxed",
+  "density": "standard",
+  "codeTheme": "dracula",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

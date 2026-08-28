@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "code-github-dark",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "代码 GitHub Dark",
+  "description": "深色代码块突出，适合工程文章。",
+  "source": "cw",
+  "category": "code",
+  "tags": [
+    "代码",
+    "深色",
+    "工程"
+  ],
+  "accent": "#58a6ff",
+  "background": "#f8fbff",
+  "surface": "#0d1117",
+  "text": "#1f2328",
+  "muted": "#59636e",
+  "border": "#30363d",
+  "headingStyle": "bar",
+  "blockStyle": "boxed",
+  "density": "standard",
+  "codeTheme": "github-dark",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

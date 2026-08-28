@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-orange-checklist",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "橙色清单",
+  "description": "行动感强，适合步骤、清单和收藏型内容。",
+  "source": "cw",
+  "category": "knowledge",
+  "tags": [
+    "清单",
+    "行动",
+    "收藏"
+  ],
+  "accent": "#f07c22",
+  "background": "#fffdf8",
+  "surface": "#fff1df",
+  "text": "#2f261d",
+  "muted": "#70645b",
+  "border": "#f0d1ad",
+  "headingStyle": "bar",
+  "blockStyle": "boxed",
+  "density": "compact",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

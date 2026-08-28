@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "neura-elegant",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "文艺优雅",
+  "description": "参考 NeuraPress 优雅风格，适合艺术文学。",
+  "source": "neurapress",
+  "category": "opinion",
+  "tags": [
+    "文艺",
+    "艺术",
+    "优雅"
+  ],
+  "accent": "#8f5c7a",
+  "background": "#fffafd",
+  "surface": "#f7edf3",
+  "text": "#30242b",
+  "muted": "#77656f",
+  "border": "#ead6e2",
+  "headingStyle": "center",
+  "blockStyle": "note",
+  "density": "loose",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

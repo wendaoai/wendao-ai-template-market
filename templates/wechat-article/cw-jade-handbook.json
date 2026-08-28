@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "首版发布，新增 文到AI 官方正文风格。",
+  "status": "active",
+  "replacementId": "",
+  "source": "cw",
+  "selectable": true,
+  "id": "cw-jade-handbook",
+  "name": "玉青手册",
+  "description": "清透青玉色和明确步骤层级，适合教程、指南和知识整理。",
+  "category": "knowledge",
+  "tags": [
+    "教程",
+    "指南",
+    "步骤"
+  ],
+  "accent": "#2f806c",
+  "background": "#f9fdfa",
+  "surface": "#eaf6ef",
+  "text": "#1d302a",
+  "muted": "#60736c",
+  "border": "#c8e2d7",
+  "headingStyle": "bar",
+  "blockStyle": "note",
+  "density": "standard",
+  "codeTheme": "github",
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-blueprint-dark",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "深蓝蓝图",
+  "description": "深色蓝图感，适合架构、系统和 AI 工程文章。",
+  "source": "cw",
+  "category": "tech",
+  "tags": [
+    "架构",
+    "系统",
+    "蓝图"
+  ],
+  "accent": "#8cc8ff",
+  "background": "#111827",
+  "surface": "#172033",
+  "text": "#f4f8ff",
+  "muted": "#b4c2d6",
+  "border": "#2e4262",
+  "headingStyle": "marker",
+  "blockStyle": "line",
+  "density": "standard",
+  "codeTheme": "github-dark",
+  "selectable": true,
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

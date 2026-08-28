@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "md-classic",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "经典微信",
+  "description": "参考 doocs/md 经典主题，稳妥耐读。",
+  "source": "md",
+  "category": "recommended",
+  "tags": [
+    "经典",
+    "稳妥",
+    "微信"
+  ],
+  "accent": "#07c160",
+  "background": "#ffffff",
+  "surface": "#f7fbf8",
+  "text": "#222222",
+  "muted": "#666666",
+  "border": "#dcebe2",
+  "headingStyle": "bar",
+  "blockStyle": "quiet",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "code-github",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "代码 GitHub",
+  "description": "浅色代码主题，适合技术教程。",
+  "source": "cw",
+  "category": "code",
+  "tags": [
+    "代码",
+    "GitHub",
+    "浅色"
+  ],
+  "accent": "#576b95",
+  "background": "#ffffff",
+  "surface": "#f6f8fa",
+  "text": "#24292f",
+  "muted": "#68717b",
+  "border": "#d8dee4",
+  "headingStyle": "bar",
+  "blockStyle": "line",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

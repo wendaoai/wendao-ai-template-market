@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-cyberpunk-neon",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "赛博霓虹",
+  "description": "降噪后的赛博科技感，适合强观点和技术热点。",
+  "source": "wemd",
+  "category": "visual",
+  "tags": [
+    "赛博",
+    "霓虹",
+    "热点"
+  ],
+  "accent": "#00a8a8",
+  "background": "#f7ffff",
+  "surface": "#e8fbfb",
+  "text": "#102728",
+  "muted": "#557678",
+  "border": "#b9e5e7",
+  "headingStyle": "marker",
+  "blockStyle": "bold",
+  "density": "compact",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

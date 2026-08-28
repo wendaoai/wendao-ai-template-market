@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "code-solarized-light",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "代码 Solarized Light",
+  "description": "柔和浅色代码主题，长文阅读压力小。",
+  "source": "neurapress",
+  "category": "code",
+  "tags": [
+    "代码",
+    "Solarized",
+    "浅色"
+  ],
+  "accent": "#268bd2",
+  "background": "#fffdf5",
+  "surface": "#fdf6e3",
+  "text": "#2f3d42",
+  "muted": "#657b83",
+  "border": "#eee8d5",
+  "headingStyle": "bar",
+  "blockStyle": "line",
+  "density": "standard",
+  "codeTheme": "solarized-light",
+  "selectable": true,
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

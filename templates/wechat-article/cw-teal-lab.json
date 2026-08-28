@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "首版发布，新增 文到AI 官方正文风格。",
+  "status": "active",
+  "replacementId": "",
+  "source": "cw",
+  "selectable": true,
+  "id": "cw-teal-lab",
+  "name": "青蓝实验室",
+  "description": "青蓝实验记录气质，适合模型评测、技术科普和研究笔记。",
+  "category": "tech",
+  "tags": [
+    "评测",
+    "技术",
+    "研究"
+  ],
+  "accent": "#12838d",
+  "background": "#f6fcfc",
+  "surface": "#e4f6f6",
+  "text": "#143438",
+  "muted": "#5d7b7e",
+  "border": "#bfe1e3",
+  "headingStyle": "marker",
+  "blockStyle": "boxed",
+  "density": "standard",
+  "codeTheme": "github",
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

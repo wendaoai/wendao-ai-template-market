@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-modern-editorial",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "编辑部手记",
+  "description": "杂志感长文，适合观点和商业分析。",
+  "source": "wemd",
+  "category": "opinion",
+  "tags": [
+    "观点",
+    "社论",
+    "深度"
+  ],
+  "accent": "#1f1f1f",
+  "background": "#fffdf8",
+  "surface": "#f4f0e8",
+  "text": "#24211c",
+  "muted": "#6b6256",
+  "border": "#ddd1bc",
+  "headingStyle": "plain",
+  "blockStyle": "line",
+  "density": "loose",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

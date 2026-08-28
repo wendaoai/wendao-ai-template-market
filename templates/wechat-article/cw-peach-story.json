@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "首版发布，新增 文到AI 官方正文风格。",
+  "status": "active",
+  "replacementId": "",
+  "source": "cw",
+  "selectable": true,
+  "id": "cw-peach-story",
+  "name": "桃色故事",
+  "description": "温和桃色卡片与轻叙事节奏，适合人物、生活和品牌故事。",
+  "category": "lifestyle",
+  "tags": [
+    "人物",
+    "生活",
+    "故事"
+  ],
+  "accent": "#d87870",
+  "background": "#fffafa",
+  "surface": "#fdeeea",
+  "text": "#392725",
+  "muted": "#856c68",
+  "border": "#efcec7",
+  "headingStyle": "card",
+  "blockStyle": "note",
+  "density": "loose",
+  "codeTheme": "github",
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

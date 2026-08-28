@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-data-blueprint",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "数据蓝图",
+  "description": "蓝图感结构，适合 AI、数据和产品文章。",
+  "source": "wemd",
+  "category": "tech",
+  "tags": [
+    "AI",
+    "数据",
+    "产品"
+  ],
+  "accent": "#2f6fbd",
+  "background": "#f7fbff",
+  "surface": "#eaf3ff",
+  "text": "#152338",
+  "muted": "#5a6d86",
+  "border": "#c5d8f4",
+  "headingStyle": "marker",
+  "blockStyle": "line",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

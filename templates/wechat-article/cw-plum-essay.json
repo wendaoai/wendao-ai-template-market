@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "首版发布，新增 文到AI 官方正文风格。",
+  "status": "active",
+  "replacementId": "",
+  "source": "cw",
+  "selectable": true,
+  "id": "cw-plum-essay",
+  "name": "梅紫随笔",
+  "description": "低饱和梅紫与柔和段落节奏，适合随笔、读书和女性成长。",
+  "category": "lifestyle",
+  "tags": [
+    "随笔",
+    "读书",
+    "成长"
+  ],
+  "accent": "#9b5872",
+  "background": "#fffafd",
+  "surface": "#f8edf2",
+  "text": "#34262d",
+  "muted": "#7a6871",
+  "border": "#ead3dd",
+  "headingStyle": "center",
+  "blockStyle": "quiet",
+  "density": "loose",
+  "codeTheme": "github",
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

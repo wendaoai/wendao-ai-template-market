@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "neura-leijun",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "雷军风简洁",
+  "description": "参考 NeuraPress 简洁风格，适合产品表达。",
+  "source": "neurapress",
+  "category": "tech",
+  "tags": [
+    "雷军风",
+    "产品",
+    "发布"
+  ],
+  "accent": "#ff6827",
+  "background": "#ffffff",
+  "surface": "#fff3ec",
+  "text": "#2b211c",
+  "muted": "#6f5f55",
+  "border": "#ffd9c7",
+  "headingStyle": "center",
+  "blockStyle": "quiet",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

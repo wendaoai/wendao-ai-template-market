@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-receipt",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "购物小票",
+  "description": "小票风格，适合清单、消费和复盘。",
+  "source": "wemd",
+  "category": "visual",
+  "tags": [
+    "小票",
+    "清单",
+    "复盘"
+  ],
+  "accent": "#111111",
+  "background": "#fbfaf2",
+  "surface": "#fff7d6",
+  "text": "#24211d",
+  "muted": "#726b5b",
+  "border": "#ddd0aa",
+  "headingStyle": "center",
+  "blockStyle": "boxed",
+  "density": "compact",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-morandi-forest",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "莫兰迪森林",
+  "description": "温和克制，适合生活方式和效率类内容。",
+  "source": "wemd",
+  "category": "lifestyle",
+  "tags": [
+    "温和",
+    "生活",
+    "效率"
+  ],
+  "accent": "#607965",
+  "background": "#fbfcf7",
+  "surface": "#eff3ea",
+  "text": "#253027",
+  "muted": "#687467",
+  "border": "#d8dfd0",
+  "headingStyle": "bar",
+  "blockStyle": "quiet",
+  "density": "loose",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

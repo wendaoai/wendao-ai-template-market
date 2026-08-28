@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-clean-reading",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "默认清爽",
+  "description": "留白充足，适合大多数公众号正文。",
+  "source": "cw",
+  "category": "recommended",
+  "tags": [
+    "通用",
+    "清爽",
+    "稳定"
+  ],
+  "accent": "#96743d",
+  "background": "#fffefa",
+  "surface": "#fffaf0",
+  "text": "#25221d",
+  "muted": "#756b5c",
+  "border": "#e6dcc9",
+  "headingStyle": "plain",
+  "blockStyle": "quiet",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

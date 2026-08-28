@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "首版发布，新增 文到AI 官方正文风格。",
+  "status": "active",
+  "replacementId": "",
+  "source": "cw",
+  "selectable": true,
+  "id": "cw-lemon-checklist",
+  "name": "柠檬清单",
+  "description": "明快但克制的行动清单风格，适合步骤、计划和收藏型内容。",
+  "category": "knowledge",
+  "tags": [
+    "清单",
+    "计划",
+    "行动"
+  ],
+  "accent": "#c59100",
+  "background": "#fffdf5",
+  "surface": "#fff5c9",
+  "text": "#302a18",
+  "muted": "#786f52",
+  "border": "#ecdda3",
+  "headingStyle": "bar",
+  "blockStyle": "boxed",
+  "density": "compact",
+  "codeTheme": "github",
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

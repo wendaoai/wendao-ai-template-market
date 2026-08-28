@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-sunset-film",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "落日胶片",
+  "description": "暖色胶片感，适合生活和情绪表达。",
+  "source": "wemd",
+  "category": "lifestyle",
+  "tags": [
+    "胶片",
+    "温暖",
+    "故事"
+  ],
+  "accent": "#d66f45",
+  "background": "#fff6ed",
+  "surface": "#ffe9d5",
+  "text": "#34251d",
+  "muted": "#806452",
+  "border": "#f0cfb8",
+  "headingStyle": "card",
+  "blockStyle": "note",
+  "density": "loose",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

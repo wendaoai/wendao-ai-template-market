@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "md-grace",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "优雅长文",
+  "description": "参考 doocs/md 优雅主题，适合文学观点。",
+  "source": "md",
+  "category": "opinion",
+  "tags": [
+    "优雅",
+    "长文",
+    "文学"
+  ],
+  "accent": "#8b5e3c",
+  "background": "#fffaf4",
+  "surface": "#f8efe4",
+  "text": "#2d241d",
+  "muted": "#7a6b5e",
+  "border": "#ead8c4",
+  "headingStyle": "center",
+  "blockStyle": "line",
+  "density": "loose",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

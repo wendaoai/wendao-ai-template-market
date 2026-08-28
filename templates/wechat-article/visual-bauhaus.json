@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "visual-bauhaus",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "包豪斯实验",
+  "description": "强视觉几何风，适合品牌和活动稿。",
+  "source": "wemd",
+  "category": "visual",
+  "tags": [
+    "包豪斯",
+    "品牌",
+    "强视觉"
+  ],
+  "accent": "#e03b2f",
+  "background": "#fff8e8",
+  "surface": "#ffe39a",
+  "text": "#171717",
+  "muted": "#685f4e",
+  "border": "#1f1f1f",
+  "headingStyle": "card",
+  "blockStyle": "bold",
+  "density": "compact",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": false,
+  "riskLevel": "experimental"
+}
+

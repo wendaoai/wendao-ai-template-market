@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "visual-neo-brutalism",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "新粗野主义",
+  "description": "硬朗醒目，适合差异化排版。",
+  "source": "wemd",
+  "category": "visual",
+  "tags": [
+    "粗野主义",
+    "醒目",
+    "实验"
+  ],
+  "accent": "#111111",
+  "background": "#fff45c",
+  "surface": "#ffffff",
+  "text": "#111111",
+  "muted": "#4b4b20",
+  "border": "#111111",
+  "headingStyle": "card",
+  "blockStyle": "bold",
+  "density": "compact",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": false,
+  "riskLevel": "experimental"
+}
+

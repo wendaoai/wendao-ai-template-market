@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "首版发布，新增 文到AI 官方正文风格。",
+  "status": "active",
+  "replacementId": "",
+  "source": "cw",
+  "selectable": true,
+  "id": "cw-coral-editorial",
+  "name": "珊瑚社论",
+  "description": "克制红线与舒展留白，适合评论、专栏和人物观点。",
+  "category": "opinion",
+  "tags": [
+    "评论",
+    "专栏",
+    "观点"
+  ],
+  "accent": "#c85250",
+  "background": "#fffafa",
+  "surface": "#fdeeee",
+  "text": "#302326",
+  "muted": "#7e676b",
+  "border": "#efcfd2",
+  "headingStyle": "center",
+  "blockStyle": "line",
+  "density": "loose",
+  "codeTheme": "github",
+  "recommended": false,
+  "riskLevel": "stable"
+}
+

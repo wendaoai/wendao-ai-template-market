@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "首版发布，新增 文到AI 官方正文风格。",
+  "status": "active",
+  "replacementId": "",
+  "source": "cw",
+  "selectable": true,
+  "id": "cw-scarlet-brief",
+  "name": "赤红快讯",
+  "description": "高识别红色重点和紧凑信息节奏，适合热点、快评和活动复盘。",
+  "category": "opinion",
+  "tags": [
+    "热点",
+    "快评",
+    "活动"
+  ],
+  "accent": "#bd3b39",
+  "background": "#fffafa",
+  "surface": "#fdebea",
+  "text": "#2f2020",
+  "muted": "#80605f",
+  "border": "#edc7c5",
+  "headingStyle": "marker",
+  "blockStyle": "bold",
+  "density": "compact",
+  "codeTheme": "github",
+  "recommended": false,
+  "riskLevel": "experimental"
+}
+

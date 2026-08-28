@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "neura-tech",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "科技主题",
+  "description": "参考 NeuraPress 科技模板，适合技术科普。",
+  "source": "neurapress",
+  "category": "tech",
+  "tags": [
+    "科技",
+    "技术",
+    "AI"
+  ],
+  "accent": "#2f80ed",
+  "background": "#f7fbff",
+  "surface": "#e9f2ff",
+  "text": "#172233",
+  "muted": "#5f7188",
+  "border": "#cfe0f7",
+  "headingStyle": "marker",
+  "blockStyle": "boxed",
+  "density": "standard",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

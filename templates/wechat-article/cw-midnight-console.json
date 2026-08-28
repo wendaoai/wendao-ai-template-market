@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "首版发布，新增 文到AI 官方正文风格。",
+  "status": "active",
+  "replacementId": "",
+  "source": "cw",
+  "selectable": true,
+  "id": "cw-midnight-console",
+  "name": "午夜控制台",
+  "description": "深色工程控制台风格，适合架构、运维和代码密集文章。",
+  "category": "code",
+  "tags": [
+    "代码",
+    "架构",
+    "运维"
+  ],
+  "accent": "#5fd0b3",
+  "background": "#111716",
+  "surface": "#172522",
+  "text": "#eaf8f4",
+  "muted": "#abc3bc",
+  "border": "#2c4b43",
+  "headingStyle": "bar",
+  "blockStyle": "boxed",
+  "density": "standard",
+  "codeTheme": "nord",
+  "recommended": false,
+  "riskLevel": "experimental"
+}
+

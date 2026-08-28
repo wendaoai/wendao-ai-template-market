@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "neura-smartisan",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "锤子便签",
+  "description": "便签式轻排版，适合短文和清单。",
+  "source": "neurapress",
+  "category": "visual",
+  "tags": [
+    "便签",
+    "轻量",
+    "短文"
+  ],
+  "accent": "#c03a2b",
+  "background": "#fffdf4",
+  "surface": "#fff2bf",
+  "text": "#33281b",
+  "muted": "#75664f",
+  "border": "#ecd889",
+  "headingStyle": "plain",
+  "blockStyle": "note",
+  "density": "compact",
+  "codeTheme": "github",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

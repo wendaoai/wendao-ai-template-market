@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "wemd-luxury-gold",
+  "version": "1.0.0",
+  "releasedAt": "2026-08-28T12:00:00Z",
+  "changeSummary": "从 文到AI 内置模板迁移，保持原始渲染参数。",
+  "status": "active",
+  "replacementId": "",
+  "name": "黑金奢华",
+  "description": "高对比强调，适合趋势、商业和复盘。",
+  "source": "wemd",
+  "category": "tech",
+  "tags": [
+    "商业",
+    "趋势",
+    "高级"
+  ],
+  "accent": "#b08a4a",
+  "background": "#191815",
+  "surface": "#24211b",
+  "text": "#f7edda",
+  "muted": "#cdbf9d",
+  "border": "#473a24",
+  "headingStyle": "card",
+  "blockStyle": "bold",
+  "density": "standard",
+  "codeTheme": "github-dark",
+  "selectable": true,
+  "recommended": true,
+  "riskLevel": "stable"
+}
+

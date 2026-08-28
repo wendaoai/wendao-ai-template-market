@@ -1,0 +1,107 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gitcode.com/wendao-ai/wendao-ai-template-market/schemas/wechat-article-catalog-v1.schema.json",
+  "title": "Wechat Article Catalog v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "catalogId",
+    "catalogVersion",
+    "channel",
+    "rendererContract",
+    "minAppVersion",
+    "generatedAt",
+    "templates"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "catalogId": { "const": "wechat-article" },
+    "catalogVersion": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?$" },
+    "channel": { "const": "stable" },
+    "rendererContract": { "const": "wechat-theme-preset-v1" },
+    "minAppVersion": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?$" },
+    "generatedAt": { "type": "string", "format": "date-time" },
+    "templates": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/template" }
+    }
+  },
+  "$defs": {
+    "color": {
+      "type": "string",
+      "pattern": "^#[0-9a-fA-F]{6}$"
+    },
+    "template": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "version",
+        "contentHash",
+        "releasedAt",
+        "changeSummary",
+        "status",
+        "replacementId",
+        "name",
+        "description",
+        "source",
+        "category",
+        "tags",
+        "accent",
+        "background",
+        "surface",
+        "text",
+        "muted",
+        "border",
+        "headingStyle",
+        "blockStyle",
+        "density",
+        "codeTheme",
+        "selectable",
+        "recommended",
+        "riskLevel"
+      ],
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "maxLength": 80 },
+        "version": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?$" },
+        "contentHash": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+        "releasedAt": { "type": "string", "format": "date-time" },
+        "changeSummary": { "type": "string", "minLength": 1, "maxLength": 200 },
+        "status": { "enum": ["active", "deprecated"] },
+        "replacementId": { "type": "string", "maxLength": 80 },
+        "name": { "type": "string", "minLength": 1, "maxLength": 40 },
+        "description": { "type": "string", "minLength": 1, "maxLength": 160 },
+        "source": { "enum": ["wemd", "md", "neurapress", "cw"] },
+        "category": { "enum": ["recommended", "knowledge", "opinion", "tech", "lifestyle", "visual", "code"] },
+        "tags": {
+          "type": "array",
+          "minItems": 1,
+          "maxItems": 8,
+          "uniqueItems": true,
+          "items": { "type": "string", "minLength": 1, "maxLength": 16 }
+        },
+        "accent": { "$ref": "#/$defs/color" },
+        "background": { "$ref": "#/$defs/color" },
+        "surface": { "$ref": "#/$defs/color" },
+        "text": { "$ref": "#/$defs/color" },
+        "muted": { "$ref": "#/$defs/color" },
+        "border": { "$ref": "#/$defs/color" },
+        "headingStyle": { "enum": ["plain", "bar", "card", "marker", "center"] },
+        "blockStyle": { "enum": ["quiet", "line", "boxed", "note", "bold"] },
+        "density": { "enum": ["compact", "standard", "loose"] },
+        "codeTheme": { "enum": ["github", "github-dark", "dracula", "monokai", "solarized-light", "nord"] },
+        "selectable": { "type": "boolean" },
+        "recommended": { "type": "boolean" },
+        "riskLevel": { "enum": ["stable", "experimental"] }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "status": { "const": "deprecated" } }, "required": ["status"] },
+          "then": { "properties": { "selectable": { "const": false } } }
+        }
+      ]
+    }
+  }
+}
