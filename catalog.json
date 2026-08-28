@@ -1,10 +1,9 @@
 {
   "schemaVersion": 1,
   "catalogId": "wechat-article",
-  "catalogVersion": "1.0.0",
+  "catalogVersion": "1.0.1",
   "channel": "stable",
   "rendererContract": "wechat-theme-preset-v1",
-  "minAppVersion": "0.0.64",
-  "publishedAt": "2026-08-28T12:00:00Z"
+  "minAppVersion": "0.0.67",
+  "publishedAt": "2026-08-28T03:00:15Z"
 }
-

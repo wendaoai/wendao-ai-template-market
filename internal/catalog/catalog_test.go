@@ -8,47 +8,36 @@ import (
 	"testing"
 )
 
-func TestBuildAndVerify(t *testing.T) {
+func TestBuildAndCheck(t *testing.T) {
 	root := t.TempDir()
 	writeFixture(t, root)
 	if _, err := WriteBuild(root, false); err != nil {
 		t.Fatalf("build: %v", err)
 	}
-	privatePath := filepath.Join(root, ".local-keys", "test-key.key")
-	publicPath := filepath.Join(root, "keys", "test-key.pub")
-	if err := GenerateKeyPair(privatePath, publicPath); err != nil {
-		t.Fatalf("keygen: %v", err)
-	}
-	if _, err := Sign(root, "test-key", privatePath); err != nil {
-		t.Fatalf("sign: %v", err)
-	}
-	result, signature, err := Verify(root)
+	data, err := os.ReadFile(filepath.Join(root, "registry", "v1", "stable.json"))
 	if err != nil {
-		t.Fatalf("verify: %v", err)
+		t.Fatal(err)
 	}
-	if result.CatalogVersion != "1.0.0" || len(result.Templates) != 1 {
-		t.Fatalf("unexpected catalog: %#v", result)
+	var result Catalog
+	if err := DecodeStrict(data, &result); err != nil {
+		t.Fatalf("decode: %v", err)
 	}
-	if signature.KeyID != "test-key" {
-		t.Fatalf("unexpected key: %s", signature.KeyID)
+	if err := ValidateCatalog(result); err != nil {
+		t.Fatalf("validate generated catalog: %v", err)
 	}
 	if _, err := WriteBuild(root, true); err != nil {
 		t.Fatalf("build check: %v", err)
 	}
+	if result.CatalogVersion != "1.0.0" || len(result.Templates) != 1 {
+		t.Fatalf("unexpected catalog: %#v", result)
+	}
 }
 
-func TestVerifyRejectsTamperedCatalog(t *testing.T) {
+func TestValidateCatalogRejectsTamperedContent(t *testing.T) {
 	root := t.TempDir()
 	writeFixture(t, root)
 	if _, err := WriteBuild(root, false); err != nil {
 		t.Fatalf("build: %v", err)
-	}
-	privatePath := filepath.Join(root, ".local-keys", "test-key.key")
-	if err := GenerateKeyPair(privatePath, filepath.Join(root, "keys", "test-key.pub")); err != nil {
-		t.Fatalf("keygen: %v", err)
-	}
-	if _, err := Sign(root, "test-key", privatePath); err != nil {
-		t.Fatalf("sign: %v", err)
 	}
 	path := filepath.Join(root, "registry", "v1", "stable.json")
 	data, err := os.ReadFile(path)
@@ -56,11 +45,12 @@ func TestVerifyRejectsTamperedCatalog(t *testing.T) {
 		t.Fatal(err)
 	}
 	data = []byte(strings.Replace(string(data), "默认清爽", "已被篡改", 1))
-	if err := os.WriteFile(path, data, 0o644); err != nil {
+	var result Catalog
+	if err := DecodeStrict(data, &result); err != nil {
 		t.Fatal(err)
 	}
-	if _, _, err := Verify(root); err == nil {
-		t.Fatal("expected tampered catalog to fail")
+	if err := ValidateCatalog(result); err == nil {
+		t.Fatal("expected changed template content to fail contentHash validation")
 	}
 }
 

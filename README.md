@@ -6,17 +6,17 @@
 
 ```text
 registry/v1/stable.json
-registry/v1/stable.json.sig
 ```
 
 仓库不发布 ZIP、预览图、HTML、CSS、JavaScript、字体或其他运行资源。模板只包含 文到AI 已知的颜色 token 和样式枚举，实际 HTML 始终由应用内渲染器生成。
+
+这是由 文到AI 开发人员维护的公开只读数据仓库。当前版本不使用数字签名；客户端通过 HTTPS 从固定 GitCode 地址读取 JSON，并继续执行 JSON 格式、字段、枚举和版本校验。
 
 ## 校验
 
 ```bash
 go run ./cmd/marketctl validate
 go run ./cmd/marketctl build --check
-go run ./cmd/marketctl verify
 go test ./...
 ```
 
@@ -25,23 +25,18 @@ go test ./...
 1. 修改 `templates/wechat-article/{id}.json` 并提升模板版本。
 2. 提升 `catalog.json` 的 `catalogVersion` 和 `publishedAt`。
 3. 运行 `validate` 和 `build`。
-4. 使用未提交的 Ed25519 私钥运行 `sign`。
-5. 运行 `verify` 后提交源模板、`stable.json` 和 `stable.json.sig`。
+4. 运行 `build --check` 和测试后，提交源模板与 `stable.json`。
 
 ```bash
 go run ./cmd/marketctl build
-go run ./cmd/marketctl sign --key-id cw-template-2026-01 --private-key .local-keys/cw-template-2026-01.key
-go run ./cmd/marketctl verify
+go run ./cmd/marketctl build --check
+go test ./...
 ```
-
-私钥目录 `.local-keys/` 已被忽略，绝不能提交。
 
 ## Raw 地址
 
 ```text
 https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/registry/v1/stable.json
-https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/registry/v1/stable.json.sig
 ```
 
 模板数据许可见 `LICENSE-TEMPLATES`。第三方参考和署名见 `THIRD_PARTY_NOTICES.md`。
-

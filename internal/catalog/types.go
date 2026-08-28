@@ -1,11 +1,10 @@
 package catalog
 
 const (
-	SchemaVersion      = 1
-	CatalogID          = "wechat-article"
-	ChannelStable      = "stable"
-	RendererContract   = "wechat-theme-preset-v1"
-	SignatureAlgorithm = "ed25519"
+	SchemaVersion    = 1
+	CatalogID        = "wechat-article"
+	ChannelStable    = "stable"
+	RendererContract = "wechat-theme-preset-v1"
 )
 
 type SourceCatalog struct {
@@ -60,13 +59,4 @@ type Catalog struct {
 	MinAppVersion    string           `json:"minAppVersion"`
 	GeneratedAt      string           `json:"generatedAt"`
 	Templates        []TemplateRecord `json:"templates"`
-}
-
-type DetachedSignature struct {
-	SchemaVersion int    `json:"schemaVersion"`
-	Algorithm     string `json:"algorithm"`
-	KeyID         string `json:"keyId"`
-	SignedFile    string `json:"signedFile"`
-	SHA256        string `json:"sha256"`
-	Signature     string `json:"signature"`
 }

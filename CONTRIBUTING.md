@@ -22,8 +22,6 @@ go fmt ./...
 go test ./...
 go run ./cmd/marketctl validate
 go run ./cmd/marketctl build --check
-go run ./cmd/marketctl verify
 ```
 
-签名私钥不得出现在提交、日志、CI 产物或 issue 中。
-
+`stable.json` 必须由 `marketctl build` 生成，不要直接编辑。源模板无需填写 `contentHash`，该字段由构建工具自动生成。
