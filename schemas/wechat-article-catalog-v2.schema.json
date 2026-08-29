@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://gitcode.com/wendao-ai/wendao-ai-template-market/schemas/wechat-article-catalog-v1.schema.json",
-  "title": "Wechat Article Catalog v1",
+  "$id": "https://gitcode.com/wendao-ai/wendao-ai-template-market/schemas/wechat-article-catalog-v2.schema.json",
+  "title": "Wechat Article Template Catalog v2",
   "type": "object",
   "additionalProperties": false,
   "required": [
@@ -15,25 +15,22 @@
     "templates"
   ],
   "properties": {
-    "schemaVersion": { "const": 1 },
+    "schemaVersion": { "const": 2 },
     "catalogId": { "const": "wechat-article" },
     "catalogVersion": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?$" },
     "channel": { "const": "stable" },
-    "rendererContract": { "const": "wechat-theme-preset-v1" },
+    "rendererContract": { "const": "wechat-theme-css-v1" },
     "minAppVersion": { "type": "string", "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+(?:-[0-9A-Za-z.-]+)?$" },
     "generatedAt": { "type": "string", "format": "date-time" },
     "templates": {
       "type": "array",
       "minItems": 1,
-      "items": { "$ref": "#/$defs/template" }
+      "maxItems": 200,
+      "items": { "$ref": "#/$defs/templateRecord" }
     }
   },
   "$defs": {
-    "color": {
-      "type": "string",
-      "pattern": "^#[0-9a-fA-F]{6}$"
-    },
-    "template": {
+    "templateRecord": {
       "type": "object",
       "additionalProperties": false,
       "required": [
@@ -49,19 +46,11 @@
         "source",
         "category",
         "tags",
-        "accent",
-        "background",
-        "surface",
-        "text",
-        "muted",
-        "border",
-        "headingStyle",
-        "blockStyle",
-        "density",
-        "codeTheme",
         "selectable",
         "recommended",
-        "riskLevel"
+        "riskLevel",
+        "editorMode",
+        "css"
       ],
       "properties": {
         "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$", "maxLength": 80 },
@@ -82,24 +71,25 @@
           "uniqueItems": true,
           "items": { "type": "string", "minLength": 1, "maxLength": 16 }
         },
-        "accent": { "$ref": "#/$defs/color" },
-        "background": { "$ref": "#/$defs/color" },
-        "surface": { "$ref": "#/$defs/color" },
-        "text": { "$ref": "#/$defs/color" },
-        "muted": { "$ref": "#/$defs/color" },
-        "border": { "$ref": "#/$defs/color" },
-        "headingStyle": { "enum": ["plain", "bar", "card", "marker", "center"] },
-        "blockStyle": { "enum": ["quiet", "line", "boxed", "note", "bold"] },
-        "density": { "enum": ["compact", "standard", "loose"] },
-        "codeTheme": { "enum": ["github", "github-dark", "dracula", "monokai", "solarized-light", "nord"] },
         "selectable": { "type": "boolean" },
         "recommended": { "type": "boolean" },
-        "riskLevel": { "enum": ["stable", "experimental"] }
+        "riskLevel": { "enum": ["stable", "experimental"] },
+        "editorMode": { "enum": ["visual", "css"] },
+        "css": { "type": "string", "minLength": 1, "maxLength": 262144 },
+        "designerVariables": { "type": "object", "minProperties": 1 }
       },
       "allOf": [
         {
           "if": { "properties": { "status": { "const": "deprecated" } }, "required": ["status"] },
           "then": { "properties": { "selectable": { "const": false } } }
+        },
+        {
+          "if": { "properties": { "editorMode": { "const": "visual" } }, "required": ["editorMode"] },
+          "then": { "required": ["designerVariables"] }
+        },
+        {
+          "if": { "properties": { "editorMode": { "const": "css" } }, "required": ["editorMode"] },
+          "then": { "not": { "required": ["designerVariables"] } }
         }
       ]
     }

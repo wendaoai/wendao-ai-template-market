@@ -22,15 +22,12 @@ var (
 )
 
 var allowedValues = map[string]map[string]bool{
-	"channel":      {"stable": true},
-	"status":       {"active": true, "deprecated": true},
-	"source":       {"wemd": true, "md": true, "neurapress": true, "cw": true},
-	"category":     {"recommended": true, "knowledge": true, "opinion": true, "tech": true, "lifestyle": true, "visual": true, "code": true},
-	"headingStyle": {"plain": true, "bar": true, "card": true, "marker": true, "center": true},
-	"blockStyle":   {"quiet": true, "line": true, "boxed": true, "note": true, "bold": true},
-	"density":      {"compact": true, "standard": true, "loose": true},
-	"codeTheme":    {"github": true, "github-dark": true, "dracula": true, "monokai": true, "solarized-light": true, "nord": true},
-	"riskLevel":    {"stable": true, "experimental": true},
+	"channel":    {"stable": true},
+	"status":     {"active": true, "deprecated": true},
+	"source":     {"wemd": true, "md": true, "neurapress": true, "cw": true},
+	"category":   {"recommended": true, "knowledge": true, "opinion": true, "tech": true, "lifestyle": true, "visual": true, "code": true},
+	"riskLevel":  {"stable": true, "experimental": true},
+	"editorMode": {"visual": true, "css": true},
 }
 
 func ValidateSource(source SourceCatalog, templates []SourceTemplate) error {
@@ -97,7 +94,7 @@ func ValidateCatalog(value Catalog) error {
 	for index := range value.Templates {
 		record := value.Templates[index]
 		record.ContentHash = ""
-		templates[index] = SourceTemplate{SchemaVersion: SchemaVersion, TemplateRecord: record}
+		templates[index] = SourceTemplate{SchemaVersion: value.SchemaVersion, TemplateRecord: record}
 	}
 	if err := ValidateSource(source, templates); err != nil {
 		return err
@@ -173,25 +170,51 @@ func ValidateTemplate(item TemplateRecord, requireHash bool) error {
 		}
 		seenTags[tag] = true
 	}
-	for name, color := range map[string]string{
-		"accent": item.Accent, "background": item.Background, "surface": item.Surface,
-		"text": item.Text, "muted": item.Muted, "border": item.Border,
-	} {
-		if !colorPattern.MatchString(color) {
-			return fmt.Errorf("模板 %s 的 %s 不是完整十六进制颜色", item.ID, name)
-		}
-	}
 	for name, value := range map[string]string{
-		"headingStyle": item.HeadingStyle, "blockStyle": item.BlockStyle, "density": item.Density,
-		"codeTheme": item.CodeTheme, "riskLevel": item.RiskLevel,
+		"riskLevel": item.RiskLevel,
 	} {
 		if !allowedValues[name][value] {
 			return fmt.Errorf("模板 %s 的 %s 不受支持：%s", item.ID, name, value)
 		}
 	}
+	if err := validateRuntimeTheme(item.ID, item.EditorMode, item.CSS, item.DesignerVariables); err != nil {
+		return err
+	}
 	return nil
 }
 
+func validateRuntimeTheme(id string, editorMode string, css string, designerVariables json.RawMessage) error {
+	mode := strings.TrimSpace(editorMode)
+	if !allowedValues["editorMode"][mode] {
+		return fmt.Errorf("template %s editorMode is not supported", id)
+	}
+	if len(css) > 256*1024 {
+		return fmt.Errorf("template %s css must not exceed 256KB", id)
+	}
+	if strings.TrimSpace(css) == "" {
+		return fmt.Errorf("template %s editorMode=%s requires css", id, mode)
+	}
+	if mode == "css" && len(bytes.TrimSpace(designerVariables)) > 0 {
+		return fmt.Errorf("template %s editorMode=css must not include designerVariables", id)
+	}
+	if len(bytes.TrimSpace(designerVariables)) == 0 {
+		if mode == "visual" {
+			return fmt.Errorf("template %s editorMode=visual requires designerVariables", id)
+		}
+		return nil
+	}
+	if !json.Valid(designerVariables) {
+		return fmt.Errorf("template %s designerVariables must be valid JSON", id)
+	}
+	var probe map[string]any
+	if err := json.Unmarshal(designerVariables, &probe); err != nil || len(probe) == 0 {
+		return fmt.Errorf("template %s designerVariables must be a non-empty JSON object", id)
+	}
+	if mode != "visual" {
+		return fmt.Errorf("template %s only visual mode can save designerVariables", id)
+	}
+	return nil
+}
 func ContentHash(item TemplateRecord) (string, error) {
 	item.ContentHash = ""
 	payload, err := json.Marshal(item)

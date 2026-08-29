@@ -1,10 +1,12 @@
 package catalog
 
+import "encoding/json"
+
 const (
-	SchemaVersion    = 1
+	SchemaVersion    = 2
 	CatalogID        = "wechat-article"
 	ChannelStable    = "stable"
-	RendererContract = "wechat-theme-preset-v1"
+	RendererContract = "wechat-theme-css-v1"
 )
 
 type SourceCatalog struct {
@@ -23,31 +25,24 @@ type SourceTemplate struct {
 }
 
 type TemplateRecord struct {
-	ID            string   `json:"id"`
-	Version       string   `json:"version"`
-	ContentHash   string   `json:"contentHash,omitempty"`
-	ReleasedAt    string   `json:"releasedAt"`
-	ChangeSummary string   `json:"changeSummary"`
-	Status        string   `json:"status"`
-	ReplacementID string   `json:"replacementId"`
-	Name          string   `json:"name"`
-	Description   string   `json:"description"`
-	Source        string   `json:"source"`
-	Category      string   `json:"category"`
-	Tags          []string `json:"tags"`
-	Accent        string   `json:"accent"`
-	Background    string   `json:"background"`
-	Surface       string   `json:"surface"`
-	Text          string   `json:"text"`
-	Muted         string   `json:"muted"`
-	Border        string   `json:"border"`
-	HeadingStyle  string   `json:"headingStyle"`
-	BlockStyle    string   `json:"blockStyle"`
-	Density       string   `json:"density"`
-	CodeTheme     string   `json:"codeTheme"`
-	Selectable    bool     `json:"selectable"`
-	Recommended   bool     `json:"recommended"`
-	RiskLevel     string   `json:"riskLevel"`
+	ID                string          `json:"id"`
+	Version           string          `json:"version"`
+	ContentHash       string          `json:"contentHash,omitempty"`
+	ReleasedAt        string          `json:"releasedAt"`
+	ChangeSummary     string          `json:"changeSummary"`
+	Status            string          `json:"status"`
+	ReplacementID     string          `json:"replacementId"`
+	Name              string          `json:"name"`
+	Description       string          `json:"description"`
+	Source            string          `json:"source"`
+	Category          string          `json:"category"`
+	Tags              []string        `json:"tags"`
+	Selectable        bool            `json:"selectable"`
+	Recommended       bool            `json:"recommended"`
+	RiskLevel         string          `json:"riskLevel"`
+	EditorMode        string          `json:"editorMode"`
+	CSS               string          `json:"css"`
+	DesignerVariables json.RawMessage `json:"designerVariables,omitempty"`
 }
 
 type Catalog struct {

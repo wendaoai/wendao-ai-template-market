@@ -86,14 +86,14 @@ func WriteBuild(root string, check bool) (Catalog, error) {
 	if err != nil {
 		return Catalog{}, err
 	}
-	path := filepath.Join(root, "registry", "v1", "stable.json")
+	path := filepath.Join(root, "registry", "v2", "stable.json")
 	if check {
 		current, err := os.ReadFile(path)
 		if err != nil {
 			return Catalog{}, fmt.Errorf("读取已生成 stable.json 失败：%w", err)
 		}
 		if !bytes.Equal(current, data) {
-			return Catalog{}, errors.New("registry/v1/stable.json 未更新，请运行 marketctl build")
+			return Catalog{}, errors.New("registry/v2/stable.json 未更新，请运行 marketctl build")
 		}
 		return result, nil
 	}

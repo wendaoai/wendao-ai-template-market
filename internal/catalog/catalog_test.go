@@ -14,7 +14,7 @@ func TestBuildAndCheck(t *testing.T) {
 	if _, err := WriteBuild(root, false); err != nil {
 		t.Fatalf("build: %v", err)
 	}
-	data, err := os.ReadFile(filepath.Join(root, "registry", "v1", "stable.json"))
+	data, err := os.ReadFile(filepath.Join(root, "registry", "v2", "stable.json"))
 	if err != nil {
 		t.Fatal(err)
 	}
@@ -39,7 +39,7 @@ func TestValidateCatalogRejectsTamperedContent(t *testing.T) {
 	if _, err := WriteBuild(root, false); err != nil {
 		t.Fatalf("build: %v", err)
 	}
-	path := filepath.Join(root, "registry", "v1", "stable.json")
+	path := filepath.Join(root, "registry", "v2", "stable.json")
 	data, err := os.ReadFile(path)
 	if err != nil {
 		t.Fatal(err)
@@ -56,10 +56,10 @@ func TestValidateCatalogRejectsTamperedContent(t *testing.T) {
 
 func TestDecodeStrictRejectsDuplicateAndUnknownFields(t *testing.T) {
 	var source SourceCatalog
-	if err := DecodeStrict([]byte(`{"schemaVersion":1,"schemaVersion":1}`), &source); err == nil {
+	if err := DecodeStrict([]byte(`{"schemaVersion":2,"schemaVersion":2}`), &source); err == nil {
 		t.Fatal("expected duplicate field to fail")
 	}
-	if err := DecodeStrict([]byte(`{"schemaVersion":1,"unknown":true}`), &source); err == nil {
+	if err := DecodeStrict([]byte(`{"schemaVersion":2,"unknown":true}`), &source); err == nil {
 		t.Fatal("expected unknown field to fail")
 	}
 }
@@ -80,7 +80,7 @@ func TestValidateTemplateRejectsSelectableDeprecatedTemplate(t *testing.T) {
 func writeFixture(t *testing.T, root string) {
 	t.Helper()
 	source := SourceCatalog{
-		SchemaVersion:    1,
+		SchemaVersion:    SchemaVersion,
 		CatalogID:        CatalogID,
 		CatalogVersion:   "1.0.0",
 		Channel:          ChannelStable,
@@ -89,7 +89,7 @@ func writeFixture(t *testing.T, root string) {
 		PublishedAt:      "2026-08-28T12:00:00Z",
 	}
 	template := SourceTemplate{
-		SchemaVersion:  1,
+		SchemaVersion:  SchemaVersion,
 		TemplateRecord: validTemplateRecord(),
 	}
 	writeJSON(t, filepath.Join(root, "catalog.json"), source)
@@ -101,11 +101,10 @@ func validTemplateRecord() TemplateRecord {
 		ID: "cw-clean-reading", Version: "1.0.0", ReleasedAt: "2026-08-28T12:00:00Z",
 		ChangeSummary: "首次发布。", Status: "active", Name: "默认清爽",
 		Description: "留白充足，适合大多数公众号正文。", Source: "cw",
-		Category: "recommended", Tags: []string{"通用"}, Accent: "#96743d",
-		Background: "#fffefa", Surface: "#fffaf0", Text: "#25221d",
-		Muted: "#756b5c", Border: "#e6dcc9", HeadingStyle: "plain",
-		BlockStyle: "quiet", Density: "standard", CodeTheme: "github",
+		Category: "recommended", Tags: []string{"通用"},
 		Selectable: true, Recommended: true, RiskLevel: "stable",
+		EditorMode: "visual", CSS: "#wemd { color: #25221d; }",
+		DesignerVariables: json.RawMessage(`{"primaryColor":"#96743d","paragraphColor":"#25221d"}`),
 	}
 }
 
