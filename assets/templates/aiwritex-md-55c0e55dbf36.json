@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-md-55c0e55dbf36",
+  "type": "md-template",
+  "original": {
+    "id": "sspai-red",
+    "name": "少数派红",
+    "description": "清晰标题配红色强调色，利落醒目的工具评测风格，信息层次分明，适合产品说明和效率教程",
+    "category": "沉稳专业",
+    "author": "system",
+    "is_builtin": true,
+    "version": "1.0.0",
+    "tags": [
+      "少数派",
+      "红色",
+      "利落",
+      "评测",
+      "效率"
+    ],
+    "colors": {
+      "background": "#ffffff",
+      "text_primary": "#1a1a1a",
+      "text_secondary": "#666666",
+      "accent": "#da2c1f",
+      "border": "#e0e0e0",
+      "code_background": "#f7f7f7",
+      "quote_background": "#fff5f5",
+      "quote_border": "#da2c1f",
+      "table_header_bg": "#fde8e8",
+      "table_stripe_bg": "#fef5f5",
+      "link_color": "#da2c1f",
+      "highlight_bg": "#fde8e8"
+    },
+    "typography": {
+      "font_family": "-apple-system, 'PingFang SC', 'Segoe UI', 'Noto Sans SC', sans-serif",
+      "font_family_code": "'JetBrains Mono', 'Fira Code', monospace",
+      "base_font_size": 16,
+      "line_height": 1.8,
+      "letter_spacing": 0,
+      "paragraph_spacing": 1.2,
+      "text_align": "justify",
+      "first_line_indent": false
+    },
+    "headings": {
+      "h1": {
+        "font_size": 28,
+        "font_weight": 800,
+        "color": "$colors.text_primary",
+        "margin_top": 2,
+        "margin_bottom": 1,
+        "border_bottom": false,
+        "text_align": "left"
+      },
+      "h2": {
+        "font_size": 22,
+        "font_weight": 700,
+        "color": "$colors.text_primary",
+        "margin_top": 1.8,
+        "margin_bottom": 0.8,
+        "border_bottom": true,
+        "border_color": "$colors.accent",
+        "border_width": 3,
+        "text_align": "left"
+      },
+      "h3": {
+        "font_size": 18,
+        "font_weight": 600,
+        "color": "$colors.accent",
+        "margin_top": 1.5,
+        "margin_bottom": 0.6,
+        "prefix_marker": false
+      },
+      "h4": {
+        "font_size": 16,
+        "font_weight": 600,
+        "color": "$colors.text_secondary",
+        "margin_top": 1.2,
+        "margin_bottom": 0.5
+      }
+    },
+    "blocks": {
+      "blockquote": {
+        "border_left_width": 4,
+        "border_left_color": "$colors.quote_border",
+        "background": "$colors.quote_background",
+        "padding": "14px 20px",
+        "font_style": "normal",
+        "text_color": "$colors.text_secondary"
+      },
+      "code_inline": {
+        "background": "$colors.code_background",
+        "color": "#da2c1f",
+        "padding": "2px 6px",
+        "border_radius": 4,
+        "font_size_ratio": 0.9
+      },
+      "code_block": {
+        "background": "#1e1e1e",
+        "border_radius": 8,
+        "padding": "18px 22px",
+        "line_height": 1.6,
+        "show_line_numbers": true,
+        "text_color": "#d4d4d4"
+      },
+      "table": {
+        "border_style": "solid",
+        "border_color": "$colors.border",
+        "header_background": "$colors.table_header_bg",
+        "stripe_background": "$colors.table_stripe_bg",
+        "cell_padding": "10px 14px",
+        "border_radius": 8
+      },
+      "list": {
+        "ul_marker": "disc",
+        "ol_marker": "decimal",
+        "indent_size": 24,
+        "item_spacing": 6,
+        "marker_color": "$colors.accent"
+      },
+      "hr": {
+        "style": "solid",
+        "color": "$colors.accent",
+        "margin": "2em 0",
+        "width": "30%"
+      },
+      "image": {
+        "border_radius": 8,
+        "caption_font_size": 13,
+        "caption_color": "$colors.text_secondary",
+        "caption_align": "center",
+        "max_width": "100%"
+      },
+      "link": {
+        "color": "$colors.link_color",
+        "text_decoration": "none",
+        "hover_decoration": "underline"
+      },
+      "highlight": {
+        "background": "$colors.highlight_bg",
+        "padding": "2px 6px",
+        "border_radius": 4,
+        "font_weight": 600
+      }
+    },
+    "layout": {
+      "max_width": 720,
+      "padding_horizontal": 24,
+      "padding_vertical": 32
+    },
+    "special_effects": {
+      "drop_cap": false,
+      "drop_cap_chars": 1,
+      "drop_cap_size_ratio": 3,
+      "drop_cap_color": "#da2c1f"
+    },
+    "components": {
+      "hero_section": {
+        "enabled": false
+      },
+      "section_card": {
+        "enabled": false
+      },
+      "chapter_title": {
+        "enabled": true,
+        "style": "default"
+      },
+      "quote_card": {
+        "enabled": true
+      },
+      "gradient_divider": {
+        "enabled": true
+      },
+      "code_decoration": {
+        "enabled": true
+      },
+      "image_container": {
+        "enabled": true
+      },
+      "emphasis_enhance": {
+        "enabled": true
+      },
+      "highlight_annotation": {
+        "enabled": false
+      },
+      "list_enhance": {
+        "enabled": true
+      }
+    }
+  },
+  "theme": {
+    "id": "aiwritex-md-55c0e55dbf36",
+    "name": "少数派红",
+    "description": "清晰标题配红色强调色，利落醒目的工具评测风格，信息层次分明，适合产品说明和效率教程",
+    "source": "md",
+    "category": "visual",
+    "tags": [
+      "沉稳专业",
+      "少数派",
+      "红色",
+      "利落",
+      "评测",
+      "效率"
+    ],
+    "selectable": true,
+    "recommended": false,
+    "riskLevel": "stable",
+    "editorMode": "css",
+    "css": "#wemd{color:#1a1a1a;background-color:#ffffff;font-family:-apple-system, 'PingFang SC', 'Segoe UI', 'Noto Sans SC', sans-serif;font-size:16px;line-height:1.8;letter-spacing:0em;text-align:justify;padding:32px 24px;overflow-wrap:anywhere}\n#wemd p{margin:0 0 1.2em;text-indent:0}\n#wemd h1{font-size:28px;font-weight:800;color:$colors.text_primary;margin-top:2em;margin-bottom:1em;text-align:left}\n#wemd h2{font-size:22px;font-weight:700;color:$colors.text_primary;margin-top:1.8em;margin-bottom:0.8em;text-align:left;border-bottom:1px solid $colors.accent;padding-bottom:.4em}\n#wemd h3{font-size:18px;font-weight:600;color:$colors.accent;margin-top:1.5em;margin-bottom:0.6em}\n#wemd h4{font-size:16px;font-weight:600;color:$colors.text_secondary;margin-top:1.2em;margin-bottom:0.5em}\n#wemd blockquote{border-left:4px solid $colors.quote_border;background:$colors.quote_background;padding:14px 20px;color:$colors.text_secondary;font-style:normal;margin:1.2em 0}\n#wemd code{background-color:$colors.code_background;color:#da2c1f;padding:2px 6px;border-radius:4px;font-size:0.9em;font-family:'JetBrains Mono', 'Fira Code', monospace}\n#wemd pre{background:#1e1e1e;border-radius:8px;padding:18px 22px;line-height:1.6;white-space:pre-wrap}\n#wemd pre code{background:transparent;padding:0}\n#wemd table{width:100%;border-collapse:collapse}\n#wemd th, #wemd td{border:1px solid $colors.border;padding:10px 14px}\n#wemd th{background:$colors.table_header_bg}\n#wemd tr:nth-child(even){background:$colors.table_stripe_bg}\n#wemd ul, #wemd ol{padding-left:24px;margin:1em 0}\n#wemd ul{list-style-type:disc}\n#wemd ol{list-style-type:decimal}\n#wemd li{margin-bottom:6px}\n#wemd li::marker{color:$colors.accent}\n#wemd hr{border:0;border-top:1px solid $colors.accent;margin:2em 0;width:30%}\n#wemd img{max-width:100%;height:auto;border-radius:8px}\n#wemd figcaption{font-size:13px;color:$colors.text_secondary;text-align:center}\n#wemd a{color:$colors.link_color;text-decoration:none}\n#wemd strong{color:#da2c1f;font-weight:700}\n#wemd mark{background:$colors.highlight_bg;padding:2px 6px;border-radius:4px}"
+  }
+}

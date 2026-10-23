@@ -1,0 +1,279 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-essay",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:letter]\n[cw-layout-design:{\"id\":\"essay\",\"palette\":{\"paper\":\"#faf7ef\",\"ink\":\"#32463d\",\"muted\":\"#59665b\",\"accent\":\"#88505b\",\"panel\":\"#ece8dd\"},\"typography\":{\"font\":\"serif\",\"titleSize\":30,\"titleWeight\":600,\"bodySize\":17,\"lineHeight\":2,\"paragraphGap\":28},\"composition\":{\"frame\":\"open\",\"inset\":28,\"measure\":88,\"titleFont\":\"serif\",\"titleSize\":30,\"titleWeight\":400,\"headerTreatment\":\"plain\",\"headerAlign\":\"center\",\"headerMeasure\":68,\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"dotted\",\"quoteTreatment\":\"large\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"inset\",\"rhythm\":\"airy\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"large\",\"align\":\"center\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"center\"},{\"role\":\"rule\",\"treatment\":\"underline\",\"align\":\"center\"},{\"role\":\"heading\",\"treatment\":\"overline\",\"align\":\"center\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"large\",\"align\":\"center\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"underline\",\"align\":\"center\"}]}]",
+  "nativePreset": {
+    "id": "essay",
+    "label": "人文随笔型",
+    "category": "娱乐八卦",
+    "topics": [
+      "图书影音",
+      "文艺"
+    ],
+    "keywords": "人文 随笔 文化",
+    "summary": "安静题记 · 长短段落",
+    "visualFamily": "letter",
+    "instruction": "采用「人文随笔型」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：书信散文。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"open\",\"inset\":28,\"measure\":88,\"titleFont\":\"serif\",\"titleSize\":30,\"titleWeight\":400,\"headerTreatment\":\"plain\",\"headerAlign\":\"center\",\"headerMeasure\":68,\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"dotted\",\"quoteTreatment\":\"large\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"inset\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/large/center → lead/plain/center → rule/underline/center → heading/overline/center → body/plain/left → quote/large/center → body/plain/left → ending/underline/center。\n标题：serif 字体，30px / 400，center 对齐，宽度 68%，compact 构图，plain 处理。\n导语：plain；章节：dotted；引用：large。\n重点与数据：重点只加细边线，不填底色。\n结尾：plain；已有配图：inset。\n正文排印：serif 字体，正文 17px，行高 2，段落间距约 28px；正文宽度 88%，airy 阅读节奏。\n色彩角色：纸面 #faf7ef，正文 #32463d，辅助 #59665b，强调 #88505b，信息区 #ece8dd。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 large、plain、underline、overline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "essay",
+      "label": "人文随笔型",
+      "category": "人文",
+      "keywords": "人文 随笔 文化",
+      "summary": "安静题记 · 长短段落",
+      "palette": {
+        "paper": "#faf7ef",
+        "ink": "#32463d",
+        "muted": "#59665b",
+        "accent": "#88505b",
+        "panel": "#ece8dd"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 30,
+        "titleWeight": 600,
+        "bodySize": 17,
+        "lineHeight": 2,
+        "paragraphGap": 28
+      },
+      "rules": {
+        "title": "标题居中，使用安静的衬线排印。",
+        "lead": "题记窄排且与标题留白。",
+        "section": "章节用小展签字，避免编号堆叠。",
+        "quote": "引用居中放大，独占留白。",
+        "emphasis": "重点只加细边线，不填底色。",
+        "ending": "结尾留出明显的呼吸后再落款。"
+      },
+      "blocks": [
+        [
+          "title",
+          12,
+          7,
+          62,
+          16,
+          "large",
+          "center"
+        ],
+        [
+          "lead",
+          22,
+          29,
+          42,
+          9,
+          "plain",
+          "center"
+        ],
+        [
+          "rule",
+          26,
+          43,
+          34,
+          2,
+          "underline",
+          "center"
+        ],
+        [
+          "heading",
+          18,
+          50,
+          38,
+          7,
+          "overline",
+          "center"
+        ],
+        [
+          "body",
+          12,
+          61,
+          62,
+          13,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          18,
+          79,
+          50,
+          11,
+          "large",
+          "center"
+        ],
+        [
+          "body",
+          12,
+          95,
+          62,
+          7,
+          "plain",
+          "left"
+        ],
+        [
+          "ending",
+          28,
+          105,
+          30,
+          2,
+          "underline",
+          "center"
+        ]
+      ],
+      "visualFamily": "letter",
+      "composition": {
+        "frame": "open",
+        "inset": 28,
+        "measure": 88,
+        "titleFont": "serif",
+        "titleSize": 30,
+        "titleWeight": 400,
+        "headerTreatment": "plain",
+        "headerAlign": "center",
+        "headerMeasure": 68,
+        "headerLayout": "compact",
+        "leadTreatment": "plain",
+        "headingTreatment": "dotted",
+        "quoteTreatment": "large",
+        "endingTreatment": "plain",
+        "imageTreatment": "inset",
+        "rhythm": "airy"
+      }
+    }
+  },
+  "original": {
+    "id": "essay",
+    "label": "人文随笔型",
+    "category": "人文",
+    "topics": [
+      "图书影音",
+      "文艺"
+    ],
+    "keywords": "人文 随笔 文化",
+    "summary": "安静题记 · 长短段落",
+    "visualFamily": "letter",
+    "instruction": "采用「人文随笔型」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：书信散文。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"open\",\"inset\":28,\"measure\":88,\"titleFont\":\"serif\",\"titleSize\":30,\"titleWeight\":400,\"headerTreatment\":\"plain\",\"headerAlign\":\"center\",\"headerMeasure\":68,\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"dotted\",\"quoteTreatment\":\"large\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"inset\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/large/center → lead/plain/center → rule/underline/center → heading/overline/center → body/plain/left → quote/large/center → body/plain/left → ending/underline/center。\n标题：serif 字体，30px / 400，center 对齐，宽度 68%，compact 构图，plain 处理。\n导语：plain；章节：dotted；引用：large。\n重点与数据：重点只加细边线，不填底色。\n结尾：plain；已有配图：inset。\n正文排印：serif 字体，正文 17px，行高 2，段落间距约 28px；正文宽度 88%，airy 阅读节奏。\n色彩角色：纸面 #faf7ef，正文 #32463d，辅助 #59665b，强调 #88505b，信息区 #ece8dd。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 large、plain、underline、overline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "essay",
+      "label": "人文随笔型",
+      "category": "人文",
+      "keywords": "人文 随笔 文化",
+      "summary": "安静题记 · 长短段落",
+      "palette": {
+        "paper": "#faf7ef",
+        "ink": "#32463d",
+        "muted": "#59665b",
+        "accent": "#88505b",
+        "panel": "#ece8dd"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 30,
+        "titleWeight": 600,
+        "bodySize": 17,
+        "lineHeight": 2,
+        "paragraphGap": 28
+      },
+      "rules": {
+        "title": "标题居中，使用安静的衬线排印。",
+        "lead": "题记窄排且与标题留白。",
+        "section": "章节用小展签字，避免编号堆叠。",
+        "quote": "引用居中放大，独占留白。",
+        "emphasis": "重点只加细边线，不填底色。",
+        "ending": "结尾留出明显的呼吸后再落款。"
+      },
+      "blocks": [
+        [
+          "title",
+          12,
+          7,
+          62,
+          16,
+          "large",
+          "center"
+        ],
+        [
+          "lead",
+          22,
+          29,
+          42,
+          9,
+          "plain",
+          "center"
+        ],
+        [
+          "rule",
+          26,
+          43,
+          34,
+          2,
+          "underline",
+          "center"
+        ],
+        [
+          "heading",
+          18,
+          50,
+          38,
+          7,
+          "overline",
+          "center"
+        ],
+        [
+          "body",
+          12,
+          61,
+          62,
+          13,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          18,
+          79,
+          50,
+          11,
+          "large",
+          "center"
+        ],
+        [
+          "body",
+          12,
+          95,
+          62,
+          7,
+          "plain",
+          "left"
+        ],
+        [
+          "ending",
+          28,
+          105,
+          30,
+          2,
+          "underline",
+          "center"
+        ]
+      ],
+      "visualFamily": "letter",
+      "composition": {
+        "frame": "open",
+        "inset": 28,
+        "measure": 88,
+        "titleFont": "serif",
+        "titleSize": 30,
+        "titleWeight": 400,
+        "headerTreatment": "plain",
+        "headerAlign": "center",
+        "headerMeasure": 68,
+        "headerLayout": "compact",
+        "leadTreatment": "plain",
+        "headingTreatment": "dotted",
+        "quoteTreatment": "large",
+        "endingTreatment": "plain",
+        "imageTreatment": "inset",
+        "rhythm": "airy"
+      }
+    }
+  },
+  "html": "<section id=\"cw-layout-letter\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #faf7ef; box-sizing: border-box; color: #32463d; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 17px; line-height: 1.8; overflow-wrap: anywhere; padding: 28px; padding-left: 24px; padding-right: 24px; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"box-sizing: border-box; margin: 0 auto 28px; max-width: 100%; text-align: center; width: 68%\"><section style=\"box-sizing: border-box; max-width: 100%; text-align: center\"><h1 style=\"color: inherit; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 30px; font-weight: 400; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: center; text-indent: 0\">把生活里的小事，慢慢做好</h1></section></section><p style=\"color: #32463d; font-size: 18px; line-height: 1.8; margin: 0 0 20px; text-align: center\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p><h2 style=\"border-bottom: 2px dotted #88505b; color: #32463d; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 28px 0 12px; padding: 0 0 8px; text-align: center; text-indent: 0\">留一点时间给自己</h2><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"color: #32463d; font-size: 24px; font-weight: 800; line-height: 1.8; margin: 20px 0 20px; text-align: center\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote><h2 style=\"border-bottom: 2px dotted #88505b; color: #32463d; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 28px 0 12px; padding: 0 0 8px; text-align: center; text-indent: 0\">让行动变得简单</h2><ul style=\"margin: 0 0 20px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #88505b; border: 1px solid #dac8c6; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #88505b; border: 1px solid #dac8c6; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #dac8c6; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #dac8c6; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #dac8c6; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #dac8c6; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><p style=\"color: #32463d; line-height: 1.8; margin: 28px 0 0; text-align: center\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section>"
+}

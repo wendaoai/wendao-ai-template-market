@@ -1,0 +1,285 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-knowledge",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:editorial]\n[cw-layout-design:{\"id\":\"knowledge\",\"palette\":{\"paper\":\"#f8fcfd\",\"ink\":\"#273c48\",\"muted\":\"#556a74\",\"accent\":\"#548b9b\",\"panel\":\"#e7f1f4\"},\"typography\":{\"font\":\"sans\",\"titleSize\":26,\"titleWeight\":600,\"bodySize\":16,\"lineHeight\":1.9,\"paragraphGap\":20},\"composition\":{\"frame\":\"open\",\"inset\":18,\"measure\":100,\"titleFont\":\"sans\",\"titleSize\":28,\"titleWeight\":650,\"headerTreatment\":\"underline\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"compact\",\"leadTreatment\":\"panel\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"rule\",\"treatment\":\"underline\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"panel\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"underline\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"list\",\"treatment\":\"panel\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"plain\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "knowledge",
+    "label": "清爽知识型",
+    "category": "教育学习",
+    "topics": [
+      "教育",
+      "科普",
+      "考试",
+      "环保",
+      "小清新"
+    ],
+    "keywords": "清爽 知识 科普",
+    "summary": "摘要要点 · 递进章节",
+    "visualFamily": "editorial",
+    "instruction": "采用「清爽知识型」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：现代社论。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"open\",\"inset\":18,\"measure\":100,\"titleFont\":\"sans\",\"titleSize\":28,\"titleWeight\":650,\"headerTreatment\":\"underline\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"compact\",\"leadTreatment\":\"panel\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → rule/underline/left → lead/panel/left → heading/underline/left → body/plain/left → list/panel/left → quote/inset/left → ending/plain/left。\n标题：sans 字体，28px / 650，left 对齐，宽度 100%，compact 构图，underline 处理。\n导语：panel；章节：underline；引用：inset。\n重点与数据：要点用浅蓝底局部强调。\n结尾：plain；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.9，段落间距约 20px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #f8fcfd，正文 #273c48，辅助 #556a74，强调 #548b9b，信息区 #e7f1f4。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、underline、panel、inset。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "knowledge",
+      "label": "清爽知识型",
+      "category": "知识",
+      "keywords": "清爽 知识 科普",
+      "summary": "摘要要点 · 递进章节",
+      "palette": {
+        "paper": "#f8fcfd",
+        "ink": "#273c48",
+        "muted": "#556a74",
+        "accent": "#548b9b",
+        "panel": "#e7f1f4"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 26,
+        "titleWeight": 600,
+        "bodySize": 16,
+        "lineHeight": 1.9,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "标题左齐，下面接短湖蓝细线。",
+        "lead": "导语置于浅蓝摘要区，宽度略窄。",
+        "section": "章节用小号蓝字和短线提示，不加卡片。",
+        "quote": "引用缩进并降低字号，保持纸面。",
+        "emphasis": "要点用浅蓝底局部强调。",
+        "ending": "结尾用细线和一行收束。"
+      },
+      "blocks": [
+        [
+          "title",
+          10,
+          7,
+          66,
+          12,
+          "plain",
+          "left"
+        ],
+        [
+          "rule",
+          10,
+          22,
+          25,
+          2,
+          "underline",
+          "left"
+        ],
+        [
+          "lead",
+          10,
+          28,
+          66,
+          13,
+          "panel",
+          "left"
+        ],
+        [
+          "heading",
+          10,
+          46,
+          26,
+          7,
+          "underline",
+          "left"
+        ],
+        [
+          "body",
+          10,
+          57,
+          66,
+          15,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          14,
+          76,
+          58,
+          12,
+          "panel",
+          "left"
+        ],
+        [
+          "quote",
+          18,
+          92,
+          52,
+          8,
+          "inset",
+          "left"
+        ],
+        [
+          "ending",
+          10,
+          103,
+          66,
+          5,
+          "plain",
+          "left"
+        ]
+      ],
+      "visualFamily": "editorial",
+      "composition": {
+        "frame": "open",
+        "inset": 18,
+        "measure": 100,
+        "titleFont": "sans",
+        "titleSize": 28,
+        "titleWeight": 650,
+        "headerTreatment": "underline",
+        "headerAlign": "left",
+        "headerMeasure": 100,
+        "headerLayout": "compact",
+        "leadTreatment": "panel",
+        "headingTreatment": "underline",
+        "quoteTreatment": "inset",
+        "endingTreatment": "plain",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      }
+    }
+  },
+  "original": {
+    "id": "knowledge",
+    "label": "清爽知识型",
+    "category": "知识",
+    "topics": [
+      "教育",
+      "科普",
+      "考试",
+      "环保",
+      "小清新"
+    ],
+    "keywords": "清爽 知识 科普",
+    "summary": "摘要要点 · 递进章节",
+    "visualFamily": "editorial",
+    "instruction": "采用「清爽知识型」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：现代社论。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"open\",\"inset\":18,\"measure\":100,\"titleFont\":\"sans\",\"titleSize\":28,\"titleWeight\":650,\"headerTreatment\":\"underline\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"compact\",\"leadTreatment\":\"panel\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → rule/underline/left → lead/panel/left → heading/underline/left → body/plain/left → list/panel/left → quote/inset/left → ending/plain/left。\n标题：sans 字体，28px / 650，left 对齐，宽度 100%，compact 构图，underline 处理。\n导语：panel；章节：underline；引用：inset。\n重点与数据：要点用浅蓝底局部强调。\n结尾：plain；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.9，段落间距约 20px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #f8fcfd，正文 #273c48，辅助 #556a74，强调 #548b9b，信息区 #e7f1f4。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、underline、panel、inset。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "knowledge",
+      "label": "清爽知识型",
+      "category": "知识",
+      "keywords": "清爽 知识 科普",
+      "summary": "摘要要点 · 递进章节",
+      "palette": {
+        "paper": "#f8fcfd",
+        "ink": "#273c48",
+        "muted": "#556a74",
+        "accent": "#548b9b",
+        "panel": "#e7f1f4"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 26,
+        "titleWeight": 600,
+        "bodySize": 16,
+        "lineHeight": 1.9,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "标题左齐，下面接短湖蓝细线。",
+        "lead": "导语置于浅蓝摘要区，宽度略窄。",
+        "section": "章节用小号蓝字和短线提示，不加卡片。",
+        "quote": "引用缩进并降低字号，保持纸面。",
+        "emphasis": "要点用浅蓝底局部强调。",
+        "ending": "结尾用细线和一行收束。"
+      },
+      "blocks": [
+        [
+          "title",
+          10,
+          7,
+          66,
+          12,
+          "plain",
+          "left"
+        ],
+        [
+          "rule",
+          10,
+          22,
+          25,
+          2,
+          "underline",
+          "left"
+        ],
+        [
+          "lead",
+          10,
+          28,
+          66,
+          13,
+          "panel",
+          "left"
+        ],
+        [
+          "heading",
+          10,
+          46,
+          26,
+          7,
+          "underline",
+          "left"
+        ],
+        [
+          "body",
+          10,
+          57,
+          66,
+          15,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          14,
+          76,
+          58,
+          12,
+          "panel",
+          "left"
+        ],
+        [
+          "quote",
+          18,
+          92,
+          52,
+          8,
+          "inset",
+          "left"
+        ],
+        [
+          "ending",
+          10,
+          103,
+          66,
+          5,
+          "plain",
+          "left"
+        ]
+      ],
+      "visualFamily": "editorial",
+      "composition": {
+        "frame": "open",
+        "inset": 18,
+        "measure": 100,
+        "titleFont": "sans",
+        "titleSize": 28,
+        "titleWeight": 650,
+        "headerTreatment": "underline",
+        "headerAlign": "left",
+        "headerMeasure": 100,
+        "headerLayout": "compact",
+        "leadTreatment": "panel",
+        "headingTreatment": "underline",
+        "quoteTreatment": "inset",
+        "endingTreatment": "plain",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      }
+    }
+  },
+  "html": "<section id=\"cw-layout-editorial\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #f8fcfd; box-sizing: border-box; color: #273c48; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 18px; padding-left: 24px; padding-right: 24px; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"box-sizing: border-box; margin: 0 0 24px; max-width: 100%; text-align: left; width: 100%\"><section style=\"border-bottom: 2px solid #548b9b; box-sizing: border-box; max-width: 100%; padding: 0 0 10px; text-align: left\"><h1 style=\"color: inherit; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 28px; font-weight: 650; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: left; text-indent: 0\">把生活里的小事，慢慢做好</h1></section></section><p style=\"background-color: #e7f1f4; color: #273c48; font-size: 17px; line-height: 1.8; margin: 0 0 16px; padding: 12px 18px 12px; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p><h2 style=\"border-bottom: 2px solid #548b9b; color: #273c48; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 24px 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">留一点时间给自己</h2><p style=\"line-height: 1.8; margin: 0 0 16px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"background-color: #e7f1f4; color: #273c48; font-size: 17px; line-height: 1.8; margin: 20px 12px 20px; padding: 12px 18px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote><h2 style=\"border-bottom: 2px solid #548b9b; color: #273c48; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 24px 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">让行动变得简单</h2><ul style=\"background-color: #e7f1f4; color: #273c48; margin: 0 0 16px; padding: 16px 18px; padding-left: 22px; text-align: left\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #548b9b; border: 1px solid #cadce2; color: #000000; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #548b9b; border: 1px solid #cadce2; color: #000000; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #cadce2; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #cadce2; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #cadce2; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #cadce2; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><p style=\"color: #273c48; line-height: 1.8; margin: 24px 0 0; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section>"
+}

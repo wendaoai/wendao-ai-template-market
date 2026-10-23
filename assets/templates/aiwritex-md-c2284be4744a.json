@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-md-c2284be4744a",
+  "type": "md-template",
+  "original": {
+    "id": "cyber-neon",
+    "name": "赛博霓虹",
+    "description": "暗色底配霓虹渐变标题，代码块发光效果，适合科技前沿和潮流内容",
+    "category": "个性表达",
+    "author": "system",
+    "is_builtin": true,
+    "version": "1.0.0",
+    "tags": [
+      "赛博",
+      "霓虹",
+      "暗色",
+      "科技",
+      "潮流"
+    ],
+    "colors": {
+      "background": "#0f0f1a",
+      "text_primary": "#e0e0f0",
+      "text_secondary": "#8888aa",
+      "accent": "#00ff9d",
+      "border": "#2a2a4a",
+      "code_background": "#1a1a2e",
+      "quote_background": "#1a1a2e",
+      "quote_border": "#00ff9d",
+      "table_header_bg": "#1a1a2e",
+      "table_stripe_bg": "#151528",
+      "link_color": "#00d4ff",
+      "highlight_bg": "#2a2a4a"
+    },
+    "typography": {
+      "font_family": "'Inter', -apple-system, 'Segoe UI', 'Noto Sans SC', sans-serif",
+      "font_family_code": "'JetBrains Mono', 'Fira Code', monospace",
+      "base_font_size": 15,
+      "line_height": 1.75,
+      "letter_spacing": 0,
+      "paragraph_spacing": 1.2,
+      "text_align": "left",
+      "first_line_indent": false
+    },
+    "headings": {
+      "h1": {
+        "font_size": 28,
+        "font_weight": 800,
+        "color": "#00ff9d",
+        "margin_top": 2,
+        "margin_bottom": 1,
+        "border_bottom": true,
+        "border_color": "#00ff9d",
+        "text_align": "left",
+        "glow": "0 0 20px rgba(0,255,157,0.3)"
+      },
+      "h2": {
+        "font_size": 22,
+        "font_weight": 700,
+        "color": "#00d4ff",
+        "margin_top": 1.8,
+        "margin_bottom": 0.8,
+        "border_bottom": true,
+        "border_color": "$colors.border",
+        "text_align": "left"
+      },
+      "h3": {
+        "font_size": 18,
+        "font_weight": 600,
+        "color": "#ff00a0",
+        "margin_top": 1.5,
+        "margin_bottom": 0.6,
+        "prefix_marker": true
+      },
+      "h4": {
+        "font_size": 15,
+        "font_weight": 600,
+        "color": "$colors.text_secondary",
+        "margin_top": 1.2,
+        "margin_bottom": 0.5
+      }
+    },
+    "blocks": {
+      "blockquote": {
+        "border_left_width": 4,
+        "border_left_color": "$colors.quote_border",
+        "background": "$colors.quote_background",
+        "padding": "14px 20px",
+        "font_style": "normal",
+        "text_color": "$colors.text_secondary"
+      },
+      "code_inline": {
+        "background": "$colors.code_background",
+        "color": "#00ff9d",
+        "padding": "3px 8px",
+        "border_radius": 4,
+        "font_size_ratio": 0.88
+      },
+      "code_block": {
+        "background": "$colors.code_background",
+        "border_radius": 8,
+        "padding": "20px 24px",
+        "line_height": 1.6,
+        "show_line_numbers": true,
+        "text_color": "#e0e0f0",
+        "border": "1px solid #2a2a4a",
+        "glow": "0 0 10px rgba(0,255,157,0.1)"
+      },
+      "table": {
+        "border_style": "solid",
+        "border_color": "$colors.border",
+        "header_background": "$colors.table_header_bg",
+        "stripe_background": "$colors.table_stripe_bg",
+        "cell_padding": "10px 14px",
+        "border_radius": 8
+      },
+      "list": {
+        "ul_marker": "disc",
+        "ol_marker": "decimal",
+        "indent_size": 24,
+        "item_spacing": 6,
+        "marker_color": "#00ff9d"
+      },
+      "hr": {
+        "style": "solid",
+        "color": "#00ff9d",
+        "margin": "2em 0",
+        "width": "40%",
+        "glow": "0 0 8px rgba(0,255,157,0.4)"
+      },
+      "image": {
+        "border_radius": 8,
+        "caption_font_size": 13,
+        "caption_color": "$colors.text_secondary",
+        "caption_align": "center",
+        "max_width": "100%"
+      },
+      "link": {
+        "color": "$colors.link_color",
+        "text_decoration": "none",
+        "hover_decoration": "underline"
+      },
+      "highlight": {
+        "background": "#2a2a4a",
+        "padding": "2px 6px",
+        "border_radius": 4,
+        "color": "#00ff9d"
+      }
+    },
+    "layout": {
+      "max_width": 740,
+      "padding_horizontal": 24,
+      "padding_vertical": 32
+    },
+    "special_effects": {
+      "drop_cap": false,
+      "drop_cap_chars": 1,
+      "drop_cap_size_ratio": 3,
+      "drop_cap_color": "#00ff9d"
+    },
+    "components": {
+      "hero_section": {
+        "enabled": false
+      },
+      "section_card": {
+        "enabled": true
+      },
+      "chapter_title": {
+        "enabled": true,
+        "style": "bold"
+      },
+      "quote_card": {
+        "enabled": true
+      },
+      "gradient_divider": {
+        "enabled": true
+      },
+      "code_decoration": {
+        "enabled": true
+      },
+      "image_container": {
+        "enabled": true
+      },
+      "emphasis_enhance": {
+        "enabled": true
+      },
+      "highlight_annotation": {
+        "enabled": false
+      },
+      "list_enhance": {
+        "enabled": true
+      }
+    }
+  },
+  "theme": {
+    "id": "aiwritex-md-c2284be4744a",
+    "name": "赛博霓虹",
+    "description": "暗色底配霓虹渐变标题，代码块发光效果，适合科技前沿和潮流内容",
+    "source": "md",
+    "category": "visual",
+    "tags": [
+      "个性表达",
+      "赛博",
+      "霓虹",
+      "暗色",
+      "科技",
+      "潮流"
+    ],
+    "selectable": true,
+    "recommended": false,
+    "riskLevel": "stable",
+    "editorMode": "css",
+    "css": "#wemd{color:#e0e0f0;background-color:#0f0f1a;font-family:'Inter', -apple-system, 'Segoe UI', 'Noto Sans SC', sans-serif;font-size:15px;line-height:1.75;letter-spacing:0em;text-align:left;padding:32px 24px;overflow-wrap:anywhere}\n#wemd p{margin:0 0 1.2em;text-indent:0}\n#wemd h1{font-size:28px;font-weight:800;color:#00ff9d;margin-top:2em;margin-bottom:1em;text-align:left;border-bottom:1px solid #00ff9d;padding-bottom:.4em}\n#wemd h2{font-size:22px;font-weight:700;color:#00d4ff;margin-top:1.8em;margin-bottom:0.8em;text-align:left;border-bottom:1px solid $colors.border;padding-bottom:.4em}\n#wemd h3{font-size:18px;font-weight:600;color:#ff00a0;margin-top:1.5em;margin-bottom:0.6em}\n#wemd h3::before{content:\"· \";color:#00ff9d}\n#wemd h4{font-size:15px;font-weight:600;color:$colors.text_secondary;margin-top:1.2em;margin-bottom:0.5em}\n#wemd blockquote{border-left:4px solid $colors.quote_border;background:$colors.quote_background;padding:14px 20px;color:$colors.text_secondary;font-style:normal;margin:1.2em 0}\n#wemd code{background-color:$colors.code_background;color:#00ff9d;padding:3px 8px;border-radius:4px;font-size:0.88em;font-family:'JetBrains Mono', 'Fira Code', monospace}\n#wemd pre{background:$colors.code_background;border-radius:8px;padding:20px 24px;line-height:1.6;white-space:pre-wrap}\n#wemd pre code{background:transparent;padding:0}\n#wemd table{width:100%;border-collapse:collapse}\n#wemd th, #wemd td{border:1px solid $colors.border;padding:10px 14px}\n#wemd th{background:$colors.table_header_bg}\n#wemd tr:nth-child(even){background:$colors.table_stripe_bg}\n#wemd ul, #wemd ol{padding-left:24px;margin:1em 0}\n#wemd ul{list-style-type:disc}\n#wemd ol{list-style-type:decimal}\n#wemd li{margin-bottom:6px}\n#wemd li::marker{color:#00ff9d}\n#wemd hr{border:0;border-top:1px solid #00ff9d;margin:2em 0;width:40%}\n#wemd img{max-width:100%;height:auto;border-radius:8px}\n#wemd figcaption{font-size:13px;color:$colors.text_secondary;text-align:center}\n#wemd a{color:$colors.link_color;text-decoration:none}\n#wemd strong{color:#00ff9d;font-weight:700}\n#wemd mark{background:#2a2a4a;padding:2px 6px;border-radius:4px}"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-decor-firefly",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:journal]\n[cw-layout-design:{\"id\":\"decor-firefly\",\"palette\":{\"paper\":\"#fffdf9\",\"ink\":\"#463e52\",\"muted\":\"#72677d\",\"accent\":\"#79618f\",\"panel\":\"#f2edf7\"},\"typography\":{\"font\":\"serif\",\"titleSize\":34,\"titleWeight\":550,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":16},\"composition\":{\"inset\":20,\"measure\":98,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"quiet\",\"frame\":\"open\",\"titleFont\":\"serif\",\"titleSize\":34,\"titleWeight\":550,\"headerAlign\":\"center\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"inset\",\"headingTreatment\":\"dotted\",\"quoteTreatment\":\"outline\",\"endingTreatment\":\"overline\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"},\"decoration\":\"firefly\",\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"center\"},{\"role\":\"lead\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"dotted\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"outline\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"overline\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "decor-firefly",
+    "label": "微光手记",
+    "category": "其他",
+    "topics": [
+      "星座"
+    ],
+    "keywords": "星座 微光手记 微光动图题头 · 奶油紫渐变 · 点线章节 背景模板 背景图 GIF 动图 渐变",
+    "summary": "微光动图题头 · 奶油紫渐变 · 点线章节",
+    "visualFamily": "journal",
+    "supportsImages": true,
+    "instruction": "采用「微光手记」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：手帐便笺。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":98,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"quiet\",\"frame\":\"open\",\"titleFont\":\"serif\",\"titleSize\":34,\"titleWeight\":550,\"headerAlign\":\"center\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"inset\",\"headingTreatment\":\"dotted\",\"quoteTreatment\":\"outline\",\"endingTreatment\":\"overline\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/center → lead/inset/left → heading/dotted/left → body/plain/left → image/plain/left → quote/outline/left → ending/overline/left。\n标题：serif 字体，34px / 550，center 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：inset；章节：dotted；引用：outline。\n重点与数据：微光动图题头 · 奶油紫渐变 · 点线章节。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：overline；已有配图：plain。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 16px；正文宽度 98%，chapter 阅读节奏。\n色彩角色：纸面 #fffdf9，正文 #463e52，辅助 #72677d，强调 #79618f，信息区 #f2edf7。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、inset、dotted、outline、overline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "decor-firefly",
+      "label": "微光手记",
+      "category": "叙事",
+      "topics": [
+        "星座"
+      ],
+      "visualFamily": "journal",
+      "decoration": "firefly",
+      "keywords": "星座 微光手记 微光动图题头 · 奶油紫渐变 · 点线章节 背景模板 背景图 GIF 动图 渐变",
+      "summary": "微光动图题头 · 奶油紫渐变 · 点线章节",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffdf9",
+        "ink": "#463e52",
+        "muted": "#72677d",
+        "accent": "#79618f",
+        "panel": "#f2edf7"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 98,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "quiet",
+        "frame": "open",
+        "titleFont": "serif",
+        "titleSize": 34,
+        "titleWeight": 550,
+        "headerAlign": "center",
+        "headerLayout": "stacked",
+        "leadTreatment": "inset",
+        "headingTreatment": "dotted",
+        "quoteTreatment": "outline",
+        "endingTreatment": "overline",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 34,
+        "titleWeight": 550,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "微光手记：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 inset，只使用正文已有开场内容。",
+        "section": "章节采用 dotted，按原文顺序重复。",
+        "quote": "原文引用采用 outline；没有引用时省略。",
+        "emphasis": "微光动图题头 · 奶油紫渐变 · 点线章节。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 overline；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "inset"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "dotted"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "outline"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "overline"
+        ]
+      ]
+    }
+  },
+  "original": {
+    "id": "decor-firefly",
+    "label": "微光手记",
+    "category": "叙事",
+    "topics": [
+      "星座"
+    ],
+    "keywords": "星座 微光手记 微光动图题头 · 奶油紫渐变 · 点线章节 背景模板 背景图 GIF 动图 渐变",
+    "summary": "微光动图题头 · 奶油紫渐变 · 点线章节",
+    "visualFamily": "journal",
+    "supportsImages": true,
+    "instruction": "采用「微光手记」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：手帐便笺。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":98,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"quiet\",\"frame\":\"open\",\"titleFont\":\"serif\",\"titleSize\":34,\"titleWeight\":550,\"headerAlign\":\"center\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"inset\",\"headingTreatment\":\"dotted\",\"quoteTreatment\":\"outline\",\"endingTreatment\":\"overline\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/center → lead/inset/left → heading/dotted/left → body/plain/left → image/plain/left → quote/outline/left → ending/overline/left。\n标题：serif 字体，34px / 550，center 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：inset；章节：dotted；引用：outline。\n重点与数据：微光动图题头 · 奶油紫渐变 · 点线章节。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：overline；已有配图：plain。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 16px；正文宽度 98%，chapter 阅读节奏。\n色彩角色：纸面 #fffdf9，正文 #463e52，辅助 #72677d，强调 #79618f，信息区 #f2edf7。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、inset、dotted、outline、overline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "decor-firefly",
+      "label": "微光手记",
+      "category": "叙事",
+      "topics": [
+        "星座"
+      ],
+      "visualFamily": "journal",
+      "decoration": "firefly",
+      "keywords": "星座 微光手记 微光动图题头 · 奶油紫渐变 · 点线章节 背景模板 背景图 GIF 动图 渐变",
+      "summary": "微光动图题头 · 奶油紫渐变 · 点线章节",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffdf9",
+        "ink": "#463e52",
+        "muted": "#72677d",
+        "accent": "#79618f",
+        "panel": "#f2edf7"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 98,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "quiet",
+        "frame": "open",
+        "titleFont": "serif",
+        "titleSize": 34,
+        "titleWeight": 550,
+        "headerAlign": "center",
+        "headerLayout": "stacked",
+        "leadTreatment": "inset",
+        "headingTreatment": "dotted",
+        "quoteTreatment": "outline",
+        "endingTreatment": "overline",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 34,
+        "titleWeight": 550,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "微光手记：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 inset，只使用正文已有开场内容。",
+        "section": "章节采用 dotted，按原文顺序重复。",
+        "quote": "原文引用采用 outline；没有引用时省略。",
+        "emphasis": "微光动图题头 · 奶油紫渐变 · 点线章节。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 overline；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "inset"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "dotted"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "outline"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "overline"
+        ]
+      ]
+    }
+  },
+  "html": "<section id=\"cw-layout-journal\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #fffdf9; box-sizing: border-box; color: #463e52; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 20px; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #eee5f7; background-image: url(&#34;data:image/gif;base64,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&#34;), linear-gradient(135deg, #eee5f7 0%, #fff4d9 100%); background-position: right top, center; background-repeat: repeat, no-repeat; background-size: 192px 128px, 100% 100%; box-sizing: border-box; color: #463e52; margin: 0 auto 24px; max-width: 100%; padding: 30px 20px; text-align: center; width: 100%\"><section style=\"box-sizing: border-box; max-width: 100%; text-align: center\"><h1 style=\"color: inherit; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 34px; font-weight: 550; line-height: 1.55; margin: 0; overflow-wrap: anywhere; text-align: center; text-indent: 0\">把生活里的小事，慢慢做好</h1></section></section><p style=\"background-color: #f2edf7; color: #463e52; font-size: 17px; line-height: 1.8; margin: 0 12px 16px; padding: 12px 18px 12px; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p><section style=\"box-sizing: border-box; margin: 24px auto 24px; margin-left: 0; margin-right: 0; padding: 8px 0 4px; width: 100%\"><h2 style=\"border-bottom: 2px dotted #79618f; color: #463e52; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">留一点时间给自己</h2><p style=\"line-height: 1.8; margin: 0 0 16px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><section style=\"margin: 20px auto 20px; padding: 8px 0 8px; width: 74%\"><blockquote style=\"border: 1px solid #d9d1db; color: #463e52; font-size: 17px; line-height: 1.8; margin: 0 0 0; padding: 12px 16px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section></section><section style=\"box-sizing: border-box; margin: 24px auto 24px; margin-left: 0; margin-right: 0; padding: 8px 0 4px; width: 100%\"><h2 style=\"border-bottom: 2px dotted #79618f; color: #463e52; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">让行动变得简单</h2><ul style=\"margin: 0 0 16px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #79618f; border: 1px solid #d9d1db; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #79618f; border: 1px solid #d9d1db; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #d9d1db; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #d9d1db; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #d9d1db; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #d9d1db; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><section style=\"border-top: 1px solid #79618f; margin: 20px 0 0; padding: 12px 0 0\"><p style=\"border-top: 2px solid #79618f; color: #463e52; line-height: 1.8; margin: 0 0 0; padding: 12px 0 0; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section>"
+}

@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-aligned-1369",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:atlas]\n[cw-layout-design:{\"id\":\"aligned-1369\",\"palette\":{\"paper\":\"#f5fbff\",\"ink\":\"#244d52\",\"muted\":\"#244d52\",\"accent\":\"#2474b3\",\"panel\":\"#e2f1df\"},\"typography\":{\"font\":\"sans\",\"titleSize\":40,\"titleWeight\":800,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":20},\"composition\":{\"inset\":20,\"measure\":96,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"diptych\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":800,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"panel\",\"rhythm\":\"airy\"},\"decoration\":\"aligned-1369\",\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"band\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"panel\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"ruled\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "aligned-1369",
+    "label": "山海同行",
+    "category": "财经投资",
+    "topics": [
+      "企业"
+    ],
+    "keywords": "企业 山海同行 青绿山海 · 双图旅行页 · 团建色带 背景模板 GIF 动图 渐变 文到精选 1369",
+    "summary": "青绿山海 · 双图旅行页 · 团建色带",
+    "visualFamily": "atlas",
+    "supportsImages": true,
+    "instruction": "采用「山海同行」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：图文图鉴。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":96,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"diptych\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":800,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"panel\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/plain/left → heading/band/left → body/plain/left → image/panel/left → quote/inset/left → ending/ruled/left。\n标题：sans 字体，40px / 800，left 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：plain；章节：band；引用：inset。\n重点与数据：青绿山海 · 双图旅行页 · 团建色带。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：ruled；已有配图：panel。\n正文排印：sans 字体，正文 16px，行高 1.95，段落间距约 20px；正文宽度 96%，airy 阅读节奏。\n色彩角色：纸面 #f5fbff，正文 #244d52，辅助 #244d52，强调 #2474b3，信息区 #e2f1df。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、band、panel、inset、ruled。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1369",
+      "label": "山海同行",
+      "category": "文到精选",
+      "topics": [
+        "企业"
+      ],
+      "visualFamily": "atlas",
+      "decoration": "aligned-1369",
+      "keywords": "企业 山海同行 青绿山海 · 双图旅行页 · 团建色带 背景模板 GIF 动图 渐变 文到精选 1369",
+      "summary": "青绿山海 · 双图旅行页 · 团建色带",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f5fbff",
+        "ink": "#244d52",
+        "muted": "#244d52",
+        "accent": "#2474b3",
+        "panel": "#e2f1df"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 96,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "diptych",
+        "frame": "open",
+        "titleFont": "sans",
+        "titleSize": 40,
+        "titleWeight": 800,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "plain",
+        "headingTreatment": "band",
+        "quoteTreatment": "inset",
+        "endingTreatment": "ruled",
+        "imageTreatment": "panel",
+        "rhythm": "airy"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 40,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "山海同行：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 band，按原文顺序重复。",
+        "quote": "原文引用采用 inset；没有引用时省略。",
+        "emphasis": "青绿山海 · 双图旅行页 · 团建色带。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 ruled；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "band"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "panel"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "inset"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "ruled"
+        ]
+      ],
+      "decorationKind": "gif"
+    }
+  },
+  "original": {
+    "id": "aligned-1369",
+    "label": "山海同行",
+    "category": "文到精选",
+    "topics": [
+      "企业"
+    ],
+    "keywords": "企业 山海同行 青绿山海 · 双图旅行页 · 团建色带 背景模板 GIF 动图 渐变 文到精选 1369",
+    "summary": "青绿山海 · 双图旅行页 · 团建色带",
+    "visualFamily": "atlas",
+    "supportsImages": true,
+    "instruction": "采用「山海同行」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：图文图鉴。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":96,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"diptych\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":800,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"panel\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/plain/left → heading/band/left → body/plain/left → image/panel/left → quote/inset/left → ending/ruled/left。\n标题：sans 字体，40px / 800，left 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：plain；章节：band；引用：inset。\n重点与数据：青绿山海 · 双图旅行页 · 团建色带。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：ruled；已有配图：panel。\n正文排印：sans 字体，正文 16px，行高 1.95，段落间距约 20px；正文宽度 96%，airy 阅读节奏。\n色彩角色：纸面 #f5fbff，正文 #244d52，辅助 #244d52，强调 #2474b3，信息区 #e2f1df。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、band、panel、inset、ruled。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1369",
+      "label": "山海同行",
+      "category": "文到精选",
+      "topics": [
+        "企业"
+      ],
+      "visualFamily": "atlas",
+      "decoration": "aligned-1369",
+      "keywords": "企业 山海同行 青绿山海 · 双图旅行页 · 团建色带 背景模板 GIF 动图 渐变 文到精选 1369",
+      "summary": "青绿山海 · 双图旅行页 · 团建色带",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f5fbff",
+        "ink": "#244d52",
+        "muted": "#244d52",
+        "accent": "#2474b3",
+        "panel": "#e2f1df"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 96,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "diptych",
+        "frame": "open",
+        "titleFont": "sans",
+        "titleSize": 40,
+        "titleWeight": 800,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "plain",
+        "headingTreatment": "band",
+        "quoteTreatment": "inset",
+        "endingTreatment": "ruled",
+        "imageTreatment": "panel",
+        "rhythm": "airy"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 40,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "山海同行：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 band，按原文顺序重复。",
+        "quote": "原文引用采用 inset；没有引用时省略。",
+        "emphasis": "青绿山海 · 双图旅行页 · 团建色带。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 ruled；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "band"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "panel"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "inset"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "ruled"
+        ]
+      ],
+      "decorationKind": "gif"
+    }
+  },
+  "html": "<section id=\"cw-layout-atlas\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #f5fbff; background-image: linear-gradient(180deg, #f5fbff 0%, #e2f1df 100%); box-sizing: border-box; color: #244d52; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 20px; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #e2f1df; background-image: url(&#34;data:image/gif;base64,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xYwbO34MObLkyZQrW76MObPmzZw7e/4MOrTo0aRLmz6NOrXq1axbu34NO7bs2bRr276NO7fu3bx7+/4NPLjw4cSLGz+OPLny5cybO38OPbr06dSrW7+OPbv27dy7e/8OPrz48eTLmz+PPr369ezbu38PP758wVvnM1Vkn2rJ/PdV8v9PWt9/Ag5IYIEGHohgggouyGCDDj4IYYQSTkhhhRZeiGGGGm7IYYcefghiiCKOSGKJJp6IYooqrshiiy6+CGOMMs5IY4023ohjjjruyGOPPv4IZJBCDklkkUYeiWSSSi7JZJNOPglllFJOSWWVVl6JZZZabslll15+CWaYYo5JZplmnolmmmquyWabbr4JZ5xyzklnnXbeiWeeeu7JZ59+/glooIIOSmihhh6KaKKKLhrFAI4+CmmkjjJqg6SWXoppppZS6oGmnn4K6qecNhBqqaae6mmiqK7KaquX/ulqrLLOOuldtEra06267rrqWrzSKhGm7PxK7KljFYssrvT/DOASLckm29Wz0oJqU7METTtrVNhu22ou1n6rCLelIiVuubdWAm66o5j7Kk/svltsH+rO6wy8NMGLL7fN0MsvOOWulG/A+ZLBbL8G+/NvsAIvzDCkVEB6cMQfiWtQwxZfnGkQwooSQMcefwxyyCIHILHB+taDccoqG3tCqZKMDHPMMstc8rcnk7NyzjqvLMDMPv8MNMw1p7QtNzsfjXTAQS/NdNMfD61R0cskTXXV2zqNddZZQ30ttr+sSpLVYi+sddlmY801PjeD4mnakowN965nz0032m6bI7Ujlt49bNx+a1p34II7zbc2a/vxaOE2/y324I4/3rTiyBxuR8GS/0fMeMqQb84505c7Szkbn0ueObs9d4566kCPvkrC07AOeyal/6qI6rbf/nPs4b6LiO6+gz67yy/jTnzxNMPOMBW/Ly9P8IlnYnz00sc8espKMI890UjTMn333otM+s4/ZE++yaY783366od899gwPF9+/Lpb3uz69t/vMdfO11qBpvL/D0CC4G+ABCRZyfY3K05EL4AMNFgBH1hAzCHwVImAIPsaiEF/WHCDDzzgBCPFQcJlcISjCKEJO1iz0p1wcCRk4ApfCMG0IQ2Gtmvh8miIww3yTWA5/J4NC9fDIHKQdcSqnRAJ+MOIHXGJIUwiE1+YRGs9cYomdCEVlxhFeSpccYtQ/B0Xv5i/LJYQjGRcoeLKiEbq/TCNbIShEtsIx6DJL450xOEoCgAAIfkECQwAAAAsAAAAAFgCGAGBAAAAqcvRt9eG0ee9Av+Ej6nL7Q+jnLTai7PevPsPhuJIluaJpurKtu4Lx/JM1/aN5/rO9/4PDAqHxKLxiEwql8ym8wmNSqfUqvWKzWq33K73Cw6Lx+Sy+YxOq9fstvsNj8vn9Lr9js/r9/y+/w/oJRBIWGj4JZCYeMjYKDcYprjoSFk5Jok5qZUJaen5WcUpqnmFCXqK6jS6mmWa+gortDpLGhp7i7tDu5vb68u4G/w7TLwXfFycrBx3LLz8DG3WjBxdbb013Xy9zS2VTd0dLn707Tx+jt5TDp7e7i6zbv4+T58Sz1ufry9yT7v/D1BDv1kBCxqEMNDfwYUMDSQc1TDiwYeiJFoESJHTxY3/+TJm4gjynUdXIUueG1nLpMptKDutfGmtJcyZMT3SvBktI86dy3Ty/EnsIdChwwYSPerrHtKlvb4xfZprGtSpUVlRvfrLJdatXLt6/Qo2rNixZMuaPYs2rdq1bNu6fQs3rty5dOvavYs3r969fPv6/Qs4sODBhAsbPow4seLFjBs7fgw5suTJlCtbvow5s+bNnDt7/gw6tOjRpEubPo06terVrFu7fg07tuzZtGvbvo07t+7dvHv7/g08uPDhxIsbP448ufLlzJs7fw49uvTp1Ktbv449u/bt3Lt7/w4+vPjx5MubP48+vfr17Nu7fw8/vvz59Ovbv48/v/79/Pv7/5+j1X80KSIgTiQVCBOBCN4U4IIOPghhhBJOSGGFFl6IYYYabshhhx5+CGKIIo5IYokmnohiiiquyGKLLr4IY4wyzkhjjTbeiGOOOu7IY48+/ghkkEIOSWSRRh6JZJJKLslkk04+CWWUUk5JZZVWXollllpuyWWXXn4JZphijklmmWaeiWaaaq7JZptuvglnnHLOSWeddt6JZ5567slnn37+CWiggg5KaKGGHopooopeNkCjjj4KaaOL2hBppZZeimmlk3qQaaeefurppg2ASmqppnaK6KmqrsqqpX62Cmusskpq16yR8mRrrrqqqtaus0Z06Tq+DmuqWMQee+s8A/+0RAuyyHLlbLSf1sRsP9LKCtW12rKKS7XeKrItqUeFS66tlXyL7ijlurrTuu4S20e68jbz7kzv3rstM/PuWw65KuELML5kLMtvwdaGK1HACi8MKRWPGgyxRwgHxHDFFmMaRLCiBMBxxx5/DHLIAURccL70XIxyysWeQKokIr8Mc8wxk+ytyeOojHPOKgsgc88+//wyzShpu43ORh8NMNBKL820x0JnRLQySE9NtbZNX4011k8PFHUuqo5UddgKZ0122VdvfY/NoHSKtiRiv62r2XLPfXbb/V5bSaV2Cwt335nSDXjgTe+djdp+OEp4zX6HLXjjjjOd+DGG20Fw5BD/L47y45pvvrTlzU7OhueRY74uz5yfjvrPoq/i7xmrv84J6b4qknrttvsMO7juIpJ775/L3rLLtw9P/MyvL0yF78rHAzzimRQPffQwi46yEstfP/TRtEjPffchj67zD9iPX3LpzXiPfvog2y02DM6TD3/ulTOrfv32d7x187RWkGn8/v8/kPsJcIAjI5n+ZMUJ6AFwgQUjoAMJeLkDmioRD1wfAy/Yjwpq0IEGlCCkNjg4DIpwFCAsIQdpRjoTCm6EC1ShCx+ItqO9sHYsVN4Mb6jBvQUMh96rIeF4CMQNrm5YtAviAH0IMSMqEYRIXKILkVgtJ0qxhC2cohKhGA8rKWrxib7bohfxh0USfnGMKkwcGc84PR+icY0vTCIb3wi0+MFxjjccRQEAACH5BAkMAAAALAAAAABYAhgBgQAAAKnL0bfXhtHnvQL/hI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvmMTqvX7Lb7DY/L5/S6/Y7P6/f8vv8PyCYQSFho+CWQmHjI2Eg2+Ka46EhZWSWJOYmWCWnp+XnEKapZhgl6igo0unpmmvoKS7M6SzrWGYubq0LLq+v7y8grDExcvCeMbKy8HIc8zAwdbeacLG19vUXtjM3dLaVd7S0+HgreS46e7mMeru7+LsP+DE9fvytPa6+/P4Kfzw8wYAZ/swQaPAiB4D+EDBsCUDjKoUSEEEVNvBiwIieM/xz1aczUMSS8j65EmkRHstbJldxS3mIJ05rLmDSvkayJU5rGnDyZ7ewJtBjEoESJESyK9Be+pEx9gWsKVRe1qFSlsqqKFdjLrFy7ev0KNqzYsWTLmj2LNq3atWzbun0LN67cuXTr2r2LN6/evXz7+v0LOLDgwYQLGz6MOLHixYwbO34MObLkyZQrW76MObPmzZw7e/4MOrTo0aRLmz6NOrXq1axbu34NO7bs2bRr276NO7fu3bx7+/4NPLjw4cSLGz+OPLny5cybO38OPbr06dSrW7+OPbv27dy7e/8OPrz48eTLmz+PPr369ezbu38PP778+fTr27+PP7/+/fz7+///D2CAAg5IYIEGHohgggou2NBWDF6kyIMdlSThRBFWyJGDGG7IYYcefghiiCKOSGKJJp6IYooqrshiiy6+CGOMMs5IY4023ohjjjruyGOPPv4IZJBCDklkkUYeiWSSSi7JZJNOPglllFJOSWWVVl6JZZZabslll15+CWaYYo5JZplmnolmmmquyWabbr4JZ5xyzklnnXbeiWeeeu7JZ59+/glooIIOSmihhh6KaKKKLprXAI4+CmmkjjJqg6SWXoppppZS6oGmnn4K6qecNhBqqaae6mmiqK7KaquX/ulqrLLOOuldtEra06267rrqWrzSKhGm7PxK7KljFYssrvT/DOASLckm29Wz0oJqU7METTtrVNhu22ou1n6rCLelIiVuubdWAm66o5j7Kk/svltsH+rO6wy8NMGLL7fN0MuvOeWulG/A+ZLBbL8G+/NvsAIvzDCkVEB6cMQfiWtQwxZfnGkQwooSQMcefwxyyCIHILHB+taDccoqG3tCqZKMDHPMMstc8rcnk7NyzjqvLMDMPv8MNMw1p7QtNzsfjXTAQS/NdNMfD61R0cskTXXV2zqNddZZQ30ttr+sSpLVYi+sddlmY801PjeD4mnakowN965nz0032m776zUllt49bNx+a1p34II7zbc2a/vxaOE2/y324I4/3rTiyBxuR8GS/0fMeMqQb84505c7S7kgnyueObs9d4566kCPvkrC07AOeyal/6qI6rbf/nPs4b6LiO6+gz67yy/jTnzxNMPOMBW/Ly9P8IlnYnz00sc8espKMI890UjTMn333oss+dE/ZE++yaY783366od899gwPF9+/Lpb3uz69t/vMdfO11qBpvL/D0CC4G+ABCRZyfY3K05EL4AMNFgBH1hAzCHwVImAIPsaiEF/WHCDDzzgBCPFQcJlcISjCKEJO1iz0p1wcCRk4ApfCMG0IQ2Gtmvh8miIww3yTWA5/J4NC9fDIHKQdcSqnRAJ+MOIHXGJIUwiE1+YRGs9cYom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vXz7+v0LOLDgwYQLGz6MOLHixYwbO34MObLkyZQrW76MObPmzZw7e/4MOrTo0aRLmz6NOrXq1axbu34NO7bs2bRr276NO7fu3bx7+/4NPLjw4cSLGz+OPLny5cybO38OPbr06dSrW7+OPbv27dy7e/8OPrz48eTLmz+PPr369ezbu38PP778+fTr27+PP7/+/fz7+///D2CAAg5IYIEGHohgggouyGCDDj4IYYQSTkhhhRZeiGGGGm7IYYcefghiiCKOaAlXJJKzyInqmKRiSiu16I2JMM5IY4023ohjjjruyGOPPv4IZJBCDklkkUYeiWSSSi7JZJNOPglllFJOSWWVVl6JZZZabslll15+CWaYYo5JZplmnolmmmquyWabbr4JZ5xyzklnnXbeiWeeeu7JZ59+/glooIIOSmihhh6KaKKKLsroGwM8Cmmkkj7aaA2TXopppppeWmkHm34KaqigdsqAqKaeiuqniabKaquuYvrnq7LOSiuld9U6aU+47sorq2v1WutDmboDbLGojmVssrn/xjPAS7Yoq2xX0E4bqkvOGkQtrVFly62rT10LriLdmmrUuObiKkm46pZyLqw6tQuvsX2sSy808coUb77dxlFvv8SOi5K+AutLRrP+HgyQuRMNzHDDklIRKcISgwSwQA5fjLGmQQxLSgAefwxyyCKPHMDEB+8rT8Yqr3zsCaZSQnLMMs88s8ngokwOyzrvzLIANP8MdNAx26wSt9nwjHTSAgvNdNNOg0z0RkYjo3TVVnP7dNZaax01ttnywmpJV4/N8NZmn5111/rgDMqnalNCdty8ok133Wm/jc7UjlyK979y/62p3YIP/nTf3LDtB6SG3wz42IQ/DrnTiyuDuB0G/08uceMqR855501j/mzlbIA+uebt+ux56qoHTXorCp/ReuyemA7sIqvfjjvQsi9yrxe7/+4L7ahqknvxxtMse8NUAM88PcIrvsnx0k8vM+kqK9F89kUnbQv13n8/cuk8/6B9+SefDg346q8vMt5kwwC9+fLvfrmz7N+P/8ddP29rBZvOD8AAGiR/BCxgyUzGP1p5QnoCbODBDAhBA2YugcNDXQSh5sAMAuSCHIQgAikoqQ4WToMkLIUIT+hBm5kOhYQrYQNZCMMIqi1pMbydC5lXwxxysG8D0yH4bmg4Hwqxg60rlu2GWEAgSgyJTBShEpsIQyVeC4pUPOELq8hEKSvSA4tcjCLwughG/WnRhGEsIwsXZ8Y0Vg+IamxjDJfoxjgKbX5yrGMOS1EAACH5BAkMAAAALAAAAABYAhgBgQAAAKnL0bfXhtHnvQL/hI+py+0Po5y02ouz3rz7D4biSJbmiabqyrbuC8fyTNf2jef6zvf+DwwKh8Si8YhMKpfMpvMJjUqn1Kr1is1qt9yu9wsOi8fksvmMTqvX7Lb7DY/L5/S6/Y7P6/f8vv8PyCQQSFho+CWQmHjI2Gg4+KS46EhZWSeJOYmUCWnp+XnGKapZhAl6igo2unpkmvoKS7U6SzrUGYubq0TLq+v7y8grDExcvCeMbKy8HIc8zAwdbeacLG19vUXtjM3dLaVd7S0+3greS46e7mMeru7+LsP+DE9fryJ/bq+/H4JPyw8woAZ/swQaPAiB4D+EDBsaUDjKoUSEEEVNvBiwIieM/xz1aczUMSS8j65EmkRHstbJldxS3mIJ05rLmDSvkayJU5rGnDyZ7ewJtBjEoESJESyK9Be+pEx9gWsKVRe1qFSlsqqKFdjLrFy7ev0KNqzYsWTLmj2LNq3atWzbun0LN67cuXTr2r2LN6/evXz7+v0LOLDgwYQLGz6MOLHixYwbO34MObLkyZQrW76MObPmzZw7e/4MOrTo0aRLmz6NOrXq1axbu34NO7bs2bRr276NO7fu3bx7+/4NPLjw4cSLGz+OPLny5cybO38OPbr06dSrW7+OPbv27dy7e/8OPrz48eTLmz+PPr369ezbu38PP778+fTr27+PP7/+/fz7+///D2CAAg5IYIEGHohgggouyGCDDj4IYYQSTkhhhRZeiGGGGm7IYYcefghiiCKOSGKJJp6IYooqrshiiydu5WI0isRokyQ0yqTSjcvAqGOPPv4IZJBCDklkkUYeiWSSSi7JZJNOPglllFJOSWWVVl6JZZZabslll15+CWaYYo5JZplmnolmmmquyWabbr4JZ5xyzklnnXbeiWeeeu7JZ59+/glooIIOSmihhh6KaKKKLgrMAI4+CmmkjjJqg6SWXoppppZS6oGmnn4K6qecNhBqqaae6mmiqK7KaquX/ulqrLLOOuldtEra06267rrqWrzSKhGm7PxK7KljFYssrvT/DOASLckm29Wz0oJaY7P+TDtrVNhu22ou1n6rCLelIiVuubdWAm66o5j7Kk/svltsH+rO6wy8NMGLL7fN0MuvOeWulG/A+ZLBbL8GXyvuRAIvzHCkVEB6cMQfJSxQwxZfnGkQwooSQMcefwxyyCIHILHB+taDccoqG3tCqZKMDHPMMstc8rcnk7NyzjqvLMDMPv8MNMw1p7QtNzsfjXTAQS/NdNMfD61R0cskTXXV2zqNddZZQ02Q1LqsSpLVYi+sddlmY801PjeD4mnakowN965nz0032m77i20llt49bNx+a1p34II7zbc2a/vxaOE2/y324I4/3rTiyBxuR8GS/0fMeMqQb84505c7Szkbn0ueObs9d4566kCPvsq/obAOeyal/6qI6rbf/nPs4b6LiO6+gz67yy/jTnzxNMPOsCy/L9938JYPb3z00o88esq7MI992EjTMn333otM+s4/ZE++yaY783366od899gwJF5+/L4/79L69t/vMdfO11qBpvL/D0CC4G+ABCRZyfY3K05EL4AMNFgBH1hAzCHwVImAIPsaiEF/WHCDDzzgBCPFQcJlcISjCKEJO1iz0p1wcCRk4ApfCMG0IQ2Gtmvh8miIww3yTWA5/J4NC9fDIHKQdcSqnRAJ+MOIHXGJIUwiE1+YRGs9cYomdCEVlxhFeSpccYtQ/B0Xv5i/LJYQjGRcoeLKiMaYOTGNbOyiA9sIx6DJL450xOEoCgAAIfkECQwAAAAsAAAAAFgCGAGBAAAAqcvRt9eG0ee9Av+Ej6nL7Q+jnLTai7PevPsPhuJIluaJpurKtu4Lx/JM1/aN5/rO9/4PDAqHxKLxiEwql8ym8wmNSqfUqvWKzWq33K73Cw6Lx+Sy+YxOq9fstvsNj8vn9Lr9js/r9/y+/w+oJRBIWGj4JZCYeMjYaDfYpbjoSFl5Jok5aZUJaen5mcUpqjmFCXqKKjW6WmWa+gprtDpLGtUZi5vLQ8ur6/vLyCsMTFy8J4xsrLwchzzMDB1t5pwsbX29Re2Mzd2tqv3sLT5+BB5Ojp6+a36u7v4ew94OT19/It9rr78vgk/LDzCgBn+zBBo8CIHgP4QMGxpQOMqhRIQQRU28GLAiJ4z/HPVpzNQxJLyPrkSaREey1smV3FLeYgnTmsuYNK+RrIlTmsacPJnt7Am0GMSgRIkRLIr0F76kTH2BawpVF7WoVKWyqooV2MusXLt6/Qo2rNixZMuaPYs2rdq1bNu6fQs3rty5dOvavYs3r969fPv6/Qs4sODBhAsbPow4seLFjBs7fgw5suTJlCtbvow5s+bNnDt7/gw6tOjRpEubPo06terVrFu7fg07tuzZtGvbvo07t+7dvHv7/g08uPDhxIsbP448ufLlzJs7fw49uvTp1Ktbv449u/bt3Lt7/w4+vPjx5MubP48+vfr17Nu7fw8/vvz59Ovbv48/v/79/Pv7//8PYIACDkhggQYeiGCCCi7IYIMOPghhhBJOSGGFFl6IYYYabshhhx5+CGKIIo5IYokmnohiiiquyGKLLr4IY4wyzkhjjTbeiKOCW+Vo1Y48wlLSj7koIqRWRR6JZJJKLslkk04+CWWUUk5JZZVWXollllpuyWWXXn4JZphijklmmWaeiWaaaq7JZptuvglnnHLOSWeddt6JZ5567slnn37+CWiggg5KaKGGHopoooqKNUCjjj4KaaOL2hBppZZeimmlk3qQaaeefurppg2ASmqppnaK6KmqrsqqpX62Cmusskp616yR9mRrrrqqutaus0p0KTu+DmvqWMQeeys9A/+4RAuyyHblbLSf2sQsQdLKGtW12rI6ZLXeJrItqUiFS66tlXyL7ijlusrTuu4S20e68jrzLk3v3rttM/Puaw65K+ELML5kLMtvwf74C2zACi/8KBWPGgzxR+EaxHDFFmMaRLCiBMBxxx5/DHLIAURccL71XIxyysWeQKokIr8Mc8wxk+ytyeSojHPOKgsgc88+//wyzSlpy43ORh8NMNBKL820x0JrRPQySE9NtbZNX4011k9be+0vqpJUddgKZ0122VdvjY/NoHSKtiRiv62r2XLPfXbb/XZNSaV2Cwt335nSDXjgTe+tjdp+OEp4zX6HLXjjjjOdODKG20Fw5BD/L47y45pvvrTlzU7OhueRY74uz5yfjvrPoq+C8DSrv54J6b4qknrttvsMuyL1epF777zIbiomtw9PvMywL0yF78rLAzzimRQPffQwi46yEstfP/TRtEjPffchj67zD9iPX3LpzniPfvog2y02DM6TD3/ulTOrfv32d7x187RWkGn8/v9PkPsJcIAjI5n+ZMUJ6AFwgQUjoAMJeLkDBs90D3QaAy/ojwpq0IEGlCCkNjg4DIpwFCAsIQdpRjoTCm6EC1ShCx+ItqO9sHYsVN4Mb6jBvQUMh96rIeF4CMQNrm5YtAvi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&#34;); background-position: center; background-repeat: no-repeat; background-size: 100% auto; box-sizing: border-box; color: #244d52; margin: 0 0 28px; max-width: 100%; padding: 80px 20px 34px; text-align: left; width: 100%\"><h1 style=\"color: inherit; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 40px; font-weight: 800; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: left; text-indent: 0\">把生活里的小事，慢慢做好</h1><p style=\"box-sizing: border-box; color: #244d52; font-size: 17px; line-height: 1.8; margin: 12px auto 0; margin-left: 0; margin-right: 0; text-align: left; width: 100%\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p></section><section style=\"margin: 28px 0 28px; margin-bottom: 0\"><section style=\"box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 12px 0 16px; padding-bottom: 0; padding-top: 0; text-align: center; width: 100%\"><h2 style=\"background-color: #2474b3; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 24px; font-weight: 500; line-height: 1.5; margin: 0; padding: 8px 16px 8px; text-align: left; text-indent: 0\">留一点时间给自己</h2></section><section style=\"margin-bottom: 0; padding: 12px 0 8px; padding-bottom: 0\"><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"background-color: #e2f1df; background-image: linear-gradient(130deg, #e2f1df, #f5fbff); color: #244d52; font-size: 17px; line-height: 1.8; margin: 20px 12px 20px; margin-bottom: 0; padding: 12px 18px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section></section><section style=\"margin: 28px 0 28px; margin-bottom: 0\"><section style=\"box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 12px 0 16px; padding-bottom: 0; padding-top: 0; text-align: center; width: 100%\"><h2 style=\"background-color: #2474b3; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 24px; font-weight: 500; line-height: 1.5; margin: 0; padding: 8px 16px 8px; text-align: left; text-indent: 0\">让行动变得简单</h2></section><section style=\"margin-bottom: 0; padding: 12px 0 8px; padding-bottom: 0\"><ul style=\"margin: 0 0 20px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #2474b3; border: 1px solid #bad5ea; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #2474b3; border: 1px solid #bad5ea; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #bad5ea; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #bad5ea; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #bad5ea; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #bad5ea; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><section style=\"border-top: 1px solid #2474b3; margin: 20px 0 0; margin-bottom: 0; padding: 12px 0 0\"><p style=\"border-bottom: 1px solid #244d52; color: #244d52; line-height: 1.8; margin: 0 0 0; padding: 0 0 12px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section></section>"
+}

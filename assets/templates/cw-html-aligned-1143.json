@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-aligned-1143",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:report]\n[cw-layout-design:{\"id\":\"aligned-1143\",\"palette\":{\"paper\":\"#ffffff\",\"ink\":\"#244261\",\"muted\":\"#244261\",\"accent\":\"#1263c8\",\"panel\":\"#edf3fa\"},\"typography\":{\"font\":\"sans\",\"titleSize\":38,\"titleWeight\":800,\"bodySize\":16,\"lineHeight\":1.85,\"paragraphGap\":16},\"composition\":{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"split\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":38,\"titleWeight\":800,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"outline\",\"rhythm\":\"continuous\"},\"decoration\":\"aligned-1143\",\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"band\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"outline\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"panel\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"ruled\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "aligned-1143",
+    "label": "蓝调招聘",
+    "category": "职场发展",
+    "topics": [
+      "招聘"
+    ],
+    "keywords": "招聘 蓝调招聘 蓝色几何海报 · 双栏开篇 · 职位资料格 背景模板 PNG 背景图 渐变 文到精选 1143",
+    "summary": "蓝色几何海报 · 双栏开篇 · 职位资料格",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「蓝调招聘」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"split\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":38,\"titleWeight\":800,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"outline\",\"rhythm\":\"continuous\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/plain/left → heading/band/left → body/plain/left → image/outline/left → quote/panel/left → ending/ruled/left。\n标题：sans 字体，38px / 800，left 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：plain；章节：band；引用：panel。\n重点与数据：蓝色几何海报 · 双栏开篇 · 职位资料格。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：ruled；已有配图：outline。\n正文排印：sans 字体，正文 16px，行高 1.85，段落间距约 16px；正文宽度 100%，continuous 阅读节奏。\n色彩角色：纸面 #ffffff，正文 #244261，辅助 #244261，强调 #1263c8，信息区 #edf3fa。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、band、outline、panel、ruled。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1143",
+      "label": "蓝调招聘",
+      "category": "文到精选",
+      "topics": [
+        "招聘"
+      ],
+      "visualFamily": "report",
+      "decoration": "aligned-1143",
+      "keywords": "招聘 蓝调招聘 蓝色几何海报 · 双栏开篇 · 职位资料格 背景模板 PNG 背景图 渐变 文到精选 1143",
+      "summary": "蓝色几何海报 · 双栏开篇 · 职位资料格",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#ffffff",
+        "ink": "#244261",
+        "muted": "#244261",
+        "accent": "#1263c8",
+        "panel": "#edf3fa"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "split",
+        "frame": "open",
+        "titleFont": "sans",
+        "titleSize": 38,
+        "titleWeight": 800,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "plain",
+        "headingTreatment": "band",
+        "quoteTreatment": "panel",
+        "endingTreatment": "ruled",
+        "imageTreatment": "outline",
+        "rhythm": "continuous"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 38,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.85,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "蓝调招聘：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 band，按原文顺序重复。",
+        "quote": "原文引用采用 panel；没有引用时省略。",
+        "emphasis": "蓝色几何海报 · 双栏开篇 · 职位资料格。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 ruled；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "band"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "outline"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "panel"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "ruled"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "original": {
+    "id": "aligned-1143",
+    "label": "蓝调招聘",
+    "category": "文到精选",
+    "topics": [
+      "招聘"
+    ],
+    "keywords": "招聘 蓝调招聘 蓝色几何海报 · 双栏开篇 · 职位资料格 背景模板 PNG 背景图 渐变 文到精选 1143",
+    "summary": "蓝色几何海报 · 双栏开篇 · 职位资料格",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「蓝调招聘」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"split\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":38,\"titleWeight\":800,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"outline\",\"rhythm\":\"continuous\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/plain/left → heading/band/left → body/plain/left → image/outline/left → quote/panel/left → ending/ruled/left。\n标题：sans 字体，38px / 800，left 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：plain；章节：band；引用：panel。\n重点与数据：蓝色几何海报 · 双栏开篇 · 职位资料格。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：ruled；已有配图：outline。\n正文排印：sans 字体，正文 16px，行高 1.85，段落间距约 16px；正文宽度 100%，continuous 阅读节奏。\n色彩角色：纸面 #ffffff，正文 #244261，辅助 #244261，强调 #1263c8，信息区 #edf3fa。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、band、outline、panel、ruled。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1143",
+      "label": "蓝调招聘",
+      "category": "文到精选",
+      "topics": [
+        "招聘"
+      ],
+      "visualFamily": "report",
+      "decoration": "aligned-1143",
+      "keywords": "招聘 蓝调招聘 蓝色几何海报 · 双栏开篇 · 职位资料格 背景模板 PNG 背景图 渐变 文到精选 1143",
+      "summary": "蓝色几何海报 · 双栏开篇 · 职位资料格",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#ffffff",
+        "ink": "#244261",
+        "muted": "#244261",
+        "accent": "#1263c8",
+        "panel": "#edf3fa"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "split",
+        "frame": "open",
+        "titleFont": "sans",
+        "titleSize": 38,
+        "titleWeight": 800,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "plain",
+        "headingTreatment": "band",
+        "quoteTreatment": "panel",
+        "endingTreatment": "ruled",
+        "imageTreatment": "outline",
+        "rhythm": "continuous"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 38,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.85,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "蓝调招聘：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 band，按原文顺序重复。",
+        "quote": "原文引用采用 panel；没有引用时省略。",
+        "emphasis": "蓝色几何海报 · 双栏开篇 · 职位资料格。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 ruled；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "band"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "outline"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "panel"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "ruled"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "html": "<section id=\"cw-layout-report\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #ffffff; background-image: linear-gradient(180deg, #ffffff 0%, #edf3fa 100%); box-sizing: border-box; color: #244261; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 20px; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #1263c8; background-image: url(&#34;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAEYCAYAAACA1ogtAAAGJElEQVR4nOzdsZHTTBiAYd1fgIO/BBpwSgsOqYEmKIEmqIGQFkhpgBIIaOAYBU4YD8PNvbsS0vMUoPPZyTvfavb7bwEAICWwAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAIDT+fj5+/PI5z+NfDgAwN6MjqtFYAEAZ7RG1pdvP4c93xEhAHA6I+NqEVgAAD2BBQAQE1gAADGBBQAQE1gAADGBBQAQE1gAADGBBQAQE1gAAAAA7JsJFgCwmRmLl2f+nTvLngGATcyOntWHd2+mtI/AAgA2s0bW6MXLq9v1Mi2uFkeEAMCWZsTVMnFydSewAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAAAAANg3EywAYNri5S0WPG/BsmcAOLktomf2bsDZDv3PAQB/Z42sGYuXb9fL4eNqcUQIAKxmxNVygsnVncACAIgJLACAmMACAIgJLACAmMACAIgJLACAmMACAIgJLACAmMACAAAAYN9MsABgR2YtXt5iwfOZnGIfEAD8C7aInrPsBpzNlwoAO7JG1ozFy7frRVwN5IgQAHZkRlwtJlfDCSwAgJjAAgCICSwAgJjAAgCICSwAgJjAAgCICSwAgJjAAgCICSwAAAAA9s0ECwAemLV4eYsFz4xnDxEA/GaL6LEb8Fj8mADwwBpZMxYv364XcXVAjggB4IEZcbWYXB2WwAIAiAksAICYwAIAiAksAICYwAIAiAksAICYwAIAiAksAICYwAIAAABg30ywAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAgsAICawAABiAmuw/99/fd76MwAAcwmsge5xJbIAAELiCgDOxwQLACAmsAAAYgILACAmsAAAYgILACAmsAAAYgILACAmsAAAYgILACAmsB5w+zoA8BpPW3+AvRkVVz8+vfVdAwDnVUaWaRgAnI8jwsFMrgDgfAQWAEBMYAEAxAQWAEBMYAEAxAQWAEBMYAEAxAQWAEBMYAEAxA4TWG5MBwD24hC3jNsfCAAwgP2BAMBeHOaIsGRyBQC8hsACAIgJLACAmMACAIgJLACAmMACAIgJLACAmMACAIgJLACA2KaB5cZ0AOCINrux3P5AAIAB7A8EAI7oMO9gmVwBAHtxmMACANgLgQUAEBNYAAAxgQUAEBNYAAAxgQUAEBNYAAAxgQUAEHtxYLkxHQDgz150+7n9gQAAA9gfCAAAAMBUXnIHAIgJLACAmMACAIgJLACA2K8AAAD//4yAm4HI7GXgAAAAAElFTkSuQmCC&#34;); background-position: center; background-repeat: no-repeat; background-size: 100% auto; box-sizing: border-box; color: #ffffff; display: block; margin: 0 0 20px; max-width: 100%; padding: 62px 22px 34px; text-align: left; width: 100%\"><h1 style=\"box-sizing: border-box; color: inherit; display: block; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 38px; font-weight: 800; line-height: 1.3; margin: 0; overflow-wrap: anywhere; padding-left: 0; padding-right: 0; text-align: left; text-indent: 0; width: 100%\">把生活里的小事，慢慢做好</h1><p style=\"box-sizing: border-box; color: #ffffff; display: block; font-size: 15px; line-height: 1.8; margin: 20px 0 0; padding: 0 0 2px 13px; padding-left: 0; padding-right: 0; text-align: left; width: 100%\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p></section><section style=\"background-color: #edf3fa; margin: 20px 0 20px; padding: 12px 16px 6px\"><h2 style=\"background-color: #1263c8; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 8px 16px 8px; text-align: left; text-indent: 0\">留一点时间给自己</h2><p style=\"line-height: 1.8; margin: 0 0 12px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"background-color: #edf3fa; background-image: linear-gradient(130deg, #edf3fa, #ffffff); color: #244261; font-size: 17px; line-height: 1.8; margin: 20px 0 20px; padding: 12px 18px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section><section style=\"box-sizing: border-box; margin: 20px 0 20px auto; margin-left: 0; margin-right: 0; padding: 4px 0 4px; width: 100%\"><h2 style=\"background-color: #1263c8; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 8px 16px 8px; text-align: left; text-indent: 0\">让行动变得简单</h2><section style=\"background-color: #edf3fa; margin: 20px 0 20px; padding: 12px 18px 4px\"><ul style=\"margin: 0 0 0; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul></section><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #1263c8; border: 1px solid #bdd3f0; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #1263c8; border: 1px solid #bdd3f0; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #bdd3f0; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #bdd3f0; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #bdd3f0; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #bdd3f0; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><section style=\"border-top: 1px solid #1263c8; margin: 20px 0 0; padding: 12px 0 0\"><p style=\"border-bottom: 1px solid #244261; color: #244261; line-height: 1.8; margin: 0 0 0; padding: 0 0 12px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section>"
+}

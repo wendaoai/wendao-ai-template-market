@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-html-b8fe0c7ddffe",
+  "type": "html-template",
+  "original": {
+    "html": "<!DOCTYPE html>\n<html lang=\"zh-CN\">\n\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>第一章：南方来的绿信封</title>\n</head>\n\n<body style=\"margin: 0; padding: 0;\">\n\n    <section\n        style=\"margin: 0; padding: 0; background-color: #e6e6e6; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'Helvetica Neue', Arial, sans-serif;\">\n\n        <section\n            style=\"max-width: 677px; margin: 0 auto; background-color: #f2f0e9; box-shadow: 0 0 20px rgba(0,0,0,0.1);\">\n\n            <!-- 1. 头部设计 (VI 标准版) -->\n            <section\n                style=\"background-color: #1a1a1a; padding: 50px 20px 40px 20px; text-align: center; border-bottom: 4px solid #8b1e1e; display: flex; flex-direction: column; align-items: center;\">\n                <section style=\"display: flex; justify-content: center; opacity: 0.6;\">\n                    <svg width=\"100\" height=\"20\" viewBox=\"0 0 100 20\">\n                        <path d=\"M0,10 Q25,0 50,10 T100,10\" fill=\"none\" stroke=\"#f2f0e9\" stroke-width=\"2\" />\n                        <path d=\"M10,18 Q35,8 60,18 T110,18\" fill=\"none\" stroke=\"#f2f0e9\" stroke-width=\"1\"\n                            opacity=\"0.5\" />\n                    </svg>\n                </section>\n                <section\n                    style=\"display: inline-block; border: 1px solid #8b1e1e; color: #8b1e1e; background-color: #2a2a2a; font-size: 12px; letter-spacing: 3px; padding: 4px 12px; margin-top: 30px;\">\n                    卷一 · 泥地里的神与鬼\n                </section>\n                <section\n                    style=\"font-size: 48px; line-height: 1.1; font-weight: 900; color: #f2f0e9; margin-top: 20px; letter-spacing: 4px; text-shadow: 2px 2px 0px #8b1e1e;\">\n                    野风渡\n                </section>\n                <section\n                    style=\"font-size: 16px; font-weight: 300; color: #aaa; letter-spacing: 2px; margin-top: 25px; border-top: 1px solid #444; display: inline-block; padding-top: 15px;\">\n                    第一章：南方来的绿信封\n                </section>\n            </section>\n\n            <!-- 2. 正文区域 -->\n            <section style=\"padding: 40px 25px 60px 25px;\">\n\n                <!-- 导语 -->\n                <section\n                    style=\"margin-bottom: 40px; border-left: 4px solid #2e7d32; padding-left: 15px; padding-top: 5px; padding-bottom: 5px; background-color: #e8f5e9;\">\n                    <p style=\"margin: 0; font-size: 16px; color: #1b5e20; line-height: 1.6; font-style: italic;\">\n                        “那时候，思念是可以触摸的。它是一张只有八分钱的邮票，是一张薄薄的绿色汇款单，是几千公里外寄回来的一缕带着工业糖精味的香风。”\n                    </p>\n                </section>\n\n                <!-- 正文 -->\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    <span\n                        style=\"float: left; font-size: 3.5em; line-height: 0.8; font-weight: bold; color: #8b1e1e; margin-right: 8px; margin-top: 4px; font-family: 'Songti SC', serif;\">一</span>九九四年的春天，来得特别晚。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    在那个年代，村里最让人心跳加速的声音，不是过年的鞭炮，也不是村部大喇叭里的秦腔，而是一阵特殊的自行车铃声。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    “叮铃——叮铃——”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    清脆，悠长，像一把锋利的剪刀，剪开了午后沉闷的空气。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    那是乡邮递员老赵的“二八大杠”。那辆墨绿色的自行车除了铃铛不响哪都响，车后座挂着两个沉甸甸的帆布大兜子，上面印着褪色的黄色大字——“中国邮政”。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    对于只有六岁的我来说，那两个兜子就像是哆啦A梦的口袋，里面装着整个世界。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    “老林家！老林家！广东来的信！”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    老赵一只脚撑着地，满头大汗地扯着嗓子在门口喊了一声。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    正在猪圈里喂猪的母亲，手里的瓢“咣当”一声就掉了。她顾不上擦手上的猪食，在围裙上胡乱抹了两把，踉踉跄跄地往外跑。跑得太急，被门槛绊了一下，差点摔倒，但她连停都没停。\n                </section>\n\n                <!-- 视觉焦点：信封 -->\n                <section\n                    style=\"margin: 35px 0; border: 2px dashed #1b5e20; background-color: #f1f8e9; padding: 25px; position: relative;\">\n                    <div\n                        style=\"position: absolute; top: -10px; left: 20px; background-color: #f2f0e9; padding: 0 10px; font-size: 14px; color: #2e7d32; font-weight: bold;\">\n                        [ 航空信 ]</div>\n                    <p style=\"font-size: 16px; color: #333; line-height: 1.8; text-align: justify;\">\n                        那是一个标准的航空信封。\n                        <br>\n                        边框上印着红蓝相间的斜条纹，右上角贴着一张八分钱的长城邮票。\n                        <br><br>\n                        我凑过去闻了闻。那信封上没有猪圈味，没有土腥味，也没有旱厕的氨水味。它有一股味道，一股甜腻的、陌生的香味。\n                        <br><br>\n                        <strong style=\"color: #1a1a1a;\">后来我才知道，那是劣质洗发水混合着南方潮湿空气的味道，但在当时，我认为那就是“广东味”，是天堂的味道。</strong>\n                    </p>\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    那天晚上，家里破天荒地点了两盏煤油灯，把堂屋照得通亮。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    父亲坐在门槛上抽旱烟，吧嗒吧嗒的，火星子一明一灭，映照着他那张沟壑纵横的脸。他的手在微微发抖，那是激动的。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    母亲小心翼翼地用剪刀剪开信封口，动作慢得像是在给刚出生的婴儿剪脐带，生怕剪坏了里面的东西。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    信纸被掏出来，展开。那是三张带红线的横格纸，密密麻麻写满了字。随信掉出来的，还有一张绿色的汇款单，和一张光面的彩色照片。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    “大，娘，见字如面。”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    我刚上小学一年级，认字不多，被父亲抓壮丁来读信。我结结巴巴地念着：“我在东莞的电子厂挺好的……厂子很大，有几千人……管吃管住……顿顿有大米饭，还有肉……”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    听到“顿顿有肉”，母亲抹了一把眼泪，念叨着：“这就好，这就好，别饿着就行。这死妮子，走的时候身上就带了二十个煮鸡蛋，我都怕她饿死在路上。”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    我继续念：“……这个月发了工资，加上加班费，一共三百块。我自己留了一百生活费，给家里寄了二百……”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    二百块。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    父亲磕烟袋锅的手停住了。屋子里的空气仿佛凝固了。\n                </section>\n\n                <!-- 视觉焦点：金钱的重量 -->\n                <section\n                    style=\"margin: 35px 0; border-top: 1px solid #ccc; border-bottom: 1px solid #ccc; padding: 20px 0; text-align: center;\">\n                    <p style=\"font-size: 16px; color: #555; margin-bottom: 10px;\">在1994年的杏花村，二百块是什么概念？</p>\n                    <p style=\"font-size: 18px; font-weight: 900; color: #1b5e20; line-height: 1.6;\">\n                        那是我们家种一季麦子，刨去化肥、农药、种子和提留款后，剩下的全部收入。\n                        <br>\n                        那是父亲起早贪黑、在土里刨食半年的血汗钱。\n                    </p>\n                    <p style=\"font-size: 16px; color: #555; margin-top: 10px;\">而姐姐，出去才三个月，就寄回来了。</p>\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    父亲颤巍巍地拿起那张绿色的汇款单，对着煤油灯看了又看。他不识字，但他认得那个红色的公章，认得那个阿拉伯数字“200”。他的手指粗糙得像树皮，在那张薄薄的纸上摩挲着，仿佛那不是纸，而是金箔。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    “这妮子，出息了。”父亲的声音哽咽了，“比我有本事。我这辈子，没挣过这么多现钱。”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    我拿起了那张照片。\n                </section>\n\n                <!-- 视觉焦点：照片里的秘密 -->\n                <section\n                    style=\"background-color: #fff; padding: 20px; margin: 35px 0; border: 1px solid #ddd; transform: rotate(-2deg); box-shadow: 3px 3px 10px rgba(0,0,0,0.1);\">\n                    <div\n                        style=\"border: 1px solid #eee; height: 200px; background-color: #333; display: flex; align-items: center; justify-content: center; color: #ccc; margin-bottom: 15px;\">\n                        [ 彩色照片：深圳世界之窗留念 ]\n                    </div>\n                    <p style=\"font-size: 16px; color: #333; line-height: 1.8; text-align: justify;\">\n                        照片上的姐姐，站在一个微缩的埃菲尔铁塔前。\n                        <br>\n                        她穿着一件当时最流行的大红色蝙蝠衫，下身是一条紧得要命的黑色健美裤，头发烫成了时髦的爆炸卷。\n                        <br><br>\n                        她笑得很灿烂，露出一口白牙。但我发现，她放在身侧的那只手，<strong>食指和中指上缠着厚厚的、已经发黑的医用胶布。</strong>\n                    </p>\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    “娘，姐的手咋了？”我指着照片问。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    母亲凑过来，眯着眼看了半天，眼泪一下子就下来了。她一边擦眼泪，一边用袖子擦照片，生怕把上面的红章擦花了：“这是干活伤着了啊……电子厂的活细，那是流水线，手慢一点就要挨骂，还要被扣钱。这妮子从小就笨，肯定没少受罪……”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    第二天，姐姐寄钱回来的消息，像风一样传遍了全村。\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    家里突然热闹了起来。平日里难得一见的亲戚都来了，甚至连隔壁那个总是为了地边子跟我们吵架的刘老三，也背着手在门口晃悠了好几圈，酸溜溜地说：“老林啊，你家这闺女算是养着了，是个金凤凰啊。”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 25px;\">\n                    还有人来借钱。父亲一律笑着回绝：“这钱是给牧娃子留着上学用的，谁也不借。”\n                </section>\n\n                <section\n                    style=\"font-size: 17px; line-height: 1.9; color: #222; text-align: justify; margin-bottom: 40px;\">\n                    那是父亲腰杆挺得最直的一天。\n                </section>\n\n                <!-- 结尾：启蒙 -->\n                <section style=\"border-top: 1px solid #aaa; padding-top: 20px;\">\n                    <p style=\"font-size: 16px; color: #555; line-height: 1.8; text-align: justify;\">\n                        那晚我失眠了。\n                        <br><br>\n                        我躺在土炕上，听着窗外呼啸的野风。我想象着那个叫“广东”的地方，想象着那里是不是遍地都是红色的蝙蝠衫，空气里是不是都飘着洗发水的香味。\n                        <br><br>\n                        我不知道的是，那二百块钱，是姐姐在流水线上像机器一样坐了整整三十个夜班换来的。但那封信，却在我心里种下了一颗种子——<strong>我也要走，我要去那个有香味的地方。</strong>\n                    </p>\n                </section>\n\n            </section>\n\n            <!-- 底部版权 -->\n            <section style=\"background-color: #2b2b2b; padding: 30px 20px; text-align: center;\">\n                <p style=\"font-size: 12px; color: #666; letter-spacing: 2px; margin-bottom: 5px;\">THE WILD WIND CROSSING\n                </p>\n                <p style=\"font-size: 14px; color: #999; margin: 0;\">© 野风渡 · 连载中</p>\n            </section>\n\n        </section>\n    </section>\n\n</body>\n\n</html>"
+  },
+  "html": "<section style=\"padding: 24px; color: #292b2e; background-color: #fff\"><h1>把生活里的小事，慢慢做好</h1><section><p style=\"margin: 0; font-size: 16px; color: #1b5e20; line-height: 1.6; font-style: italic\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p><h2>留一点时间给自己</h2><p style=\"margin: 0; font-size: 16px; color: #1b5e20; line-height: 1.6; font-style: italic\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"color: #1a1a1a\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote><p style=\"margin: 0; font-size: 16px; color: #1b5e20; line-height: 1.6; font-style: italic\">认真对待每一个平常的日子。</p></blockquote><h2>让行动变得简单</h2><ul><li>选一件今天可以完成的事</li><li>留意自己的真实感受</li><li>给下一次尝试留出余地</li></ul><table><thead><tr><th>时段</th><th>安排</th></tr></thead><tbody><tr><td>早晨</td><td>散步和阅读</td></tr><tr><td>傍晚</td><td>回顾一天</td></tr></tbody></table><p style=\"margin: 0; font-size: 16px; color: #1b5e20; line-height: 1.6; font-style: italic\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section>",
+  "layoutPrompt": "[cw-imported-style:{\"root\":\"padding:24px;color:#292b2e;background-color:#fff\",\"elements\":{\"p\":\"margin: 0; font-size: 16px; color: #1b5e20; line-height: 1.6; font-style: italic\",\"strong\":\"color: #1a1a1a\",\"span\":\"font-size: 3.5em; line-height: 0.8; font-weight: bold; color: #8b1e1e; margin-right: 8px; margin-top: 4px; font-family: 'Songti SC', serif\"}}]",
+  "nativePreset": {
+    "id": "aiwritex-html-b8fe0c7ddffe",
+    "label": "第一章：南方来的绿信封",
+    "category": "小说连载",
+    "topics": [],
+    "keywords": "小说连载",
+    "summary": "适用于小说连载的 HTML 排版示例。",
+    "visualFamily": "editorial",
+    "instruction": "",
+    "design": {
+      "id": "aiwritex-html-b8fe0c7ddffe",
+      "visualFamily": "editorial",
+      "label": "第一章：南方来的绿信封",
+      "category": "知识",
+      "keywords": "公众号 青绿 解读 科普 连续阅读",
+      "summary": "白底青绿 · 左齐标题 · 连续正文",
+      "palette": {
+        "paper": "#ffffff",
+        "ink": "#34444b",
+        "muted": "#627177",
+        "accent": "#087f8c",
+        "panel": "#edf7f7"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 28,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.92,
+        "paragraphGap": 15
+      },
+      "composition": {
+        "frame": "open",
+        "inset": 12,
+        "measure": 100,
+        "titleFont": "sans",
+        "headingFont": "sans",
+        "titleSize": 28,
+        "titleWeight": 800,
+        "headerTreatment": "plain",
+        "headerAlign": "left",
+        "headerMeasure": 100,
+        "headerLayout": "compact",
+        "leadTreatment": "plain",
+        "headingTreatment": "plain",
+        "quoteTreatment": "plain",
+        "endingTreatment": "plain",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "rules": {
+        "title": "黑色标题左齐，标题区下方用浅灰细线分隔。",
+        "lead": "首段保持开放正文，左齐连续阅读，不整段居中。",
+        "section": "黑色粗体章节左齐，用青绿色数字方签标识阅读顺序，完整保留原有标题。",
+        "quote": "原有引用使用浅青绿色提示区，不编造摘要。",
+        "emphasis": "原有独立加粗重点句使用深色区，原有清单用浅灰底和暖橙细线。",
+        "ending": "原有末段以浅青绿色底和青绿顶线收束，文尾用 END 小字和暖橙、青绿短线结束。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          14,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          25,
+          70,
+          14,
+          "plain",
+          "left"
+        ],
+        [
+          "heading",
+          8,
+          44,
+          70,
+          7,
+          "plain",
+          "left"
+        ],
+        [
+          "body",
+          8,
+          55,
+          70,
+          15,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          8,
+          74,
+          70,
+          11,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          8,
+          88,
+          70,
+          10,
+          "plain",
+          "left"
+        ],
+        [
+          "ending",
+          8,
+          102,
+          70,
+          6,
+          "plain",
+          "left"
+        ]
+      ]
+    },
+    "supportsImages": false
+  }
+}

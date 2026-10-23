@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-aligned-1486",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:atlas]\n[cw-layout-design:{\"id\":\"aligned-1486\",\"palette\":{\"paper\":\"#f9f0e1\",\"ink\":\"#624218\",\"muted\":\"#624218\",\"accent\":\"#967024\",\"panel\":\"#eedfc4\"},\"typography\":{\"font\":\"serif\",\"titleSize\":40,\"titleWeight\":600,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":20},\"composition\":{\"inset\":18,\"measure\":96,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"atlas\",\"frame\":\"inset\",\"titleFont\":\"serif\",\"titleSize\":40,\"titleWeight\":600,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"plain\",\"rhythm\":\"airy\"},\"decoration\":\"aligned-1486\",\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"stamp\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"ruled\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "aligned-1486",
+    "label": "北境秋行",
+    "category": "美食旅行",
+    "topics": [
+      "旅游"
+    ],
+    "keywords": "旅游 北境秋行 金色山峦 · 旅行札记 · 地图式图文 背景模板 PNG 背景图 渐变 文到精选 1486",
+    "summary": "金色山峦 · 旅行札记 · 地图式图文",
+    "visualFamily": "atlas",
+    "supportsImages": true,
+    "instruction": "采用「北境秋行」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：图文图鉴。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":18,\"measure\":96,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"atlas\",\"frame\":\"inset\",\"titleFont\":\"serif\",\"titleSize\":40,\"titleWeight\":600,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"plain\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/plain/left → heading/stamp/left → body/plain/left → image/plain/left → quote/inset/left → ending/ruled/left。\n标题：serif 字体，40px / 600，left 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：plain；章节：stamp；引用：inset。\n重点与数据：金色山峦 · 旅行札记 · 地图式图文。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：ruled；已有配图：plain。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 20px；正文宽度 96%，airy 阅读节奏。\n色彩角色：纸面 #f9f0e1，正文 #624218，辅助 #624218，强调 #967024，信息区 #eedfc4。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、stamp、inset、ruled。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1486",
+      "label": "北境秋行",
+      "category": "文到精选",
+      "topics": [
+        "旅游"
+      ],
+      "visualFamily": "atlas",
+      "decoration": "aligned-1486",
+      "keywords": "旅游 北境秋行 金色山峦 · 旅行札记 · 地图式图文 背景模板 PNG 背景图 渐变 文到精选 1486",
+      "summary": "金色山峦 · 旅行札记 · 地图式图文",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f9f0e1",
+        "ink": "#624218",
+        "muted": "#624218",
+        "accent": "#967024",
+        "panel": "#eedfc4"
+      },
+      "composition": {
+        "inset": 18,
+        "measure": 96,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "atlas",
+        "frame": "inset",
+        "titleFont": "serif",
+        "titleSize": 40,
+        "titleWeight": 600,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "plain",
+        "headingTreatment": "stamp",
+        "quoteTreatment": "inset",
+        "endingTreatment": "ruled",
+        "imageTreatment": "plain",
+        "rhythm": "airy"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 40,
+        "titleWeight": 600,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "北境秋行：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 stamp，按原文顺序重复。",
+        "quote": "原文引用采用 inset；没有引用时省略。",
+        "emphasis": "金色山峦 · 旅行札记 · 地图式图文。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 ruled；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "stamp"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "inset"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "ruled"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "original": {
+    "id": "aligned-1486",
+    "label": "北境秋行",
+    "category": "文到精选",
+    "topics": [
+      "旅游"
+    ],
+    "keywords": "旅游 北境秋行 金色山峦 · 旅行札记 · 地图式图文 背景模板 PNG 背景图 渐变 文到精选 1486",
+    "summary": "金色山峦 · 旅行札记 · 地图式图文",
+    "visualFamily": "atlas",
+    "supportsImages": true,
+    "instruction": "采用「北境秋行」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：图文图鉴。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":18,\"measure\":96,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"atlas\",\"frame\":\"inset\",\"titleFont\":\"serif\",\"titleSize\":40,\"titleWeight\":600,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"plain\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/plain/left → heading/stamp/left → body/plain/left → image/plain/left → quote/inset/left → ending/ruled/left。\n标题：serif 字体，40px / 600，left 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：plain；章节：stamp；引用：inset。\n重点与数据：金色山峦 · 旅行札记 · 地图式图文。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：ruled；已有配图：plain。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 20px；正文宽度 96%，airy 阅读节奏。\n色彩角色：纸面 #f9f0e1，正文 #624218，辅助 #624218，强调 #967024，信息区 #eedfc4。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、stamp、inset、ruled。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1486",
+      "label": "北境秋行",
+      "category": "文到精选",
+      "topics": [
+        "旅游"
+      ],
+      "visualFamily": "atlas",
+      "decoration": "aligned-1486",
+      "keywords": "旅游 北境秋行 金色山峦 · 旅行札记 · 地图式图文 背景模板 PNG 背景图 渐变 文到精选 1486",
+      "summary": "金色山峦 · 旅行札记 · 地图式图文",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f9f0e1",
+        "ink": "#624218",
+        "muted": "#624218",
+        "accent": "#967024",
+        "panel": "#eedfc4"
+      },
+      "composition": {
+        "inset": 18,
+        "measure": 96,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "atlas",
+        "frame": "inset",
+        "titleFont": "serif",
+        "titleSize": 40,
+        "titleWeight": 600,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "plain",
+        "headingTreatment": "stamp",
+        "quoteTreatment": "inset",
+        "endingTreatment": "ruled",
+        "imageTreatment": "plain",
+        "rhythm": "airy"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 40,
+        "titleWeight": 600,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "北境秋行：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 stamp，按原文顺序重复。",
+        "quote": "原文引用采用 inset；没有引用时省略。",
+        "emphasis": "金色山峦 · 旅行札记 · 地图式图文。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 ruled；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "stamp"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "inset"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "ruled"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "html": "<section id=\"cw-layout-atlas\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #f9f0e1; background-image: linear-gradient(180deg, #f9f0e1 0%, #eedfc4 100%); box-sizing: border-box; color: #624218; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 18px; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #f9f0e1; background-image: url(&#34;data:image/png;base64,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&#34;); background-position: center; background-repeat: no-repeat; background-size: 100% auto; box-sizing: border-box; color: #624218; margin: 0 0 28px; max-width: 100%; padding: 80px 20px 34px; text-align: left; width: 100%\"><h1 style=\"color: inherit; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 40px; font-weight: 600; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: left; text-indent: 0\">把生活里的小事，慢慢做好</h1><p style=\"box-sizing: border-box; color: #624218; font-size: 17px; line-height: 1.8; margin: 12px 0 0; margin-left: 0; margin-right: 0; text-align: left; width: 100%\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p></section><section style=\"margin: 28px 0 28px; margin-bottom: 0\"><section style=\"background-color: #eedfc4; box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 16px 18px 16px; padding-bottom: 12px; padding-top: 16px; width: 100%\"><h2 style=\"color: #624218; display: inline-block; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 24px; font-weight: 500; line-height: 1.5; margin: 0; padding: 0; text-align: left; text-indent: 0\">留一点时间给自己</h2></section><section style=\"box-sizing: border-box; margin-bottom: 0; margin-left: 0; margin-right: 0; padding: 12px 0 0; padding-bottom: 0; width: 100%\"><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"background-color: #eedfc4; background-image: linear-gradient(130deg, #eedfc4, #f9f0e1); color: #624218; font-size: 17px; line-height: 1.8; margin: 20px 12px 20px; margin-bottom: 0; padding: 12px 18px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section></section><section style=\"margin: 28px 0 28px; margin-bottom: 0\"><section style=\"background-color: #eedfc4; box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 16px 18px 16px; padding-bottom: 12px; padding-top: 16px; width: 100%\"><h2 style=\"color: #624218; display: inline-block; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 24px; font-weight: 500; line-height: 1.5; margin: 0; padding: 0; text-align: left; text-indent: 0\">让行动变得简单</h2></section><section style=\"box-sizing: border-box; margin-bottom: 0; margin-left: 0; margin-right: 0; padding: 12px 0 0; padding-bottom: 0; width: 100%\"><ul style=\"margin: 0 0 20px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #967024; border: 1px solid #ddccac; color: #000000; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #967024; border: 1px solid #ddccac; color: #000000; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #ddccac; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #ddccac; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #ddccac; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #ddccac; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><section style=\"border-top: 1px solid #967024; margin: 20px 0 0; margin-bottom: 0; padding: 12px 0 0\"><p style=\"border-bottom: 1px solid #624218; color: #624218; line-height: 1.8; margin: 0 0 0; padding: 0 0 12px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section></section>"
+}

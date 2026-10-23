@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-aligned-1425",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:report]\n[cw-layout-design:{\"id\":\"aligned-1425\",\"palette\":{\"paper\":\"#ffffff\",\"ink\":\"#1a3678\",\"muted\":\"#1a3678\",\"accent\":\"#2768aa\",\"panel\":\"#f2fbff\"},\"typography\":{\"font\":\"sans\",\"titleSize\":40,\"titleWeight\":700,\"bodySize\":16,\"lineHeight\":1.85,\"paragraphGap\":16},\"composition\":{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"gallery\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":700,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"plain\",\"rhythm\":\"continuous\"},\"decoration\":\"aligned-1425\",\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"underline\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"ruled\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "aligned-1425",
+    "label": "晴空智能",
+    "category": "财经投资",
+    "topics": [
+      "企业"
+    ],
+    "keywords": "企业 晴空智能 蓝金轨迹 · 大幅留白 · 清爽产业页 背景模板 PNG 背景图 渐变 文到精选 1425",
+    "summary": "蓝金轨迹 · 大幅留白 · 清爽产业页",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「晴空智能」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"gallery\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":700,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"plain\",\"rhythm\":\"continuous\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/plain/left → heading/underline/left → body/plain/left → image/plain/left → quote/inset/left → ending/ruled/left。\n标题：sans 字体，40px / 700，left 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：plain；章节：underline；引用：inset。\n重点与数据：蓝金轨迹 · 大幅留白 · 清爽产业页。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：ruled；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.85，段落间距约 16px；正文宽度 100%，continuous 阅读节奏。\n色彩角色：纸面 #ffffff，正文 #1a3678，辅助 #1a3678，强调 #2768aa，信息区 #f2fbff。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、underline、inset、ruled。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1425",
+      "label": "晴空智能",
+      "category": "文到精选",
+      "topics": [
+        "企业"
+      ],
+      "visualFamily": "report",
+      "decoration": "aligned-1425",
+      "keywords": "企业 晴空智能 蓝金轨迹 · 大幅留白 · 清爽产业页 背景模板 PNG 背景图 渐变 文到精选 1425",
+      "summary": "蓝金轨迹 · 大幅留白 · 清爽产业页",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#ffffff",
+        "ink": "#1a3678",
+        "muted": "#1a3678",
+        "accent": "#2768aa",
+        "panel": "#f2fbff"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "gallery",
+        "frame": "open",
+        "titleFont": "sans",
+        "titleSize": 40,
+        "titleWeight": 700,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "plain",
+        "headingTreatment": "underline",
+        "quoteTreatment": "inset",
+        "endingTreatment": "ruled",
+        "imageTreatment": "plain",
+        "rhythm": "continuous"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 40,
+        "titleWeight": 700,
+        "bodySize": 16,
+        "lineHeight": 1.85,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "晴空智能：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 underline，按原文顺序重复。",
+        "quote": "原文引用采用 inset；没有引用时省略。",
+        "emphasis": "蓝金轨迹 · 大幅留白 · 清爽产业页。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 ruled；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "underline"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "inset"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "ruled"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "original": {
+    "id": "aligned-1425",
+    "label": "晴空智能",
+    "category": "文到精选",
+    "topics": [
+      "企业"
+    ],
+    "keywords": "企业 晴空智能 蓝金轨迹 · 大幅留白 · 清爽产业页 背景模板 PNG 背景图 渐变 文到精选 1425",
+    "summary": "蓝金轨迹 · 大幅留白 · 清爽产业页",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「晴空智能」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"gallery\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":700,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"plain\",\"rhythm\":\"continuous\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/plain/left → heading/underline/left → body/plain/left → image/plain/left → quote/inset/left → ending/ruled/left。\n标题：sans 字体，40px / 700，left 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：plain；章节：underline；引用：inset。\n重点与数据：蓝金轨迹 · 大幅留白 · 清爽产业页。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：ruled；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.85，段落间距约 16px；正文宽度 100%，continuous 阅读节奏。\n色彩角色：纸面 #ffffff，正文 #1a3678，辅助 #1a3678，强调 #2768aa，信息区 #f2fbff。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、underline、inset、ruled。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1425",
+      "label": "晴空智能",
+      "category": "文到精选",
+      "topics": [
+        "企业"
+      ],
+      "visualFamily": "report",
+      "decoration": "aligned-1425",
+      "keywords": "企业 晴空智能 蓝金轨迹 · 大幅留白 · 清爽产业页 背景模板 PNG 背景图 渐变 文到精选 1425",
+      "summary": "蓝金轨迹 · 大幅留白 · 清爽产业页",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#ffffff",
+        "ink": "#1a3678",
+        "muted": "#1a3678",
+        "accent": "#2768aa",
+        "panel": "#f2fbff"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "gallery",
+        "frame": "open",
+        "titleFont": "sans",
+        "titleSize": 40,
+        "titleWeight": 700,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "plain",
+        "headingTreatment": "underline",
+        "quoteTreatment": "inset",
+        "endingTreatment": "ruled",
+        "imageTreatment": "plain",
+        "rhythm": "continuous"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 40,
+        "titleWeight": 700,
+        "bodySize": 16,
+        "lineHeight": 1.85,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "晴空智能：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 underline，按原文顺序重复。",
+        "quote": "原文引用采用 inset；没有引用时省略。",
+        "emphasis": "蓝金轨迹 · 大幅留白 · 清爽产业页。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 ruled；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "underline"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "inset"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "ruled"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "html": "<section id=\"cw-layout-report\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #ffffff; background-image: linear-gradient(180deg, #ffffff 0%, #f2fbff 100%); box-sizing: border-box; color: #1a3678; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 20px; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #ffffff; background-image: url(&#34;data:image/png;base64,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&#34;); background-position: center; background-repeat: no-repeat; background-size: 100% auto; border-bottom: 1px solid #2768aa; box-sizing: border-box; color: #1a3678; margin: 0 0 20px; max-width: 100%; padding: 62px 22px 34px; text-align: left; width: 100%\"><h1 style=\"color: inherit; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 40px; font-weight: 700; line-height: 1.42; margin: 0; overflow-wrap: anywhere; text-align: left; text-indent: 0\">把生活里的小事，慢慢做好</h1></section><p style=\"color: #1a3678; font-size: 17px; line-height: 1.8; margin: 0 0 12px; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p><section style=\"box-sizing: border-box; margin: 20px 0 20px auto; margin-left: 0; margin-right: 0; padding: 4px 0 4px; width: 100%\"><h2 style=\"border-bottom: 2px solid #2768aa; color: #1a3678; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">留一点时间给自己</h2><p style=\"line-height: 1.8; margin: 0 0 12px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"background-color: #f2fbff; background-image: linear-gradient(130deg, #f2fbff, #ffffff); color: #1a3678; font-size: 17px; line-height: 1.8; margin: 20px 12px 20px; padding: 12px 18px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section><section style=\"background-color: #f2fbff; margin: 20px 0 20px; padding: 12px 18px 8px\"><h2 style=\"border-bottom: 2px solid #2768aa; color: #1a3678; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">让行动变得简单</h2><ul style=\"margin: 0 0 12px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #2768aa; border: 1px solid #c3d5e7; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #2768aa; border: 1px solid #c3d5e7; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #c3d5e7; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #c3d5e7; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #c3d5e7; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #c3d5e7; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><section style=\"border-top: 1px solid #2768aa; margin: 20px 0 0; padding: 12px 0 0\"><p style=\"border-bottom: 1px solid #1a3678; color: #1a3678; line-height: 1.8; margin: 0 0 0; padding: 0 0 12px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section>"
+}

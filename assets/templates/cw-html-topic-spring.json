@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-topic-spring",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:letter]\n[cw-layout-design:{\"id\":\"topic-spring\",\"palette\":{\"paper\":\"#fffdf7\",\"ink\":\"#354137\",\"muted\":\"#646e5b\",\"accent\":\"#54783c\",\"panel\":\"#edf2df\"},\"typography\":{\"font\":\"serif\",\"titleSize\":33,\"titleWeight\":500,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":20},\"composition\":{\"inset\":22,\"measure\":94,\"headerMeasure\":82,\"headerTreatment\":\"plain\",\"opening\":\"letter\",\"frame\":\"open\",\"titleFont\":\"serif\",\"titleSize\":33,\"titleWeight\":500,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"inset\",\"headingTreatment\":\"overline\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"underline\",\"imageTreatment\":\"plain\",\"rhythm\":\"airy\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"overline\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"panel\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"underline\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "topic-spring",
+    "label": "春天·春日来信",
+    "category": "其他",
+    "topics": [
+      "春天"
+    ],
+    "keywords": "春天 春天·春日来信 春笺开篇 · 新绿章节 · 温柔留白",
+    "summary": "春笺开篇 · 新绿章节 · 温柔留白",
+    "visualFamily": "letter",
+    "supportsImages": true,
+    "instruction": "采用「春天·春日来信」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：书信散文。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":22,\"measure\":94,\"headerMeasure\":82,\"headerTreatment\":\"plain\",\"opening\":\"letter\",\"frame\":\"open\",\"titleFont\":\"serif\",\"titleSize\":33,\"titleWeight\":500,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"inset\",\"headingTreatment\":\"overline\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"underline\",\"imageTreatment\":\"plain\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/inset/left → heading/overline/left → body/plain/left → image/plain/left → quote/panel/left → ending/underline/left。\n标题：serif 字体，33px / 500，left 对齐，宽度 82%，stacked 构图，plain 处理。\n导语：inset；章节：overline；引用：panel。\n重点与数据：春笺开篇 · 新绿章节 · 温柔留白。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：underline；已有配图：plain。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 20px；正文宽度 94%，airy 阅读节奏。\n色彩角色：纸面 #fffdf7，正文 #354137，辅助 #646e5b，强调 #54783c，信息区 #edf2df。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、inset、overline、panel、underline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "topic-spring",
+      "label": "春天·春日来信",
+      "category": "叙事",
+      "topics": [
+        "春天"
+      ],
+      "visualFamily": "letter",
+      "keywords": "春天 春天·春日来信 春笺开篇 · 新绿章节 · 温柔留白",
+      "summary": "春笺开篇 · 新绿章节 · 温柔留白",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffdf7",
+        "ink": "#354137",
+        "muted": "#646e5b",
+        "accent": "#54783c",
+        "panel": "#edf2df"
+      },
+      "composition": {
+        "inset": 22,
+        "measure": 94,
+        "headerMeasure": 82,
+        "headerTreatment": "plain",
+        "opening": "letter",
+        "frame": "open",
+        "titleFont": "serif",
+        "titleSize": 33,
+        "titleWeight": 500,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "inset",
+        "headingTreatment": "overline",
+        "quoteTreatment": "panel",
+        "endingTreatment": "underline",
+        "imageTreatment": "plain",
+        "rhythm": "airy"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 33,
+        "titleWeight": 500,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "春天·春日来信：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 inset，只使用正文已有开场内容。",
+        "section": "章节采用 overline，按原文顺序重复。",
+        "quote": "原文引用采用 panel；没有引用时省略。",
+        "emphasis": "春笺开篇 · 新绿章节 · 温柔留白。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 underline；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "inset"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "overline"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "panel"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "underline"
+        ]
+      ]
+    }
+  },
+  "original": {
+    "id": "topic-spring",
+    "label": "春天·春日来信",
+    "category": "叙事",
+    "topics": [
+      "春天"
+    ],
+    "keywords": "春天 春天·春日来信 春笺开篇 · 新绿章节 · 温柔留白",
+    "summary": "春笺开篇 · 新绿章节 · 温柔留白",
+    "visualFamily": "letter",
+    "supportsImages": true,
+    "instruction": "采用「春天·春日来信」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：书信散文。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":22,\"measure\":94,\"headerMeasure\":82,\"headerTreatment\":\"plain\",\"opening\":\"letter\",\"frame\":\"open\",\"titleFont\":\"serif\",\"titleSize\":33,\"titleWeight\":500,\"headerAlign\":\"left\",\"headerLayout\":\"stacked\",\"leadTreatment\":\"inset\",\"headingTreatment\":\"overline\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"underline\",\"imageTreatment\":\"plain\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/inset/left → heading/overline/left → body/plain/left → image/plain/left → quote/panel/left → ending/underline/left。\n标题：serif 字体，33px / 500，left 对齐，宽度 82%，stacked 构图，plain 处理。\n导语：inset；章节：overline；引用：panel。\n重点与数据：春笺开篇 · 新绿章节 · 温柔留白。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：underline；已有配图：plain。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 20px；正文宽度 94%，airy 阅读节奏。\n色彩角色：纸面 #fffdf7，正文 #354137，辅助 #646e5b，强调 #54783c，信息区 #edf2df。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、inset、overline、panel、underline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "topic-spring",
+      "label": "春天·春日来信",
+      "category": "叙事",
+      "topics": [
+        "春天"
+      ],
+      "visualFamily": "letter",
+      "keywords": "春天 春天·春日来信 春笺开篇 · 新绿章节 · 温柔留白",
+      "summary": "春笺开篇 · 新绿章节 · 温柔留白",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffdf7",
+        "ink": "#354137",
+        "muted": "#646e5b",
+        "accent": "#54783c",
+        "panel": "#edf2df"
+      },
+      "composition": {
+        "inset": 22,
+        "measure": 94,
+        "headerMeasure": 82,
+        "headerTreatment": "plain",
+        "opening": "letter",
+        "frame": "open",
+        "titleFont": "serif",
+        "titleSize": 33,
+        "titleWeight": 500,
+        "headerAlign": "left",
+        "headerLayout": "stacked",
+        "leadTreatment": "inset",
+        "headingTreatment": "overline",
+        "quoteTreatment": "panel",
+        "endingTreatment": "underline",
+        "imageTreatment": "plain",
+        "rhythm": "airy"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 33,
+        "titleWeight": 500,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "春天·春日来信：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 inset，只使用正文已有开场内容。",
+        "section": "章节采用 overline，按原文顺序重复。",
+        "quote": "原文引用采用 panel；没有引用时省略。",
+        "emphasis": "春笺开篇 · 新绿章节 · 温柔留白。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 underline；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "inset"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "overline"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "panel"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "underline"
+        ]
+      ]
+    }
+  },
+  "html": "<section id=\"cw-layout-letter\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #fffdf7; box-sizing: border-box; color: #354137; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 22px; padding-left: 24px; padding-right: 24px; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"border-bottom: 1px solid #54783c; box-sizing: border-box; margin: 0 auto 28px; max-width: 100%; padding: 24px 0 24px; text-align: left; width: 88%\"><h1 style=\"color: inherit; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 33px; font-weight: 500; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: left; text-indent: 0\">把生活里的小事，慢慢做好</h1><p style=\"background-color: #edf2df; color: #354137; font-size: 17px; font-style: italic; line-height: 1.8; margin: 12px 12px 0; padding: 12px 18px 12px; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p></section><section style=\"box-sizing: border-box; margin: 28px auto 28px; margin-left: 0; margin-right: 0; padding: 6px 0 12px; width: 100%\"><h2 style=\"border-top: 2px solid #54783c; color: #354137; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 8px 0 0; text-align: left; text-indent: 0\">留一点时间给自己</h2><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><section style=\"margin: 20px auto 20px; padding: 10px 0 10px; width: 84%\"><blockquote style=\"background-color: #edf2df; color: #354137; font-size: 17px; line-height: 1.8; margin: 0 0 0; padding: 12px 18px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section></section><section style=\"box-sizing: border-box; margin: 28px auto 28px; margin-left: 0; margin-right: 0; padding: 6px 0 12px; width: 100%\"><h2 style=\"border-top: 2px solid #54783c; color: #354137; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 8px 0 0; text-align: left; text-indent: 0\">让行动变得简单</h2><ul style=\"margin: 0 0 20px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #54783c; border: 1px solid #cfd8c3; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #54783c; border: 1px solid #cfd8c3; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #cfd8c3; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #cfd8c3; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #cfd8c3; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #cfd8c3; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><section style=\"box-sizing: border-box; margin: 20px 0 0 auto; margin-left: 0; margin-right: 0; padding: 12px 0 0; text-align: right; width: 100%\"><p style=\"border-bottom: 2px solid #54783c; color: #354137; line-height: 1.8; margin: 0 0 0; padding: 0 0 10px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section>"
+}

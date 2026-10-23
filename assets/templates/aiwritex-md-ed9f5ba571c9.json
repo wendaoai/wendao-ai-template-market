@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-md-ed9f5ba571c9",
+  "type": "md-template",
+  "original": {
+    "id": "zen-cloud",
+    "name": "云水留白",
+    "description": "极简超大留白加东方禅意气质，衬线大字标题配细线分层，靠留白和1px细线建立层次，适合随笔、读书、深度思考类文章",
+    "category": "东方美学",
+    "author": "system",
+    "is_builtin": true,
+    "version": "1.0.0",
+    "tags": [
+      "禅意",
+      "留白",
+      "衬线",
+      "极简",
+      "东方",
+      "沉静"
+    ],
+    "colors": {
+      "background": "#FFFFFF",
+      "text_primary": "#525252",
+      "text_secondary": "#A3A3A3",
+      "accent": "#4A5D52",
+      "border": "#E8E8E8",
+      "code_background": "#FAFAFA",
+      "quote_background": "#FFFFFF",
+      "quote_border": "#4A5D52",
+      "table_header_bg": "#EEF3F0",
+      "table_stripe_bg": "#FAFAFA",
+      "link_color": "#4A5D52",
+      "highlight_bg": "#D6E4DC"
+    },
+    "typography": {
+      "font_family": "'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif",
+      "font_family_code": "ui-monospace, 'Cascadia Code', 'Fira Code', Menlo, Monaco, Consolas, monospace",
+      "base_font_size": 15,
+      "line_height": 1.9,
+      "letter_spacing": 0.03,
+      "paragraph_spacing": 1.6,
+      "text_align": "justify",
+      "first_line_indent": false
+    },
+    "headings": {
+      "h1": {
+        "font_size": 28,
+        "font_weight": 700,
+        "color": "#2B2B2B",
+        "margin_top": 2.8,
+        "margin_bottom": 1.2,
+        "border_bottom": false,
+        "text_align": "center",
+        "font_family": "'Noto Serif SC', Georgia, 'Times New Roman', serif"
+      },
+      "h2": {
+        "font_size": 22,
+        "font_weight": 700,
+        "color": "#2B2B2B",
+        "margin_top": 3,
+        "margin_bottom": 1,
+        "border_bottom": false,
+        "text_align": "left",
+        "font_family": "'Noto Serif SC', Georgia, 'Times New Roman', serif"
+      },
+      "h3": {
+        "font_size": 17,
+        "font_weight": 600,
+        "color": "#4A5D52",
+        "margin_top": 2,
+        "margin_bottom": 0.8,
+        "prefix_marker": false,
+        "font_family": "'Noto Serif SC', Georgia, 'Times New Roman', serif"
+      },
+      "h4": {
+        "font_size": 15,
+        "font_weight": 600,
+        "color": "#A3A3A3",
+        "margin_top": 1.5,
+        "margin_bottom": 0.5
+      }
+    },
+    "blocks": {
+      "blockquote": {
+        "border_left_width": 2,
+        "border_left_color": "#4A5D52",
+        "background": "#FFFFFF",
+        "padding": "16px 24px",
+        "font_style": "normal",
+        "text_color": "#525252"
+      },
+      "code_inline": {
+        "background": "#EEF3F0",
+        "color": "#3D5046",
+        "padding": "2px 6px",
+        "border_radius": 2,
+        "font_size_ratio": 0.9
+      },
+      "code_block": {
+        "background": "#FAFAFA",
+        "border_radius": 4,
+        "padding": "16px 20px",
+        "line_height": 1.5,
+        "show_line_numbers": false
+      },
+      "table": {
+        "border_style": "solid",
+        "border_color": "#E8E8E8",
+        "header_background": "#EEF3F0",
+        "stripe_background": "#FAFAFA",
+        "cell_padding": "12px 16px",
+        "border_radius": 2
+      },
+      "list": {
+        "ul_marker": "disc",
+        "ol_marker": "decimal",
+        "indent_size": 24,
+        "item_spacing": 8,
+        "marker_color": "#4A5D52"
+      },
+      "hr": {
+        "style": "solid",
+        "color": "#E8E8E8",
+        "margin": "3.5em 0",
+        "width": "100%"
+      },
+      "image": {
+        "border_radius": 2,
+        "caption_font_size": 12,
+        "caption_color": "#A3A3A3",
+        "caption_align": "center",
+        "max_width": "100%"
+      },
+      "link": {
+        "color": "#4A5D52",
+        "text_decoration": "none",
+        "hover_decoration": "underline"
+      },
+      "highlight": {
+        "background": "#D6E4DC",
+        "padding": "2px 4px",
+        "border_radius": 2
+      }
+    },
+    "layout": {
+      "max_width": 677,
+      "padding_horizontal": 20,
+      "padding_vertical": 48
+    },
+    "special_effects": {
+      "drop_cap": false,
+      "drop_cap_chars": 1,
+      "drop_cap_size_ratio": 3,
+      "drop_cap_color": "#4A5D52"
+    },
+    "components": {
+      "hero_section": {
+        "enabled": false
+      },
+      "section_card": {
+        "enabled": false
+      },
+      "chapter_title": {
+        "enabled": true,
+        "style": "bar"
+      },
+      "quote_card": {
+        "enabled": true
+      },
+      "gradient_divider": {
+        "enabled": true
+      },
+      "code_decoration": {
+        "enabled": true
+      },
+      "image_container": {
+        "enabled": true
+      },
+      "emphasis_enhance": {
+        "enabled": true
+      },
+      "highlight_annotation": {
+        "enabled": false
+      },
+      "list_enhance": {
+        "enabled": true
+      }
+    }
+  },
+  "theme": {
+    "id": "aiwritex-md-ed9f5ba571c9",
+    "name": "云水留白",
+    "description": "极简超大留白加东方禅意气质，衬线大字标题配细线分层，靠留白和1px细线建立层次，适合随笔、读书、深度思考类文章",
+    "source": "md",
+    "category": "visual",
+    "tags": [
+      "东方美学",
+      "禅意",
+      "留白",
+      "衬线",
+      "极简",
+      "东方",
+      "沉静"
+    ],
+    "selectable": true,
+    "recommended": false,
+    "riskLevel": "stable",
+    "editorMode": "css",
+    "css": "#wemd{color:#525252;background-color:#FFFFFF;font-family:'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;font-size:15px;line-height:1.9;letter-spacing:0.03em;text-align:justify;padding:48px 20px;overflow-wrap:anywhere}\n#wemd p{margin:0 0 1.6em;text-indent:0}\n#wemd h1{font-size:28px;font-weight:700;color:#2B2B2B;margin-top:2.8em;margin-bottom:1.2em;text-align:center}\n#wemd h2{font-size:22px;font-weight:700;color:#2B2B2B;margin-top:3em;margin-bottom:1em;text-align:left}\n#wemd h3{font-size:17px;font-weight:600;color:#4A5D52;margin-top:2em;margin-bottom:0.8em}\n#wemd h4{font-size:15px;font-weight:600;color:#A3A3A3;margin-top:1.5em;margin-bottom:0.5em}\n#wemd blockquote{border-left:2px solid #4A5D52;background:#FFFFFF;padding:16px 24px;color:#525252;font-style:normal;margin:1.2em 0}\n#wemd code{background-color:#EEF3F0;color:#3D5046;padding:2px 6px;border-radius:2px;font-size:0.9em;font-family:ui-monospace, 'Cascadia Code', 'Fira Code', Menlo, Monaco, Consolas, monospace}\n#wemd pre{background:#FAFAFA;border-radius:4px;padding:16px 20px;line-height:1.5;white-space:pre-wrap}\n#wemd pre code{background:transparent;padding:0}\n#wemd table{width:100%;border-collapse:collapse}\n#wemd th, #wemd td{border:1px solid #E8E8E8;padding:12px 16px}\n#wemd th{background:#EEF3F0}\n#wemd tr:nth-child(even){background:#FAFAFA}\n#wemd ul, #wemd ol{padding-left:24px;margin:1em 0}\n#wemd ul{list-style-type:disc}\n#wemd ol{list-style-type:decimal}\n#wemd li{margin-bottom:8px}\n#wemd li::marker{color:#4A5D52}\n#wemd hr{border:0;border-top:1px solid #E8E8E8;margin:3.5em 0;width:100%}\n#wemd img{max-width:100%;height:auto;border-radius:2px}\n#wemd figcaption{font-size:12px;color:#A3A3A3;text-align:center}\n#wemd a{color:#4A5D52;text-decoration:none}\n#wemd strong{color:#4A5D52;font-weight:700}\n#wemd mark{background:#D6E4DC;padding:2px 4px;border-radius:2px}"
+  }
+}

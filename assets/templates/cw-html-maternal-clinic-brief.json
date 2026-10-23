@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-maternal-clinic-brief",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:report]\n[cw-layout-design:{\"id\":\"maternal-clinic-brief\",\"palette\":{\"paper\":\"#fffdf8\",\"ink\":\"#4c4740\",\"muted\":\"#7a6d60\",\"accent\":\"#82b9c8\",\"panel\":\"#fff4df\"},\"typography\":{\"font\":\"sans\",\"titleSize\":26,\"titleWeight\":700,\"bodySize\":15,\"lineHeight\":1.9,\"paragraphGap\":16,\"paragraphGapExplicit\":true},\"composition\":{\"frame\":\"outline\",\"inset\":18,\"measure\":100,\"titleFont\":\"sans\",\"headingFont\":\"sans\",\"titleSize\":28,\"titleWeight\":700,\"headerTreatment\":\"plain\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"compact\",\"leadTreatment\":\"outline\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"plain\",\"endingTreatment\":\"outline\",\"imageTreatment\":\"inset\",\"rhythm\":\"continuous\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"outline\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"underline\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"list\",\"treatment\":\"ruled\",\"align\":\"left\"},{\"role\":\"note\",\"treatment\":\"panel\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"outline\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "maternal-clinic-brief",
+    "label": "妇幼门诊说明",
+    "category": "健康养生",
+    "topics": [
+      "母婴",
+      "医疗"
+    ],
+    "keywords": "妇幼 医院 科室 专家介绍 门诊 科普 资料",
+    "summary": "门诊说明 · 资料模块 · 专家信息",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「妇幼门诊说明」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"outline\",\"inset\":18,\"measure\":100,\"titleFont\":\"sans\",\"headingFont\":\"sans\",\"titleSize\":28,\"titleWeight\":700,\"headerTreatment\":\"plain\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"compact\",\"leadTreatment\":\"outline\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"plain\",\"endingTreatment\":\"outline\",\"imageTreatment\":\"inset\",\"rhythm\":\"continuous\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/outline/left → heading/underline/left → body/plain/left → list/ruled/left → note/panel/left → ending/outline/left。\n标题：sans 字体，28px / 700，left 对齐，宽度 100%，compact 构图，plain 处理。\n导语：outline；章节：underline；引用：plain。\n重点与数据：科室简介、电话、专家介绍等资料进入浅米色信息块，和正文医学科普分开。\n结尾：outline；已有配图：inset。\n正文排印：sans 字体，正文 15px，行高 1.9，段落间距约 16px；正文宽度 100%，continuous 阅读节奏。\n色彩角色：纸面 #fffdf8，正文 #4c4740，辅助 #7a6d60，强调 #82b9c8，信息区 #fff4df。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、outline、underline、ruled、panel。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "maternal-clinic-brief",
+      "label": "妇幼门诊说明",
+      "visualFamily": "report",
+      "category": "健康",
+      "keywords": "妇幼 医院 科室 专家介绍 门诊 科普 资料",
+      "summary": "门诊说明 · 资料模块 · 专家信息",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffdf8",
+        "ink": "#4c4740",
+        "muted": "#7a6d60",
+        "accent": "#82b9c8",
+        "panel": "#fff4df"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 26,
+        "titleWeight": 700,
+        "bodySize": 15,
+        "lineHeight": 1.9,
+        "paragraphGap": 16,
+        "paragraphGapExplicit": true
+      },
+      "composition": {
+        "frame": "outline",
+        "inset": 18,
+        "measure": 100,
+        "titleFont": "sans",
+        "headingFont": "sans",
+        "titleSize": 28,
+        "titleWeight": 700,
+        "headerTreatment": "plain",
+        "headerAlign": "left",
+        "headerMeasure": 100,
+        "headerLayout": "compact",
+        "leadTreatment": "outline",
+        "headingTreatment": "underline",
+        "quoteTreatment": "plain",
+        "endingTreatment": "outline",
+        "imageTreatment": "inset",
+        "rhythm": "continuous"
+      },
+      "rules": {
+        "title": "标题稳重清晰，适合医院或机构科普，不使用夸张情绪化强调。",
+        "lead": "导语使用细框摘要，说明本文讨论范围和读者问题。",
+        "section": "正文小节用清爽下划线标题，减少装饰，突出信息可信度。",
+        "quote": "原文提醒保留普通段落或小提示，不做大号金句包装。",
+        "emphasis": "科室简介、电话、专家介绍等资料进入浅米色信息块，和正文医学科普分开。",
+        "ending": "署名、供稿、审核等尾部信息保持小号资料区，不参与正文结论渲染。"
+      },
+      "blocks": [
+        [
+          "title",
+          9,
+          7,
+          67,
+          11,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          9,
+          24,
+          67,
+          11,
+          "outline",
+          "left"
+        ],
+        [
+          "heading",
+          9,
+          42,
+          45,
+          6,
+          "underline",
+          "left"
+        ],
+        [
+          "body",
+          9,
+          53,
+          67,
+          12,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          9,
+          70,
+          67,
+          13,
+          "ruled",
+          "left"
+        ],
+        [
+          "note",
+          9,
+          89,
+          67,
+          12,
+          "panel",
+          "left"
+        ],
+        [
+          "ending",
+          9,
+          106,
+          67,
+          4,
+          "outline",
+          "left"
+        ]
+      ]
+    }
+  },
+  "original": {
+    "id": "maternal-clinic-brief",
+    "label": "妇幼门诊说明",
+    "category": "健康",
+    "topics": [
+      "母婴",
+      "医疗"
+    ],
+    "keywords": "妇幼 医院 科室 专家介绍 门诊 科普 资料",
+    "summary": "门诊说明 · 资料模块 · 专家信息",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「妇幼门诊说明」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"outline\",\"inset\":18,\"measure\":100,\"titleFont\":\"sans\",\"headingFont\":\"sans\",\"titleSize\":28,\"titleWeight\":700,\"headerTreatment\":\"plain\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"compact\",\"leadTreatment\":\"outline\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"plain\",\"endingTreatment\":\"outline\",\"imageTreatment\":\"inset\",\"rhythm\":\"continuous\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/outline/left → heading/underline/left → body/plain/left → list/ruled/left → note/panel/left → ending/outline/left。\n标题：sans 字体，28px / 700，left 对齐，宽度 100%，compact 构图，plain 处理。\n导语：outline；章节：underline；引用：plain。\n重点与数据：科室简介、电话、专家介绍等资料进入浅米色信息块，和正文医学科普分开。\n结尾：outline；已有配图：inset。\n正文排印：sans 字体，正文 15px，行高 1.9，段落间距约 16px；正文宽度 100%，continuous 阅读节奏。\n色彩角色：纸面 #fffdf8，正文 #4c4740，辅助 #7a6d60，强调 #82b9c8，信息区 #fff4df。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、outline、underline、ruled、panel。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "maternal-clinic-brief",
+      "label": "妇幼门诊说明",
+      "visualFamily": "report",
+      "category": "健康",
+      "keywords": "妇幼 医院 科室 专家介绍 门诊 科普 资料",
+      "summary": "门诊说明 · 资料模块 · 专家信息",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffdf8",
+        "ink": "#4c4740",
+        "muted": "#7a6d60",
+        "accent": "#82b9c8",
+        "panel": "#fff4df"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 26,
+        "titleWeight": 700,
+        "bodySize": 15,
+        "lineHeight": 1.9,
+        "paragraphGap": 16,
+        "paragraphGapExplicit": true
+      },
+      "composition": {
+        "frame": "outline",
+        "inset": 18,
+        "measure": 100,
+        "titleFont": "sans",
+        "headingFont": "sans",
+        "titleSize": 28,
+        "titleWeight": 700,
+        "headerTreatment": "plain",
+        "headerAlign": "left",
+        "headerMeasure": 100,
+        "headerLayout": "compact",
+        "leadTreatment": "outline",
+        "headingTreatment": "underline",
+        "quoteTreatment": "plain",
+        "endingTreatment": "outline",
+        "imageTreatment": "inset",
+        "rhythm": "continuous"
+      },
+      "rules": {
+        "title": "标题稳重清晰，适合医院或机构科普，不使用夸张情绪化强调。",
+        "lead": "导语使用细框摘要，说明本文讨论范围和读者问题。",
+        "section": "正文小节用清爽下划线标题，减少装饰，突出信息可信度。",
+        "quote": "原文提醒保留普通段落或小提示，不做大号金句包装。",
+        "emphasis": "科室简介、电话、专家介绍等资料进入浅米色信息块，和正文医学科普分开。",
+        "ending": "署名、供稿、审核等尾部信息保持小号资料区，不参与正文结论渲染。"
+      },
+      "blocks": [
+        [
+          "title",
+          9,
+          7,
+          67,
+          11,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          9,
+          24,
+          67,
+          11,
+          "outline",
+          "left"
+        ],
+        [
+          "heading",
+          9,
+          42,
+          45,
+          6,
+          "underline",
+          "left"
+        ],
+        [
+          "body",
+          9,
+          53,
+          67,
+          12,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          9,
+          70,
+          67,
+          13,
+          "ruled",
+          "left"
+        ],
+        [
+          "note",
+          9,
+          89,
+          67,
+          12,
+          "panel",
+          "left"
+        ],
+        [
+          "ending",
+          9,
+          106,
+          67,
+          4,
+          "outline",
+          "left"
+        ]
+      ]
+    }
+  },
+  "html": "<section id=\"cw-layout-report\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #fffdf8; border: 1px solid #dceaeb; box-sizing: border-box; color: #4c4740; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 15px; line-height: 1.9; overflow-wrap: anywhere; padding: 18px; padding-left: 24px; padding-right: 24px; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"box-sizing: border-box; margin: 0 0 20px; max-width: 100%; text-align: left; width: 100%\"><section style=\"box-sizing: border-box; max-width: 100%; text-align: left\"><h1 style=\"color: inherit; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 28px; font-weight: 700; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: left; text-indent: 0\">把生活里的小事，慢慢做好</h1></section></section><p style=\"border: 1px solid #82b9c8; color: #4c4740; font-size: 16px; line-height: 1.9; margin: 0 0 16px; padding: 12px 16px 12px; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p><h2 style=\"border-bottom: 2px solid #82b9c8; color: #4c4740; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 20px 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">留一点时间给自己</h2><p style=\"line-height: 1.9; margin: 0 0 16px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"color: #4c4740; font-size: 16px; line-height: 1.9; margin: 20px 0 20px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote><h2 style=\"border-bottom: 2px solid #82b9c8; color: #4c4740; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 20px 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">让行动变得简单</h2><ul style=\"border-bottom: 1px solid #7a6d60; margin: 0 0 16px; padding-bottom: 14px; padding-left: 22px; text-align: left\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #82b9c8; border: 1px solid #dceaeb; color: #000000; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #82b9c8; border: 1px solid #dceaeb; color: #000000; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #dceaeb; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #dceaeb; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #dceaeb; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #dceaeb; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><p style=\"border: 1px solid #82b9c8; color: #4c4740; line-height: 1.9; margin: 20px 0 0; padding: 12px 16px 12px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section>"
+}

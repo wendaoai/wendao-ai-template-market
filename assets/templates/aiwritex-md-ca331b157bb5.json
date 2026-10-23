@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-md-ca331b157bb5",
+  "type": "md-template",
+  "original": {
+    "id": "ink-minimal",
+    "name": "水墨极简",
+    "description": "黑白灰三色水墨渲染感，大量留白与极简装饰，适合纯文本表达和观点文章",
+    "category": "东方美学",
+    "author": "system",
+    "is_builtin": true,
+    "version": "1.0.0",
+    "tags": [
+      "水墨",
+      "极简",
+      "黑白",
+      "留白",
+      "东方"
+    ],
+    "colors": {
+      "background": "#fdfdfc",
+      "text_primary": "#1f1f1f",
+      "text_secondary": "#6b6b6b",
+      "accent": "#434343",
+      "border": "#d9d9d9",
+      "code_background": "#f5f5f5",
+      "quote_background": "#f7f7f7",
+      "quote_border": "#595959",
+      "table_header_bg": "#e8e8e8",
+      "table_stripe_bg": "#f5f5f5",
+      "link_color": "#434343",
+      "highlight_bg": "#e8e8e8"
+    },
+    "typography": {
+      "font_family": "'Source Han Serif SC', 'Noto Serif SC', 'STSong', serif",
+      "font_family_code": "'Courier New', monospace",
+      "base_font_size": 17,
+      "line_height": 2,
+      "letter_spacing": 0.05,
+      "paragraph_spacing": 1.6,
+      "text_align": "justify",
+      "first_line_indent": true
+    },
+    "headings": {
+      "h1": {
+        "font_size": 28,
+        "font_weight": 400,
+        "color": "$colors.text_primary",
+        "margin_top": 2.5,
+        "margin_bottom": 1.5,
+        "border_bottom": false,
+        "text_align": "center",
+        "letter_spacing": 0.15
+      },
+      "h2": {
+        "font_size": 22,
+        "font_weight": 400,
+        "color": "$colors.text_primary",
+        "margin_top": 2.2,
+        "margin_bottom": 1,
+        "border_bottom": true,
+        "border_color": "$colors.border",
+        "text_align": "left"
+      },
+      "h3": {
+        "font_size": 18,
+        "font_weight": 600,
+        "color": "$colors.text_primary",
+        "margin_top": 1.8,
+        "margin_bottom": 0.7,
+        "prefix_marker": false
+      },
+      "h4": {
+        "font_size": 16,
+        "font_weight": 400,
+        "color": "$colors.text_secondary",
+        "margin_top": 1.4,
+        "margin_bottom": 0.5
+      }
+    },
+    "blocks": {
+      "blockquote": {
+        "border_left_width": 3,
+        "border_left_color": "$colors.quote_border",
+        "background": "$colors.quote_background",
+        "padding": "14px 22px",
+        "font_style": "normal",
+        "text_color": "$colors.text_secondary"
+      },
+      "code_inline": {
+        "background": "$colors.code_background",
+        "color": "$colors.text_primary",
+        "padding": "1px 5px",
+        "border_radius": 2,
+        "font_size_ratio": 0.9
+      },
+      "code_block": {
+        "background": "$colors.code_background",
+        "border_radius": 2,
+        "padding": "14px 18px",
+        "line_height": 1.5,
+        "show_line_numbers": false
+      },
+      "table": {
+        "border_style": "solid",
+        "border_color": "$colors.border",
+        "header_background": "$colors.table_header_bg",
+        "stripe_background": "$colors.table_stripe_bg",
+        "cell_padding": "10px 14px",
+        "border_radius": 0
+      },
+      "list": {
+        "ul_marker": "disc",
+        "ol_marker": "decimal",
+        "indent_size": 24,
+        "item_spacing": 6,
+        "marker_color": "$colors.accent"
+      },
+      "hr": {
+        "style": "solid",
+        "color": "$colors.border",
+        "margin": "3em 0",
+        "width": "30%"
+      },
+      "image": {
+        "border_radius": 2,
+        "caption_font_size": 13,
+        "caption_color": "$colors.text_secondary",
+        "caption_align": "center",
+        "max_width": "100%"
+      },
+      "link": {
+        "color": "$colors.link_color",
+        "text_decoration": "none",
+        "hover_decoration": "underline",
+        "border_bottom": "1px solid $colors.border"
+      },
+      "highlight": {
+        "background": "$colors.highlight_bg",
+        "padding": "2px 4px",
+        "border_radius": 0
+      }
+    },
+    "layout": {
+      "max_width": 660,
+      "padding_horizontal": 36,
+      "padding_vertical": 48
+    },
+    "special_effects": {
+      "drop_cap": false,
+      "drop_cap_chars": 1,
+      "drop_cap_size_ratio": 3,
+      "drop_cap_color": "#434343"
+    },
+    "components": {
+      "hero_section": {
+        "enabled": false
+      },
+      "section_card": {
+        "enabled": false
+      },
+      "chapter_title": {
+        "enabled": true,
+        "style": "bar"
+      },
+      "quote_card": {
+        "enabled": true
+      },
+      "gradient_divider": {
+        "enabled": true
+      },
+      "code_decoration": {
+        "enabled": true
+      },
+      "image_container": {
+        "enabled": true
+      },
+      "emphasis_enhance": {
+        "enabled": true
+      },
+      "highlight_annotation": {
+        "enabled": false
+      },
+      "list_enhance": {
+        "enabled": true
+      }
+    }
+  },
+  "theme": {
+    "id": "aiwritex-md-ca331b157bb5",
+    "name": "水墨极简",
+    "description": "黑白灰三色水墨渲染感，大量留白与极简装饰，适合纯文本表达和观点文章",
+    "source": "md",
+    "category": "visual",
+    "tags": [
+      "东方美学",
+      "水墨",
+      "极简",
+      "黑白",
+      "留白",
+      "东方"
+    ],
+    "selectable": true,
+    "recommended": false,
+    "riskLevel": "stable",
+    "editorMode": "css",
+    "css": "#wemd{color:#1f1f1f;background-color:#fdfdfc;font-family:'Source Han Serif SC', 'Noto Serif SC', 'STSong', serif;font-size:17px;line-height:2;letter-spacing:0.05em;text-align:justify;padding:48px 36px;overflow-wrap:anywhere}\n#wemd p{margin:0 0 1.6em;text-indent:2em}\n#wemd h1{font-size:28px;font-weight:400;color:$colors.text_primary;margin-top:2.5em;margin-bottom:1.5em;text-align:center}\n#wemd h2{font-size:22px;font-weight:400;color:$colors.text_primary;margin-top:2.2em;margin-bottom:1em;text-align:left;border-bottom:1px solid $colors.border;padding-bottom:.4em}\n#wemd h3{font-size:18px;font-weight:600;color:$colors.text_primary;margin-top:1.8em;margin-bottom:0.7em}\n#wemd h4{font-size:16px;font-weight:400;color:$colors.text_secondary;margin-top:1.4em;margin-bottom:0.5em}\n#wemd blockquote{border-left:3px solid $colors.quote_border;background:$colors.quote_background;padding:14px 22px;color:$colors.text_secondary;font-style:normal;margin:1.2em 0}\n#wemd code{background-color:$colors.code_background;color:$colors.text_primary;padding:1px 5px;border-radius:2px;font-size:0.9em;font-family:'Courier New', monospace}\n#wemd pre{background:$colors.code_background;border-radius:2px;padding:14px 18px;line-height:1.5;white-space:pre-wrap}\n#wemd pre code{background:transparent;padding:0}\n#wemd table{width:100%;border-collapse:collapse}\n#wemd th, #wemd td{border:1px solid $colors.border;padding:10px 14px}\n#wemd th{background:$colors.table_header_bg}\n#wemd tr:nth-child(even){background:$colors.table_stripe_bg}\n#wemd ul, #wemd ol{padding-left:24px;margin:1em 0}\n#wemd ul{list-style-type:disc}\n#wemd ol{list-style-type:decimal}\n#wemd li{margin-bottom:6px}\n#wemd li::marker{color:$colors.accent}\n#wemd hr{border:0;border-top:1px solid $colors.border;margin:3em 0;width:30%}\n#wemd img{max-width:100%;height:auto;border-radius:2px}\n#wemd figcaption{font-size:13px;color:$colors.text_secondary;text-align:center}\n#wemd a{color:$colors.link_color;text-decoration:none}\n#wemd strong{color:#434343;font-weight:700}\n#wemd mark{background:$colors.highlight_bg;padding:2px 4px;border-radius:0px}"
+  }
+}

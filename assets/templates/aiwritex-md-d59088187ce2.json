@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-md-d59088187ce2",
+  "type": "md-template",
+  "original": {
+    "id": "tech-blue",
+    "name": "科技蓝",
+    "description": "蓝色调技术文档风格，等宽字体代码增强，README式结构层次清晰，适合技术教程和产品文档",
+    "category": "沉稳专业",
+    "author": "system",
+    "is_builtin": true,
+    "version": "1.0.0",
+    "tags": [
+      "科技",
+      "蓝色",
+      "技术",
+      "文档",
+      "代码"
+    ],
+    "colors": {
+      "background": "#f8fafc",
+      "text_primary": "#1e293b",
+      "text_secondary": "#64748b",
+      "accent": "#2563eb",
+      "border": "#cbd5e1",
+      "code_background": "#0f172a",
+      "quote_background": "#eff6ff",
+      "quote_border": "#3b82f6",
+      "table_header_bg": "#dbeafe",
+      "table_stripe_bg": "#f1f5f9",
+      "link_color": "#2563eb",
+      "highlight_bg": "#dbeafe"
+    },
+    "typography": {
+      "font_family": "'Inter', -apple-system, 'Segoe UI', 'Noto Sans SC', sans-serif",
+      "font_family_code": "'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace",
+      "base_font_size": 15,
+      "line_height": 1.75,
+      "letter_spacing": -0.01,
+      "paragraph_spacing": 1.2,
+      "text_align": "left",
+      "first_line_indent": false
+    },
+    "headings": {
+      "h1": {
+        "font_size": 28,
+        "font_weight": 800,
+        "color": "$colors.text_primary",
+        "margin_top": 2,
+        "margin_bottom": 1,
+        "border_bottom": true,
+        "border_color": "$colors.accent",
+        "text_align": "left"
+      },
+      "h2": {
+        "font_size": 22,
+        "font_weight": 700,
+        "color": "$colors.text_primary",
+        "margin_top": 1.8,
+        "margin_bottom": 0.8,
+        "border_bottom": true,
+        "border_color": "$colors.border",
+        "text_align": "left"
+      },
+      "h3": {
+        "font_size": 18,
+        "font_weight": 600,
+        "color": "$colors.accent",
+        "margin_top": 1.5,
+        "margin_bottom": 0.6,
+        "prefix_marker": true
+      },
+      "h4": {
+        "font_size": 15,
+        "font_weight": 600,
+        "color": "$colors.text_secondary",
+        "margin_top": 1.2,
+        "margin_bottom": 0.5
+      }
+    },
+    "blocks": {
+      "blockquote": {
+        "border_left_width": 4,
+        "border_left_color": "$colors.quote_border",
+        "background": "$colors.quote_background",
+        "padding": "12px 20px",
+        "font_style": "normal",
+        "text_color": "$colors.text_secondary"
+      },
+      "code_inline": {
+        "background": "$colors.code_background",
+        "color": "#e2e8f0",
+        "padding": "3px 8px",
+        "border_radius": 6,
+        "font_size_ratio": 0.88
+      },
+      "code_block": {
+        "background": "$colors.code_background",
+        "border_radius": 8,
+        "padding": "20px 24px",
+        "line_height": 1.6,
+        "show_line_numbers": true,
+        "text_color": "#e2e8f0"
+      },
+      "table": {
+        "border_style": "solid",
+        "border_color": "$colors.border",
+        "header_background": "$colors.table_header_bg",
+        "stripe_background": "$colors.table_stripe_bg",
+        "cell_padding": "10px 14px",
+        "border_radius": 8
+      },
+      "list": {
+        "ul_marker": "disc",
+        "ol_marker": "decimal",
+        "indent_size": 24,
+        "item_spacing": 6,
+        "marker_color": "$colors.accent"
+      },
+      "hr": {
+        "style": "solid",
+        "color": "$colors.border",
+        "margin": "2em 0",
+        "width": "100%"
+      },
+      "image": {
+        "border_radius": 8,
+        "caption_font_size": 13,
+        "caption_color": "$colors.text_secondary",
+        "caption_align": "center",
+        "max_width": "100%"
+      },
+      "link": {
+        "color": "$colors.link_color",
+        "text_decoration": "none",
+        "hover_decoration": "underline"
+      },
+      "highlight": {
+        "background": "$colors.highlight_bg",
+        "padding": "2px 6px",
+        "border_radius": 4
+      },
+      "badge": {
+        "background": "$colors.accent",
+        "color": "#ffffff",
+        "padding": "2px 8px",
+        "border_radius": 10,
+        "font_size": 12
+      }
+    },
+    "layout": {
+      "max_width": 740,
+      "padding_horizontal": 24,
+      "padding_vertical": 32
+    },
+    "special_effects": {
+      "drop_cap": false,
+      "drop_cap_chars": 1,
+      "drop_cap_size_ratio": 3,
+      "drop_cap_color": "#2563eb"
+    },
+    "components": {
+      "hero_section": {
+        "enabled": false
+      },
+      "section_card": {
+        "enabled": true
+      },
+      "chapter_title": {
+        "enabled": true,
+        "style": "bar"
+      },
+      "quote_card": {
+        "enabled": true
+      },
+      "gradient_divider": {
+        "enabled": true
+      },
+      "code_decoration": {
+        "enabled": true
+      },
+      "image_container": {
+        "enabled": true
+      },
+      "emphasis_enhance": {
+        "enabled": true
+      },
+      "highlight_annotation": {
+        "enabled": false
+      },
+      "list_enhance": {
+        "enabled": true
+      }
+    }
+  },
+  "theme": {
+    "id": "aiwritex-md-d59088187ce2",
+    "name": "科技蓝",
+    "description": "蓝色调技术文档风格，等宽字体代码增强，README式结构层次清晰，适合技术教程和产品文档",
+    "source": "md",
+    "category": "visual",
+    "tags": [
+      "沉稳专业",
+      "科技",
+      "蓝色",
+      "技术",
+      "文档",
+      "代码"
+    ],
+    "selectable": true,
+    "recommended": false,
+    "riskLevel": "stable",
+    "editorMode": "css",
+    "css": "#wemd{color:#1e293b;background-color:#f8fafc;font-family:'Inter', -apple-system, 'Segoe UI', 'Noto Sans SC', sans-serif;font-size:15px;line-height:1.75;letter-spacing:-0.01em;text-align:left;padding:32px 24px;overflow-wrap:anywhere}\n#wemd p{margin:0 0 1.2em;text-indent:0}\n#wemd h1{font-size:28px;font-weight:800;color:$colors.text_primary;margin-top:2em;margin-bottom:1em;text-align:left;border-bottom:1px solid $colors.accent;padding-bottom:.4em}\n#wemd h2{font-size:22px;font-weight:700;color:$colors.text_primary;margin-top:1.8em;margin-bottom:0.8em;text-align:left;border-bottom:1px solid $colors.border;padding-bottom:.4em}\n#wemd h3{font-size:18px;font-weight:600;color:$colors.accent;margin-top:1.5em;margin-bottom:0.6em}\n#wemd h3::before{content:\"· \";color:#2563eb}\n#wemd h4{font-size:15px;font-weight:600;color:$colors.text_secondary;margin-top:1.2em;margin-bottom:0.5em}\n#wemd blockquote{border-left:4px solid $colors.quote_border;background:$colors.quote_background;padding:12px 20px;color:$colors.text_secondary;font-style:normal;margin:1.2em 0}\n#wemd code{background-color:$colors.code_background;color:#e2e8f0;padding:3px 8px;border-radius:6px;font-size:0.88em;font-family:'JetBrains Mono', 'Fira Code', 'Cascadia Code', monospace}\n#wemd pre{background:$colors.code_background;border-radius:8px;padding:20px 24px;line-height:1.6;white-space:pre-wrap}\n#wemd pre code{background:transparent;padding:0}\n#wemd table{width:100%;border-collapse:collapse}\n#wemd th, #wemd td{border:1px solid $colors.border;padding:10px 14px}\n#wemd th{background:$colors.table_header_bg}\n#wemd tr:nth-child(even){background:$colors.table_stripe_bg}\n#wemd ul, #wemd ol{padding-left:24px;margin:1em 0}\n#wemd ul{list-style-type:disc}\n#wemd ol{list-style-type:decimal}\n#wemd li{margin-bottom:6px}\n#wemd li::marker{color:$colors.accent}\n#wemd hr{border:0;border-top:1px solid $colors.border;margin:2em 0;width:100%}\n#wemd img{max-width:100%;height:auto;border-radius:8px}\n#wemd figcaption{font-size:13px;color:$colors.text_secondary;text-align:center}\n#wemd a{color:$colors.link_color;text-decoration:none}\n#wemd strong{color:#2563eb;font-weight:700}\n#wemd mark{background:$colors.highlight_bg;padding:2px 6px;border-radius:4px}"
+  }
+}

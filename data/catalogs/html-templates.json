@@ -1,0 +1,5082 @@
+{
+  "schemaVersion": 2,
+  "type": "html-templates",
+  "version": "1.0.0",
+  "resources": [
+    {
+      "id": "aiwritex-html-3aac7f530c50",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "自然疗愈：回归本真的健康生活",
+      "description": "适用于健康养生的 HTML 排版示例。",
+      "tags": [
+        "健康养生"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-3aac7f530c50.json",
+      "previewPath": "previews/templates/aiwritex-html-3aac7f530c50.jpg",
+      "byteSize": 29122,
+      "previewByteSize": 49247,
+      "sha256": "fcb591967d2bbb7698f8eaff4675476cdba0b1d5e5cc8a6459aca21d08947afe",
+      "previewSha256": "2dc0b2cae66db7f3d9d7b0c33081723f12be0090b93c8db10b9dc9b60afdfbb6",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "健康养生",
+        "compatible": true,
+        "sourcePath": "HTML模板/健康养生/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-b103a179400b",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "全频带阻塞干扰影视化分析",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-b103a179400b.json",
+      "previewPath": "previews/templates/aiwritex-html-b103a179400b.jpg",
+      "byteSize": 38257,
+      "previewByteSize": 51690,
+      "sha256": "b9e176e980ff9e0b557c167a3ee841813ec9c04ae849130d2bc7191741e031c1",
+      "previewSha256": "6f0e5cf15ed5763abcf256923ea339a1280754c3267a8170b9d89a614a241d63",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-45a20f70feda",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "其他 · template10",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-45a20f70feda.json",
+      "previewPath": "previews/templates/aiwritex-html-45a20f70feda.jpg",
+      "byteSize": 30490,
+      "previewByteSize": 48463,
+      "sha256": "6479aefa00162f5478c3662ff4bb9a4a8e70a19bbbd34e591a89e73e3a827a90",
+      "previewSha256": "d9d0161e724fd19881bb521bcb6b0338f755f1f6768a08527b1a4559cbd1d7a2",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template10.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-862bd94eceef",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "徒步拐杖的真相",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-862bd94eceef.json",
+      "previewPath": "previews/templates/aiwritex-html-862bd94eceef.jpg",
+      "byteSize": 19318,
+      "previewByteSize": 48158,
+      "sha256": "85d11b44e3b085217686ca843ae1de0bef14eaaf72677fb05f9121a45f27e745",
+      "previewSha256": "2cd7b076f71afa800a1127176bb061aecc776adb7d9d714070be23a7b7578874",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template2.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-2b6fbb7e503b",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "CrewAI 排版配置指南",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-2b6fbb7e503b.json",
+      "previewPath": "previews/templates/aiwritex-html-2b6fbb7e503b.jpg",
+      "byteSize": 23547,
+      "previewByteSize": 49994,
+      "sha256": "c73fe9dcaa3c440bd125b9ab61733c0ff7ef61488ae3e0e4ce5bb43ba1ca4c5d",
+      "previewSha256": "bf52e51162d54afca64564a12201e22503497160cfd5846805dd14bd8ba127e1",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template3.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-347bbd4d52aa",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "其他 · template4",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-347bbd4d52aa.json",
+      "previewPath": "previews/templates/aiwritex-html-347bbd4d52aa.jpg",
+      "byteSize": 22242,
+      "previewByteSize": 41482,
+      "sha256": "60e797857cf2e3f5b68ffc2aca95e658a317309cffc85f6b15108652923146f2",
+      "previewSha256": "b01742f8faae06c12de84e21f92d4620b10a32510683776c98132b008a3c762e",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template4.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-86b86f995cca",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "虎扑|什么才叫人间尤物？",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-86b86f995cca.json",
+      "previewPath": "previews/templates/aiwritex-html-86b86f995cca.jpg",
+      "byteSize": 20145,
+      "previewByteSize": 54792,
+      "sha256": "41727b44a0586edb640b7042edc76265318c9eca97a8d8b12d145930932252f0",
+      "previewSha256": "648a68251f52116a96097cc5766c937fac81d67756fa06fa728f91d4bc3009f9",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template5.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-b1d2768c927f",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "其他 · template6",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-b1d2768c927f.json",
+      "previewPath": "previews/templates/aiwritex-html-b1d2768c927f.jpg",
+      "byteSize": 27513,
+      "previewByteSize": 48553,
+      "sha256": "1354623cc996dd27889d1d0558f1bbe67142e10635c9e4f0c09213b3cf9b7217",
+      "previewSha256": "eb52480ba3b65ee8c917a01851d1cf67eddc6cff27c1722006b6f14bd26c2a8b",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template6.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-fc952e8d640b",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "公公给儿媳的陪嫁猫做三层榫卯床",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-fc952e8d640b.json",
+      "previewPath": "previews/templates/aiwritex-html-fc952e8d640b.jpg",
+      "byteSize": 25404,
+      "previewByteSize": 50766,
+      "sha256": "a1a6d5a37a4f3c64cb85be6fcac5c1a31fd2e2eb5cdf4b2df636ccadc54499ae",
+      "previewSha256": "141dd0de6ac241566fe0dca49d6af0ec5858905e702844c9fdd3355ee5dce8f9",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template7.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-86c80086ebd5",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "其他 · template8",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-86c80086ebd5.json",
+      "previewPath": "previews/templates/aiwritex-html-86c80086ebd5.jpg",
+      "byteSize": 25876,
+      "previewByteSize": 48899,
+      "sha256": "6c9e90bebe477bb7b90e235c1b6b1c45a3c2c1f8137feec470a15383fef549e0",
+      "previewSha256": "6a4e36880d58d3147be43388f9c62b6a1e962d4e076fb555565049c6b214f802",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template8.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-15d91ebe4f26",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "其他 · template9",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-15d91ebe4f26.json",
+      "previewPath": "previews/templates/aiwritex-html-15d91ebe4f26.jpg",
+      "byteSize": 29509,
+      "previewByteSize": 50158,
+      "sha256": "54e21e69999b686f3ace65896892d436d44507d4fc29bf1f3096f6a935ad35bb",
+      "previewSha256": "10bd2788cf1a0cd7866e9e0c7dfb75aa40e82691e1b76c4877d258a285a5c433",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/其他/template9.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-fd813e3df8d0",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "娱乐圈内幕",
+      "description": "适用于娱乐八卦的 HTML 排版示例。",
+      "tags": [
+        "娱乐八卦"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-fd813e3df8d0.json",
+      "previewPath": "previews/templates/aiwritex-html-fd813e3df8d0.jpg",
+      "byteSize": 29354,
+      "previewByteSize": 54173,
+      "sha256": "f8e23d33321bd4fe869c6b4ceb57c765775be7607e9613590bee8a2c59ff79a6",
+      "previewSha256": "a7df3c58b33d64a1499a5869f0f65100936250415679ce6cda3e8558ced68c37",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "娱乐八卦",
+        "compatible": true,
+        "sourcePath": "HTML模板/娱乐八卦/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-b8fe0c7ddffe",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "第一章：南方来的绿信封",
+      "description": "适用于小说连载的 HTML 排版示例。",
+      "tags": [
+        "小说连载"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-b8fe0c7ddffe.json",
+      "previewPath": "previews/templates/aiwritex-html-b8fe0c7ddffe.jpg",
+      "byteSize": 22320,
+      "previewByteSize": 52080,
+      "sha256": "373514e55c4d4ad3f7d55b463966fdb04dbabb638fda958e2b1dc1be580e3f7e",
+      "previewSha256": "036b18ec8a2b18e1be2697a6af4e316a5382feb9a316d5b2ecbb54e2cb0f79b3",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "小说连载",
+        "compatible": true,
+        "sourcePath": "HTML模板/小说连载/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-8a5cb33cbbba",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "其他 · template13",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-8a5cb33cbbba.json",
+      "previewPath": "previews/templates/aiwritex-html-8a5cb33cbbba.jpg",
+      "byteSize": 16868,
+      "previewByteSize": 52230,
+      "sha256": "d4e7d9499ea78f37511a9fb363024e6b022b0acd4b6987afc7b0d0fe85ab0748",
+      "previewSha256": "abdb2b1a0f9f2dab961496e56c62fa362cd7fde2d3d5b42c2ac7a3a07491d08f",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/尚未适配/template13.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-7837ce2d2d98",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "武汉暴雨专题报道",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-7837ce2d2d98.json",
+      "previewPath": "previews/templates/aiwritex-html-7837ce2d2d98.jpg",
+      "byteSize": 20300,
+      "previewByteSize": 52229,
+      "sha256": "f68a70ab64a2dc24c64ad717a84bc60b1c7fff50b336d69010cffbd205235480",
+      "previewSha256": "928af2932ebf3ee9fcf9240d9b4004faf64f24ead70f2b1aa5b365ba4073f53a",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/尚未适配/template15.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-fd0de906bf50",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "其他 · template18",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-fd0de906bf50.json",
+      "previewPath": "previews/templates/aiwritex-html-fd0de906bf50.jpg",
+      "byteSize": 17436,
+      "previewByteSize": 51430,
+      "sha256": "680df86051649a01b299a13ef57f4ef4883b931fa9cbcaa113e27a8eaf6f1538",
+      "previewSha256": "ab916ed583600d2abe9ba1bed64d0a4b853c953e099a543e83bd1de86d1838f8",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/尚未适配/template18.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-e00f36e1c367",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "其他 · template21",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-e00f36e1c367.json",
+      "previewPath": "previews/templates/aiwritex-html-e00f36e1c367.jpg",
+      "byteSize": 21235,
+      "previewByteSize": 47702,
+      "sha256": "220601b34c2538434eb820523c72c5bde6010dbdc671131316bf61b2239a75f8",
+      "previewSha256": "1731e966f6e7c2001d74c23aa245f05ed996586843cd8e828ef6cc8f080e2bcc",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/尚未适配/template21.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-ab5aa1f8e36c",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "特朗普：洛杉矶骚乱是\"外国入侵\"",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-ab5aa1f8e36c.json",
+      "previewPath": "previews/templates/aiwritex-html-ab5aa1f8e36c.jpg",
+      "byteSize": 24752,
+      "previewByteSize": 52948,
+      "sha256": "9291f457b43cad785ec213a947d1b0f11f9013123bb2702e0d5cb659297d6453",
+      "previewSha256": "d368e3b4032885166c3a966a993958c0e74ca60888811d5bb4dd744753087c03",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/尚未适配/template22.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-b264aa657bb7",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "本周热点 - 全球视角",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-b264aa657bb7.json",
+      "previewPath": "previews/templates/aiwritex-html-b264aa657bb7.jpg",
+      "byteSize": 21665,
+      "previewByteSize": 49150,
+      "sha256": "2b7478b3368bfd6db249f71f7be7e1dfcde4b5f736e4834fc5f2a070d32510a3",
+      "previewSha256": "e1912096295b2b814f032fa95cffd8cb9be0fe390a746c72b4fe113df7c148c5",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/尚未适配/template25.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-1ed22d77e9ba",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "星辰大学周报",
+      "description": "适用于其他的 HTML 排版示例。",
+      "tags": [
+        "其他"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-1ed22d77e9ba.json",
+      "previewPath": "previews/templates/aiwritex-html-1ed22d77e9ba.jpg",
+      "byteSize": 23489,
+      "previewByteSize": 51690,
+      "sha256": "83e194df67e83377a76e958ce0830cc6d7bf351d82f4b3d4dd35a3579171636a",
+      "previewSha256": "6f0e5cf15ed5763abcf256923ea339a1280754c3267a8170b9d89a614a241d63",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "sourcePath": "HTML模板/尚未适配/template26.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-9e6a899e7014",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "情感与心理的平衡艺术",
+      "description": "适用于情感心理的 HTML 排版示例。",
+      "tags": [
+        "情感心理"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-9e6a899e7014.json",
+      "previewPath": "previews/templates/aiwritex-html-9e6a899e7014.jpg",
+      "byteSize": 28671,
+      "previewByteSize": 14815,
+      "sha256": "5cb7638a82adaf95758424f2107838fd1517358837c0c3a25f052e6f0a8a648f",
+      "previewSha256": "24d6f636ce57e3574cf384acb1542664bb7a3fb49a2ef0bd9abc47b3ae5699b3",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "情感心理",
+        "compatible": true,
+        "sourcePath": "HTML模板/情感心理/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-d1220d0fcf3d",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "那些年：数十载的光阴画卷",
+      "description": "适用于情感心理的 HTML 排版示例。",
+      "tags": [
+        "情感心理"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-d1220d0fcf3d.json",
+      "previewPath": "previews/templates/aiwritex-html-d1220d0fcf3d.jpg",
+      "byteSize": 13250,
+      "previewByteSize": 49041,
+      "sha256": "78985e04bd61f7a6626f3fd0acb2a03df9833d2d83aacd182500fc8ac0e5dda9",
+      "previewSha256": "06f44303c79a751d79c3b56b63d330de2ba58dcbac15e06ef4e719578634e943",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "情感心理",
+        "compatible": true,
+        "sourcePath": "HTML模板/情感心理/散文连环画.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-313463a17e1e",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "教育学习 · t1",
+      "description": "适用于教育学习的 HTML 排版示例。",
+      "tags": [
+        "教育学习"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-313463a17e1e.json",
+      "previewPath": "previews/templates/aiwritex-html-313463a17e1e.jpg",
+      "byteSize": 26712,
+      "previewByteSize": 54484,
+      "sha256": "cbdd891e5d8a0b4b74c614d0afad95491f7b207e08f9fa54880c1b16a1a1628d",
+      "previewSha256": "90fd77aab29ee7a3cedc61df5b5db475b872318927d4be365f3ab98a66024e6c",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "sourcePath": "HTML模板/教育学习/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-8722b23d6019",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "全球视野",
+      "description": "适用于新闻时事的 HTML 排版示例。",
+      "tags": [
+        "新闻时事"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-8722b23d6019.json",
+      "previewPath": "previews/templates/aiwritex-html-8722b23d6019.jpg",
+      "byteSize": 22970,
+      "previewByteSize": 55533,
+      "sha256": "9c38b6f4e0c9d6d68dc4f39e223357c4e6c1ed301f35746c88df7b03d65bc7a9",
+      "previewSha256": "931982f8cdd044e8c95348007275d8323345e95c57f609abe1536a0f0fe6d657",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "sourcePath": "HTML模板/新闻时事/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-f5eee48b2a81",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "当代生活美学",
+      "description": "适用于时尚生活的 HTML 排版示例。",
+      "tags": [
+        "时尚生活"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-f5eee48b2a81.json",
+      "previewPath": "previews/templates/aiwritex-html-f5eee48b2a81.jpg",
+      "byteSize": 31573,
+      "previewByteSize": 55204,
+      "sha256": "cd11b6a8423df1249680099f4101d96b07b15287b13846748df50172d6355d68",
+      "previewSha256": "0d2f18d863456a394a0e4401bd31c2c9da3d22ba9f9dd5224f877f435dd7cf0d",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "时尚生活",
+        "compatible": true,
+        "sourcePath": "HTML模板/时尚生活/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-3ac31a8c292c",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "科技数码 · t1",
+      "description": "适用于科技数码的 HTML 排版示例。",
+      "tags": [
+        "科技数码"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-3ac31a8c292c.json",
+      "previewPath": "previews/templates/aiwritex-html-3ac31a8c292c.jpg",
+      "byteSize": 26924,
+      "previewByteSize": 56727,
+      "sha256": "96ee987a8a6d7adc6f887412cd8501f1372fd075822dc15c510bc78fcf86b08d",
+      "previewSha256": "237a07b6edb0aa8d2f0f7ffb9db748989a2e545d38cb385de7f1f4c9bae67d7f",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "sourcePath": "HTML模板/科技数码/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-9f2e6aa8cb0c",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "寻味之旅 | 探索城市里的美食秘境",
+      "description": "适用于美食旅行的 HTML 排版示例。",
+      "tags": [
+        "美食旅行"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-9f2e6aa8cb0c.json",
+      "previewPath": "previews/templates/aiwritex-html-9f2e6aa8cb0c.jpg",
+      "byteSize": 27544,
+      "previewByteSize": 54499,
+      "sha256": "2e03d1a60eb955832c2b1add1dd1d30e2720b22599592a13c03d156ab474ca9f",
+      "previewSha256": "41decd2b27cabd16bedf4808a61d8671f5300e5281e49c94e6c5f97dbef7736a",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "sourcePath": "HTML模板/美食旅行/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-51277cdd70b7",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "立夏时节 | 回望北京的春天",
+      "description": "适用于美食旅行的 HTML 排版示例。",
+      "tags": [
+        "美食旅行"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-51277cdd70b7.json",
+      "previewPath": "previews/templates/aiwritex-html-51277cdd70b7.jpg",
+      "byteSize": 19809,
+      "previewByteSize": 54947,
+      "sha256": "2f0b443ba940e20fcd9004abcbd97830ecae4459d56dcb748dd406dd212851d1",
+      "previewSha256": "b4bddd115b9b0cd6958108816067704b7dbda4e95bec395661e0fbc0f4ec8746",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "sourcePath": "HTML模板/美食旅行/t2_0.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-48a9d0084bfe",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "立夏时节 | 回望北京的春天",
+      "description": "适用于美食旅行的 HTML 排版示例。",
+      "tags": [
+        "美食旅行"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-48a9d0084bfe.json",
+      "previewPath": "previews/templates/aiwritex-html-48a9d0084bfe.jpg",
+      "byteSize": 19818,
+      "previewByteSize": 54947,
+      "sha256": "b8d95450c3a565c8e356ccbc13d49b6461c229b6ef4171bd0095783e58fd9274",
+      "previewSha256": "b4bddd115b9b0cd6958108816067704b7dbda4e95bec395661e0fbc0f4ec8746",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "sourcePath": "HTML模板/美食旅行/t2_1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-18137d753aff",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "立夏时节 | 回望北京的春天",
+      "description": "适用于美食旅行的 HTML 排版示例。",
+      "tags": [
+        "美食旅行"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-18137d753aff.json",
+      "previewPath": "previews/templates/aiwritex-html-18137d753aff.jpg",
+      "byteSize": 19914,
+      "previewByteSize": 37504,
+      "sha256": "34d12871d94d2852591a6726b55074dcacf06bb8d237c6d3da24c26b6f10ca22",
+      "previewSha256": "d57302052e9ea30c933dfac1580fc560dfd4e93e23ae1272371782fc64fd437e",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "sourcePath": "HTML模板/美食旅行/t2_2.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-6e26b9b87264",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "职场进阶之道",
+      "description": "适用于职场发展的 HTML 排版示例。",
+      "tags": [
+        "职场发展"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-6e26b9b87264.json",
+      "previewPath": "previews/templates/aiwritex-html-6e26b9b87264.jpg",
+      "byteSize": 23003,
+      "previewByteSize": 51967,
+      "sha256": "8f8c95deda4cc1fa3edab6e02d3a978f557532f787c10ed87735ae5eeaa567ef",
+      "previewSha256": "16a39535ed0b988a69c5eff765f369526766d269ab6da1b61970603fea051104",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "职场发展",
+        "compatible": true,
+        "sourcePath": "HTML模板/职场发展/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "aiwritex-html-3b542ae5c377",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "财经投资 · t1",
+      "description": "适用于财经投资的 HTML 排版示例。",
+      "tags": [
+        "财经投资"
+      ],
+      "assetPath": "assets/templates/aiwritex-html-3b542ae5c377.json",
+      "previewPath": "previews/templates/aiwritex-html-3b542ae5c377.jpg",
+      "byteSize": 23176,
+      "previewByteSize": 64681,
+      "sha256": "4863d7b37682c59c826350fcbedd47143679d644762b9bfd19edf91fb0b873d3",
+      "previewSha256": "f03f8e4d19f8986e6924b2e645a0a3949291e915b3c701c36fab9e9ed222823d",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "source-original",
+      "licenseURL": "",
+      "attribution": "AIWriteX 模板素材",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "sourcePath": "HTML模板/财经投资/t1.html",
+        "adaptation": "portable-html-v1"
+      }
+    },
+    {
+      "id": "cw-html-wechat-teal",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "青绿解读",
+      "description": "白底青绿 · 左齐标题 · 连续正文",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-wechat-teal.json",
+      "previewPath": "previews/templates/cw-html-wechat-teal.jpg",
+      "byteSize": 16798,
+      "previewByteSize": 61350,
+      "sha256": "f9a47b3068778e2487808f623a2e934d69d864100ca19f4f1d88c8dc0fe3388f",
+      "previewSha256": "4af9eeb33ee23b5a02f408fbeacd65c610168032c0bfa680c073cf29e9ac494a",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "wechat-teal"
+      }
+    },
+    {
+      "id": "cw-html-wechat-clarity",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "公众号清晰解读",
+      "description": "青绿导语 · 珊瑚章节 · 开放正文",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-wechat-clarity.json",
+      "previewPath": "previews/templates/cw-html-wechat-clarity.jpg",
+      "byteSize": 15635,
+      "previewByteSize": 56078,
+      "sha256": "d674a827b1ea74f2c158d096dc6ec177ab9fd9f1ef20ee9081ee9a69998d2349",
+      "previewSha256": "e9750fa6ec8e37f56ffe0002c824876e57822855b3a58e1008f2e8aaa5e1da17",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "wechat-clarity"
+      }
+    },
+    {
+      "id": "cw-html-knowledge",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "清爽知识型",
+      "description": "摘要要点 · 递进章节",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-knowledge.json",
+      "previewPath": "previews/templates/cw-html-knowledge.jpg",
+      "byteSize": 15445,
+      "previewByteSize": 61579,
+      "sha256": "98c0cc68fee5e9fa1122aeae864f67e8d20f785c36fc0c5ee20eaecd5524d29a",
+      "previewSha256": "9bf1b6d81f6ddf8509d3a26fdb1fe2e27b8c5853d47276d8caaeb5b29d5d0a6e",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "knowledge"
+      }
+    },
+    {
+      "id": "cw-html-magazine",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "品牌杂志型",
+      "description": "大标题 · 编辑引语",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-magazine.json",
+      "previewPath": "previews/templates/cw-html-magazine.jpg",
+      "byteSize": 15214,
+      "previewByteSize": 64293,
+      "sha256": "336e1f413f0c8d0480650f92db5c6d27afbfb5a9a2a0b496662d73eed0ba209e",
+      "previewSha256": "4a5d299bedac43b1621321dc3ac40836758870f1f1ee17ca93d80dcb4713e5bc",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "magazine"
+      }
+    },
+    {
+      "id": "cw-html-story",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "温暖故事型",
+      "description": "场景引子 · 人物引语",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-story.json",
+      "previewPath": "previews/templates/cw-html-story.jpg",
+      "byteSize": 15449,
+      "previewByteSize": 61767,
+      "sha256": "3a1d309a38adf6e29c34e30de33f25b604afeeeeb94094bebf21da6195734ab2",
+      "previewSha256": "ee870cb83ba287411fb3bd96c1f7174ca1e4538758cf777c9137b1b813b8c445",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "story"
+      }
+    },
+    {
+      "id": "cw-html-minimal",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "极简现代型",
+      "description": "尺寸反差 · 严格对齐",
+      "tags": [
+        "职场发展",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-minimal.json",
+      "previewPath": "previews/templates/cw-html-minimal.jpg",
+      "byteSize": 15031,
+      "previewByteSize": 58377,
+      "sha256": "2dfcae690709a94320dd081c4e074d7010dfcbf687e00f0f2ba06f7404029d91",
+      "previewSha256": "668560953dd3226fd351de89327758c97c3c6e8383fa48e93b0c519d71ff0256",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "职场发展",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "minimal"
+      }
+    },
+    {
+      "id": "cw-html-opinion",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "观点评论型",
+      "description": "观点宣言 · 论据摘要",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-opinion.json",
+      "previewPath": "previews/templates/cw-html-opinion.jpg",
+      "byteSize": 15503,
+      "previewByteSize": 69035,
+      "sha256": "a2327a95aa1367c4a5e386e8c649dea2d6b97b9111273e5f600b4116aa688436",
+      "previewSha256": "c8a4b3b4da3bc52c6f944032d6ebe41042c34931d809648c7e3424102aded815",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "opinion"
+      }
+    },
+    {
+      "id": "cw-html-guide",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "实用指南型",
+      "description": "编号步骤 · 完成检查",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-guide.json",
+      "previewPath": "previews/templates/cw-html-guide.jpg",
+      "byteSize": 15320,
+      "previewByteSize": 63416,
+      "sha256": "afdb1b82bebcc448e61285baf4f6fc587ca39bd95b2d001794a46cce113b188c",
+      "previewSha256": "faa9879e9e17bfd28455176d87f3fbec275354f87f07d734578e3955bb3f492e",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "guide"
+      }
+    },
+    {
+      "id": "cw-html-report",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "数据报告型",
+      "description": "事实分析 · 方法结论",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-report.json",
+      "previewPath": "previews/templates/cw-html-report.jpg",
+      "byteSize": 15568,
+      "previewByteSize": 65344,
+      "sha256": "808f2bd2b98e569fb0b51fd3483e9fa0c247314de1d4ba6c9f561690f9128bf8",
+      "previewSha256": "acadcbb33ae4cf1e5323839d2830f5af23db10ddd2528c25d657104f34769fcb",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "report"
+      }
+    },
+    {
+      "id": "cw-html-warm-feature",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "暖金专题型",
+      "description": "章节序号 · 浅金重点",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-warm-feature.json",
+      "previewPath": "previews/templates/cw-html-warm-feature.jpg",
+      "byteSize": 15343,
+      "previewByteSize": 65900,
+      "sha256": "d71b93e6e84eb26fa5947fae7e445c0bea3e7424a3e31cc21af9dbdd89cc5a9d",
+      "previewSha256": "40171e48fffacb568b597979300158a907cca9b05c7da7438dd56cae4188b7e6",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "warm-feature"
+      }
+    },
+    {
+      "id": "cw-html-essay",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "人文随笔型",
+      "description": "安静题记 · 长短段落",
+      "tags": [
+        "娱乐八卦",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-essay.json",
+      "previewPath": "previews/templates/cw-html-essay.jpg",
+      "byteSize": 14901,
+      "previewByteSize": 59248,
+      "sha256": "74b9ce1cbd5d234fcdbc338f4d8a00f2b89f27ea54d4ac0f7bae7d95dabf62c2",
+      "previewSha256": "aaed75d65644a67d3f77e411b72ab10c0312e619b1df7570dc97c4b2e2b07596",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "娱乐八卦",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "essay"
+      }
+    },
+    {
+      "id": "cw-html-dark-editorial",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "黑金序号型",
+      "description": "黑金章节 · 连续深色",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-dark-editorial.json",
+      "previewPath": "previews/templates/cw-html-dark-editorial.jpg",
+      "byteSize": 15237,
+      "previewByteSize": 69542,
+      "sha256": "a88abc7bdfc0d1fa2be2b5a16790919c0264be9821c5de71efcbcc4cf6618106",
+      "previewSha256": "ecd060992bb0805543f3f5d1658a05b8403dfcc4d6a92419854a5ab30191593e",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "dark-editorial"
+      }
+    },
+    {
+      "id": "cw-html-civic-explainer",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "民生解读型",
+      "description": "金色标题 · 实用清单",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-civic-explainer.json",
+      "previewPath": "previews/templates/cw-html-civic-explainer.jpg",
+      "byteSize": 15563,
+      "previewByteSize": 60622,
+      "sha256": "86258eae8d40f179564b3c1d199cbb1ef064e30cf39e56edcba0ab243c26442c",
+      "previewSha256": "0f61605458af707cef8b2eae0b48f2ab00173e10a5cb8067c3c14d9919b86566",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "civic-explainer"
+      }
+    },
+    {
+      "id": "cw-html-tech-briefing",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "科技公告型",
+      "description": "浅蓝摘要 · 深色行动",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-tech-briefing.json",
+      "previewPath": "previews/templates/cw-html-tech-briefing.jpg",
+      "byteSize": 15496,
+      "previewByteSize": 66479,
+      "sha256": "b52f55e35ab56da14589ee589265b80470f5a4db7514375b4067387b84911691",
+      "previewSha256": "c66eca7c57d45519807574e18727e28c421ea7ec2f2a673f6a2c19d6ed9812b6",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "tech-briefing"
+      }
+    },
+    {
+      "id": "cw-html-bluegray-growth",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "蓝灰成长文",
+      "description": "蓝灰小节 · 居中金句 · 轻卡互动",
+      "tags": [
+        "情感心理",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-bluegray-growth.json",
+      "previewPath": "previews/templates/cw-html-bluegray-growth.jpg",
+      "byteSize": 16617,
+      "previewByteSize": 57121,
+      "sha256": "48df7afa4eb27e82398f4113862426801429a299185b00b9f41b0dd2799a2e7c",
+      "previewSha256": "958c4081820c0cc5792b46cf944ae6de0302515aef769998db205e2fae50b6f7",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "情感心理",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "bluegray-growth"
+      }
+    },
+    {
+      "id": "cw-html-apricot-healing",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "暖杏疗愈文",
+      "description": "暖杏导语 · 便签重点 · 柔和收束",
+      "tags": [
+        "情感心理",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-apricot-healing.json",
+      "previewPath": "previews/templates/cw-html-apricot-healing.jpg",
+      "byteSize": 15874,
+      "previewByteSize": 61331,
+      "sha256": "3474801c48d22db86b0f58f948761509c10320100cfa690900947172e829ed88",
+      "previewSha256": "52bc768dec286c265022f7d8ffb5cc4485c99f419e136f5b228c67cca432ce57",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "情感心理",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "apricot-healing"
+      }
+    },
+    {
+      "id": "cw-html-rose-selflove",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "玫瑰自爱文",
+      "description": "玫瑰题签 · 自爱清单 · 轻奢互动",
+      "tags": [
+        "情感心理",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-rose-selflove.json",
+      "previewPath": "previews/templates/cw-html-rose-selflove.jpg",
+      "byteSize": 16028,
+      "previewByteSize": 60654,
+      "sha256": "09537b6a1460e6091c5c13d1468c7d55f3c16c828670c6a66da262fff8249eb6",
+      "previewSha256": "6a9da6680590b55c91209482142ae91a9e5c6d602b9629f1758658b32ee03995",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "情感心理",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "rose-selflove"
+      }
+    },
+    {
+      "id": "cw-html-sage-calm",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "墨绿松弛文",
+      "description": "墨绿留白 · 安静小节 · 稳定清单",
+      "tags": [
+        "情感心理",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-sage-calm.json",
+      "previewPath": "previews/templates/cw-html-sage-calm.jpg",
+      "byteSize": 16085,
+      "previewByteSize": 59544,
+      "sha256": "6917010637152a20f4e843bbd89b7e0a34ccccb4481c02360bc6595388e3bbe4",
+      "previewSha256": "4287f16cd876bc779e885edaf6a9476ee255e7eefe58fde38721f7205aae9c0d",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "情感心理",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "sage-calm"
+      }
+    },
+    {
+      "id": "cw-html-postpartum-pink-gold",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "粉金妇幼科普",
+      "description": "关注横幅 · 粉色导语 · 金棕章节",
+      "tags": [
+        "健康养生",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-postpartum-pink-gold.json",
+      "previewPath": "previews/templates/cw-html-postpartum-pink-gold.jpg",
+      "byteSize": 17441,
+      "previewByteSize": 63080,
+      "sha256": "36b45e1eb062b5f1fed886706ffab60acc858f4011bef01de78e3a9d83a72009",
+      "previewSha256": "832818daafd0f2cd1296bb63e6bb227e2f18c7c49a8ebd595dbcd91699ab5613",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "健康养生",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "postpartum-pink-gold"
+      }
+    },
+    {
+      "id": "cw-html-maternal-clinic-brief",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "妇幼门诊说明",
+      "description": "门诊说明 · 资料模块 · 专家信息",
+      "tags": [
+        "健康养生",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-maternal-clinic-brief.json",
+      "previewPath": "previews/templates/cw-html-maternal-clinic-brief.jpg",
+      "byteSize": 16244,
+      "previewByteSize": 62220,
+      "sha256": "852d69cec70e3ff9ee8692d5dc7ac1f494287c80c544ccc3edcf1b1a376cbd12",
+      "previewSha256": "861d9d8813b45b63fd871827de66dc96182d14f5c2be88c3927d55ea3ab640ca",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "健康养生",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "maternal-clinic-brief"
+      }
+    },
+    {
+      "id": "cw-html-recovery-checklist",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "康复清单科普",
+      "description": "时间窗口 · 项目清单 · 风险提醒",
+      "tags": [
+        "健康养生",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-recovery-checklist.json",
+      "previewPath": "previews/templates/cw-html-recovery-checklist.jpg",
+      "byteSize": 16086,
+      "previewByteSize": 63850,
+      "sha256": "1b957595278c1d3025764f27e6ac768b353f7b7229e62e9e1c3e6b85d31777c7",
+      "previewSha256": "3f4104ecb1edbcfb109175630961ee25d89b0b3c5b0cf31cd85bc029e6eef39c",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "健康养生",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "recovery-checklist"
+      }
+    },
+    {
+      "id": "cw-html-ai-workflow-lab",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "AI工作流实录",
+      "description": "紫色大编号 · 暗色终端块 · 截图说明",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-ai-workflow-lab.json",
+      "previewPath": "previews/templates/cw-html-ai-workflow-lab.jpg",
+      "byteSize": 16588,
+      "previewByteSize": 57020,
+      "sha256": "81733281283fc4c813e15de0073138a0c30fe05e514b835d611d43e08114c162",
+      "previewSha256": "9c757c833a3ee6dbdad3a76b8f9b85cfc7db1108569431ad77fab317c5ed8905",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "ai-workflow-lab"
+      }
+    },
+    {
+      "id": "cw-html-toolchain-briefing",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "工具链复盘",
+      "description": "链路说明 · 能力列表 · 安装步骤",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-toolchain-briefing.json",
+      "previewPath": "previews/templates/cw-html-toolchain-briefing.jpg",
+      "byteSize": 16368,
+      "previewByteSize": 66732,
+      "sha256": "5c5e76428c902dbf751a5a07e1ed1894606d8077dc5419ec59c23d4cb852f10f",
+      "previewSha256": "0cf033c4f87ffc97c794bcff0fb669d4b198c4319664f30fe0b528054ac34b97",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "toolchain-briefing"
+      }
+    },
+    {
+      "id": "cw-html-data-case-study",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "数据案例笔记",
+      "description": "数据卡片 · 案例截图 · 结论链路",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-data-case-study.json",
+      "previewPath": "previews/templates/cw-html-data-case-study.jpg",
+      "byteSize": 16224,
+      "previewByteSize": 62938,
+      "sha256": "7a6bbefe12998755052ac725e4995474cccff6276ca4cf108b5ad2692871fbbf",
+      "previewSha256": "abca7f6252a890aa783a736900212e6b1d926d2c2e74e5d6f540b137cfa33833",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "data-case-study"
+      }
+    },
+    {
+      "id": "cw-html-atelier-opinion-stage",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "赤色观点海报",
+      "description": "大字题头 · 红色章节 · 线框引语",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-opinion-stage.json",
+      "previewPath": "previews/templates/cw-html-atelier-opinion-stage.jpg",
+      "byteSize": 17595,
+      "previewByteSize": 78312,
+      "sha256": "39ed61a31ba4878c664aebbef8df6294bb39d0eb4caf35c2b2a5976db6bce545",
+      "previewSha256": "271e38e6571b4d27023a4e81baeb791117333095ba37c5761f93192be0b4f9f9",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-opinion-stage"
+      }
+    },
+    {
+      "id": "cw-html-atelier-catalog-3-3-center-poster",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "焦点公告",
+      "description": "居中题头 · 橄榄顶线 · 公告清单",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-catalog-3-3-center-poster.json",
+      "previewPath": "previews/templates/cw-html-atelier-catalog-3-3-center-poster.jpg",
+      "byteSize": 17668,
+      "previewByteSize": 69568,
+      "sha256": "cb2ad76de2f6b348b3b347c3b238abcbccad50cf464ab3f36bfa39f340a7cfdc",
+      "previewSha256": "91ef7242df7ad1ca205fce978e4c8f9f789c6d7161a4780a2acb876588cc9c64",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-catalog-3-3-center-poster"
+      }
+    },
+    {
+      "id": "cw-html-atelier-tech-briefing-offset",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "科技观察",
+      "description": "错位题头 · 蓝色轨道 · 清晰表格",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-tech-briefing-offset.json",
+      "previewPath": "previews/templates/cw-html-atelier-tech-briefing-offset.jpg",
+      "byteSize": 17418,
+      "previewByteSize": 68594,
+      "sha256": "9d0e22e887b99c41936154eef4c3818b89a9e7b28fb3825192d93061a24beaac",
+      "previewSha256": "fbe1e970ba5cb1fc6e6fcd4b23ff877965021eedfd7154e3cb833db6a43029ea",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-tech-briefing-offset"
+      }
+    },
+    {
+      "id": "cw-html-atelier-opinion-manifesto",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "观点宣言",
+      "description": "宣言标题 · 论点大字 · 克制红线",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-opinion-manifesto.json",
+      "previewPath": "previews/templates/cw-html-atelier-opinion-manifesto.jpg",
+      "byteSize": 17572,
+      "previewByteSize": 75396,
+      "sha256": "b53b300836938f129c1ef1028ab92a4e39835e4a4ab192210540e7e7206a2ac5",
+      "previewSha256": "e5df097864573a37043879c57f859d71a91f85d80e1eda8433eff2098ac001e7",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-opinion-manifesto"
+      }
+    },
+    {
+      "id": "cw-html-atelier-catalog-3-4-graphic-poster",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "图形公告",
+      "description": "错位图形题头 · 双区章节 · 公告尾线",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-catalog-3-4-graphic-poster.json",
+      "previewPath": "previews/templates/cw-html-atelier-catalog-3-4-graphic-poster.jpg",
+      "byteSize": 17568,
+      "previewByteSize": 64831,
+      "sha256": "96d270cda4bd2172de0f580566fb51d9105ea0260a6d02ec3087deca6a6a9e65",
+      "previewSha256": "6e999c753730e2bef7f613d16691e4a36e8e518083ba61fc79920ffe3e78aec1",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-catalog-3-4-graphic-poster"
+      }
+    },
+    {
+      "id": "cw-html-atelier-civic-explainer-gazette",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "城市民生报",
+      "description": "报头双线 · 民生正文 · 简洁结语",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-civic-explainer-gazette.json",
+      "previewPath": "previews/templates/cw-html-atelier-civic-explainer-gazette.jpg",
+      "byteSize": 17900,
+      "previewByteSize": 74637,
+      "sha256": "54cd0e47543efa27c92e3761494fa052ffdda1d634c3fce0a2c39add76663a7a",
+      "previewSha256": "eb00858481dbae0962340bf72654c8c018e1345cad484c20290bca4265d64dc0",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-civic-explainer-gazette"
+      }
+    },
+    {
+      "id": "cw-html-atelier-report-data",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "数据焦点",
+      "description": "聚焦导语 · 蓝色数据带 · 表格报告",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-report-data.json",
+      "previewPath": "previews/templates/cw-html-atelier-report-data.jpg",
+      "byteSize": 17718,
+      "previewByteSize": 74592,
+      "sha256": "e91a8c896e4a6272dcadfbfd0286d20a629a089de0b9ec62125efb860cb829f4",
+      "previewSha256": "754634e234be866f84ea6b999856c573810e408e6956fd70c5ebf40079db6dd5",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-report-data"
+      }
+    },
+    {
+      "id": "cw-html-atelier-report-data-ledger",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "研究纪要",
+      "description": "纪要刊头 · 表格索引 · 双线结论",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-report-data-ledger.json",
+      "previewPath": "previews/templates/cw-html-atelier-report-data-ledger.jpg",
+      "byteSize": 17929,
+      "previewByteSize": 70790,
+      "sha256": "df8481d07e3e321b763d7df10d800ee37f5b2aec9eb0a5b624ca15bad131fc4f",
+      "previewSha256": "3573fea1bd5f3a469ce994856df3b44427fd2629d4e077969797704b1e296aaf",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-report-data-ledger"
+      }
+    },
+    {
+      "id": "cw-html-atelier-report-dossier",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "专题档案",
+      "description": "卷宗题签 · 索引下划线 · 档案结语",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-report-dossier.json",
+      "previewPath": "previews/templates/cw-html-atelier-report-dossier.jpg",
+      "byteSize": 18142,
+      "previewByteSize": 71427,
+      "sha256": "1e24e25e4a74ea5b6ce1177ed09b5dc280f5377d5917a4a4e8d2978e1ed878b7",
+      "previewSha256": "fa8a3ea677759c828488a829414f019423fa8a03e8a551a9d3b42342b0f97f36",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-report-dossier"
+      }
+    },
+    {
+      "id": "cw-html-atelier-story-feature",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "街巷纪事",
+      "description": "影像引子 · 暖棕章节 · 人物引语",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-story-feature.json",
+      "previewPath": "previews/templates/cw-html-atelier-story-feature.jpg",
+      "byteSize": 16799,
+      "previewByteSize": 67205,
+      "sha256": "a5a6a57607f76105d54b5d13332fc7b321c729b2cfd808c4c69c7b9ef7ee2bda",
+      "previewSha256": "8f9dd290126b45e091c83fb6219a10a07b77d456257696b5db193fc2d614bb56",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-story-feature"
+      }
+    },
+    {
+      "id": "cw-html-atelier-catalog-10-7-folio",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "代码札记",
+      "description": "等宽刊头 · 青色注记 · 连续正文",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-catalog-10-7-folio.json",
+      "previewPath": "previews/templates/cw-html-atelier-catalog-10-7-folio.jpg",
+      "byteSize": 17360,
+      "previewByteSize": 68715,
+      "sha256": "71096608a529272dd772492d48669bc5878a38239d57b4fef5d858950355471f",
+      "previewSha256": "427756e06b8fefcb32af4ea77f1b94005732661e39984bf24ebb0e06cacc2b29",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-catalog-10-7-folio"
+      }
+    },
+    {
+      "id": "cw-html-atelier-knowledge-chapter-front",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "阅读章节",
+      "description": "章节扉页 · 清晰正文 · 绿色引语框",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-knowledge-chapter-front.json",
+      "previewPath": "previews/templates/cw-html-atelier-knowledge-chapter-front.jpg",
+      "byteSize": 17608,
+      "previewByteSize": 63250,
+      "sha256": "cf7ed4a4c15e352d862f6d7912d09f0403eab68bdd002811b40debb034b61d9c",
+      "previewSha256": "3baf7768f4b170eddcfa4b9faa51f9e1d6ddf4ba3423bee49f638c857bb732ba",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-knowledge-chapter-front"
+      }
+    },
+    {
+      "id": "cw-html-atelier-knowledge-timeline",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "学习路径",
+      "description": "路径题头 · 章节节点 · 蓝色收束",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-knowledge-timeline.json",
+      "previewPath": "previews/templates/cw-html-atelier-knowledge-timeline.jpg",
+      "byteSize": 18086,
+      "previewByteSize": 61858,
+      "sha256": "915c15e44fda394d8eca2374d2e47fd6e3cdec580d15ef91bcc637c1f2ebfa46",
+      "previewSha256": "0c06ed389e486ffdfa017f894600ec187527b78e00a140d363208137512f2c64",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-knowledge-timeline"
+      }
+    },
+    {
+      "id": "cw-html-atelier-minimal-poem",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "静读诗页",
+      "description": "右置题签 · 窄幅正文 · 安静收尾",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-minimal-poem.json",
+      "previewPath": "previews/templates/cw-html-atelier-minimal-poem.jpg",
+      "byteSize": 16861,
+      "previewByteSize": 54356,
+      "sha256": "58335835881669bf7a1ab167a9c3959b92cf05925a3fd8a34aca4dfabca677ca",
+      "previewSha256": "6c3bf98c41854311fb364d6a56d3943b1d69403c21939be44ab4c07d8f2fa18a",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-minimal-poem"
+      }
+    },
+    {
+      "id": "cw-html-atelier-essay-side-note",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "页边随笔",
+      "description": "页边引语 · 棕色短线 · 衬线正文",
+      "tags": [
+        "娱乐八卦",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-essay-side-note.json",
+      "previewPath": "previews/templates/cw-html-atelier-essay-side-note.jpg",
+      "byteSize": 17027,
+      "previewByteSize": 60813,
+      "sha256": "04e34778ae608704752452d1b208a582fafbacfcfbcb403d4430623e217454b6",
+      "previewSha256": "494cccb27a5923ad3614fab30053b0028a3c56ed86ef5a19e06007e026416451",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "娱乐八卦",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-essay-side-note"
+      }
+    },
+    {
+      "id": "cw-html-atelier-essay-long-letter",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "一封长信",
+      "description": "书信题签 · 内缩长文 · 自然落款",
+      "tags": [
+        "娱乐八卦",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-essay-long-letter.json",
+      "previewPath": "previews/templates/cw-html-atelier-essay-long-letter.jpg",
+      "byteSize": 16714,
+      "previewByteSize": 60636,
+      "sha256": "82a3202c6cede4d5a082ab278153035f021efb28331a772cd27987368f2ecdae",
+      "previewSha256": "086edc7e7d8f129044bbced3484b6e7e0331712ab1909209d85edaa3edc9fd72",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "娱乐八卦",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-essay-long-letter"
+      }
+    },
+    {
+      "id": "cw-html-atelier-essay-columnist",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "人物侧写",
+      "description": "右置刊题 · 人物引语 · 连续长文",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-essay-columnist.json",
+      "previewPath": "previews/templates/cw-html-atelier-essay-columnist.jpg",
+      "byteSize": 17193,
+      "previewByteSize": 64932,
+      "sha256": "cbfe6ddd4489107168068a6c23c5221b0e58188cf655b4eebfa03f4e51e8c2ea",
+      "previewSha256": "2fa1bdafd3a59ad9fd2176fcbac42441792deed1b6090ffeb73e1ab19173fa96",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-essay-columnist"
+      }
+    },
+    {
+      "id": "cw-html-atelier-report-exhibit",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "数据展签",
+      "description": "展签题头 · 米金表格 · 留白结语",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-report-exhibit.json",
+      "previewPath": "previews/templates/cw-html-atelier-report-exhibit.jpg",
+      "byteSize": 17474,
+      "previewByteSize": 61891,
+      "sha256": "68f662eefb7d8c06630e75e30990b342c31a0e439d1d113833cc3424ea715ef0",
+      "previewSha256": "1dc08f9abe39329a987de14db047cf58a4b32dd379901e5f5fba7d2170aba61d",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-report-exhibit"
+      }
+    },
+    {
+      "id": "cw-html-atelier-magazine-photo-spread",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "生活画册",
+      "description": "图文跨页 · 绿色大标题 · 自然留白",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-magazine-photo-spread.json",
+      "previewPath": "previews/templates/cw-html-atelier-magazine-photo-spread.jpg",
+      "byteSize": 17281,
+      "previewByteSize": 61700,
+      "sha256": "d78528f385780b5581ecded498d49e273d026869e0e9901d75e9cd0fc48b0f9c",
+      "previewSha256": "a0a4c0467525a0d1589882c12cc48e2208eabbeb0decf9000e14ceacb922cb43",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-magazine-photo-spread"
+      }
+    },
+    {
+      "id": "cw-html-atelier-magazine-atlas",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "草木图鉴",
+      "description": "图鉴封面 · 草绿章节 · 自然图片",
+      "tags": [
+        "娱乐八卦",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-magazine-atlas.json",
+      "previewPath": "previews/templates/cw-html-atelier-magazine-atlas.jpg",
+      "byteSize": 17829,
+      "previewByteSize": 66922,
+      "sha256": "6ee9f9ce9ae6796c0c9d24f96a95eaf041eea95e195c3b1e952a2d6caf4d9b3a",
+      "previewSha256": "2816bfbb8df53e986e693bf1eca201006c01a7b48be48c1a1bee82a0cea81a7b",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "娱乐八卦",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-magazine-atlas"
+      }
+    },
+    {
+      "id": "cw-html-atelier-magazine-photo-cover",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "影像封面刊",
+      "description": "影像封面 · 大幅配图 · 轻量正文",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-magazine-photo-cover.json",
+      "previewPath": "previews/templates/cw-html-atelier-magazine-photo-cover.jpg",
+      "byteSize": 17440,
+      "previewByteSize": 62852,
+      "sha256": "2c26ef4130cd7c5c4f40a6ec1c1a5d20f2215b0e4dec750908c8903bf6bd83c4",
+      "previewSha256": "7213fa255413d59aea352a4ae387df9d4e24d1f0f75e1cc33b989c3ecda5ba6a",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-magazine-photo-cover"
+      }
+    },
+    {
+      "id": "cw-html-atelier-story-photo-essay",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "旅途影记",
+      "description": "旅途影像 · 叙事段落 · 温暖尾线",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-story-photo-essay.json",
+      "previewPath": "previews/templates/cw-html-atelier-story-photo-essay.jpg",
+      "byteSize": 17637,
+      "previewByteSize": 61526,
+      "sha256": "bb1799115530b64b775678b6e374cc418a9176dc329b3b28d200e13a7eff2567",
+      "previewSha256": "a36d462595b9736742e2e871822affefaad2dadf0c063e3037c56972964a1dd7",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-story-photo-essay"
+      }
+    },
+    {
+      "id": "cw-html-atelier-knowledge-image-note",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "图说笔记",
+      "description": "图文对页 · 清楚注记 · 蓝色线框",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-knowledge-image-note.json",
+      "previewPath": "previews/templates/cw-html-atelier-knowledge-image-note.jpg",
+      "byteSize": 17645,
+      "previewByteSize": 63042,
+      "sha256": "01d86391cb7125cdbfe450d03871510e66ad35187657cb40e5aa667ebd89dea7",
+      "previewSha256": "867759e141703d6deb7ba4a31fb11478bb55b09b20f5d1c0fa1eb017ad9bcd5b",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-knowledge-image-note"
+      }
+    },
+    {
+      "id": "cw-html-atelier-magazine-diptych",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "双页相册",
+      "description": "双图展页 · 居中题签 · 相册留白",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-atelier-magazine-diptych.json",
+      "previewPath": "previews/templates/cw-html-atelier-magazine-diptych.jpg",
+      "byteSize": 17437,
+      "previewByteSize": 59754,
+      "sha256": "7c55cdae2f67f37c7f4e85a4a7fffe47997990765158716c2e8366b2dc6eb9c3",
+      "previewSha256": "9435f7f71571abffd1bcb6569c236af3295efc0a990373ef54274eaf6cf12c40",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "atelier-magazine-diptych"
+      }
+    },
+    {
+      "id": "cw-html-topic-education",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "教育·课堂笔记",
+      "description": "章节扉页 · 提纲导语 · 课堂引用",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-education.json",
+      "previewPath": "previews/templates/cw-html-topic-education.jpg",
+      "byteSize": 17102,
+      "previewByteSize": 65303,
+      "sha256": "3fbc1f4180c6a6200c467d4e51ee5c676e209f838d60648403cc863e84d8a847",
+      "previewSha256": "08002538cc93283a40e1f8780d71e9a06132d902c1e6ea13ff145b00171a3e90",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-education"
+      }
+    },
+    {
+      "id": "cw-html-topic-party",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "党政·政务简报",
+      "description": "公报题头 · 双线章节 · 要点摘要",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-party.json",
+      "previewPath": "previews/templates/cw-html-topic-party.jpg",
+      "byteSize": 16638,
+      "previewByteSize": 76298,
+      "sha256": "29ea49b0ade4991ec10612415fb445454ae72fcd56a8c9a825b2d9c5de03a7ae",
+      "previewSha256": "a541369e9a56a5ace86e019555053375ae061aa099f1cb1c0931aece6edaf732",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-party"
+      }
+    },
+    {
+      "id": "cw-html-topic-fire",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "消防·安全手册",
+      "description": "醒目题头 · 分色章节 · 提醒边框",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-fire.json",
+      "previewPath": "previews/templates/cw-html-topic-fire.jpg",
+      "byteSize": 17043,
+      "previewByteSize": 76973,
+      "sha256": "807dfa4c6d7093c204178d5cf6fbc08303065434393de84fa418a1befa2bf881",
+      "previewSha256": "01eda008587c6420f202107793c777960f8b8d2e48287dc6698cab50cbcc1422",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-fire"
+      }
+    },
+    {
+      "id": "cw-html-topic-recruitment",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "招聘·岗位公告",
+      "description": "分区开篇 · 条件清单 · 信息收束",
+      "tags": [
+        "职场发展",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-recruitment.json",
+      "previewPath": "previews/templates/cw-html-topic-recruitment.jpg",
+      "byteSize": 16640,
+      "previewByteSize": 71380,
+      "sha256": "cbceb66a13e0f768e27a577431d159e78f49a3ea725822299f33c7f6eb18bc18",
+      "previewSha256": "bb1c644af3608b3723429d3853faa09514b699e1f1f8a326ecad5f6d63ff8a95",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "职场发展",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-recruitment"
+      }
+    },
+    {
+      "id": "cw-html-topic-exam",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "考试·备考清单",
+      "description": "清单开篇 · 标记章节 · 重点框",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-exam.json",
+      "previewPath": "previews/templates/cw-html-topic-exam.jpg",
+      "byteSize": 17015,
+      "previewByteSize": 68898,
+      "sha256": "0d0a1d044e923d193897e0c8c347339c6d46918273fde513ec31db09f3274624",
+      "previewSha256": "65f1a4e14c2e06865aaa4b076e0192adb835c3db09c1a987b90de847bb759e26",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-exam"
+      }
+    },
+    {
+      "id": "cw-html-topic-training",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "培训·课程路径",
+      "description": "路径开篇 · 步骤章节 · 学习提示",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-training.json",
+      "previewPath": "previews/templates/cw-html-topic-training.jpg",
+      "byteSize": 17417,
+      "previewByteSize": 61486,
+      "sha256": "e78e1c404e2fb9fb0efdde0bc5624a75832972f3b6548de315d78983b2bd2c85",
+      "previewSha256": "159c2434b3ba0910df0df486c436953ffd2e675ea597e676ffea042b967c9024",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-training"
+      }
+    },
+    {
+      "id": "cw-html-topic-ecommerce",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "电商·商品橱窗",
+      "description": "图鉴开篇 · 商品章节 · 参数清单",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-ecommerce.json",
+      "previewPath": "previews/templates/cw-html-topic-ecommerce.jpg",
+      "byteSize": 16878,
+      "previewByteSize": 65174,
+      "sha256": "aec23f91bb75f42c45594d50db030f9d4675231e933be671ce530c53ae370282",
+      "previewSha256": "239b835fc2379ce5fbe3f4768c5930dceec36a92a6e950b22968e11f2f08bdd5",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-ecommerce"
+      }
+    },
+    {
+      "id": "cw-html-topic-home",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "家居·空间画册",
+      "description": "摄影开篇 · 留白章节 · 细框图文",
+      "tags": [
+        "时尚生活",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-home.json",
+      "previewPath": "previews/templates/cw-html-topic-home.jpg",
+      "byteSize": 16771,
+      "previewByteSize": 62487,
+      "sha256": "db05730fb460331ce99e1292658418227cfd063840c8e8428d9034abccdca56b",
+      "previewSha256": "e64672b54b3d09adf93cbb2290df0da220b488a1675a94009faf9f791d849c65",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "时尚生活",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-home"
+      }
+    },
+    {
+      "id": "cw-html-topic-tourism",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "旅游·行旅手记",
+      "description": "影像叙事 · 行程章节 · 路线引用",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-tourism.json",
+      "previewPath": "previews/templates/cw-html-topic-tourism.jpg",
+      "byteSize": 16648,
+      "previewByteSize": 63517,
+      "sha256": "b0f44cbf041f38b956aee9d06f53f76dd2aead25cf506481a20aafc9daf3712b",
+      "previewSha256": "61db5937f68dee9708db74514df22c24d619266dee2601aac2c4cb82dec44e5a",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-tourism"
+      }
+    },
+    {
+      "id": "cw-html-topic-finance",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "金融·市场观察",
+      "description": "数据账页 · 等宽题头 · 双线分析",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-finance.json",
+      "previewPath": "previews/templates/cw-html-topic-finance.jpg",
+      "byteSize": 16584,
+      "previewByteSize": 76871,
+      "sha256": "d01d76b5919e09ed0e723df844a88acee9af6909f08fbbb6326f499f2dd98f54",
+      "previewSha256": "3a74ea2d607ad58c77c5f5e006f01df9d837e6ae68ab3a2a995fd62069b2bcb3",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-finance"
+      }
+    },
+    {
+      "id": "cw-html-topic-beauty",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "美容·护理专栏",
+      "description": "展签开篇 · 细线章节 · 温和提醒",
+      "tags": [
+        "健康养生",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-beauty.json",
+      "previewPath": "previews/templates/cw-html-topic-beauty.jpg",
+      "byteSize": 16841,
+      "previewByteSize": 67357,
+      "sha256": "d8191ab79f89d3d2f733211d98be248a1a011587ac082e4b1f3407b267213309",
+      "previewSha256": "64c34e64afc70ea96f846b035304f7aa2c3b0b25ac8aff1a8fb11ee567f33bd4",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "健康养生",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-beauty"
+      }
+    },
+    {
+      "id": "cw-html-topic-food",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "美食·风味笔记",
+      "description": "图文对页 · 做法章节 · 口味引用",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-food.json",
+      "previewPath": "previews/templates/cw-html-topic-food.jpg",
+      "byteSize": 16624,
+      "previewByteSize": 65894,
+      "sha256": "7bd80949cd07846906f39c8cae006d41ca5a7169071adf58b08ea1a6a3d953c2",
+      "previewSha256": "91b867ca123611900f2c227250f250bf16eb1a2b4d32f615f53c128808102051",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-food"
+      }
+    },
+    {
+      "id": "cw-html-topic-game",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "游戏·版本情报",
+      "description": "聚焦开篇 · 更新分区 · 深色要点",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-game.json",
+      "previewPath": "previews/templates/cw-html-topic-game.jpg",
+      "byteSize": 16496,
+      "previewByteSize": 73748,
+      "sha256": "5aa5c42517911f6c9e27df7e492a4a8eed9227c229e5f1d887e2bd1e9183c531",
+      "previewSha256": "f89f423367af72f9738fbb532edd727946d13f03bcf55641be8cf878f836efd9",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-game"
+      }
+    },
+    {
+      "id": "cw-html-topic-pets",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "萌宠·陪伴日记",
+      "description": "手记开篇 · 贴签章节 · 陪伴引语",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-pets.json",
+      "previewPath": "previews/templates/cw-html-topic-pets.jpg",
+      "byteSize": 16619,
+      "previewByteSize": 61377,
+      "sha256": "6655fbbc35a509791692c744c18df5fb564869304faa533e6b15af2b61f76654",
+      "previewSha256": "0e12ea7ac506b4d3e4b42aa363de9955aacdcde8b6b960c6cbbe0cca10a2e858",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-pets"
+      }
+    },
+    {
+      "id": "cw-html-topic-sports",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "运动·赛场速写",
+      "description": "大字开篇 · 赛程章节 · 影像边框",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-sports.json",
+      "previewPath": "previews/templates/cw-html-topic-sports.jpg",
+      "byteSize": 17118,
+      "previewByteSize": 77311,
+      "sha256": "025a4bf85123ea7cc91a95b07e61d215e4dc34904aec201b5b7158f50698d8b9",
+      "previewSha256": "4e6d2d8bffdb58922e3a63773282c748367a6983ba6c35f2119756234bf5755e",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-sports"
+      }
+    },
+    {
+      "id": "cw-html-topic-dance",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "舞蹈·舞台记事",
+      "description": "舞台封面 · 轻盈章节 · 居中引语",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-dance.json",
+      "previewPath": "previews/templates/cw-html-topic-dance.jpg",
+      "byteSize": 16057,
+      "previewByteSize": 64606,
+      "sha256": "1d61c95ae9c6518c392cc73118d82f55ddf9fdde4c12d1463f09335b0b8b0a8e",
+      "previewSha256": "ec657ef461feaa8616eced157b7b81500f803cfb0296a49aa7441129c8710988",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-dance"
+      }
+    },
+    {
+      "id": "cw-html-topic-environment",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "环保·自然观察",
+      "description": "观察档案 · 绿线章节 · 生态图文",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-environment.json",
+      "previewPath": "previews/templates/cw-html-topic-environment.jpg",
+      "byteSize": 17147,
+      "previewByteSize": 74193,
+      "sha256": "5ceb5a8b943526fb2823e9fa802e7e58f288aee4d56f6cbb064eeeff136a7efb",
+      "previewSha256": "bcea7785fdbc5c882932f281415039bb88ffcb60eebc2da89fbbe92c4d5d567d",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-environment"
+      }
+    },
+    {
+      "id": "cw-html-topic-wedding",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "婚礼·誓言信笺",
+      "description": "信笺开篇 · 轻框章节 · 誓言引用",
+      "tags": [
+        "情感心理",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-wedding.json",
+      "previewPath": "previews/templates/cw-html-topic-wedding.jpg",
+      "byteSize": 16440,
+      "previewByteSize": 63236,
+      "sha256": "600826757012271a9216ada131e448496ccc9889d57b5b85faac39ef9d29fa12",
+      "previewSha256": "fced854ef7946ce3289d1bd294c3eaa4722242782056ca083f62c6b69f98691d",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "情感心理",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-wedding"
+      }
+    },
+    {
+      "id": "cw-html-topic-traffic",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "交通·出行指南",
+      "description": "路径开篇 · 路线分区 · 出行提醒",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-traffic.json",
+      "previewPath": "previews/templates/cw-html-topic-traffic.jpg",
+      "byteSize": 17416,
+      "previewByteSize": 62491,
+      "sha256": "71883d40a5f3406c1fb18fae936dc1ecaf4736c1d53d104958b3d20d1addf71a",
+      "previewSha256": "4bae95ab73fb88ad0f4f4cd3a74c9632ce38433b1cc10b5a91361d0a47e941ad",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-traffic"
+      }
+    },
+    {
+      "id": "cw-html-topic-zodiac",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "星座·星夜随笔",
+      "description": "静夜开篇 · 星序章节 · 独立引语",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-zodiac.json",
+      "previewPath": "previews/templates/cw-html-topic-zodiac.jpg",
+      "byteSize": 16529,
+      "previewByteSize": 69742,
+      "sha256": "55db0b66396558192353c0ffd4307a933913349abcbf931427a3a736aae85566",
+      "previewSha256": "cb4c3732d3d525243dfc5d5ad73de2605f24003efcf78828ea79970cbb42c368",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-zodiac"
+      }
+    },
+    {
+      "id": "cw-html-topic-books",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "图书影音·文化评论",
+      "description": "专栏开篇 · 作品章节 · 评述引用",
+      "tags": [
+        "娱乐八卦",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-books.json",
+      "previewPath": "previews/templates/cw-html-topic-books.jpg",
+      "byteSize": 17098,
+      "previewByteSize": 71579,
+      "sha256": "a96d99b10b6a101a1dd62347fe2ba181a17c85efde34313e622104fbfbc25454",
+      "previewSha256": "b9af2b5b0bba908a66bf61740e1126d48b3a85574e2bebf306a0dc29bb435461",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "娱乐八卦",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-books"
+      }
+    },
+    {
+      "id": "cw-html-topic-fresh",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "小清新·青笺日常",
+      "description": "轻笺开篇 · 草木章节 · 通透图文",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-fresh.json",
+      "previewPath": "previews/templates/cw-html-topic-fresh.jpg",
+      "byteSize": 16495,
+      "previewByteSize": 59131,
+      "sha256": "a393c0319e3491d3694033be2b3c3763e904613cb74aff95b3a0778b333a54a5",
+      "previewSha256": "74d2000f1d398ca24860ac2b69ecbf76eaf21b44b60c74f1fa3308433d568a7c",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-fresh"
+      }
+    },
+    {
+      "id": "cw-html-topic-classical",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "古风·水墨长卷",
+      "description": "留白题签 · 章回双线 · 墨色引语",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-classical.json",
+      "previewPath": "previews/templates/cw-html-topic-classical.jpg",
+      "byteSize": 16450,
+      "previewByteSize": 62886,
+      "sha256": "67cb20d3235d189d70934fb3b9820d9a7dc17a7f80049a945b48f73a8d547544",
+      "previewSha256": "008128e08c65abad8f071cec9fb9c53ce15da454c5dcb529691d6d6b1c2e8f73",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-classical"
+      }
+    },
+    {
+      "id": "cw-html-topic-spring",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "春天·春日来信",
+      "description": "春笺开篇 · 新绿章节 · 温柔留白",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-spring.json",
+      "previewPath": "previews/templates/cw-html-topic-spring.jpg",
+      "byteSize": 16368,
+      "previewByteSize": 60760,
+      "sha256": "05a3e8bcc1e44371fcfbc4b281064065a3ce9dadf88dac9f90fe0d68215a1922",
+      "previewSha256": "9027899f7e4b3d596d4a23e649c252db2a9b44a4d9f0fbed629ed8635445306a",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-spring"
+      }
+    },
+    {
+      "id": "cw-html-topic-summer",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "夏天·海风画册",
+      "description": "双图开篇 · 海蓝分区 · 清凉引用",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-summer.json",
+      "previewPath": "previews/templates/cw-html-topic-summer.jpg",
+      "byteSize": 16699,
+      "previewByteSize": 67545,
+      "sha256": "06ab01e8705676e497ed19bb1abdcbe2f6f2df05318d9b40d59ffdbe7eebf709",
+      "previewSha256": "b0e4f11fbdab5e90db3fc0c547a2d5c439e150e61af85172680d0aea15028b86",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-summer"
+      }
+    },
+    {
+      "id": "cw-html-topic-autumn",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "秋天·秋色随记",
+      "description": "侧记开篇 · 秋金章节 · 暖纸注释",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-autumn.json",
+      "previewPath": "previews/templates/cw-html-topic-autumn.jpg",
+      "byteSize": 16555,
+      "previewByteSize": 58586,
+      "sha256": "a60a1acc063aec7b941841f4eae8448c3cc540fd781833c7a4178d813a2424cd",
+      "previewSha256": "787d2917849639fa7c26353b15b25dea11c65447979a1bb85cb6b1ede43b150b",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-autumn"
+      }
+    },
+    {
+      "id": "cw-html-topic-winter",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "冬天·冬日阅读",
+      "description": "静读开篇 · 冰蓝细框 · 安静收束",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-winter.json",
+      "previewPath": "previews/templates/cw-html-topic-winter.jpg",
+      "byteSize": 16680,
+      "previewByteSize": 62162,
+      "sha256": "bdeffe7c13b63fc18cd7571580376c63c4440d4f07a07ed1d30cd34fb036e5a8",
+      "previewSha256": "650a881e66953cfad6a8e221868b1d10e114631feb4e13d0896eef3c83910c89",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-winter"
+      }
+    },
+    {
+      "id": "cw-html-topic-festival",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "传统节日·节庆长卷",
+      "description": "节庆封面 · 朱红题签 · 金线收束",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-festival.json",
+      "previewPath": "previews/templates/cw-html-topic-festival.jpg",
+      "byteSize": 16699,
+      "previewByteSize": 72829,
+      "sha256": "4d61b4c5d8b29560141f31f2378fab4cc81a8a0bdb9e529d77814c20d7742cd6",
+      "previewSha256": "e09b9394ba74d1c5000bc70d7189406f9332d4d041182067bd88762c63a5bd40",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-festival"
+      }
+    },
+    {
+      "id": "cw-html-topic-solar-terms",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "二十四节气·时序札记",
+      "description": "时序开篇 · 节候章节 · 草木图文",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-topic-solar-terms.json",
+      "previewPath": "previews/templates/cw-html-topic-solar-terms.jpg",
+      "byteSize": 17371,
+      "previewByteSize": 57378,
+      "sha256": "25a4ae4a085573dfc2ab534da0c0b8f54db0931369184a0f78aec3c97a3f347d",
+      "previewSha256": "35d9a761fcf8012def196f6db3a20c4dec985eb74949abdcdcd4956313150d37",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "topic-solar-terms"
+      }
+    },
+    {
+      "id": "cw-html-decor-paper",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "纸纹书页",
+      "description": "细纸纹底 · 衬线题头 · 双线章节",
+      "tags": [
+        "娱乐八卦",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-decor-paper.json",
+      "previewPath": "previews/templates/cw-html-decor-paper.jpg",
+      "byteSize": 35398,
+      "previewByteSize": 92224,
+      "sha256": "6260762ca4fa1386bb6d44283f9f941f389ee10fe8c2cd1b721ff8c8073e2a2b",
+      "previewSha256": "3fd61be6d4a4af6f14354957e3d08349ab9b06d2d2b2a0c86f921e49d1b5d18c",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "娱乐八卦",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "decor-paper"
+      }
+    },
+    {
+      "id": "cw-html-decor-leaf",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "青叶信笺",
+      "description": "青叶题笺 · 轻衬线标题 · 开放正文",
+      "tags": [
+        "情感心理",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-decor-leaf.json",
+      "previewPath": "previews/templates/cw-html-decor-leaf.jpg",
+      "byteSize": 19924,
+      "previewByteSize": 62126,
+      "sha256": "3b3950fa64dbb79465d8a5302c5b4a8499e98ca4fae65e1fa0256ea9b1c20036",
+      "previewSha256": "010fa4556ee1819adf00e98a107db87c407105be8495db3e8d12212dc6531564",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "情感心理",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "decor-leaf"
+      }
+    },
+    {
+      "id": "cw-html-decor-firefly",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "微光手记",
+      "description": "微光动图题头 · 奶油紫渐变 · 点线章节",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-decor-firefly.json",
+      "previewPath": "previews/templates/cw-html-decor-firefly.jpg",
+      "byteSize": 21455,
+      "previewByteSize": 64326,
+      "sha256": "ca51171298b9d14aa49ba0ee8272984a475fb7863e71e59809cfeda59e5e3f73",
+      "previewSha256": "c6137299c1e41e2f93c3d5586d28acb9e49107808d0b1708df2a904809615170",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "decor-firefly"
+      }
+    },
+    {
+      "id": "cw-html-decor-mist",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "晨雾蓝",
+      "description": "蓝青渐变开篇 · 索引侧轨 · 淡蓝引语",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-decor-mist.json",
+      "previewPath": "previews/templates/cw-html-decor-mist.jpg",
+      "byteSize": 16686,
+      "previewByteSize": 69232,
+      "sha256": "157fa86f3edf57dc0540906d395f2d61c7abfef8eff9f7d02c1c1ee6e39923fe",
+      "previewSha256": "b216b565c7181a3bdbbdb98a60c9e268fc7273032a619bd69e6b18c3e9baa18c",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "decor-mist"
+      }
+    },
+    {
+      "id": "cw-html-decor-sunset",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "落日橙",
+      "description": "暖橙渐变开篇 · 大字章节 · 窄框引语",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-decor-sunset.json",
+      "previewPath": "previews/templates/cw-html-decor-sunset.jpg",
+      "byteSize": 17361,
+      "previewByteSize": 70811,
+      "sha256": "bbc8bcc408db045d7a7c064472267ec485aaab48393bee30160d6bb7c7bc7911",
+      "previewSha256": "cb44500d84aebef2314e105ba1a3029665e459f29d3eedc14f4071c2cf2dda01",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "decor-sunset"
+      }
+    },
+    {
+      "id": "cw-html-decor-berry",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "莓果紫",
+      "description": "莓紫渐变题头 · 轻字重标题 · 色带章节",
+      "tags": [
+        "时尚生活",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-decor-berry.json",
+      "previewPath": "previews/templates/cw-html-decor-berry.jpg",
+      "byteSize": 16720,
+      "previewByteSize": 68867,
+      "sha256": "2f262685facee8936c222615f0106db9e30f4fc1f4f1baa86137a6bbff974400",
+      "previewSha256": "7f9204b66e2f68ef91db240801170587556495f6cb9a9a1c923955ac6fbda470",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "时尚生活",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "decor-berry"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1504",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "桂叶秋笺",
+      "description": "桂叶边角 · 暖纸信笺 · 留白图文",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1504.json",
+      "previewPath": "previews/templates/cw-html-aligned-1504.jpg",
+      "byteSize": 48597,
+      "previewByteSize": 64014,
+      "sha256": "9f708f506b3fa60e016d5cf9425dfd87372c9838587f6e05b6b58986cd45907e",
+      "previewSha256": "d101c8bbd8de29f764d06d68cd1af79a7860ae0aad3e99483473168671fbcb00",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1504"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1479",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "青蓝科创",
+      "description": "蓝绿几何题头 · 渐变章节 · 图文展板",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1479.json",
+      "previewPath": "previews/templates/cw-html-aligned-1479.jpg",
+      "byteSize": 46998,
+      "previewByteSize": 79185,
+      "sha256": "9a8906c7bdf9191a1796f8cb9f96d16f9d5c370927ecd388c030cb9d75e83fd3",
+      "previewSha256": "70ee3b55d0acce78ba7d3ee1448177d2c8e66eff1383ed0f5af41a362bb062f3",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1479"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1419",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "鎏金表彰",
+      "description": "红金桂冠题头 · 细框表彰页 · 金色引语",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1419.json",
+      "previewPath": "previews/templates/cw-html-aligned-1419.jpg",
+      "byteSize": 48808,
+      "previewByteSize": 82171,
+      "sha256": "4f3ac99c4f58fdc18709c3d0f77416e63647cb48feaa4044c7f4eaa5e012a272",
+      "previewSha256": "67ba2d25804af6e31d0d4c1f9983fd5dcffa247e967090b0e70f650c3b309275",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1419"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1462",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "热点蓝报",
+      "description": "点阵地球题头 · 蓝色新闻条 · 紧凑资讯栏",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1462.json",
+      "previewPath": "previews/templates/cw-html-aligned-1462.jpg",
+      "byteSize": 48089,
+      "previewByteSize": 73702,
+      "sha256": "f015ab08ff6450b643aff093ecda4f26871241a532d80a9f2b6240df4c574cac",
+      "previewSha256": "2d47034e12d359725cb4fcbe19965ddd60146301cbeb4355aea925f8b4416c8d",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1462"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1433",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "静简生活",
+      "description": "灰阶拼纸 · 苔绿细线 · 非对称留白",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1433.json",
+      "previewPath": "previews/templates/cw-html-aligned-1433.jpg",
+      "byteSize": 41511,
+      "previewByteSize": 81650,
+      "sha256": "f1266a8b4e076a47c5c923caadcd7f8ba8dfa6e78089d475f0bbb16752271834",
+      "previewSha256": "5023d28144990ad723ec2b0935ecb48499b571447fcada1d786c5046c61265fa",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1433"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1499",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "山河假日",
+      "description": "暖金山河题图 · 朱红印章章节 · 通知框",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1499.json",
+      "previewPath": "previews/templates/cw-html-aligned-1499.jpg",
+      "byteSize": 56623,
+      "previewByteSize": 82632,
+      "sha256": "751d46806b384efdeb9689421360208f99d5f90cfe24cbec17f425dbda00d5d5",
+      "previewSha256": "dd284cadb3d34b187ffe964b9306c58ccee7ded0cd22630185ce6827723fa71a",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1499"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1502",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "小城漫游",
+      "description": "城廓地图题图 · 琥珀路线 · 错落图文",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1502.json",
+      "previewPath": "previews/templates/cw-html-aligned-1502.jpg",
+      "byteSize": 38406,
+      "previewByteSize": 65000,
+      "sha256": "859e5bd1f256b98eea3575026376346d94262adae7423535609918b9728b8c2d",
+      "previewSha256": "009a3191e9889d3d89ce1ab2fdd38818b30a4ffaed624a12037d593cd21f29c8",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1502"
+      }
+    },
+    {
+      "id": "cw-html-aligned-909",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "每日蓝讯",
+      "description": "浅蓝地球纹 · 渐变新闻条 · 分栏图文",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-909.json",
+      "previewPath": "previews/templates/cw-html-aligned-909.jpg",
+      "byteSize": 21022,
+      "previewByteSize": 76299,
+      "sha256": "7272e3c688e3dea2a1ecdce4eefdabf4ab2e82f29d85c92525c688599371cefd",
+      "previewSha256": "ca4c15f50892106019cf92206253af1d754f739a38a288f61f3c9467c178c14b",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-909"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1485",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "校园纳新",
+      "description": "校园涂鸦题头 · 绿黄便笺 · 招新色条",
+      "tags": [
+        "职场发展",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1485.json",
+      "previewPath": "previews/templates/cw-html-aligned-1485.jpg",
+      "byteSize": 33862,
+      "previewByteSize": 71581,
+      "sha256": "b59025e0b0b8fda90fd0c3cc4f19dd4a0bf088be399141050a0bd7520ba17867",
+      "previewSha256": "e2497d02a998531db3d906884d8e8368d28b5ec40a479454a710e5a03392f56c",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "职场发展",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1485"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1472",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "杏坛师恩",
+      "description": "杏叶花枝 · 米色信笺 · 绿色书页线",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1472.json",
+      "previewPath": "previews/templates/cw-html-aligned-1472.jpg",
+      "byteSize": 22033,
+      "previewByteSize": 69553,
+      "sha256": "384b0dd0531c70b7793c85f28fec205589483ce93c8fbeefb16e6468a17decd7",
+      "previewSha256": "3ce6b4f220733336891c18291d396869cf05cbac52bd0ef2a2cc916e5d0d741e",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1472"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1422",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "暖龄指南",
+      "description": "暖橙花纹 · 科普图文页 · 柔和信息区",
+      "tags": [
+        "健康养生",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1422.json",
+      "previewPath": "previews/templates/cw-html-aligned-1422.jpg",
+      "byteSize": 22252,
+      "previewByteSize": 68135,
+      "sha256": "7c3f30b5be40c9b06787775b6477143a03f9ffddedb6b01af052c2bd64dee174",
+      "previewSha256": "8b8a16269f8125e8cd9c0114f27d21d20bd8de6effb93cb8612ac5bb5b21d6c0",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "健康养生",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1422"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1405",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "智启新程",
+      "description": "蓝青电路开篇 · 渐变章节带 · 科技展板",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1405.json",
+      "previewPath": "previews/templates/cw-html-aligned-1405.jpg",
+      "byteSize": 43361,
+      "previewByteSize": 73221,
+      "sha256": "6c969bae37306f338c541c3f6a9dc62b7da2604f73e9d593b773817d51abddb8",
+      "previewSha256": "8b57126b31c71c7bd420455e655ce0e9dd3b7504a5a05aac27975cee771c07ec",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1405"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1386",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "黑白智界",
+      "description": "黑白几何主视觉 · 青蓝轨道 · 大字章节",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1386.json",
+      "previewPath": "previews/templates/cw-html-aligned-1386.jpg",
+      "byteSize": 47679,
+      "previewByteSize": 77862,
+      "sha256": "d215d0003f26569f1c477b7eb522bde4bf7e94777ab6820dab764bb57ceac642",
+      "previewSha256": "6f5bef4b8552c8c56d899d38704fa4c6e02fe7ecae5d6954d232f34475d36ef8",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1386"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1363",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "麦序芒种",
+      "description": "麦穗题图 · 田野淡纹 · 东方留白",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1363.json",
+      "previewPath": "previews/templates/cw-html-aligned-1363.jpg",
+      "byteSize": 49901,
+      "previewByteSize": 66582,
+      "sha256": "dde5bb76b4ef360a7cdf1e4d07928705d784c6520ad2e13509a7fc9cf61b79e3",
+      "previewSha256": "4f9b1f2bfaf1bdafb146f37e8106fcded7726c839a85dac7d71ce693c2149d06",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1363"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1346",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "职场第一课",
+      "description": "阶梯几何题图 · 指南分组 · 蓝色资料页",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1346.json",
+      "previewPath": "previews/templates/cw-html-aligned-1346.jpg",
+      "byteSize": 20089,
+      "previewByteSize": 71633,
+      "sha256": "8a0dc4d6e23f6485566afe1af1ab9d16e283188db34514c05f4725adee97d50a",
+      "previewSha256": "8642a16517fe6aba096c68163deeb32ab2c53690d0a883a286c2d11f9ab2f9a3",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1346"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1498",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "产业新动能",
+      "description": "数字城市题图 · 青蓝分区 · 图文长页",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1498.json",
+      "previewPath": "previews/templates/cw-html-aligned-1498.jpg",
+      "byteSize": 60588,
+      "previewByteSize": 79363,
+      "sha256": "bf786d95e8d02c17e3787484c363e3cb4a92f4d4bcae099775d4a9745b94ce74",
+      "previewSha256": "1105320dce26ec36bb95a9f4a9a10c08847ffcbb0f73f05da0987e8a3d505bd5",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1498"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1508",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "荣光大字报",
+      "description": "朱红飘带主视觉 · 橙金横栏 · 大字喜报",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1508.json",
+      "previewPath": "previews/templates/cw-html-aligned-1508.jpg",
+      "byteSize": 20897,
+      "previewByteSize": 79362,
+      "sha256": "af4fcbea238f0222ddb7e8c40d3f8a3ebe07c1d2b4080c9be77217d617e2e363",
+      "previewSha256": "6043bde0cad71f01b85904701f49e48e986e8a12acb9f54bbbd414403d9615fc",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1508"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1501",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "数字峰会",
+      "description": "数字天际线 · 蓝橙对照 · 展会图册",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1501.json",
+      "previewPath": "previews/templates/cw-html-aligned-1501.jpg",
+      "byteSize": 20721,
+      "previewByteSize": 71446,
+      "sha256": "6dcbaf6d83b110821a9a49912bf0630dc5126dc0fab3fd0f07e4ba317731cda0",
+      "previewSha256": "9c7c662c05011d986f15ea8425f2ebfb8ee07c1bf11b9b3934e81ef8600ebf55",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1501"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1450",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "数智会议",
+      "description": "阶梯蓝图 · 深蓝通知题头 · 资料章节",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1450.json",
+      "previewPath": "previews/templates/cw-html-aligned-1450.jpg",
+      "byteSize": 19993,
+      "previewByteSize": 77599,
+      "sha256": "06ea3c5129b0ef7855833a4e0e8906a7d3701211220a72cf8aec51bec4969b9f",
+      "previewSha256": "cb2a86a017252610c9045d7c6585cd8fd3ad1857074ef7caa7eca68d8229557d",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1450"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1431",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "品牌序章",
+      "description": "深墨金线题头 · 灰白拼纸 · 品牌图文",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1431.json",
+      "previewPath": "previews/templates/cw-html-aligned-1431.jpg",
+      "byteSize": 41835,
+      "previewByteSize": 92122,
+      "sha256": "1b903f4ed00f870bc949f2696a46ea3cc106b19629f8ade36a83b7060d1057f2",
+      "previewSha256": "3b716deeac6e102f488bd2b05b85910a79e0813ecd083bf02c6ed9aa39771346",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1431"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1143",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "蓝调招聘",
+      "description": "蓝色几何海报 · 双栏开篇 · 职位资料格",
+      "tags": [
+        "职场发展",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1143.json",
+      "previewPath": "previews/templates/cw-html-aligned-1143.jpg",
+      "byteSize": 19455,
+      "previewByteSize": 72375,
+      "sha256": "e18a7084d8e71cd186db259d937fb1fffe8b98d3c188119c861234eb82d01237",
+      "previewSha256": "850a46a3b91b3d334ebd366b098b28389f412382f7d1851a5e54753fa91f875f",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "职场发展",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1143"
+      }
+    },
+    {
+      "id": "cw-html-aligned-404",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "年度蓝图",
+      "description": "蓝色建筑轮廓 · 报告题头 · 双线章节",
+      "tags": [
+        "职场发展",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-404.json",
+      "previewPath": "previews/templates/cw-html-aligned-404.jpg",
+      "byteSize": 20427,
+      "previewByteSize": 82845,
+      "sha256": "179eb860214307e3c24a8ab9f0b83da3562766bca0aec6dbaa9e41dd6e66f1d4",
+      "previewSha256": "ba0f371228a6a1cc3a7b25e2dd72eed8054f7326f07d917d74ddcb5c688e6d06",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "职场发展",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-404"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1497",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "逐风赛场",
+      "description": "球场线稿 · 橙蓝点缀 · 清爽图文",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1497.json",
+      "previewPath": "previews/templates/cw-html-aligned-1497.jpg",
+      "byteSize": 41219,
+      "previewByteSize": 69329,
+      "sha256": "836fa99911ad94613d52d2d2289cbcc45bc2e6f1d1ad0e96ca35d2df8c31ad8a",
+      "previewSha256": "8de4289ec18cd30d478bc698285265fcc3d16b04c554a7a7638295e148a8a6ee",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1497"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1484",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "桂月团圆",
+      "description": "桂枝明月题图 · 月白金笺 · 古雅章节",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1484.json",
+      "previewPath": "previews/templates/cw-html-aligned-1484.jpg",
+      "byteSize": 43559,
+      "previewByteSize": 69183,
+      "sha256": "9d73ed4b078afe651043678b64dfe4cfb374cd924ebb17806a34c335d9f79592",
+      "previewSha256": "13e80ef118f82e6c7b326ac04dd0d11feb08f9dc4755ad7cc8ac5eda850b7b93",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1484"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1460",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "医路青绿",
+      "description": "青绿枝叶 · 健康资料页 · 渐变栏目条",
+      "tags": [
+        "健康养生",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1460.json",
+      "previewPath": "previews/templates/cw-html-aligned-1460.jpg",
+      "byteSize": 45384,
+      "previewByteSize": 71588,
+      "sha256": "d36ab1d8580b5a2ea4060c0c53be568f285e10fe81ee888a079471bc87b31132",
+      "previewSha256": "fca4a27aebd48052d65c660c3c2866aa58b253f3afdee2e8fc2e146f9c87e3d0",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "健康养生",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1460"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1420",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "探索之光",
+      "description": "轨道光环 · 蓝紫渐变题头 · 轻框科普",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1420.json",
+      "previewPath": "previews/templates/cw-html-aligned-1420.jpg",
+      "byteSize": 21169,
+      "previewByteSize": 78727,
+      "sha256": "5913b9b66fa3f997d2d84f4c9589790264906c6647beeeebf9833a5312eabbe1",
+      "previewSha256": "f97d722c32d8fa04f3c83f11c9998b48c6fafaab9cd4bbe157428862540afcc3",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1420"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1403",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "实干新篇",
+      "description": "红色几何飘带 · 庄重题头 · 实干报告",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1403.json",
+      "previewPath": "previews/templates/cw-html-aligned-1403.jpg",
+      "byteSize": 20246,
+      "previewByteSize": 76187,
+      "sha256": "a98cc9a58dcb9504aad4b345145e0469a88383d1899ee2e0c7e71a80c3fdeb6e",
+      "previewSha256": "11f745cc5b303c2c50b5b65dfb46807384e060043c968d54398499ea2f9d8504",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1403"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1385",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "金榜荣誉",
+      "description": "金色桂冠 · 红色荣誉页 · 榜单细框",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1385.json",
+      "previewPath": "previews/templates/cw-html-aligned-1385.jpg",
+      "byteSize": 48512,
+      "previewByteSize": 83698,
+      "sha256": "01f1d9735e06715559790272517a1db68e916cb0721295301c5d8b02f6a4325e",
+      "previewSha256": "1792aceab0e4c6bb1da06901f3a2b7c85e80a9ac212f6cfa190bdff91cddf1ae",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1385"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1356",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "追风少年",
+      "description": "浅蓝跑道 · 大字运动题头 · 开放图文",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1356.json",
+      "previewPath": "previews/templates/cw-html-aligned-1356.jpg",
+      "byteSize": 20793,
+      "previewByteSize": 68858,
+      "sha256": "10f34e8f92afa6ec94239d3c9f1ac023b6da938f8f23465369beb63562c663b7",
+      "previewSha256": "c03ec6af54b7e8072438d5f8ed611a0440a4754481f0f804d82c51bd54daf8a9",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1356"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1345",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "智能灰阶",
+      "description": "灰阶电路纹 · 极简报头 · 数据细线",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1345.json",
+      "previewPath": "previews/templates/cw-html-aligned-1345.jpg",
+      "byteSize": 42987,
+      "previewByteSize": 65137,
+      "sha256": "eeb9d995df81e9b4c336ee078fe3847334c0941e5451547835ac64dace1e2011",
+      "previewSha256": "ca762cc7b73b14c3850b8331d3e8ae3dc4f565214759d15fc5642532ea58e2dc",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1345"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1510",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "重阳远山",
+      "description": "赭色远山 · 登高卷页 · 细框古雅",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1510.json",
+      "previewPath": "previews/templates/cw-html-aligned-1510.jpg",
+      "byteSize": 37593,
+      "previewByteSize": 62288,
+      "sha256": "9b803e78e1fdd51a5084766b88b7eae2440f8f7d56ad1a21e9a70266e714a664",
+      "previewSha256": "d1104e9aeaedef2390485b4fb19e0d95b9c80f1bf132d7159b0ec16fb8de2b97",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1510"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1517",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "温柔回甘",
+      "description": "暖黄纸纹 · 右侧题笺 · 留白散文",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1517.json",
+      "previewPath": "previews/templates/cw-html-aligned-1517.jpg",
+      "byteSize": 42028,
+      "previewByteSize": 91483,
+      "sha256": "d0e585237af3f7a4ba96c5c86d0f992a349c57b4ff01b942667bd80be6c42890",
+      "previewSha256": "dc5e90691b37750def2fb84b054c9ff74cecef8b6cc217ae705639d588367641",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1517"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1376",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "智联远景",
+      "description": "蓝色地球网格 · 图文展板 · 通栏章节",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1376.json",
+      "previewPath": "previews/templates/cw-html-aligned-1376.jpg",
+      "byteSize": 48719,
+      "previewByteSize": 69142,
+      "sha256": "90402f1de87d5e66049477117616c715f0c07cb511faf16893ad9e3ccc89274a",
+      "previewSha256": "aa45382a116a08d9f692ab80b7b9095139a4a86a810b6adb8216443cb01a2fcf",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1376"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1444",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "青禾课堂",
+      "description": "书页与嫩芽 · 绿黄讲义 · 培训资料框",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1444.json",
+      "previewPath": "previews/templates/cw-html-aligned-1444.jpg",
+      "byteSize": 33715,
+      "previewByteSize": 63867,
+      "sha256": "680de712ff5a83b2a8234626a4535f3d9aa6ee50d2edfed686feecd72b5f65dc",
+      "previewSha256": "33a2578bea714b79b2a89ca0d6622004effd91a38b94a2f1d981dd3b5b4d142e",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1444"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1424",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "算力潮汐",
+      "description": "深蓝算力电路 · 青色光带 · 科技图文",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1424.json",
+      "previewPath": "previews/templates/cw-html-aligned-1424.jpg",
+      "byteSize": 43883,
+      "previewByteSize": 83226,
+      "sha256": "34fa9976ba3ea172ab6b4a560f291ac3ec9c0ea598436e1c6ddde5993d3e2402",
+      "previewSha256": "0b1bf3d52523d3d17e849bae76674c1ec987904c54b2fba40f92060ffcb16378",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1424"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1470",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "蓝报简讯",
+      "description": "蓝色地球报头 · 简洁横线 · 紧凑新闻",
+      "tags": [
+        "新闻时事",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1470.json",
+      "previewPath": "previews/templates/cw-html-aligned-1470.jpg",
+      "byteSize": 20703,
+      "previewByteSize": 70127,
+      "sha256": "f23f3e8c29a9ac6afb9b9af836f856dbda40c590522c9606cc113c29f24a87fc",
+      "previewSha256": "624db766c7e49739616c5f38653cd52d00305471fef8f06499a7294354b401cf",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "新闻时事",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1470"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1332",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "破界未来",
+      "description": "开放轨道几何 · 天蓝通栏 · 图册章节",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1332.json",
+      "previewPath": "previews/templates/cw-html-aligned-1332.jpg",
+      "byteSize": 21642,
+      "previewByteSize": 68496,
+      "sha256": "103ad3b35cc805e0c93264983374decb54aa97854ef80a99b9f2e5523c2065fd",
+      "previewSha256": "6f97794baa3799e73959e3232348a6cc7298ae239dd7f07b238225436ee9f68d",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1332"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1490",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "盛世金章",
+      "description": "金色飘带 · 朱红盛典题头 · 古典边框",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1490.json",
+      "previewPath": "previews/templates/cw-html-aligned-1490.jpg",
+      "byteSize": 42824,
+      "previewByteSize": 81031,
+      "sha256": "b2f05ffb5dfedf573dd169170b1aca7ee9fce99e0b4196789a88d3fe82a06188",
+      "previewSha256": "ccb0501cbc1b7b9834dd11e3d60b7845a3c132b2f98c5a0b44ca3a211742523a",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1490"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1483",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "数创之翼",
+      "description": "蓝色轨道天幕 · 图文错落 · 数创栏目",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1483.json",
+      "previewPath": "previews/templates/cw-html-aligned-1483.jpg",
+      "byteSize": 20876,
+      "previewByteSize": 73564,
+      "sha256": "6222ae23088f747acdee9f1642e3e4583f8faba50f2ef312f958cb19e17c2fcc",
+      "previewSha256": "71dd004d0830d4a5678df231f7e982de410e7a897dbe8ae32ffc5ae7eab546f4",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1483"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1453",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "玫瑰来信",
+      "description": "玫瑰花枝 · 粉色信封纹 · 柔和图文",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1453.json",
+      "previewPath": "previews/templates/cw-html-aligned-1453.jpg",
+      "byteSize": 51015,
+      "previewByteSize": 64496,
+      "sha256": "479b5bca6f6468a9dbf3ea81cbd0a57a4c7598b78caa1a749dae06deb64c389c",
+      "previewSha256": "391674b20b8869064b89b9351f613160f14b5b6f5d5e99ccd37a132ffe8289ea",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1453"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1416",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "荣耀金笺",
+      "description": "红金徽章 · 荣耀题头 · 金笺章节",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1416.json",
+      "previewPath": "previews/templates/cw-html-aligned-1416.jpg",
+      "byteSize": 47973,
+      "previewByteSize": 83155,
+      "sha256": "4515dd748339880c5284ff88c5ce81d81eb733c2f5f945c1583f041288cd1b40",
+      "previewSha256": "194530438088e9047eabb073f578aa63134764c79aae010fdfd9249b231777c4",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1416"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1397",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "夏野研学",
+      "description": "青山云朵 · 研学图册 · 留白照片页",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1397.json",
+      "previewPath": "previews/templates/cw-html-aligned-1397.jpg",
+      "byteSize": 39231,
+      "previewByteSize": 64508,
+      "sha256": "31bcdc190716b08111636fd930e9050137f6ba925f89344a769a1e403e04d7e5",
+      "previewSha256": "ee5da1915363237a11866dd59100c158ab393cc2801c1b1b681ce66cb0a66b23",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1397"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1375",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "端阳青笺",
+      "description": "竹叶麦序 · 青绿节日笺 · 传统细框",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1375.json",
+      "previewPath": "previews/templates/cw-html-aligned-1375.jpg",
+      "byteSize": 48795,
+      "previewByteSize": 67594,
+      "sha256": "cc16f86b8ddf3d6f86d0911a9758c0e451c285fc708e428a818c2ead4def65f2",
+      "previewSha256": "ecd0b030b73672129c5b56275a23c024b3a01e7f796e8db5bef3c41835ca19a3",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1375"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1354",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "赤诚捷报",
+      "description": "红金几何飘带 · 通栏捷报 · 开放正文",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1354.json",
+      "previewPath": "previews/templates/cw-html-aligned-1354.jpg",
+      "byteSize": 20779,
+      "previewByteSize": 84062,
+      "sha256": "879cb754fe3ccb148c984a51027189129dc51944a43d9bb35117cd3f4dcc2dba",
+      "previewSha256": "23ff6b75e2c0e4c81066a8893ff817dcfba7cc045993a4fe19359103dc09d1c6",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1354"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1344",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "企业晴蓝",
+      "description": "轻蓝阶梯 · 企业简报 · 金色细点",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1344.json",
+      "previewPath": "previews/templates/cw-html-aligned-1344.jpg",
+      "byteSize": 33235,
+      "previewByteSize": 66542,
+      "sha256": "8b03c487acdf32326220ad8c284ea03ddeeeb4411c244938024f668cd18cc5eb",
+      "previewSha256": "2703d43f0692fe20ad412ffb73cf8973b2cdc778ece5223b54b209d39120c528",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1344"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1518",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "十月慢信",
+      "description": "秋叶信纸 · 橙棕手记 · 连续图文",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1518.json",
+      "previewPath": "previews/templates/cw-html-aligned-1518.jpg",
+      "byteSize": 51177,
+      "previewByteSize": 67976,
+      "sha256": "109615a84f0ac3f3dc397ce89d23fe5e6b403334e5277f2dd124b76d599e4cab",
+      "previewSha256": "00978cc88a26ca0db2c0c44f52ec383ab56b285e7b692a7fe1985ef45ada4072",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1518"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1443",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "职等光芒",
+      "description": "天蓝阶梯 · 青柠色条 · 招聘海报",
+      "tags": [
+        "职场发展",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1443.json",
+      "previewPath": "previews/templates/cw-html-aligned-1443.jpg",
+      "byteSize": 19848,
+      "previewByteSize": 78527,
+      "sha256": "b91ba8f542259b95dc8a7238bd6fd4dd76c19dd4f860fd3782616f65c78e1690",
+      "previewSha256": "b3762694b1f7d50c1d62d041182c9bf1c012d8359e56b051e41a461ca7255f51",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "职场发展",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1443"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1477",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "家校花开",
+      "description": "花枝书笺 · 暖黄信息框 · 家校图文",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1477.json",
+      "previewPath": "previews/templates/cw-html-aligned-1477.jpg",
+      "byteSize": 50173,
+      "previewByteSize": 68326,
+      "sha256": "00b2326a8cbe26ffca0afa198e5ef445292af71f05b8362e52cf2e2c8fc1b269",
+      "previewSha256": "370d8f4dd64ce0aafea42d57cf269c6679670ec42e1353fb7997af4345be2886",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1477"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1435",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "智潮新篇",
+      "description": "蓝色芯片网络 · 纵横图文 · 章节光带",
+      "tags": [
+        "科技数码",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1435.json",
+      "previewPath": "previews/templates/cw-html-aligned-1435.jpg",
+      "byteSize": 43609,
+      "previewByteSize": 73865,
+      "sha256": "5ca9baba8bbbe844a1f6d0dce56d5d0fc5e6b86ca0572d600c1f3c6323dbff5c",
+      "previewSha256": "d7eaa6740f96fd3ca2e73982f459fc8da3ae5f2f6ca965b262999554329174b4",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "科技数码",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1435"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1425",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "晴空智能",
+      "description": "蓝金轨迹 · 大幅留白 · 清爽产业页",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1425.json",
+      "previewPath": "previews/templates/cw-html-aligned-1425.jpg",
+      "byteSize": 20963,
+      "previewByteSize": 70973,
+      "sha256": "aacb4632f0e35fdf1636f81fa915a3971bc2ef502daa7581fdce53019c45c52c",
+      "previewSha256": "701bde8c2d21e23090842bb1eb582aeba6ebfd4b2083fcbdfbef5e51020f17a0",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1425"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1446",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "简静一隅",
+      "description": "灰白拼纸 · 细线画框 · 居中静物页",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1446.json",
+      "previewPath": "previews/templates/cw-html-aligned-1446.jpg",
+      "byteSize": 41410,
+      "previewByteSize": 85473,
+      "sha256": "03daf6694c7fb728124d46cfaf7132fa6bbcc0d8e9941a3bebcbdeafa5ecac0a",
+      "previewSha256": "cdf6a295d8c8852c212fa56795790c8bccadcb7dda92057bb47420cb403436ff",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1446"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1341",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "黑白建构",
+      "description": "灰阶建筑线 · 深墨题图 · 非对称章节",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1341.json",
+      "previewPath": "previews/templates/cw-html-aligned-1341.jpg",
+      "byteSize": 20617,
+      "previewByteSize": 73872,
+      "sha256": "97610332626acd2f8bb90fe0b6c95b723aa4f406e1fb9e5955b84f8764072ffe",
+      "previewSha256": "f8a707c1e221c44cf4447fc9ba195fd30077ef5af29feb602841d2d8310a818c",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1341"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1486",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "北境秋行",
+      "description": "金色山峦 · 旅行札记 · 地图式图文",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1486.json",
+      "previewPath": "previews/templates/cw-html-aligned-1486.jpg",
+      "byteSize": 20160,
+      "previewByteSize": 63618,
+      "sha256": "5af03dd5b4fbac77c4397fc6bc6af801eb4d077cfe849e8469026ac275f52fe6",
+      "previewSha256": "f54cc58e9cc495baea0f9a36d96d487fc03d996453c3516b70fb5c468b0b6fd7",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1486"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1481",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "月照金秋",
+      "description": "金色圆月与流云 · 节日信笺 · 方框通知",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1481.json",
+      "previewPath": "previews/templates/cw-html-aligned-1481.jpg",
+      "byteSize": 43666,
+      "previewByteSize": 66837,
+      "sha256": "35989c842641d8daf9f2c508c1bbdfe508bae0ead18a3ad1324f40a224e02dfb",
+      "previewSha256": "81c5c716ddb751c6a142dc1d243d66459c3b8584bf7e45a39b1627a8d4d6443e",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1481"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1449",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "赴野绿意",
+      "description": "山野等高线 · 森绿题图 · 大幅照片页",
+      "tags": [
+        "美食旅行",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1449.json",
+      "previewPath": "previews/templates/cw-html-aligned-1449.jpg",
+      "byteSize": 38008,
+      "previewByteSize": 63217,
+      "sha256": "43b02db1cc4f30a9e05dae37270e7e53cf4c7b3b34aa40ad17ee87a805047b1e",
+      "previewSha256": "1079105587e5da31b28397b03c95455c86401fc2a94862e1cc45b4082b700dee",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "美食旅行",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1449"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1414",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "半程蓝金",
+      "description": "蓝金城市线 · 阶段总结 · 双层报告栏",
+      "tags": [
+        "职场发展",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1414.json",
+      "previewPath": "previews/templates/cw-html-aligned-1414.jpg",
+      "byteSize": 55596,
+      "previewByteSize": 77921,
+      "sha256": "bc707e2292d1636827ba4c512ce599777ce1ddeb68b80bf88492726ec2e15830",
+      "previewSha256": "f6f786498b0651d83a5c4dff7c14ed635c734bcc9f55315931b14935507dbe33",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "职场发展",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1414"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1387",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "捷报红笺",
+      "description": "红金荣誉徽章 · 榜单章节 · 暖金细框",
+      "tags": [
+        "教育学习",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1387.json",
+      "previewPath": "previews/templates/cw-html-aligned-1387.jpg",
+      "byteSize": 48797,
+      "previewByteSize": 86783,
+      "sha256": "bd77bdefddb3b613e9f767855c5bdb4f68c8e592d55ae560e5787a09bc98074b",
+      "previewSha256": "aa83afd67d97410ce2f2605771700cdc2ba4551abf8bef2a3e7bf1f186d8a07f",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "教育学习",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1387"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1369",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "山海同行",
+      "description": "青绿山海 · 双图旅行页 · 团建色带",
+      "tags": [
+        "财经投资",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1369.json",
+      "previewPath": "previews/templates/cw-html-aligned-1369.jpg",
+      "byteSize": 39062,
+      "previewByteSize": 69239,
+      "sha256": "84b082916e1b826d2f0e8a27893d9cc374ccaf5368bb597dfce2316832f345cd",
+      "previewSha256": "41e9c733264f437ed3c3d3719718c3b8e30b46b977191f0071258f71d89d48ea",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "财经投资",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1369"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1352",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "向新出发",
+      "description": "蓝金阶梯 · 招聘双栏 · 方框职位页",
+      "tags": [
+        "职场发展",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1352.json",
+      "previewPath": "previews/templates/cw-html-aligned-1352.jpg",
+      "byteSize": 33746,
+      "previewByteSize": 71721,
+      "sha256": "6b4f674cbb563a2080d18dc109061b771a07cd01067f003850095a590bc67032",
+      "previewSha256": "477261b22ae93311c61b31cb19cd5ad900a30d9e0635c4119cb36a87a0c89396",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "职场发展",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1352"
+      }
+    },
+    {
+      "id": "cw-html-aligned-1343",
+      "type": "html-template",
+      "version": "1.0.0",
+      "name": "旧纸新章",
+      "description": "棕色纤维纸纹 · 复古报头 · 细框专栏",
+      "tags": [
+        "其他",
+        "工作台原创"
+      ],
+      "assetPath": "assets/templates/cw-html-aligned-1343.json",
+      "previewPath": "previews/templates/cw-html-aligned-1343.jpg",
+      "byteSize": 41445,
+      "previewByteSize": 88217,
+      "sha256": "d3367df0383463077c64b760d08271c9f68701066d48e5742b064a27b0538082",
+      "previewSha256": "53acfb71ecbf74a6fdeb3b256c509bf010839a21f741af59a0541aced14287b9",
+      "mimeType": "application/json",
+      "previewMimeType": "image/jpeg",
+      "license": "workbench-original",
+      "attribution": "闻道工作台原创模板",
+      "featured": false,
+      "updatedAt": "2026-10-23T00:00:00+08:00",
+      "details": {
+        "category": "其他",
+        "compatible": true,
+        "adaptation": "workbench-layout-contract-v1",
+        "originalPresetId": "aligned-1343"
+      }
+    }
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-md-527c30bd2b44",
+  "type": "md-template",
+  "original": {
+    "id": "magazine-layout",
+    "name": "杂志排版",
+    "description": "大标题强层次排版，衬线与无衬线混排，分栏感强，适合深度长文和知识内容",
+    "category": "经典基础",
+    "author": "system",
+    "is_builtin": true,
+    "version": "1.0.0",
+    "tags": [
+      "杂志",
+      "排版",
+      "深度",
+      "衬线",
+      "长文"
+    ],
+    "colors": {
+      "background": "#fafaf8",
+      "text_primary": "#1a1a1a",
+      "text_secondary": "#555555",
+      "accent": "#c2410c",
+      "border": "#d4d4d4",
+      "code_background": "#f3f3f0",
+      "quote_background": "#f5f3ef",
+      "quote_border": "#c2410c",
+      "table_header_bg": "#eae8e3",
+      "table_stripe_bg": "#f5f3ef",
+      "link_color": "#c2410c",
+      "highlight_bg": "#fef0e6"
+    },
+    "typography": {
+      "font_family": "'Source Han Serif SC', 'Noto Serif SC', Georgia, 'Times New Roman', serif",
+      "font_family_code": "'Fira Code', 'JetBrains Mono', monospace",
+      "base_font_size": 17,
+      "line_height": 1.9,
+      "letter_spacing": 0.02,
+      "paragraph_spacing": 1.4,
+      "text_align": "justify",
+      "first_line_indent": true
+    },
+    "headings": {
+      "h1": {
+        "font_size": 32,
+        "font_weight": 900,
+        "color": "$colors.text_primary",
+        "margin_top": 2.5,
+        "margin_bottom": 1.2,
+        "border_bottom": false,
+        "text_align": "left",
+        "font_family": "'Source Han Sans SC', 'Noto Sans SC', sans-serif"
+      },
+      "h2": {
+        "font_size": 24,
+        "font_weight": 700,
+        "color": "$colors.text_primary",
+        "margin_top": 2.2,
+        "margin_bottom": 1,
+        "border_bottom": true,
+        "border_color": "$colors.accent",
+        "border_width": 3,
+        "text_align": "left"
+      },
+      "h3": {
+        "font_size": 19,
+        "font_weight": 700,
+        "color": "$colors.accent",
+        "margin_top": 1.8,
+        "margin_bottom": 0.7,
+        "prefix_marker": false
+      },
+      "h4": {
+        "font_size": 17,
+        "font_weight": 600,
+        "color": "$colors.text_secondary",
+        "margin_top": 1.4,
+        "margin_bottom": 0.5
+      }
+    },
+    "blocks": {
+      "blockquote": {
+        "border_left_width": 5,
+        "border_left_color": "$colors.quote_border",
+        "background": "$colors.quote_background",
+        "padding": "16px 24px",
+        "font_style": "italic",
+        "text_color": "$colors.text_secondary",
+        "font_size_ratio": 1.05
+      },
+      "code_inline": {
+        "background": "$colors.code_background",
+        "color": "#b91c1c",
+        "padding": "2px 6px",
+        "border_radius": 3,
+        "font_size_ratio": 0.88
+      },
+      "code_block": {
+        "background": "#2d2d2d",
+        "border_radius": 4,
+        "padding": "20px 24px",
+        "line_height": 1.6,
+        "show_line_numbers": true,
+        "text_color": "#e8e8e8"
+      },
+      "table": {
+        "border_style": "solid",
+        "border_color": "$colors.border",
+        "header_background": "$colors.table_header_bg",
+        "stripe_background": "$colors.table_stripe_bg",
+        "cell_padding": "12px 16px",
+        "border_radius": 0
+      },
+      "list": {
+        "ul_marker": "disc",
+        "ol_marker": "decimal",
+        "indent_size": 28,
+        "item_spacing": 8,
+        "marker_color": "$colors.accent"
+      },
+      "hr": {
+        "style": "double",
+        "color": "$colors.border",
+        "margin": "2.5em 0",
+        "width": "60%"
+      },
+      "image": {
+        "border_radius": 4,
+        "caption_font_size": 14,
+        "caption_color": "$colors.text_secondary",
+        "caption_align": "center",
+        "max_width": "100%"
+      },
+      "link": {
+        "color": "$colors.link_color",
+        "text_decoration": "underline",
+        "hover_decoration": "underline"
+      },
+      "highlight": {
+        "background": "$colors.highlight_bg",
+        "padding": "2px 6px",
+        "border_radius": 2,
+        "font_weight": 600
+      }
+    },
+    "layout": {
+      "max_width": 740,
+      "padding_horizontal": 28,
+      "padding_vertical": 40
+    },
+    "special_effects": {
+      "drop_cap": true,
+      "drop_cap_chars": 1,
+      "drop_cap_size_ratio": 3.2,
+      "drop_cap_color": "$colors.accent"
+    },
+    "components": {
+      "hero_section": {
+        "enabled": true
+      },
+      "section_card": {
+        "enabled": true
+      },
+      "chapter_title": {
+        "enabled": true,
+        "style": "default"
+      },
+      "quote_card": {
+        "enabled": true
+      },
+      "gradient_divider": {
+        "enabled": true
+      },
+      "code_decoration": {
+        "enabled": true
+      },
+      "image_container": {
+        "enabled": true
+      },
+      "emphasis_enhance": {
+        "enabled": true
+      },
+      "highlight_annotation": {
+        "enabled": false
+      },
+      "list_enhance": {
+        "enabled": true
+      }
+    }
+  },
+  "theme": {
+    "id": "aiwritex-md-527c30bd2b44",
+    "name": "杂志排版",
+    "description": "大标题强层次排版，衬线与无衬线混排，分栏感强，适合深度长文和知识内容",
+    "source": "md",
+    "category": "visual",
+    "tags": [
+      "经典基础",
+      "杂志",
+      "排版",
+      "深度",
+      "衬线",
+      "长文"
+    ],
+    "selectable": true,
+    "recommended": false,
+    "riskLevel": "stable",
+    "editorMode": "css",
+    "css": "#wemd{color:#1a1a1a;background-color:#fafaf8;font-family:'Source Han Serif SC', 'Noto Serif SC', Georgia, 'Times New Roman', serif;font-size:17px;line-height:1.9;letter-spacing:0.02em;text-align:justify;padding:40px 28px;overflow-wrap:anywhere}\n#wemd p{margin:0 0 1.4em;text-indent:2em}\n#wemd h1{font-size:32px;font-weight:900;color:$colors.text_primary;margin-top:2.5em;margin-bottom:1.2em;text-align:left}\n#wemd h2{font-size:24px;font-weight:700;color:$colors.text_primary;margin-top:2.2em;margin-bottom:1em;text-align:left;border-bottom:1px solid $colors.accent;padding-bottom:.4em}\n#wemd h3{font-size:19px;font-weight:700;color:$colors.accent;margin-top:1.8em;margin-bottom:0.7em}\n#wemd h4{font-size:17px;font-weight:600;color:$colors.text_secondary;margin-top:1.4em;margin-bottom:0.5em}\n#wemd blockquote{border-left:5px solid $colors.quote_border;background:$colors.quote_background;padding:16px 24px;color:$colors.text_secondary;font-style:italic;margin:1.2em 0}\n#wemd code{background-color:$colors.code_background;color:#b91c1c;padding:2px 6px;border-radius:3px;font-size:0.88em;font-family:'Fira Code', 'JetBrains Mono', monospace}\n#wemd pre{background:#2d2d2d;border-radius:4px;padding:20px 24px;line-height:1.6;white-space:pre-wrap}\n#wemd pre code{background:transparent;padding:0}\n#wemd table{width:100%;border-collapse:collapse}\n#wemd th, #wemd td{border:1px solid $colors.border;padding:12px 16px}\n#wemd th{background:$colors.table_header_bg}\n#wemd tr:nth-child(even){background:$colors.table_stripe_bg}\n#wemd ul, #wemd ol{padding-left:28px;margin:1em 0}\n#wemd ul{list-style-type:disc}\n#wemd ol{list-style-type:decimal}\n#wemd li{margin-bottom:8px}\n#wemd li::marker{color:$colors.accent}\n#wemd hr{border:0;border-top:1px double $colors.border;margin:2.5em 0;width:60%}\n#wemd img{max-width:100%;height:auto;border-radius:4px}\n#wemd figcaption{font-size:14px;color:$colors.text_secondary;text-align:center}\n#wemd a{color:$colors.link_color;text-decoration:underline}\n#wemd strong{color:#c2410c;font-weight:700}\n#wemd mark{background:$colors.highlight_bg;padding:2px 6px;border-radius:2px}\n#wemd > p:first-of-type::first-letter{float:left;font-size:3.2em;color:$colors.accent;line-height:1.1;margin-right:.12em}"
+  }
+}

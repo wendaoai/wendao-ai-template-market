@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-md-45a9cb7ab989",
+  "type": "md-template",
+  "original": {
+    "id": "academic-rigorous",
+    "name": "学术严谨",
+    "description": "Georgia衬线字体，严谨间距与脚注样式，支持参考文献格式，适合技术报告和学术内容",
+    "category": "经典基础",
+    "author": "system",
+    "is_builtin": true,
+    "version": "1.0.0",
+    "tags": [
+      "学术",
+      "严谨",
+      "衬线",
+      "专业",
+      "报告"
+    ],
+    "colors": {
+      "background": "#fefefe",
+      "text_primary": "#2c2c2c",
+      "text_secondary": "#5a5a5a",
+      "accent": "#1e40af",
+      "border": "#cccccc",
+      "code_background": "#f5f5f5",
+      "quote_background": "#f8f8f6",
+      "quote_border": "#1e40af",
+      "table_header_bg": "#e8e8e6",
+      "table_stripe_bg": "#f4f4f2",
+      "link_color": "#1e40af",
+      "highlight_bg": "#fef9c3"
+    },
+    "typography": {
+      "font_family": "Georgia, 'Noto Serif SC', 'Source Han Serif SC', 'Times New Roman', serif",
+      "font_family_code": "'Courier New', 'Fira Code', monospace",
+      "base_font_size": 16,
+      "line_height": 2,
+      "letter_spacing": 0.01,
+      "paragraph_spacing": 1.5,
+      "text_align": "justify",
+      "first_line_indent": true
+    },
+    "headings": {
+      "h1": {
+        "font_size": 26,
+        "font_weight": 700,
+        "color": "$colors.text_primary",
+        "margin_top": 2.5,
+        "margin_bottom": 1,
+        "border_bottom": true,
+        "border_color": "$colors.text_primary",
+        "text_align": "center",
+        "font_variant": "small-caps"
+      },
+      "h2": {
+        "font_size": 21,
+        "font_weight": 700,
+        "color": "$colors.text_primary",
+        "margin_top": 2,
+        "margin_bottom": 0.8,
+        "border_bottom": false,
+        "text_align": "left",
+        "numbering": true
+      },
+      "h3": {
+        "font_size": 18,
+        "font_weight": 600,
+        "color": "$colors.text_primary",
+        "margin_top": 1.6,
+        "margin_bottom": 0.6,
+        "prefix_marker": false,
+        "font_style": "italic"
+      },
+      "h4": {
+        "font_size": 16,
+        "font_weight": 600,
+        "color": "$colors.text_secondary",
+        "margin_top": 1.3,
+        "margin_bottom": 0.5
+      }
+    },
+    "blocks": {
+      "blockquote": {
+        "border_left_width": 3,
+        "border_left_color": "$colors.quote_border",
+        "background": "$colors.quote_background",
+        "padding": "14px 22px",
+        "font_style": "italic",
+        "text_color": "$colors.text_secondary",
+        "font_size_ratio": 0.95
+      },
+      "code_inline": {
+        "background": "$colors.code_background",
+        "color": "#7c2d12",
+        "padding": "1px 5px",
+        "border_radius": 2,
+        "font_size_ratio": 0.9
+      },
+      "code_block": {
+        "background": "$colors.code_background",
+        "border_radius": 2,
+        "padding": "14px 18px",
+        "line_height": 1.5,
+        "show_line_numbers": true,
+        "border": "1px solid $colors.border"
+      },
+      "table": {
+        "border_style": "solid",
+        "border_color": "$colors.border",
+        "header_background": "$colors.table_header_bg",
+        "stripe_background": "$colors.table_stripe_bg",
+        "cell_padding": "8px 12px",
+        "border_radius": 0
+      },
+      "list": {
+        "ul_marker": "disc",
+        "ol_marker": "decimal",
+        "indent_size": 28,
+        "item_spacing": 6,
+        "marker_color": "$colors.text_primary"
+      },
+      "hr": {
+        "style": "solid",
+        "color": "$colors.border",
+        "margin": "2em 0",
+        "width": "100%"
+      },
+      "image": {
+        "border_radius": 2,
+        "caption_font_size": 13,
+        "caption_color": "$colors.text_secondary",
+        "caption_align": "center",
+        "max_width": "100%"
+      },
+      "link": {
+        "color": "$colors.link_color",
+        "text_decoration": "none",
+        "hover_decoration": "underline"
+      },
+      "highlight": {
+        "background": "$colors.highlight_bg",
+        "padding": "1px 4px",
+        "border_radius": 2
+      },
+      "footnote": {
+        "font_size": 13,
+        "color": "$colors.text_secondary",
+        "border_top": "1px solid $colors.border",
+        "margin_top": "3em"
+      }
+    },
+    "layout": {
+      "max_width": 680,
+      "padding_horizontal": 32,
+      "padding_vertical": 40
+    },
+    "special_effects": {
+      "drop_cap": false,
+      "drop_cap_chars": 1,
+      "drop_cap_size_ratio": 3,
+      "drop_cap_color": "#1e40af"
+    },
+    "components": {
+      "hero_section": {
+        "enabled": false
+      },
+      "section_card": {
+        "enabled": false
+      },
+      "chapter_title": {
+        "enabled": true,
+        "style": "default"
+      },
+      "quote_card": {
+        "enabled": true
+      },
+      "gradient_divider": {
+        "enabled": true
+      },
+      "code_decoration": {
+        "enabled": true
+      },
+      "image_container": {
+        "enabled": true
+      },
+      "emphasis_enhance": {
+        "enabled": true
+      },
+      "highlight_annotation": {
+        "enabled": true,
+        "style": "underline"
+      },
+      "list_enhance": {
+        "enabled": true
+      }
+    }
+  },
+  "theme": {
+    "id": "aiwritex-md-45a9cb7ab989",
+    "name": "学术严谨",
+    "description": "Georgia衬线字体，严谨间距与脚注样式，支持参考文献格式，适合技术报告和学术内容",
+    "source": "md",
+    "category": "visual",
+    "tags": [
+      "经典基础",
+      "学术",
+      "严谨",
+      "衬线",
+      "专业",
+      "报告"
+    ],
+    "selectable": true,
+    "recommended": false,
+    "riskLevel": "stable",
+    "editorMode": "css",
+    "css": "#wemd{color:#2c2c2c;background-color:#fefefe;font-family:Georgia, 'Noto Serif SC', 'Source Han Serif SC', 'Times New Roman', serif;font-size:16px;line-height:2;letter-spacing:0.01em;text-align:justify;padding:40px 32px;overflow-wrap:anywhere}\n#wemd p{margin:0 0 1.5em;text-indent:2em}\n#wemd h1{font-size:26px;font-weight:700;color:$colors.text_primary;margin-top:2.5em;margin-bottom:1em;text-align:center;border-bottom:1px solid $colors.text_primary;padding-bottom:.4em}\n#wemd h2{font-size:21px;font-weight:700;color:$colors.text_primary;margin-top:2em;margin-bottom:0.8em;text-align:left}\n#wemd h3{font-size:18px;font-weight:600;color:$colors.text_primary;margin-top:1.6em;margin-bottom:0.6em}\n#wemd h4{font-size:16px;font-weight:600;color:$colors.text_secondary;margin-top:1.3em;margin-bottom:0.5em}\n#wemd blockquote{border-left:3px solid $colors.quote_border;background:$colors.quote_background;padding:14px 22px;color:$colors.text_secondary;font-style:italic;margin:1.2em 0}\n#wemd code{background-color:$colors.code_background;color:#7c2d12;padding:1px 5px;border-radius:2px;font-size:0.9em;font-family:'Courier New', 'Fira Code', monospace}\n#wemd pre{background:$colors.code_background;border-radius:2px;padding:14px 18px;line-height:1.5;white-space:pre-wrap}\n#wemd pre code{background:transparent;padding:0}\n#wemd table{width:100%;border-collapse:collapse}\n#wemd th, #wemd td{border:1px solid $colors.border;padding:8px 12px}\n#wemd th{background:$colors.table_header_bg}\n#wemd tr:nth-child(even){background:$colors.table_stripe_bg}\n#wemd ul, #wemd ol{padding-left:28px;margin:1em 0}\n#wemd ul{list-style-type:disc}\n#wemd ol{list-style-type:decimal}\n#wemd li{margin-bottom:6px}\n#wemd li::marker{color:$colors.text_primary}\n#wemd hr{border:0;border-top:1px solid $colors.border;margin:2em 0;width:100%}\n#wemd img{max-width:100%;height:auto;border-radius:2px}\n#wemd figcaption{font-size:13px;color:$colors.text_secondary;text-align:center}\n#wemd a{color:$colors.link_color;text-decoration:none}\n#wemd strong{color:#1e40af;font-weight:700}\n#wemd mark{background:$colors.highlight_bg;padding:1px 4px;border-radius:2px}"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-md-13db7373e629",
+  "type": "md-template",
+  "original": {
+    "id": "business-navy",
+    "name": "商务深蓝",
+    "description": "深蓝与白色专业配色，数据可视化友好，表格与图表增强，适合商务报告和企业内容",
+    "category": "沉稳专业",
+    "author": "system",
+    "is_builtin": true,
+    "version": "1.0.0",
+    "tags": [
+      "商务",
+      "深蓝",
+      "专业",
+      "企业",
+      "报告"
+    ],
+    "colors": {
+      "background": "#f8f9fc",
+      "text_primary": "#1a2332",
+      "text_secondary": "#5a6a7a",
+      "accent": "#1e3a5f",
+      "border": "#c8d6e5",
+      "code_background": "#eef2f7",
+      "quote_background": "#eef2f7",
+      "quote_border": "#1e3a5f",
+      "table_header_bg": "#1e3a5f",
+      "table_stripe_bg": "#f0f4f8",
+      "link_color": "#2563eb",
+      "highlight_bg": "#dbeafe"
+    },
+    "typography": {
+      "font_family": "'Inter', -apple-system, 'Segoe UI', 'Noto Sans SC', sans-serif",
+      "font_family_code": "'Fira Code', monospace",
+      "base_font_size": 15,
+      "line_height": 1.75,
+      "letter_spacing": -0.01,
+      "paragraph_spacing": 1.2,
+      "text_align": "left",
+      "first_line_indent": false
+    },
+    "headings": {
+      "h1": {
+        "font_size": 26,
+        "font_weight": 800,
+        "color": "$colors.accent",
+        "margin_top": 2,
+        "margin_bottom": 1,
+        "border_bottom": true,
+        "border_color": "$colors.accent",
+        "text_align": "left"
+      },
+      "h2": {
+        "font_size": 21,
+        "font_weight": 700,
+        "color": "$colors.text_primary",
+        "margin_top": 1.8,
+        "margin_bottom": 0.8,
+        "border_bottom": true,
+        "border_color": "$colors.border",
+        "text_align": "left"
+      },
+      "h3": {
+        "font_size": 17,
+        "font_weight": 600,
+        "color": "$colors.accent",
+        "margin_top": 1.5,
+        "margin_bottom": 0.6,
+        "prefix_marker": true
+      },
+      "h4": {
+        "font_size": 15,
+        "font_weight": 600,
+        "color": "$colors.text_secondary",
+        "margin_top": 1.2,
+        "margin_bottom": 0.5
+      }
+    },
+    "blocks": {
+      "blockquote": {
+        "border_left_width": 4,
+        "border_left_color": "$colors.quote_border",
+        "background": "$colors.quote_background",
+        "padding": "14px 20px",
+        "font_style": "normal",
+        "text_color": "$colors.text_secondary"
+      },
+      "code_inline": {
+        "background": "$colors.code_background",
+        "color": "#1e3a5f",
+        "padding": "2px 6px",
+        "border_radius": 4,
+        "font_size_ratio": 0.9
+      },
+      "code_block": {
+        "background": "#1a2332",
+        "border_radius": 6,
+        "padding": "18px 22px",
+        "line_height": 1.5,
+        "show_line_numbers": true,
+        "text_color": "#e2e8f0"
+      },
+      "table": {
+        "border_style": "solid",
+        "border_color": "$colors.border",
+        "header_background": "$colors.table_header_bg",
+        "header_text_color": "#ffffff",
+        "stripe_background": "$colors.table_stripe_bg",
+        "cell_padding": "10px 14px",
+        "border_radius": 6
+      },
+      "list": {
+        "ul_marker": "disc",
+        "ol_marker": "decimal",
+        "indent_size": 24,
+        "item_spacing": 6,
+        "marker_color": "$colors.accent"
+      },
+      "hr": {
+        "style": "solid",
+        "color": "$colors.border",
+        "margin": "2em 0",
+        "width": "100%"
+      },
+      "image": {
+        "border_radius": 6,
+        "caption_font_size": 13,
+        "caption_color": "$colors.text_secondary",
+        "caption_align": "center",
+        "max_width": "100%"
+      },
+      "link": {
+        "color": "$colors.link_color",
+        "text_decoration": "none",
+        "hover_decoration": "underline"
+      },
+      "highlight": {
+        "background": "$colors.highlight_bg",
+        "padding": "2px 6px",
+        "border_radius": 4
+      }
+    },
+    "layout": {
+      "max_width": 740,
+      "padding_horizontal": 24,
+      "padding_vertical": 32
+    },
+    "special_effects": {
+      "drop_cap": false,
+      "drop_cap_chars": 1,
+      "drop_cap_size_ratio": 3,
+      "drop_cap_color": "#1e3a5f"
+    },
+    "components": {
+      "hero_section": {
+        "enabled": false
+      },
+      "section_card": {
+        "enabled": true
+      },
+      "chapter_title": {
+        "enabled": true,
+        "style": "default"
+      },
+      "quote_card": {
+        "enabled": true
+      },
+      "gradient_divider": {
+        "enabled": true
+      },
+      "code_decoration": {
+        "enabled": true
+      },
+      "image_container": {
+        "enabled": true
+      },
+      "emphasis_enhance": {
+        "enabled": true
+      },
+      "highlight_annotation": {
+        "enabled": false
+      },
+      "list_enhance": {
+        "enabled": true
+      }
+    }
+  },
+  "theme": {
+    "id": "aiwritex-md-13db7373e629",
+    "name": "商务深蓝",
+    "description": "深蓝与白色专业配色，数据可视化友好，表格与图表增强，适合商务报告和企业内容",
+    "source": "md",
+    "category": "visual",
+    "tags": [
+      "沉稳专业",
+      "商务",
+      "深蓝",
+      "专业",
+      "企业",
+      "报告"
+    ],
+    "selectable": true,
+    "recommended": false,
+    "riskLevel": "stable",
+    "editorMode": "css",
+    "css": "#wemd{color:#1a2332;background-color:#f8f9fc;font-family:'Inter', -apple-system, 'Segoe UI', 'Noto Sans SC', sans-serif;font-size:15px;line-height:1.75;letter-spacing:-0.01em;text-align:left;padding:32px 24px;overflow-wrap:anywhere}\n#wemd p{margin:0 0 1.2em;text-indent:0}\n#wemd h1{font-size:26px;font-weight:800;color:$colors.accent;margin-top:2em;margin-bottom:1em;text-align:left;border-bottom:1px solid $colors.accent;padding-bottom:.4em}\n#wemd h2{font-size:21px;font-weight:700;color:$colors.text_primary;margin-top:1.8em;margin-bottom:0.8em;text-align:left;border-bottom:1px solid $colors.border;padding-bottom:.4em}\n#wemd h3{font-size:17px;font-weight:600;color:$colors.accent;margin-top:1.5em;margin-bottom:0.6em}\n#wemd h3::before{content:\"· \";color:#1e3a5f}\n#wemd h4{font-size:15px;font-weight:600;color:$colors.text_secondary;margin-top:1.2em;margin-bottom:0.5em}\n#wemd blockquote{border-left:4px solid $colors.quote_border;background:$colors.quote_background;padding:14px 20px;color:$colors.text_secondary;font-style:normal;margin:1.2em 0}\n#wemd code{background-color:$colors.code_background;color:#1e3a5f;padding:2px 6px;border-radius:4px;font-size:0.9em;font-family:'Fira Code', monospace}\n#wemd pre{background:#1a2332;border-radius:6px;padding:18px 22px;line-height:1.5;white-space:pre-wrap}\n#wemd pre code{background:transparent;padding:0}\n#wemd table{width:100%;border-collapse:collapse}\n#wemd th, #wemd td{border:1px solid $colors.border;padding:10px 14px}\n#wemd th{background:$colors.table_header_bg}\n#wemd tr:nth-child(even){background:$colors.table_stripe_bg}\n#wemd ul, #wemd ol{padding-left:24px;margin:1em 0}\n#wemd ul{list-style-type:disc}\n#wemd ol{list-style-type:decimal}\n#wemd li{margin-bottom:6px}\n#wemd li::marker{color:$colors.accent}\n#wemd hr{border:0;border-top:1px solid $colors.border;margin:2em 0;width:100%}\n#wemd img{max-width:100%;height:auto;border-radius:6px}\n#wemd figcaption{font-size:13px;color:$colors.text_secondary;text-align:center}\n#wemd a{color:$colors.link_color;text-decoration:none}\n#wemd strong{color:#1e3a5f;font-weight:700}\n#wemd mark{background:$colors.highlight_bg;padding:2px 6px;border-radius:4px}"
+  }
+}

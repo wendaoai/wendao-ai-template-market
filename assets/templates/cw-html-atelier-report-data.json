@@ -1,0 +1,297 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-atelier-report-data",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:report]\n[cw-layout-design:{\"id\":\"atelier-report-data\",\"palette\":{\"paper\":\"#f8fbff\",\"ink\":\"#23374b\",\"muted\":\"#5a6b7d\",\"accent\":\"#315f87\",\"panel\":\"#e8eff7\"},\"typography\":{\"font\":\"sans\",\"titleSize\":39,\"titleWeight\":800,\"bodySize\":16,\"lineHeight\":1.8,\"paragraphGap\":12},\"composition\":{\"opening\":\"spotlight\",\"frame\":\"top-band\",\"inset\":18,\"measure\":100,\"titleFont\":\"mono\",\"titleSize\":39,\"titleWeight\":800,\"headerTreatment\":\"plain\",\"headerAlign\":\"left\",\"headerMeasure\":92,\"headerLayout\":\"display\",\"leadTreatment\":\"panel\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"outline\",\"endingTreatment\":\"overline\",\"imageTreatment\":\"outline\",\"rhythm\":\"continuous\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"large\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"panel\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"band\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"table\",\"treatment\":\"band\",\"align\":\"left\"},{\"role\":\"list\",\"treatment\":\"ruled\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"outline\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"overline\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "atelier-report-data",
+    "label": "数据焦点",
+    "category": "财经投资",
+    "topics": [
+      "企业",
+      "总结报告",
+      "金融"
+    ],
+    "keywords": "数据焦点 报告 总结报告 金融 企业 聚焦导语 · 蓝色数据带 · 表格报告 report",
+    "summary": "聚焦导语 · 蓝色数据带 · 表格报告",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「数据焦点」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"opening\":\"spotlight\",\"frame\":\"top-band\",\"inset\":18,\"measure\":100,\"titleFont\":\"mono\",\"titleSize\":39,\"titleWeight\":800,\"headerTreatment\":\"plain\",\"headerAlign\":\"left\",\"headerMeasure\":92,\"headerLayout\":\"display\",\"leadTreatment\":\"panel\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"outline\",\"endingTreatment\":\"overline\",\"imageTreatment\":\"outline\",\"rhythm\":\"continuous\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/large/left → lead/panel/left → heading/band/left → body/plain/left → table/band/left → list/ruled/left → quote/outline/left → ending/overline/left。\n标题：mono 字体，39px / 800，left 对齐，宽度 92%，display 构图，plain 处理。\n导语：panel；章节：band；引用：outline。\n重点与数据：章节带与表格表头统一蓝色，事实列表细线分隔，原文结论用顶线收束。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。\n结尾：overline；已有配图：outline。\n正文排印：sans 字体，正文 16px，行高 1.8，段落间距约 12px；正文宽度 100%，continuous 阅读节奏。\n色彩角色：纸面 #f8fbff，正文 #23374b，辅助 #5a6b7d，强调 #315f87，信息区 #e8eff7。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 large、panel、band、plain、ruled、outline、overline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "atelier-report-data",
+      "label": "数据焦点",
+      "category": "报告",
+      "topics": [
+        "总结报告",
+        "金融",
+        "企业"
+      ],
+      "visualFamily": "report",
+      "keywords": "数据焦点 报告 总结报告 金融 企业 聚焦导语 · 蓝色数据带 · 表格报告 report",
+      "summary": "聚焦导语 · 蓝色数据带 · 表格报告",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f8fbff",
+        "ink": "#23374b",
+        "muted": "#5a6b7d",
+        "accent": "#315f87",
+        "panel": "#e8eff7"
+      },
+      "composition": {
+        "opening": "spotlight",
+        "frame": "top-band",
+        "inset": 18,
+        "measure": 100,
+        "titleFont": "mono",
+        "titleSize": 39,
+        "titleWeight": 800,
+        "headerTreatment": "plain",
+        "headerAlign": "left",
+        "headerMeasure": 92,
+        "headerLayout": "display",
+        "leadTreatment": "panel",
+        "headingTreatment": "band",
+        "quoteTreatment": "outline",
+        "endingTreatment": "overline",
+        "imageTreatment": "outline",
+        "rhythm": "continuous"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 39,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.8,
+        "paragraphGap": 12
+      },
+      "rules": {
+        "title": "等宽标题强调报告感，摘要在浅蓝信息区中与正文区分。",
+        "lead": "本套导语采用 panel，保留原文开场，不补写摘要。",
+        "section": "章节带与表格表头统一蓝色，事实列表细线分隔，原文结论用顶线收束。",
+        "quote": "本套原文引用采用 outline；没有引用时省略，不把普通段落造为引语。",
+        "emphasis": "章节带与表格表头统一蓝色，事实列表细线分隔，原文结论用顶线收束。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。",
+        "ending": "原文结尾使用 overline；保留最后一段，不增加落款或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          5,
+          70,
+          8,
+          "large",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          16,
+          70,
+          8,
+          "panel",
+          "left"
+        ],
+        [
+          "heading",
+          8,
+          27,
+          70,
+          8,
+          "band",
+          "left"
+        ],
+        [
+          "body",
+          8,
+          38,
+          70,
+          8,
+          "plain",
+          "left"
+        ],
+        [
+          "table",
+          8,
+          49,
+          70,
+          8,
+          "band",
+          "left"
+        ],
+        [
+          "list",
+          8,
+          60,
+          70,
+          8,
+          "ruled",
+          "left"
+        ],
+        [
+          "quote",
+          8,
+          71,
+          70,
+          8,
+          "outline",
+          "left"
+        ],
+        [
+          "ending",
+          8,
+          82,
+          70,
+          8,
+          "overline",
+          "left"
+        ]
+      ]
+    }
+  },
+  "original": {
+    "id": "atelier-report-data",
+    "label": "数据焦点",
+    "category": "报告",
+    "topics": [
+      "企业",
+      "总结报告",
+      "金融"
+    ],
+    "keywords": "数据焦点 报告 总结报告 金融 企业 聚焦导语 · 蓝色数据带 · 表格报告 report",
+    "summary": "聚焦导语 · 蓝色数据带 · 表格报告",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「数据焦点」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"opening\":\"spotlight\",\"frame\":\"top-band\",\"inset\":18,\"measure\":100,\"titleFont\":\"mono\",\"titleSize\":39,\"titleWeight\":800,\"headerTreatment\":\"plain\",\"headerAlign\":\"left\",\"headerMeasure\":92,\"headerLayout\":\"display\",\"leadTreatment\":\"panel\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"outline\",\"endingTreatment\":\"overline\",\"imageTreatment\":\"outline\",\"rhythm\":\"continuous\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/large/left → lead/panel/left → heading/band/left → body/plain/left → table/band/left → list/ruled/left → quote/outline/left → ending/overline/left。\n标题：mono 字体，39px / 800，left 对齐，宽度 92%，display 构图，plain 处理。\n导语：panel；章节：band；引用：outline。\n重点与数据：章节带与表格表头统一蓝色，事实列表细线分隔，原文结论用顶线收束。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。\n结尾：overline；已有配图：outline。\n正文排印：sans 字体，正文 16px，行高 1.8，段落间距约 12px；正文宽度 100%，continuous 阅读节奏。\n色彩角色：纸面 #f8fbff，正文 #23374b，辅助 #5a6b7d，强调 #315f87，信息区 #e8eff7。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 large、panel、band、plain、ruled、outline、overline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "atelier-report-data",
+      "label": "数据焦点",
+      "category": "报告",
+      "topics": [
+        "总结报告",
+        "金融",
+        "企业"
+      ],
+      "visualFamily": "report",
+      "keywords": "数据焦点 报告 总结报告 金融 企业 聚焦导语 · 蓝色数据带 · 表格报告 report",
+      "summary": "聚焦导语 · 蓝色数据带 · 表格报告",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f8fbff",
+        "ink": "#23374b",
+        "muted": "#5a6b7d",
+        "accent": "#315f87",
+        "panel": "#e8eff7"
+      },
+      "composition": {
+        "opening": "spotlight",
+        "frame": "top-band",
+        "inset": 18,
+        "measure": 100,
+        "titleFont": "mono",
+        "titleSize": 39,
+        "titleWeight": 800,
+        "headerTreatment": "plain",
+        "headerAlign": "left",
+        "headerMeasure": 92,
+        "headerLayout": "display",
+        "leadTreatment": "panel",
+        "headingTreatment": "band",
+        "quoteTreatment": "outline",
+        "endingTreatment": "overline",
+        "imageTreatment": "outline",
+        "rhythm": "continuous"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 39,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.8,
+        "paragraphGap": 12
+      },
+      "rules": {
+        "title": "等宽标题强调报告感，摘要在浅蓝信息区中与正文区分。",
+        "lead": "本套导语采用 panel，保留原文开场，不补写摘要。",
+        "section": "章节带与表格表头统一蓝色，事实列表细线分隔，原文结论用顶线收束。",
+        "quote": "本套原文引用采用 outline；没有引用时省略，不把普通段落造为引语。",
+        "emphasis": "章节带与表格表头统一蓝色，事实列表细线分隔，原文结论用顶线收束。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。",
+        "ending": "原文结尾使用 overline；保留最后一段，不增加落款或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          5,
+          70,
+          8,
+          "large",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          16,
+          70,
+          8,
+          "panel",
+          "left"
+        ],
+        [
+          "heading",
+          8,
+          27,
+          70,
+          8,
+          "band",
+          "left"
+        ],
+        [
+          "body",
+          8,
+          38,
+          70,
+          8,
+          "plain",
+          "left"
+        ],
+        [
+          "table",
+          8,
+          49,
+          70,
+          8,
+          "band",
+          "left"
+        ],
+        [
+          "list",
+          8,
+          60,
+          70,
+          8,
+          "ruled",
+          "left"
+        ],
+        [
+          "quote",
+          8,
+          71,
+          70,
+          8,
+          "outline",
+          "left"
+        ],
+        [
+          "ending",
+          8,
+          82,
+          70,
+          8,
+          "overline",
+          "left"
+        ]
+      ]
+    }
+  },
+  "html": "<section id=\"cw-layout-report\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #f8fbff; border-top: 5px solid #315f87; box-sizing: border-box; color: #23374b; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 18px; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #23374b; border-top: 4px solid #315f87; box-sizing: border-box; margin: 0 0 20px; max-width: 100%; padding: 24px 22px 24px; text-align: left; width: 100%\"><h1 style=\"color: #f8fbff; font-family: Menlo, Consolas, &#39;PingFang SC&#39;, monospace; font-size: 39px; font-weight: 800; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: left; text-indent: 0\">把生活里的小事，慢慢做好</h1><p style=\"color: #ffffff; font-size: 17px; line-height: 1.8; margin: 12px 0 0; padding: 0; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p></section><section style=\"border-top: 6px solid #315f87; margin: 20px 0 20px; padding: 12px 0 4px\"><h2 style=\"background-color: #315f87; color: #ffffff; font-family: Menlo, Consolas, &#39;PingFang SC&#39;, monospace; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 8px 16px 8px; text-align: left; text-indent: 0\">留一点时间给自己</h2><p style=\"line-height: 1.8; margin: 0 0 12px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"border: 1px solid #c0cfdd; color: #23374b; font-size: 17px; line-height: 1.8; margin: 20px 0 20px; padding: 12px 16px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section><section style=\"background-color: #e8eff7; margin: 20px 0 20px; padding: 12px 16px 6px\"><h2 style=\"background-color: #315f87; color: #ffffff; font-family: Menlo, Consolas, &#39;PingFang SC&#39;, monospace; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 8px 16px 8px; text-align: left; text-indent: 0\">让行动变得简单</h2><section style=\"background-color: #e8eff7; margin: 20px 0 20px; padding: 12px 12px 2px\"><ul style=\"border-bottom: 1px solid #5a6b7d; margin: 0 0 0; padding-bottom: 14px; padding-left: 22px; text-align: left\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul></section><section style=\"background-color: #e8eff7; margin: 20px 0 20px; padding: 12px 12px 2px\"><table style=\"background-color: #315f87; border-collapse: collapse; color: #ffffff; font-family: inherit; font-size: 15px; line-height: inherit; margin: 0 0 0; padding: 12px 16px 12px; table-layout: fixed; text-align: left; width: 100%\"><thead><tr><th style=\"background-color: #315f87; border: 1px solid #c0cfdd; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #315f87; border: 1px solid #c0cfdd; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #c0cfdd; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #c0cfdd; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #c0cfdd; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #c0cfdd; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table></section><section style=\"border-top: 1px solid #315f87; margin: 20px 0 0; padding: 12px 0 0\"><p style=\"border-top: 2px solid #315f87; color: #23374b; line-height: 1.8; margin: 0 0 0; padding: 12px 0 0; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section>"
+}

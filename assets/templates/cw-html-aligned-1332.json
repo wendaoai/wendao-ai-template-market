@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-aligned-1332",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:report]\n[cw-layout-design:{\"id\":\"aligned-1332\",\"palette\":{\"paper\":\"#f0faff\",\"ink\":\"#234764\",\"muted\":\"#234764\",\"accent\":\"#0c76d1\",\"panel\":\"#e0f2fb\"},\"typography\":{\"font\":\"sans\",\"titleSize\":42,\"titleWeight\":800,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":16},\"composition\":{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"atlas\",\"frame\":\"rail\",\"titleFont\":\"sans\",\"titleSize\":42,\"titleWeight\":800,\"headerAlign\":\"center\",\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"underline\",\"imageTreatment\":\"outline\",\"rhythm\":\"chapter\"},\"decoration\":\"aligned-1332\",\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"center\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"band\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"outline\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"underline\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "aligned-1332",
+    "label": "破界未来",
+    "category": "财经投资",
+    "topics": [
+      "企业"
+    ],
+    "keywords": "企业 破界未来 开放轨道几何 · 天蓝通栏 · 图册章节 背景模板 PNG 背景图 渐变 文到精选 1332",
+    "summary": "开放轨道几何 · 天蓝通栏 · 图册章节",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「破界未来」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"atlas\",\"frame\":\"rail\",\"titleFont\":\"sans\",\"titleSize\":42,\"titleWeight\":800,\"headerAlign\":\"center\",\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"underline\",\"imageTreatment\":\"outline\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/center → lead/plain/left → heading/band/left → body/plain/left → image/outline/left → quote/inset/left → ending/underline/left。\n标题：sans 字体，42px / 800，center 对齐，宽度 100%，display 构图，plain 处理。\n导语：plain；章节：band；引用：inset。\n重点与数据：开放轨道几何 · 天蓝通栏 · 图册章节。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：underline；已有配图：outline。\n正文排印：sans 字体，正文 16px，行高 1.95，段落间距约 16px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #f0faff，正文 #234764，辅助 #234764，强调 #0c76d1，信息区 #e0f2fb。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、band、outline、inset、underline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1332",
+      "label": "破界未来",
+      "category": "文到精选",
+      "topics": [
+        "企业"
+      ],
+      "visualFamily": "report",
+      "decoration": "aligned-1332",
+      "keywords": "企业 破界未来 开放轨道几何 · 天蓝通栏 · 图册章节 背景模板 PNG 背景图 渐变 文到精选 1332",
+      "summary": "开放轨道几何 · 天蓝通栏 · 图册章节",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f0faff",
+        "ink": "#234764",
+        "muted": "#234764",
+        "accent": "#0c76d1",
+        "panel": "#e0f2fb"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "atlas",
+        "frame": "rail",
+        "titleFont": "sans",
+        "titleSize": 42,
+        "titleWeight": 800,
+        "headerAlign": "center",
+        "headerLayout": "display",
+        "leadTreatment": "plain",
+        "headingTreatment": "band",
+        "quoteTreatment": "inset",
+        "endingTreatment": "underline",
+        "imageTreatment": "outline",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 42,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "破界未来：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 band，按原文顺序重复。",
+        "quote": "原文引用采用 inset；没有引用时省略。",
+        "emphasis": "开放轨道几何 · 天蓝通栏 · 图册章节。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 underline；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "band"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "outline"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "inset"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "underline"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "original": {
+    "id": "aligned-1332",
+    "label": "破界未来",
+    "category": "文到精选",
+    "topics": [
+      "企业"
+    ],
+    "keywords": "企业 破界未来 开放轨道几何 · 天蓝通栏 · 图册章节 背景模板 PNG 背景图 渐变 文到精选 1332",
+    "summary": "开放轨道几何 · 天蓝通栏 · 图册章节",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「破界未来」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"atlas\",\"frame\":\"rail\",\"titleFont\":\"sans\",\"titleSize\":42,\"titleWeight\":800,\"headerAlign\":\"center\",\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"underline\",\"imageTreatment\":\"outline\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/center → lead/plain/left → heading/band/left → body/plain/left → image/outline/left → quote/inset/left → ending/underline/left。\n标题：sans 字体，42px / 800，center 对齐，宽度 100%，display 构图，plain 处理。\n导语：plain；章节：band；引用：inset。\n重点与数据：开放轨道几何 · 天蓝通栏 · 图册章节。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：underline；已有配图：outline。\n正文排印：sans 字体，正文 16px，行高 1.95，段落间距约 16px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #f0faff，正文 #234764，辅助 #234764，强调 #0c76d1，信息区 #e0f2fb。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、band、outline、inset、underline。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1332",
+      "label": "破界未来",
+      "category": "文到精选",
+      "topics": [
+        "企业"
+      ],
+      "visualFamily": "report",
+      "decoration": "aligned-1332",
+      "keywords": "企业 破界未来 开放轨道几何 · 天蓝通栏 · 图册章节 背景模板 PNG 背景图 渐变 文到精选 1332",
+      "summary": "开放轨道几何 · 天蓝通栏 · 图册章节",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f0faff",
+        "ink": "#234764",
+        "muted": "#234764",
+        "accent": "#0c76d1",
+        "panel": "#e0f2fb"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "atlas",
+        "frame": "rail",
+        "titleFont": "sans",
+        "titleSize": 42,
+        "titleWeight": 800,
+        "headerAlign": "center",
+        "headerLayout": "display",
+        "leadTreatment": "plain",
+        "headingTreatment": "band",
+        "quoteTreatment": "inset",
+        "endingTreatment": "underline",
+        "imageTreatment": "outline",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 42,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "破界未来：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 band，按原文顺序重复。",
+        "quote": "原文引用采用 inset；没有引用时省略。",
+        "emphasis": "开放轨道几何 · 天蓝通栏 · 图册章节。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 underline；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "band"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "outline"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "inset"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "underline"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "html": "<section id=\"cw-layout-report\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #f0faff; background-image: linear-gradient(180deg, #f0faff 0%, #e0f2fb 100%); border-left: 1px solid #0c76d1; box-sizing: border-box; color: #234764; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 20px; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #e0f2fb; background-image: url(&#34;data:image/png;base64,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&#34;); background-position: center; background-repeat: no-repeat; background-size: 100% auto; box-sizing: border-box; color: #234764; margin: 0 auto 24px; max-width: 100%; padding: 62px 22px 34px; text-align: center; width: 100%\"><h1 style=\"color: inherit; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 42px; font-weight: 800; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: center; text-indent: 0\">把生活里的小事，慢慢做好</h1><p style=\"box-sizing: border-box; color: #234764; font-size: 17px; line-height: 1.8; margin: 12px 0 0; margin-left: 0; margin-right: 0; text-align: left; width: 100%\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p></section><section style=\"margin: 24px 0 24px; margin-bottom: 0\"><section style=\"background-color: #e0f2fb; box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 16px 18px 16px; padding-bottom: 12px; padding-top: 16px; width: 100%\"><h2 style=\"color: #234764; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 24px; font-weight: 500; line-height: 1.5; margin: 0; padding: 0; text-align: left; text-indent: 0\">留一点时间给自己</h2></section><section style=\"box-sizing: border-box; margin-bottom: 0; margin-left: 0; margin-right: 0; padding: 12px 0 0; padding-bottom: 0; width: 100%\"><p style=\"line-height: 1.8; margin: 0 0 16px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"background-color: #e0f2fb; background-image: linear-gradient(130deg, #e0f2fb, #f0faff); color: #234764; font-size: 17px; line-height: 1.8; margin: 20px 12px 20px; margin-bottom: 0; padding: 12px 18px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section></section><section style=\"margin: 24px 0 24px; margin-bottom: 0\"><section style=\"background-color: #e0f2fb; box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 16px 18px 16px; padding-bottom: 12px; padding-top: 16px; width: 100%\"><h2 style=\"color: #234764; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 24px; font-weight: 500; line-height: 1.5; margin: 0; padding: 0; text-align: left; text-indent: 0\">让行动变得简单</h2></section><section style=\"box-sizing: border-box; margin-bottom: 0; margin-left: 0; margin-right: 0; padding: 12px 0 0; padding-bottom: 0; width: 100%\"><ul style=\"margin: 0 0 16px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #0c76d1; border: 1px solid #b0d5f2; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #0c76d1; border: 1px solid #b0d5f2; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #b0d5f2; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #b0d5f2; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #b0d5f2; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #b0d5f2; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><section style=\"border-top: 1px solid #0c76d1; margin: 20px 0 0; margin-bottom: 0; padding: 12px 0 0\"><p style=\"border-bottom: 2px solid #0c76d1; color: #234764; line-height: 1.8; margin: 0 0 0; padding: 0 0 10px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section></section>"
+}

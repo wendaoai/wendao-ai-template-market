@@ -1,0 +1,261 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-decor-sunset",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:poster]\n[cw-layout-design:{\"id\":\"decor-sunset\",\"palette\":{\"paper\":\"#fffaf5\",\"ink\":\"#56382b\",\"muted\":\"#846150\",\"accent\":\"#a25128\",\"panel\":\"#faeadd\"},\"typography\":{\"font\":\"sans\",\"titleSize\":42,\"titleWeight\":850,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":16},\"composition\":{\"inset\":18,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"poster\",\"frame\":\"top-band\",\"titleFont\":\"sans\",\"titleSize\":42,\"titleWeight\":850,\"headerAlign\":\"right\",\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"large\",\"quoteTreatment\":\"bracket\",\"endingTreatment\":\"panel\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"},\"decoration\":\"sunset-orange\",\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"right\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"large\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"bracket\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"panel\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "decor-sunset",
+    "label": "落日橙",
+    "category": "美食旅行",
+    "topics": [
+      "旅游"
+    ],
+    "keywords": "旅游 落日橙 暖橙渐变开篇 · 大字章节 · 窄框引语 背景模板 渐变 CSS",
+    "summary": "暖橙渐变开篇 · 大字章节 · 窄框引语",
+    "visualFamily": "poster",
+    "supportsImages": true,
+    "instruction": "采用「落日橙」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：大字海报。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":18,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"poster\",\"frame\":\"top-band\",\"titleFont\":\"sans\",\"titleSize\":42,\"titleWeight\":850,\"headerAlign\":\"right\",\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"large\",\"quoteTreatment\":\"bracket\",\"endingTreatment\":\"panel\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/right → lead/plain/left → heading/large/left → body/plain/left → image/plain/left → quote/bracket/left → ending/panel/left。\n标题：sans 字体，42px / 850，right 对齐，宽度 100%，display 构图，plain 处理。\n导语：plain；章节：large；引用：bracket。\n重点与数据：暖橙渐变开篇 · 大字章节 · 窄框引语。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：panel；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.95，段落间距约 16px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #fffaf5，正文 #56382b，辅助 #846150，强调 #a25128，信息区 #faeadd。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、large、bracket、panel。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "decor-sunset",
+      "label": "落日橙",
+      "category": "专题",
+      "topics": [
+        "旅游"
+      ],
+      "visualFamily": "poster",
+      "decoration": "sunset-orange",
+      "keywords": "旅游 落日橙 暖橙渐变开篇 · 大字章节 · 窄框引语 背景模板 渐变 CSS",
+      "summary": "暖橙渐变开篇 · 大字章节 · 窄框引语",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffaf5",
+        "ink": "#56382b",
+        "muted": "#846150",
+        "accent": "#a25128",
+        "panel": "#faeadd"
+      },
+      "composition": {
+        "inset": 18,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "poster",
+        "frame": "top-band",
+        "titleFont": "sans",
+        "titleSize": 42,
+        "titleWeight": 850,
+        "headerAlign": "right",
+        "headerLayout": "display",
+        "leadTreatment": "plain",
+        "headingTreatment": "large",
+        "quoteTreatment": "bracket",
+        "endingTreatment": "panel",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 42,
+        "titleWeight": 850,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "落日橙：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 large，按原文顺序重复。",
+        "quote": "原文引用采用 bracket；没有引用时省略。",
+        "emphasis": "暖橙渐变开篇 · 大字章节 · 窄框引语。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 panel；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "right"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "large"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "bracket"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "panel"
+        ]
+      ]
+    }
+  },
+  "original": {
+    "id": "decor-sunset",
+    "label": "落日橙",
+    "category": "专题",
+    "topics": [
+      "旅游"
+    ],
+    "keywords": "旅游 落日橙 暖橙渐变开篇 · 大字章节 · 窄框引语 背景模板 渐变 CSS",
+    "summary": "暖橙渐变开篇 · 大字章节 · 窄框引语",
+    "visualFamily": "poster",
+    "supportsImages": true,
+    "instruction": "采用「落日橙」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：大字海报。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":18,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"poster\",\"frame\":\"top-band\",\"titleFont\":\"sans\",\"titleSize\":42,\"titleWeight\":850,\"headerAlign\":\"right\",\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"large\",\"quoteTreatment\":\"bracket\",\"endingTreatment\":\"panel\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/right → lead/plain/left → heading/large/left → body/plain/left → image/plain/left → quote/bracket/left → ending/panel/left。\n标题：sans 字体，42px / 850，right 对齐，宽度 100%，display 构图，plain 处理。\n导语：plain；章节：large；引用：bracket。\n重点与数据：暖橙渐变开篇 · 大字章节 · 窄框引语。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：panel；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.95，段落间距约 16px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #fffaf5，正文 #56382b，辅助 #846150，强调 #a25128，信息区 #faeadd。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、large、bracket、panel。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "decor-sunset",
+      "label": "落日橙",
+      "category": "专题",
+      "topics": [
+        "旅游"
+      ],
+      "visualFamily": "poster",
+      "decoration": "sunset-orange",
+      "keywords": "旅游 落日橙 暖橙渐变开篇 · 大字章节 · 窄框引语 背景模板 渐变 CSS",
+      "summary": "暖橙渐变开篇 · 大字章节 · 窄框引语",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffaf5",
+        "ink": "#56382b",
+        "muted": "#846150",
+        "accent": "#a25128",
+        "panel": "#faeadd"
+      },
+      "composition": {
+        "inset": 18,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "poster",
+        "frame": "top-band",
+        "titleFont": "sans",
+        "titleSize": 42,
+        "titleWeight": 850,
+        "headerAlign": "right",
+        "headerLayout": "display",
+        "leadTreatment": "plain",
+        "headingTreatment": "large",
+        "quoteTreatment": "bracket",
+        "endingTreatment": "panel",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 42,
+        "titleWeight": 850,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "落日橙：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 large，按原文顺序重复。",
+        "quote": "原文引用采用 bracket；没有引用时省略。",
+        "emphasis": "暖橙渐变开篇 · 大字章节 · 窄框引语。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 panel；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "right"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "large"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "bracket"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "panel"
+        ]
+      ]
+    }
+  },
+  "html": "<section id=\"cw-layout-poster\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #fffaf5; border-top: 5px solid #a25128; box-sizing: border-box; color: #56382b; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 18px; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #f5c5b6; background-image: linear-gradient(145deg, #ffe8d3 0%, #ffd8bb 55%, #f5c5b6 100%); box-sizing: border-box; color: #56382b; margin: 0 0 24px auto; max-width: 100%; padding: 30px 20px; text-align: right; width: 100%\"><h1 style=\"color: inherit; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 42px; font-weight: 850; line-height: 1.14; margin: 0; overflow-wrap: anywhere; text-align: right; text-indent: 0\">把生活里的小事，慢慢做好</h1><p style=\"color: #56382b; font-size: 17px; font-weight: 600; line-height: 1.8; margin: 12px 0 0; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p></section><section style=\"margin: 24px 0 24px; margin-bottom: 0\"><section style=\"background-color: #a25128; box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 16px 20px 16px; padding-bottom: 12px; padding-top: 16px; width: 100%\"><h2 style=\"color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 24px; font-weight: 800; line-height: 1.5; margin: 0; padding: 0; text-align: left; text-indent: 0\">留一点时间给自己</h2></section><section style=\"box-sizing: border-box; margin: 12px auto 0; margin-bottom: 0; margin-left: 0; margin-right: 0; padding: 0 0 8px; padding-bottom: 0; width: 100%\"><p style=\"font-size: 19px; font-weight: 600; line-height: 1.8; margin: 0 0 16px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><section style=\"margin: 20px 0 20px; margin-bottom: 0; padding: 0\"><blockquote style=\"border-left: 1px solid #a25128; border-right: 1px solid #a25128; color: inherit; font-size: 17px; line-height: 1.8; margin: 0 0 0; padding: 12px 18px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section></section></section><section style=\"margin: 24px 0 24px; margin-bottom: 0\"><section style=\"background-color: #56382b; box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 16px 20px 16px; padding-bottom: 12px; padding-top: 16px; width: 100%\"><h2 style=\"color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 24px; font-weight: 800; line-height: 1.5; margin: 0; padding: 0; text-align: left; text-indent: 0\">让行动变得简单</h2></section><section style=\"box-sizing: border-box; margin: 12px auto 0; margin-bottom: 0; margin-left: 0; margin-right: 0; padding: 0 0 8px; padding-bottom: 0; width: 100%\"><ul style=\"margin: 0 0 16px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #a25128; border: 1px solid #e5cbbc; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #a25128; border: 1px solid #e5cbbc; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #e5cbbc; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #e5cbbc; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #e5cbbc; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #e5cbbc; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><section style=\"border-top: 1px solid #a25128; margin: 20px 0 0; margin-bottom: 0; padding: 12px 0 0\"><p style=\"background-color: #faeadd; background-image: linear-gradient(90deg, #faeadd, #fff4e8); color: #56382b; line-height: 1.8; margin: 0 0 0; padding: 12px 18px 12px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section></section>"
+}

@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-rose-selflove",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:letter]\n[cw-layout-design:{\"id\":\"rose-selflove\",\"palette\":{\"paper\":\"#fff8f7\",\"ink\":\"#4a383c\",\"muted\":\"#7f5c63\",\"accent\":\"#a94f63\",\"panel\":\"#f7e4e7\"},\"typography\":{\"font\":\"serif\",\"titleSize\":30,\"titleWeight\":650,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":23,\"paragraphGapExplicit\":true},\"composition\":{\"frame\":\"inset\",\"inset\":24,\"measure\":94,\"titleFont\":\"serif\",\"headingFont\":\"sans\",\"titleSize\":34,\"titleWeight\":650,\"headerTreatment\":\"overline\",\"headerAlign\":\"center\",\"headerMeasure\":78,\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"large\",\"endingTreatment\":\"bracket\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"overline\",\"align\":\"center\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"large\",\"align\":\"center\"},{\"role\":\"heading\",\"treatment\":\"stamp\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"list\",\"treatment\":\"panel\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"bracket\",\"align\":\"center\"}]}]",
+  "nativePreset": {
+    "id": "rose-selflove",
+    "label": "玫瑰自爱文",
+    "category": "情感心理",
+    "topics": [],
+    "keywords": "自爱 女性成长 高级感 玫瑰 金句 互动",
+    "summary": "玫瑰题签 · 自爱清单 · 轻奢互动",
+    "visualFamily": "letter",
+    "instruction": "采用「玫瑰自爱文」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：书信散文。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"inset\",\"inset\":24,\"measure\":94,\"titleFont\":\"serif\",\"headingFont\":\"sans\",\"titleSize\":34,\"titleWeight\":650,\"headerTreatment\":\"overline\",\"headerAlign\":\"center\",\"headerMeasure\":78,\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"large\",\"endingTreatment\":\"bracket\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/overline/center → lead/plain/left → quote/large/center → heading/stamp/left → body/plain/left → list/panel/left → ending/bracket/center。\n标题：serif 字体，34px / 650，center 对齐，宽度 78%，compact 构图，overline 处理。\n导语：plain；章节：stamp；引用：large。\n重点与数据：清单或状态总结使用浅玫瑰底，条目来自原文已有内容。\n结尾：bracket；已有配图：plain。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 23px；正文宽度 94%，chapter 阅读节奏。\n色彩角色：纸面 #fff8f7，正文 #4a383c，辅助 #7f5c63，强调 #a94f63，信息区 #f7e4e7。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 overline、plain、large、stamp、panel、bracket。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "rose-selflove",
+      "label": "玫瑰自爱文",
+      "visualFamily": "letter",
+      "category": "情感",
+      "keywords": "自爱 女性成长 高级感 玫瑰 金句 互动",
+      "summary": "玫瑰题签 · 自爱清单 · 轻奢互动",
+      "palette": {
+        "paper": "#fff8f7",
+        "ink": "#4a383c",
+        "muted": "#7f5c63",
+        "accent": "#a94f63",
+        "panel": "#f7e4e7"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 30,
+        "titleWeight": 650,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 23,
+        "paragraphGapExplicit": true
+      },
+      "composition": {
+        "frame": "inset",
+        "inset": 24,
+        "measure": 94,
+        "titleFont": "serif",
+        "headingFont": "sans",
+        "titleSize": 34,
+        "titleWeight": 650,
+        "headerTreatment": "overline",
+        "headerAlign": "center",
+        "headerMeasure": 78,
+        "headerLayout": "compact",
+        "leadTreatment": "plain",
+        "headingTreatment": "stamp",
+        "quoteTreatment": "large",
+        "endingTreatment": "bracket",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "rules": {
+        "title": "标题居中窄排，使用玫瑰色细线建立女性成长主题的精致感。",
+        "lead": "导语保持开放正文，不把每段都包成卡片，避免廉价鸡汤感。",
+        "section": "章节标题使用玫瑰小题签，可承接原文编号或短标题。",
+        "quote": "自爱类金句可以放大居中，使用玫瑰色重点，不新增口号。",
+        "emphasis": "清单或状态总结使用浅玫瑰底，条目来自原文已有内容。",
+        "ending": "互动框保持浅色虚线或括线风格，适合评论引导和收藏提示。"
+      },
+      "blocks": [
+        [
+          "title",
+          13,
+          7,
+          60,
+          13,
+          "overline",
+          "center"
+        ],
+        [
+          "lead",
+          12,
+          27,
+          62,
+          10,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          18,
+          44,
+          50,
+          10,
+          "large",
+          "center"
+        ],
+        [
+          "heading",
+          12,
+          62,
+          40,
+          7,
+          "stamp",
+          "left"
+        ],
+        [
+          "body",
+          12,
+          75,
+          62,
+          9,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          12,
+          90,
+          62,
+          10,
+          "panel",
+          "left"
+        ],
+        [
+          "ending",
+          21,
+          106,
+          44,
+          4,
+          "bracket",
+          "center"
+        ]
+      ]
+    }
+  },
+  "original": {
+    "id": "rose-selflove",
+    "label": "玫瑰自爱文",
+    "category": "情感",
+    "topics": [],
+    "keywords": "自爱 女性成长 高级感 玫瑰 金句 互动",
+    "summary": "玫瑰题签 · 自爱清单 · 轻奢互动",
+    "visualFamily": "letter",
+    "instruction": "采用「玫瑰自爱文」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：书信散文。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"inset\",\"inset\":24,\"measure\":94,\"titleFont\":\"serif\",\"headingFont\":\"sans\",\"titleSize\":34,\"titleWeight\":650,\"headerTreatment\":\"overline\",\"headerAlign\":\"center\",\"headerMeasure\":78,\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"large\",\"endingTreatment\":\"bracket\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/overline/center → lead/plain/left → quote/large/center → heading/stamp/left → body/plain/left → list/panel/left → ending/bracket/center。\n标题：serif 字体，34px / 650，center 对齐，宽度 78%，compact 构图，overline 处理。\n导语：plain；章节：stamp；引用：large。\n重点与数据：清单或状态总结使用浅玫瑰底，条目来自原文已有内容。\n结尾：bracket；已有配图：plain。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 23px；正文宽度 94%，chapter 阅读节奏。\n色彩角色：纸面 #fff8f7，正文 #4a383c，辅助 #7f5c63，强调 #a94f63，信息区 #f7e4e7。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 overline、plain、large、stamp、panel、bracket。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "rose-selflove",
+      "label": "玫瑰自爱文",
+      "visualFamily": "letter",
+      "category": "情感",
+      "keywords": "自爱 女性成长 高级感 玫瑰 金句 互动",
+      "summary": "玫瑰题签 · 自爱清单 · 轻奢互动",
+      "palette": {
+        "paper": "#fff8f7",
+        "ink": "#4a383c",
+        "muted": "#7f5c63",
+        "accent": "#a94f63",
+        "panel": "#f7e4e7"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 30,
+        "titleWeight": 650,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 23,
+        "paragraphGapExplicit": true
+      },
+      "composition": {
+        "frame": "inset",
+        "inset": 24,
+        "measure": 94,
+        "titleFont": "serif",
+        "headingFont": "sans",
+        "titleSize": 34,
+        "titleWeight": 650,
+        "headerTreatment": "overline",
+        "headerAlign": "center",
+        "headerMeasure": 78,
+        "headerLayout": "compact",
+        "leadTreatment": "plain",
+        "headingTreatment": "stamp",
+        "quoteTreatment": "large",
+        "endingTreatment": "bracket",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "rules": {
+        "title": "标题居中窄排，使用玫瑰色细线建立女性成长主题的精致感。",
+        "lead": "导语保持开放正文，不把每段都包成卡片，避免廉价鸡汤感。",
+        "section": "章节标题使用玫瑰小题签，可承接原文编号或短标题。",
+        "quote": "自爱类金句可以放大居中，使用玫瑰色重点，不新增口号。",
+        "emphasis": "清单或状态总结使用浅玫瑰底，条目来自原文已有内容。",
+        "ending": "互动框保持浅色虚线或括线风格，适合评论引导和收藏提示。"
+      },
+      "blocks": [
+        [
+          "title",
+          13,
+          7,
+          60,
+          13,
+          "overline",
+          "center"
+        ],
+        [
+          "lead",
+          12,
+          27,
+          62,
+          10,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          18,
+          44,
+          50,
+          10,
+          "large",
+          "center"
+        ],
+        [
+          "heading",
+          12,
+          62,
+          40,
+          7,
+          "stamp",
+          "left"
+        ],
+        [
+          "body",
+          12,
+          75,
+          62,
+          9,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          12,
+          90,
+          62,
+          10,
+          "panel",
+          "left"
+        ],
+        [
+          "ending",
+          21,
+          106,
+          44,
+          4,
+          "bracket",
+          "center"
+        ]
+      ]
+    }
+  },
+  "html": "<section id=\"cw-layout-letter\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #fff8f7; box-sizing: border-box; color: #4a383c; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 16px; line-height: 1.95; overflow-wrap: anywhere; padding: 24px; padding-left: 24px; padding-right: 24px; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"box-sizing: border-box; margin: 0 auto 24px; max-width: 100%; text-align: center; width: 78%\"><section style=\"border-top: 2px solid #a94f63; box-sizing: border-box; max-width: 100%; padding: 12px 0 0; text-align: center\"><h1 style=\"color: inherit; font-family: Georgia, &#39;Songti SC&#39;, SimSun, serif; font-size: 34px; font-weight: 650; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: center; text-indent: 0\">把生活里的小事，慢慢做好</h1></section></section><p style=\"color: #4a383c; font-size: 17px; line-height: 1.95; margin: 0 0 23px; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p><section style=\"margin: 24px 0 12px; text-align: left\"><h2 style=\"border: 2px solid #a94f63; color: #4a383c; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 0 0; padding: 8px 12px 8px; text-align: left; text-indent: 0; vertical-align: top\">留一点时间给自己</h2></section><p style=\"line-height: 1.95; margin: 0 0 23px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"color: #4a383c; font-size: 24px; font-weight: 800; line-height: 1.95; margin: 20px 0 20px; text-align: center\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote><section style=\"margin: 24px 0 12px; text-align: left\"><h2 style=\"border: 2px solid #a94f63; color: #4a383c; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 0 0; padding: 8px 12px 8px; text-align: left; text-indent: 0; vertical-align: top\">让行动变得简单</h2></section><ul style=\"background-color: #f7e4e7; color: #4a383c; margin: 0 0 23px; padding: 16px 18px; padding-left: 22px; text-align: left\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #a94f63; border: 1px solid #e7c9ce; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #a94f63; border: 1px solid #e7c9ce; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #e7c9ce; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #e7c9ce; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #e7c9ce; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #e7c9ce; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><p style=\"border-left: 1px solid #a94f63; border-right: 1px solid #a94f63; color: #4a383c; line-height: 1.95; margin: 24px 0 0; padding: 12px 18px 12px; text-align: center\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section>"
+}

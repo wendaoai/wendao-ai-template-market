@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "id": "aiwritex-md-86bbf106d200",
+  "type": "md-template",
+  "original": {
+    "id": "olive-archive",
+    "name": "内刊档案",
+    "description": "内刊编辑部手记质感，米白纸感底配墨黑强调和橄榄灰边框，橙色作画龙点睛，信息密度高，适合深度评测、案例复盘、系统文档类文章",
+    "category": "沉稳专业",
+    "author": "system",
+    "is_builtin": true,
+    "version": "1.0.0",
+    "tags": [
+      "内刊",
+      "编辑风",
+      "橄榄灰",
+      "专业",
+      "深度",
+      "橙色强调"
+    ],
+    "colors": {
+      "background": "#fdfdf8",
+      "text_primary": "#4d4f46",
+      "text_secondary": "#65675e",
+      "accent": "#ed7b2f",
+      "border": "#bfc1b7",
+      "code_background": "#eeefe9",
+      "quote_background": "#eeefe9",
+      "quote_border": "#1e1f23",
+      "table_header_bg": "#eeefe9",
+      "table_stripe_bg": "#fdfdf8",
+      "link_color": "#ed7b2f",
+      "highlight_bg": "#e5e7e0"
+    },
+    "typography": {
+      "font_family": "'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif",
+      "font_family_code": "ui-monospace, 'Cascadia Code', 'Fira Code', Menlo, Monaco, Consolas, monospace",
+      "base_font_size": 14,
+      "line_height": 1.9,
+      "letter_spacing": 0.02,
+      "paragraph_spacing": 1,
+      "text_align": "justify",
+      "first_line_indent": false
+    },
+    "headings": {
+      "h1": {
+        "font_size": 26,
+        "font_weight": 800,
+        "color": "#23251d",
+        "margin_top": 2,
+        "margin_bottom": 1,
+        "border_bottom": false,
+        "text_align": "left"
+      },
+      "h2": {
+        "font_size": 20,
+        "font_weight": 800,
+        "color": "#23251d",
+        "margin_top": 2.4,
+        "margin_bottom": 0.8,
+        "border_bottom": true,
+        "border_color": "#bfc1b7",
+        "text_align": "left"
+      },
+      "h3": {
+        "font_size": 17,
+        "font_weight": 700,
+        "color": "#23251d",
+        "margin_top": 1.8,
+        "margin_bottom": 0.6,
+        "prefix_marker": false
+      },
+      "h4": {
+        "font_size": 14,
+        "font_weight": 600,
+        "color": "#65675e",
+        "margin_top": 1.4,
+        "margin_bottom": 0.5
+      }
+    },
+    "blocks": {
+      "blockquote": {
+        "border_left_width": 4,
+        "border_left_color": "#1e1f23",
+        "background": "#eeefe9",
+        "padding": "14px 18px",
+        "font_style": "normal",
+        "text_color": "#4d4f46"
+      },
+      "code_inline": {
+        "background": "#eeefe9",
+        "color": "#23251d",
+        "padding": "2px 6px",
+        "border_radius": 4,
+        "font_size_ratio": 0.9
+      },
+      "code_block": {
+        "background": "#eeefe9",
+        "border_radius": 6,
+        "padding": "16px 20px",
+        "line_height": 1.5,
+        "show_line_numbers": false
+      },
+      "table": {
+        "border_style": "solid",
+        "border_color": "#bfc1b7",
+        "header_background": "#eeefe9",
+        "stripe_background": "#fdfdf8",
+        "cell_padding": "10px 14px",
+        "border_radius": 6
+      },
+      "list": {
+        "ul_marker": "disc",
+        "ol_marker": "decimal",
+        "indent_size": 24,
+        "item_spacing": 6,
+        "marker_color": "#ed7b2f"
+      },
+      "hr": {
+        "style": "solid",
+        "color": "#bfc1b7",
+        "margin": "1.5em 0",
+        "width": "100%"
+      },
+      "image": {
+        "border_radius": 6,
+        "caption_font_size": 13,
+        "caption_color": "#65675e",
+        "caption_align": "center",
+        "max_width": "100%"
+      },
+      "link": {
+        "color": "#ed7b2f",
+        "text_decoration": "none",
+        "hover_decoration": "underline"
+      },
+      "highlight": {
+        "background": "#e5e7e0",
+        "padding": "2px 5px",
+        "border_radius": 4
+      }
+    },
+    "layout": {
+      "max_width": 677,
+      "padding_horizontal": 16,
+      "padding_vertical": 28
+    },
+    "special_effects": {
+      "drop_cap": false,
+      "drop_cap_chars": 1,
+      "drop_cap_size_ratio": 3,
+      "drop_cap_color": "#1e1f23"
+    },
+    "components": {
+      "hero_section": {
+        "enabled": true
+      },
+      "section_card": {
+        "enabled": true
+      },
+      "chapter_title": {
+        "enabled": true,
+        "style": "default"
+      },
+      "quote_card": {
+        "enabled": true
+      },
+      "gradient_divider": {
+        "enabled": true
+      },
+      "code_decoration": {
+        "enabled": true
+      },
+      "image_container": {
+        "enabled": true
+      },
+      "emphasis_enhance": {
+        "enabled": true
+      },
+      "highlight_annotation": {
+        "enabled": false
+      },
+      "list_enhance": {
+        "enabled": true
+      }
+    }
+  },
+  "theme": {
+    "id": "aiwritex-md-86bbf106d200",
+    "name": "内刊档案",
+    "description": "内刊编辑部手记质感，米白纸感底配墨黑强调和橄榄灰边框，橙色作画龙点睛，信息密度高，适合深度评测、案例复盘、系统文档类文章",
+    "source": "md",
+    "category": "visual",
+    "tags": [
+      "沉稳专业",
+      "内刊",
+      "编辑风",
+      "橄榄灰",
+      "专业",
+      "深度",
+      "橙色强调"
+    ],
+    "selectable": true,
+    "recommended": false,
+    "riskLevel": "stable",
+    "editorMode": "css",
+    "css": "#wemd{color:#4d4f46;background-color:#fdfdf8;font-family:'Inter', 'Segoe UI', -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;font-size:14px;line-height:1.9;letter-spacing:0.02em;text-align:justify;padding:28px 16px;overflow-wrap:anywhere}\n#wemd p{margin:0 0 1em;text-indent:0}\n#wemd h1{font-size:26px;font-weight:800;color:#23251d;margin-top:2em;margin-bottom:1em;text-align:left}\n#wemd h2{font-size:20px;font-weight:800;color:#23251d;margin-top:2.4em;margin-bottom:0.8em;text-align:left;border-bottom:1px solid #bfc1b7;padding-bottom:.4em}\n#wemd h3{font-size:17px;font-weight:700;color:#23251d;margin-top:1.8em;margin-bottom:0.6em}\n#wemd h4{font-size:14px;font-weight:600;color:#65675e;margin-top:1.4em;margin-bottom:0.5em}\n#wemd blockquote{border-left:4px solid #1e1f23;background:#eeefe9;padding:14px 18px;color:#4d4f46;font-style:normal;margin:1.2em 0}\n#wemd code{background-color:#eeefe9;color:#23251d;padding:2px 6px;border-radius:4px;font-size:0.9em;font-family:ui-monospace, 'Cascadia Code', 'Fira Code', Menlo, Monaco, Consolas, monospace}\n#wemd pre{background:#eeefe9;border-radius:6px;padding:16px 20px;line-height:1.5;white-space:pre-wrap}\n#wemd pre code{background:transparent;padding:0}\n#wemd table{width:100%;border-collapse:collapse}\n#wemd th, #wemd td{border:1px solid #bfc1b7;padding:10px 14px}\n#wemd th{background:#eeefe9}\n#wemd tr:nth-child(even){background:#fdfdf8}\n#wemd ul, #wemd ol{padding-left:24px;margin:1em 0}\n#wemd ul{list-style-type:disc}\n#wemd ol{list-style-type:decimal}\n#wemd li{margin-bottom:6px}\n#wemd li::marker{color:#ed7b2f}\n#wemd hr{border:0;border-top:1px solid #bfc1b7;margin:1.5em 0;width:100%}\n#wemd img{max-width:100%;height:auto;border-radius:6px}\n#wemd figcaption{font-size:13px;color:#65675e;text-align:center}\n#wemd a{color:#ed7b2f;text-decoration:none}\n#wemd strong{color:#ed7b2f;font-weight:700}\n#wemd mark{background:#e5e7e0;padding:2px 5px;border-radius:4px}"
+  }
+}

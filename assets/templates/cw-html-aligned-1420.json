@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-aligned-1420",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:report]\n[cw-layout-design:{\"id\":\"aligned-1420\",\"palette\":{\"paper\":\"#f5fcff\",\"ink\":\"#24456e\",\"muted\":\"#24456e\",\"accent\":\"#1265df\",\"panel\":\"#e8f3ff\"},\"typography\":{\"font\":\"sans\",\"titleSize\":42,\"titleWeight\":800,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":16},\"composition\":{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"spotlight\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":42,\"titleWeight\":800,\"headerAlign\":\"center\",\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"outline\",\"endingTreatment\":\"double-rule\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"},\"decoration\":\"aligned-1420\",\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"center\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"band\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"outline\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"double-rule\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "aligned-1420",
+    "label": "探索之光",
+    "category": "科技数码",
+    "topics": [
+      "科普"
+    ],
+    "keywords": "科普 探索之光 轨道光环 · 蓝紫渐变题头 · 轻框科普 背景模板 PNG 背景图 渐变 文到精选 1420",
+    "summary": "轨道光环 · 蓝紫渐变题头 · 轻框科普",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「探索之光」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"spotlight\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":42,\"titleWeight\":800,\"headerAlign\":\"center\",\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"outline\",\"endingTreatment\":\"double-rule\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/center → lead/plain/left → heading/band/left → body/plain/left → image/plain/left → quote/outline/left → ending/double-rule/left。\n标题：sans 字体，42px / 800，center 对齐，宽度 100%，display 构图，plain 处理。\n导语：plain；章节：band；引用：outline。\n重点与数据：轨道光环 · 蓝紫渐变题头 · 轻框科普。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：double-rule；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.95，段落间距约 16px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #f5fcff，正文 #24456e，辅助 #24456e，强调 #1265df，信息区 #e8f3ff。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、band、outline、double-rule。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1420",
+      "label": "探索之光",
+      "category": "文到精选",
+      "topics": [
+        "科普"
+      ],
+      "visualFamily": "report",
+      "decoration": "aligned-1420",
+      "keywords": "科普 探索之光 轨道光环 · 蓝紫渐变题头 · 轻框科普 背景模板 PNG 背景图 渐变 文到精选 1420",
+      "summary": "轨道光环 · 蓝紫渐变题头 · 轻框科普",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f5fcff",
+        "ink": "#24456e",
+        "muted": "#24456e",
+        "accent": "#1265df",
+        "panel": "#e8f3ff"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "spotlight",
+        "frame": "open",
+        "titleFont": "sans",
+        "titleSize": 42,
+        "titleWeight": 800,
+        "headerAlign": "center",
+        "headerLayout": "display",
+        "leadTreatment": "plain",
+        "headingTreatment": "band",
+        "quoteTreatment": "outline",
+        "endingTreatment": "double-rule",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 42,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "探索之光：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 band，按原文顺序重复。",
+        "quote": "原文引用采用 outline；没有引用时省略。",
+        "emphasis": "轨道光环 · 蓝紫渐变题头 · 轻框科普。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 double-rule；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "band"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "outline"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "double-rule"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "original": {
+    "id": "aligned-1420",
+    "label": "探索之光",
+    "category": "文到精选",
+    "topics": [
+      "科普"
+    ],
+    "keywords": "科普 探索之光 轨道光环 · 蓝紫渐变题头 · 轻框科普 背景模板 PNG 背景图 渐变 文到精选 1420",
+    "summary": "轨道光环 · 蓝紫渐变题头 · 轻框科普",
+    "visualFamily": "report",
+    "supportsImages": true,
+    "instruction": "采用「探索之光」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：数据报告。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":20,\"measure\":100,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"spotlight\",\"frame\":\"open\",\"titleFont\":\"sans\",\"titleSize\":42,\"titleWeight\":800,\"headerAlign\":\"center\",\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"band\",\"quoteTreatment\":\"outline\",\"endingTreatment\":\"double-rule\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/center → lead/plain/left → heading/band/left → body/plain/left → image/plain/left → quote/outline/left → ending/double-rule/left。\n标题：sans 字体，42px / 800，center 对齐，宽度 100%，display 构图，plain 处理。\n导语：plain；章节：band；引用：outline。\n重点与数据：轨道光环 · 蓝紫渐变题头 · 轻框科普。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：double-rule；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.95，段落间距约 16px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #f5fcff，正文 #24456e，辅助 #24456e，强调 #1265df，信息区 #e8f3ff。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、band、outline、double-rule。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "aligned-1420",
+      "label": "探索之光",
+      "category": "文到精选",
+      "topics": [
+        "科普"
+      ],
+      "visualFamily": "report",
+      "decoration": "aligned-1420",
+      "keywords": "科普 探索之光 轨道光环 · 蓝紫渐变题头 · 轻框科普 背景模板 PNG 背景图 渐变 文到精选 1420",
+      "summary": "轨道光环 · 蓝紫渐变题头 · 轻框科普",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#f5fcff",
+        "ink": "#24456e",
+        "muted": "#24456e",
+        "accent": "#1265df",
+        "panel": "#e8f3ff"
+      },
+      "composition": {
+        "inset": 20,
+        "measure": 100,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "spotlight",
+        "frame": "open",
+        "titleFont": "sans",
+        "titleSize": 42,
+        "titleWeight": 800,
+        "headerAlign": "center",
+        "headerLayout": "display",
+        "leadTreatment": "plain",
+        "headingTreatment": "band",
+        "quoteTreatment": "outline",
+        "endingTreatment": "double-rule",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 42,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 16
+      },
+      "rules": {
+        "title": "探索之光：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 band，按原文顺序重复。",
+        "quote": "原文引用采用 outline；没有引用时省略。",
+        "emphasis": "轨道光环 · 蓝紫渐变题头 · 轻框科普。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 double-rule；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "band"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "outline"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "double-rule"
+        ]
+      ],
+      "decorationKind": "image"
+    }
+  },
+  "html": "<section id=\"cw-layout-report\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #f5fcff; background-image: linear-gradient(180deg, #f5fcff 0%, #e8f3ff 100%); box-sizing: border-box; color: #24456e; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 20px 0; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #e8f3ff; background-image: url(&#34;data:image/png;base64,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&#34;); background-position: center; background-repeat: no-repeat; background-size: 100% auto; border-top: 4px solid #1265df; box-sizing: border-box; color: #24456e; margin: 0 auto 24px; max-width: 100%; padding: 62px 22px 34px; text-align: center; width: 100%\"><h1 style=\"color: inherit; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 42px; font-weight: 800; line-height: 1.3; margin: 0; overflow-wrap: anywhere; text-align: center; text-indent: 0\">把生活里的小事，慢慢做好</h1><p style=\"color: #24456e; font-size: 17px; line-height: 1.8; margin: 12px 0 0; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p></section><section style=\"border-top: 6px solid #1265df; margin: 24px 0 24px; padding: 12px 0 4px\"><h2 style=\"background-color: #1265df; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 8px 16px 8px; text-align: left; text-indent: 0\">留一点时间给自己</h2><p style=\"line-height: 1.8; margin: 0 0 16px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><blockquote style=\"border: 1px solid #b5d2f6; color: #24456e; font-size: 17px; line-height: 1.8; margin: 20px 0 20px; padding: 12px 16px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section><section style=\"background-color: #e8f3ff; margin: 24px 0 24px; padding: 12px 16px 6px\"><h2 style=\"background-color: #1265df; color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 8px 16px 8px; text-align: left; text-indent: 0\">让行动变得简单</h2><section style=\"background-color: #e8f3ff; margin: 20px 0 20px; padding: 12px 12px 2px\"><ul style=\"margin: 0 0 0; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul></section><section style=\"background-color: #e8f3ff; margin: 20px 0 20px; padding: 12px 12px 2px\"><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 0 0 0; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #1265df; border: 1px solid #b5d2f6; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #1265df; border: 1px solid #b5d2f6; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #b5d2f6; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #b5d2f6; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #b5d2f6; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #b5d2f6; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table></section><section style=\"border-top: 1px solid #1265df; margin: 20px 0 0; padding: 12px 0 0\"><p style=\"border-bottom: 3px double #1265df; border-top: 3px double #1265df; color: #24456e; line-height: 1.8; margin: 0 0 0; padding: 12px 0 12px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section>"
+}

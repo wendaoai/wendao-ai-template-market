@@ -1,0 +1,271 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-atelier-catalog-3-3-center-poster",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:poster]\n[cw-layout-design:{\"id\":\"atelier-catalog-3-3-center-poster\",\"palette\":{\"paper\":\"#fffdf8\",\"ink\":\"#272924\",\"muted\":\"#666c61\",\"accent\":\"#666c3c\",\"panel\":\"#f1f0df\"},\"typography\":{\"font\":\"sans\",\"titleSize\":40,\"titleWeight\":800,\"bodySize\":16,\"lineHeight\":1.9,\"paragraphGap\":18},\"composition\":{\"opening\":\"poster\",\"frame\":\"top-band\",\"inset\":24,\"measure\":96,\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":800,\"headerTreatment\":\"plain\",\"headerAlign\":\"center\",\"headerMeasure\":100,\"headerLayout\":\"stacked\",\"leadTreatment\":\"inset\",\"headingTreatment\":\"overline\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"outline\",\"rhythm\":\"chapter\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"large\",\"align\":\"center\"},{\"role\":\"lead\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"overline\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"list\",\"treatment\":\"ruled\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"panel\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"ruled\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "atelier-catalog-3-3-center-poster",
+    "label": "焦点公告",
+    "category": "财经投资",
+    "topics": [
+      "企业"
+    ],
+    "keywords": "焦点公告 观点 企业 居中题头 · 橄榄顶线 · 公告清单 poster",
+    "summary": "居中题头 · 橄榄顶线 · 公告清单",
+    "visualFamily": "poster",
+    "supportsImages": true,
+    "instruction": "采用「焦点公告」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：大字海报。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"opening\":\"poster\",\"frame\":\"top-band\",\"inset\":24,\"measure\":96,\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":800,\"headerTreatment\":\"plain\",\"headerAlign\":\"center\",\"headerMeasure\":100,\"headerLayout\":\"stacked\",\"leadTreatment\":\"inset\",\"headingTreatment\":\"overline\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"outline\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/large/center → lead/inset/left → heading/overline/left → body/plain/left → list/ruled/left → quote/panel/left → ending/ruled/left。\n标题：sans 字体，40px / 800，center 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：inset；章节：overline；引用：panel。\n重点与数据：公告的列表使用细分隔线，引用使用浅橄榄底；已有图片加细框。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。\n结尾：ruled；已有配图：outline。\n正文排印：sans 字体，正文 16px，行高 1.9，段落间距约 18px；正文宽度 96%，chapter 阅读节奏。\n色彩角色：纸面 #fffdf8，正文 #272924，辅助 #666c61，强调 #666c3c，信息区 #f1f0df。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 large、inset、overline、plain、ruled、panel。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "atelier-catalog-3-3-center-poster",
+      "label": "焦点公告",
+      "category": "观点",
+      "topics": [
+        "企业"
+      ],
+      "visualFamily": "poster",
+      "keywords": "焦点公告 观点 企业 居中题头 · 橄榄顶线 · 公告清单 poster",
+      "summary": "居中题头 · 橄榄顶线 · 公告清单",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffdf8",
+        "ink": "#272924",
+        "muted": "#666c61",
+        "accent": "#666c3c",
+        "panel": "#f1f0df"
+      },
+      "composition": {
+        "opening": "poster",
+        "frame": "top-band",
+        "inset": 24,
+        "measure": 96,
+        "titleFont": "sans",
+        "titleSize": 40,
+        "titleWeight": 800,
+        "headerTreatment": "plain",
+        "headerAlign": "center",
+        "headerMeasure": 100,
+        "headerLayout": "stacked",
+        "leadTreatment": "inset",
+        "headingTreatment": "overline",
+        "quoteTreatment": "panel",
+        "endingTreatment": "ruled",
+        "imageTreatment": "outline",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 40,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.9,
+        "paragraphGap": 18
+      },
+      "rules": {
+        "title": "居中标题搭配短导语，页面顶线贯穿章节与末尾。",
+        "lead": "本套导语采用 inset，保留原文开场，不补写摘要。",
+        "section": "公告的列表使用细分隔线，引用使用浅橄榄底；已有图片加细框。",
+        "quote": "本套原文引用采用 panel；没有引用时省略，不把普通段落造为引语。",
+        "emphasis": "公告的列表使用细分隔线，引用使用浅橄榄底；已有图片加细框。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。",
+        "ending": "原文结尾使用 ruled；保留最后一段，不增加落款或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          5,
+          70,
+          8,
+          "large",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          16,
+          70,
+          8,
+          "inset",
+          "left"
+        ],
+        [
+          "heading",
+          8,
+          27,
+          70,
+          8,
+          "overline",
+          "left"
+        ],
+        [
+          "body",
+          8,
+          38,
+          70,
+          8,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          8,
+          49,
+          70,
+          8,
+          "ruled",
+          "left"
+        ],
+        [
+          "quote",
+          8,
+          60,
+          70,
+          8,
+          "panel",
+          "left"
+        ],
+        [
+          "ending",
+          8,
+          71,
+          70,
+          8,
+          "ruled",
+          "left"
+        ]
+      ]
+    }
+  },
+  "original": {
+    "id": "atelier-catalog-3-3-center-poster",
+    "label": "焦点公告",
+    "category": "观点",
+    "topics": [
+      "企业"
+    ],
+    "keywords": "焦点公告 观点 企业 居中题头 · 橄榄顶线 · 公告清单 poster",
+    "summary": "居中题头 · 橄榄顶线 · 公告清单",
+    "visualFamily": "poster",
+    "supportsImages": true,
+    "instruction": "采用「焦点公告」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：大字海报。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"opening\":\"poster\",\"frame\":\"top-band\",\"inset\":24,\"measure\":96,\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":800,\"headerTreatment\":\"plain\",\"headerAlign\":\"center\",\"headerMeasure\":100,\"headerLayout\":\"stacked\",\"leadTreatment\":\"inset\",\"headingTreatment\":\"overline\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"ruled\",\"imageTreatment\":\"outline\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/large/center → lead/inset/left → heading/overline/left → body/plain/left → list/ruled/left → quote/panel/left → ending/ruled/left。\n标题：sans 字体，40px / 800，center 对齐，宽度 100%，stacked 构图，plain 处理。\n导语：inset；章节：overline；引用：panel。\n重点与数据：公告的列表使用细分隔线，引用使用浅橄榄底；已有图片加细框。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。\n结尾：ruled；已有配图：outline。\n正文排印：sans 字体，正文 16px，行高 1.9，段落间距约 18px；正文宽度 96%，chapter 阅读节奏。\n色彩角色：纸面 #fffdf8，正文 #272924，辅助 #666c61，强调 #666c3c，信息区 #f1f0df。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 large、inset、overline、plain、ruled、panel。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "atelier-catalog-3-3-center-poster",
+      "label": "焦点公告",
+      "category": "观点",
+      "topics": [
+        "企业"
+      ],
+      "visualFamily": "poster",
+      "keywords": "焦点公告 观点 企业 居中题头 · 橄榄顶线 · 公告清单 poster",
+      "summary": "居中题头 · 橄榄顶线 · 公告清单",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffdf8",
+        "ink": "#272924",
+        "muted": "#666c61",
+        "accent": "#666c3c",
+        "panel": "#f1f0df"
+      },
+      "composition": {
+        "opening": "poster",
+        "frame": "top-band",
+        "inset": 24,
+        "measure": 96,
+        "titleFont": "sans",
+        "titleSize": 40,
+        "titleWeight": 800,
+        "headerTreatment": "plain",
+        "headerAlign": "center",
+        "headerMeasure": 100,
+        "headerLayout": "stacked",
+        "leadTreatment": "inset",
+        "headingTreatment": "overline",
+        "quoteTreatment": "panel",
+        "endingTreatment": "ruled",
+        "imageTreatment": "outline",
+        "rhythm": "chapter"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 40,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.9,
+        "paragraphGap": 18
+      },
+      "rules": {
+        "title": "居中标题搭配短导语，页面顶线贯穿章节与末尾。",
+        "lead": "本套导语采用 inset，保留原文开场，不补写摘要。",
+        "section": "公告的列表使用细分隔线，引用使用浅橄榄底；已有图片加细框。",
+        "quote": "本套原文引用采用 panel；没有引用时省略，不把普通段落造为引语。",
+        "emphasis": "公告的列表使用细分隔线，引用使用浅橄榄底；已有图片加细框。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。",
+        "ending": "原文结尾使用 ruled；保留最后一段，不增加落款或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          5,
+          70,
+          8,
+          "large",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          16,
+          70,
+          8,
+          "inset",
+          "left"
+        ],
+        [
+          "heading",
+          8,
+          27,
+          70,
+          8,
+          "overline",
+          "left"
+        ],
+        [
+          "body",
+          8,
+          38,
+          70,
+          8,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          8,
+          49,
+          70,
+          8,
+          "ruled",
+          "left"
+        ],
+        [
+          "quote",
+          8,
+          60,
+          70,
+          8,
+          "panel",
+          "left"
+        ],
+        [
+          "ending",
+          8,
+          71,
+          70,
+          8,
+          "ruled",
+          "left"
+        ]
+      ]
+    }
+  },
+  "html": "<section id=\"cw-layout-poster\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #fffdf8; border-top: 5px solid #666c3c; box-sizing: border-box; color: #272924; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 24px; padding-left: 24px; padding-right: 24px; padding-top: 0; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: #666c3c; box-sizing: border-box; color: #ffffff; margin: 0 auto 24px; max-width: 100%; padding: 24px 24px 24px; text-align: center; width: 100%\"><h1 style=\"color: inherit; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 40px; font-weight: 800; line-height: 1.14; margin: 0; overflow-wrap: anywhere; text-align: center; text-indent: 0\">把生活里的小事，慢慢做好</h1><p style=\"color: #ffffff; font-size: 17px; font-weight: 600; line-height: 1.8; margin: 12px 12px 0; padding: 0; text-align: left\">生活里有许多值得记录的瞬间。早上推开窗，阳光落在桌面上，新的一天从一杯温水开始。</p></section><section style=\"margin: 24px 0 24px; margin-bottom: 0\"><section style=\"background-color: #666c3c; box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 16px 20px 16px; padding-bottom: 12px; padding-top: 16px; width: 100%\"><h2 style=\"color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 24px; font-weight: 700; line-height: 1.5; margin: 0; padding: 0; text-align: left; text-indent: 0\">留一点时间给自己</h2></section><section style=\"box-sizing: border-box; margin: 12px auto 0; margin-bottom: 0; margin-left: 0; margin-right: 0; padding: 0 0 8px; padding-bottom: 0; width: 100%\"><p style=\"font-size: 19px; font-weight: 600; line-height: 1.8; margin: 0 0 16px; text-align: left\">每天给自己留出一小段安静的时间，读几页书，或者去楼下走一走。<strong style=\"font-weight: 700\">从一件具体的小事开始</strong>，让改变自然发生。</p><section style=\"margin: 20px 0 20px; margin-bottom: 0; padding: 0\"><blockquote style=\"background-color: #f1f0df; color: #272924; font-size: 17px; line-height: 1.8; margin: 0 0 0; padding: 12px 18px 12px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">认真对待每一个平常的日子。</p></blockquote></section></section></section><section style=\"margin: 24px 0 24px; margin-bottom: 0\"><section style=\"background-color: #272924; box-sizing: border-box; margin: 0; margin-left: 0; margin-right: 0; padding: 16px 20px 16px; padding-bottom: 12px; padding-top: 16px; width: 100%\"><h2 style=\"color: #ffffff; font-family: -apple-system, BlinkMacSystemFont, &#39;PingFang SC&#39;, &#39;Microsoft YaHei&#39;, sans-serif; font-size: 24px; font-weight: 700; line-height: 1.5; margin: 0; padding: 0; text-align: left; text-indent: 0\">让行动变得简单</h2></section><section style=\"box-sizing: border-box; margin: 12px auto 0; margin-bottom: 0; margin-left: 0; margin-right: 0; padding: 0 0 8px; padding-bottom: 0; width: 100%\"><ul style=\"border-bottom: 1px solid #666c61; margin: 0 0 16px; padding-bottom: 14px; padding-left: 22px; text-align: left\"><li style=\"margin: 0 0 8px; padding-left: 3px\">选一件今天可以完成的事</li><li style=\"margin: 0 0 8px; padding-left: 3px\">留意自己的真实感受</li><li style=\"margin: 0 0 8px; padding-left: 3px\">给下一次尝试留出余地</li></ul><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #666c3c; border: 1px solid #d4d4c3; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">时段</th><th style=\"background-color: #666c3c; border: 1px solid #d4d4c3; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">安排</th></tr></thead><tbody><tr><td style=\"border: 1px solid #d4d4c3; padding: 9px 8px; vertical-align: top; word-break: break-word\">早晨</td><td style=\"border: 1px solid #d4d4c3; padding: 9px 8px; vertical-align: top; word-break: break-word\">散步和阅读</td></tr><tr><td style=\"border: 1px solid #d4d4c3; padding: 9px 8px; vertical-align: top; word-break: break-word\">傍晚</td><td style=\"border: 1px solid #d4d4c3; padding: 9px 8px; vertical-align: top; word-break: break-word\">回顾一天</td></tr></tbody></table><section style=\"border-top: 1px solid #666c3c; margin: 20px 0 0; margin-bottom: 0; padding: 12px 0 0\"><p style=\"border-bottom: 1px solid #666c61; color: #272924; line-height: 1.8; margin: 0 0 0; padding: 0 0 12px; text-align: left\">生活不会因为一次决定立刻改变，但持续的行动会慢慢留下痕迹。</p></section></section></section></section></section>"
+}
