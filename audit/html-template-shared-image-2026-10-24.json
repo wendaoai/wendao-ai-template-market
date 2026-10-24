@@ -5730,5 +5730,13 @@
         }
       ]
     }
-  ]
+  ],
+  "footerAcceptanceCorrection": {
+    "status": "revoked",
+    "ids": [
+      "aiwritex-html-86b86f995cca",
+      "aiwritex-html-b1d2768c927f"
+    ],
+    "supersededBy": "html-template-footer-correction-2026-10-24.json"
+  }
 }

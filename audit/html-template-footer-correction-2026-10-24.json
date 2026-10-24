@@ -1,0 +1,35 @@
+{
+  "version": "1.3.5",
+  "previousVersion": "1.3.4",
+  "activeTemplates": 173,
+  "changedTemplates": [
+    "aiwritex-html-86b86f995cca",
+    "aiwritex-html-b1d2768c927f"
+  ],
+  "unchangedTemplates": 171,
+  "retiredTemplates": 52,
+  "fullBrowserCaptures": 48,
+  "newStandardCases": 16,
+  "newTextOnlyCases": 8,
+  "controlRecaptures": 8,
+  "beforeCases": 16,
+  "allResourcesRerendered": false,
+  "wechatClientVerified": false,
+  "oldFooterAcceptance": "revoked",
+  "fixes": [
+    {
+      "id": "aiwritex-html-86b86f995cca",
+      "name": "紫韵图文",
+      "html": "documents/violet-photo-panels.html",
+      "problem": "80px旧装饰补偿外距叠加卡片内距，正文尾距约132.6px。",
+      "fix": "template-imported-repairs.mjs：紫色章节body外层margin-bottom:80px→0；保留25px×20px内边距、渐变、圆角和原章节。"
+    },
+    {
+      "id": "aiwritex-html-b1d2768c927f",
+      "name": "绛紫横线",
+      "html": "documents/plum-horizontal-rules.html",
+      "problem": "嵌套H3重复白底外壳和多层尾部外距，压力稿尾距约129.9px。",
+      "fix": "template-imported-repairs.mjs：移除首个H3重复白底外壳，保留灰底/紫侧线；body尾距20px→0，内层末尾外距20px→0。"
+    }
+  ]
+}

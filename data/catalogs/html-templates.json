@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "type": "html-templates",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "resources": [
     {
       "id": "cw-html-edition-cotton-book",
@@ -2091,7 +2091,7 @@
     {
       "id": "aiwritex-html-86b86f995cca",
       "type": "html-template",
-      "version": "1.3.4",
+      "version": "1.3.5",
       "name": "紫韵图文",
       "description": "适用于其他的 HTML 排版示例。",
       "tags": [
@@ -2099,17 +2099,17 @@
       ],
       "assetPath": "assets/templates/violet-photo-panels.json",
       "previewPath": "previews/templates/violet-photo-panels.jpg",
-      "byteSize": 32639,
-      "previewByteSize": 501647,
-      "sha256": "0997fa162330f4aa1d9afb13363815d367badbbffedd853a294a9108459f05eb",
-      "previewSha256": "37e1f3e0ea2ba4544dece07ee5c6733d2b2ccb03c8316603b7fbfd2f621e3991",
+      "byteSize": 32633,
+      "previewByteSize": 499333,
+      "sha256": "2855a78ce5b69d45334c5ac6471f0d6c288d348229b040c43275321e2b6522fe",
+      "previewSha256": "daa26a81bc571fc69f76741502e8d4ba28165ef8c37255ca38be506801d630cc",
       "mimeType": "application/json",
       "previewMimeType": "image/jpeg",
       "license": "source-original",
       "licenseURL": "",
       "attribution": "AIWriteX 模板素材",
       "featured": false,
-      "updatedAt": "2026-10-24T10:38:23.331Z",
+      "updatedAt": "2026-10-24T11:09:07.946Z",
       "details": {
         "category": "其他",
         "compatible": true,
@@ -2126,14 +2126,14 @@
         ],
         "documentPath": "documents/violet-photo-panels.html",
         "slug": "violet-photo-panels",
-        "reviewRevision": "2026-10-24-shared-image-v1",
+        "reviewRevision": "2026-10-24-footer-spacing-v1",
         "dedupRevision": "2026-10-24-design-dedup-v1"
       }
     },
     {
       "id": "aiwritex-html-b1d2768c927f",
       "type": "html-template",
-      "version": "1.3.4",
+      "version": "1.3.5",
       "name": "绛紫横线",
       "description": "适用于其他的 HTML 排版示例。",
       "tags": [
@@ -2141,17 +2141,17 @@
       ],
       "assetPath": "assets/templates/plum-horizontal-rules.json",
       "previewPath": "previews/templates/plum-horizontal-rules.jpg",
-      "byteSize": 41222,
-      "previewByteSize": 506072,
-      "sha256": "71ff6fcb7cb520cd0bb237f0389131ec43fb78515bea5694e2a143322f18939f",
-      "previewSha256": "63934957ded5fb728ab52b2e61ac1bbeae9031932d01ddaf98a8ba57361e617f",
+      "byteSize": 41122,
+      "previewByteSize": 505829,
+      "sha256": "af07e4f17f6346fa6152ae3dd69dbe3267608f38f9c03469f918e95f0369d203",
+      "previewSha256": "e551284ee20a767c1fac9bb183c754e9120d5bb8d3706820017cb649e00e7b56",
       "mimeType": "application/json",
       "previewMimeType": "image/jpeg",
       "license": "source-original",
       "licenseURL": "",
       "attribution": "AIWriteX 模板素材",
       "featured": false,
-      "updatedAt": "2026-10-24T10:38:23.336Z",
+      "updatedAt": "2026-10-24T11:09:07.953Z",
       "details": {
         "category": "其他",
         "compatible": true,
@@ -2168,7 +2168,7 @@
         ],
         "documentPath": "documents/plum-horizontal-rules.html",
         "slug": "plum-horizontal-rules",
-        "reviewRevision": "2026-10-24-shared-image-v1",
+        "reviewRevision": "2026-10-24-footer-spacing-v1",
         "dedupRevision": "2026-10-24-design-dedup-v1"
       }
     },
