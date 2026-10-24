@@ -1,0 +1,278 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-opinion",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:poster]\n[cw-layout-design:{\"id\":\"opinion\",\"palette\":{\"paper\":\"#f6f2e9\",\"ink\":\"#2b2926\",\"muted\":\"#67635d\",\"accent\":\"#b54b3e\",\"panel\":\"#e9e4d9\"},\"typography\":{\"font\":\"sans\",\"titleSize\":27,\"titleWeight\":800,\"bodySize\":16,\"lineHeight\":1.8,\"paragraphGap\":19},\"composition\":{\"frame\":\"top-band\",\"inset\":16,\"measure\":100,\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":850,\"headerTreatment\":\"inverse\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"large\",\"endingTreatment\":\"double-rule\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"inverse\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"band\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"stamp\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"large\",\"align\":\"left\"},{\"role\":\"note\",\"treatment\":\"outline\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"double-rule\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "opinion",
+    "label": "米纸赤线",
+    "category": "新闻时事",
+    "topics": [
+      "新闻"
+    ],
+    "keywords": "新闻时事 工作台原创",
+    "summary": "观点宣言 · 论据摘要",
+    "visualFamily": "poster",
+    "instruction": "采用「观点评论型」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：大字海报。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"top-band\",\"inset\":16,\"measure\":100,\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":850,\"headerTreatment\":\"inverse\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"large\",\"endingTreatment\":\"double-rule\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/inverse/left → lead/band/left → heading/stamp/left → body/plain/left → quote/large/left → note/outline/left → body/plain/left → ending/double-rule/left。\n标题：sans 字体，40px / 850，left 对齐，宽度 100%，display 构图，inverse 处理。\n导语：plain；章节：stamp；引用：large。\n重点与数据：论点摘要用浅灰细框。\n结尾：double-rule；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.8，段落间距约 19px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #f6f2e9，正文 #2b2926，辅助 #67635d，强调 #b54b3e，信息区 #e9e4d9。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 inverse、band、stamp、plain、large、outline、double-rule。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "opinion",
+      "label": "米纸赤线",
+      "category": "观点",
+      "keywords": "新闻时事 工作台原创",
+      "summary": "观点宣言 · 论据摘要",
+      "palette": {
+        "paper": "#f6f2e9",
+        "ink": "#2b2926",
+        "muted": "#67635d",
+        "accent": "#b54b3e",
+        "panel": "#e9e4d9"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 27,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.8,
+        "paragraphGap": 19
+      },
+      "rules": {
+        "title": "标题放进黑色宣言带，白字直给。",
+        "lead": "导语紧接宣言，采用粗体。",
+        "section": "栏目签用黑底白字短标签。",
+        "quote": "引用放大，左侧留红色引号。",
+        "emphasis": "论点摘要用浅灰细框。",
+        "ending": "结论由通栏黑线压住。"
+      },
+      "blocks": [
+        [
+          "title",
+          9,
+          7,
+          68,
+          17,
+          "inverse",
+          "left"
+        ],
+        [
+          "lead",
+          9,
+          29,
+          68,
+          11,
+          "band",
+          "left"
+        ],
+        [
+          "heading",
+          9,
+          45,
+          28,
+          7,
+          "stamp",
+          "left"
+        ],
+        [
+          "body",
+          9,
+          56,
+          68,
+          12,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          18,
+          72,
+          56,
+          12,
+          "large",
+          "left"
+        ],
+        [
+          "note",
+          9,
+          88,
+          68,
+          9,
+          "outline",
+          "left"
+        ],
+        [
+          "body",
+          9,
+          101,
+          68,
+          5,
+          "plain",
+          "left"
+        ],
+        [
+          "ending",
+          9,
+          107,
+          68,
+          1,
+          "double-rule",
+          "left"
+        ]
+      ],
+      "visualFamily": "poster",
+      "composition": {
+        "frame": "top-band",
+        "inset": 16,
+        "measure": 100,
+        "titleFont": "sans",
+        "titleSize": 40,
+        "titleWeight": 850,
+        "headerTreatment": "inverse",
+        "headerAlign": "left",
+        "headerMeasure": 100,
+        "headerLayout": "display",
+        "leadTreatment": "plain",
+        "headingTreatment": "stamp",
+        "quoteTreatment": "large",
+        "endingTreatment": "double-rule",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      }
+    }
+  },
+  "original": {
+    "id": "opinion",
+    "label": "米纸赤线",
+    "category": "观点",
+    "topics": [
+      "新闻"
+    ],
+    "keywords": "观点 评论 新闻",
+    "summary": "观点宣言 · 论据摘要",
+    "visualFamily": "poster",
+    "instruction": "采用「观点评论型」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：大字海报。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"top-band\",\"inset\":16,\"measure\":100,\"titleFont\":\"sans\",\"titleSize\":40,\"titleWeight\":850,\"headerTreatment\":\"inverse\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"display\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"large\",\"endingTreatment\":\"double-rule\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/inverse/left → lead/band/left → heading/stamp/left → body/plain/left → quote/large/left → note/outline/left → body/plain/left → ending/double-rule/left。\n标题：sans 字体，40px / 850，left 对齐，宽度 100%，display 构图，inverse 处理。\n导语：plain；章节：stamp；引用：large。\n重点与数据：论点摘要用浅灰细框。\n结尾：double-rule；已有配图：plain。\n正文排印：sans 字体，正文 16px，行高 1.8，段落间距约 19px；正文宽度 100%，chapter 阅读节奏。\n色彩角色：纸面 #f6f2e9，正文 #2b2926，辅助 #67635d，强调 #b54b3e，信息区 #e9e4d9。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 inverse、band、stamp、plain、large、outline、double-rule。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "opinion",
+      "label": "米纸赤线",
+      "category": "观点",
+      "keywords": "观点 评论 新闻",
+      "summary": "观点宣言 · 论据摘要",
+      "palette": {
+        "paper": "#f6f2e9",
+        "ink": "#2b2926",
+        "muted": "#67635d",
+        "accent": "#b54b3e",
+        "panel": "#e9e4d9"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 27,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.8,
+        "paragraphGap": 19
+      },
+      "rules": {
+        "title": "标题放进黑色宣言带，白字直给。",
+        "lead": "导语紧接宣言，采用粗体。",
+        "section": "栏目签用黑底白字短标签。",
+        "quote": "引用放大，左侧留红色引号。",
+        "emphasis": "论点摘要用浅灰细框。",
+        "ending": "结论由通栏黑线压住。"
+      },
+      "blocks": [
+        [
+          "title",
+          9,
+          7,
+          68,
+          17,
+          "inverse",
+          "left"
+        ],
+        [
+          "lead",
+          9,
+          29,
+          68,
+          11,
+          "band",
+          "left"
+        ],
+        [
+          "heading",
+          9,
+          45,
+          28,
+          7,
+          "stamp",
+          "left"
+        ],
+        [
+          "body",
+          9,
+          56,
+          68,
+          12,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          18,
+          72,
+          56,
+          12,
+          "large",
+          "left"
+        ],
+        [
+          "note",
+          9,
+          88,
+          68,
+          9,
+          "outline",
+          "left"
+        ],
+        [
+          "body",
+          9,
+          101,
+          68,
+          5,
+          "plain",
+          "left"
+        ],
+        [
+          "ending",
+          9,
+          107,
+          68,
+          1,
+          "double-rule",
+          "left"
+        ]
+      ],
+      "visualFamily": "poster",
+      "composition": {
+        "frame": "top-band",
+        "inset": 16,
+        "measure": 100,
+        "titleFont": "sans",
+        "titleSize": 40,
+        "titleWeight": 850,
+        "headerTreatment": "inverse",
+        "headerAlign": "left",
+        "headerMeasure": 100,
+        "headerLayout": "display",
+        "leadTreatment": "plain",
+        "headingTreatment": "stamp",
+        "quoteTreatment": "large",
+        "endingTreatment": "double-rule",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      }
+    }
+  },
+  "html": "<section id=\"cw-layout-poster\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #f6f2e9; border-top: 5px solid #b54b3e; box-sizing: border-box; color: #2b2926; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 16px; padding-left: 24px; padding-right: 24px; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><p style=\"color: #2b2926; font-size: 17px; line-height: 1.8; margin: 0 0 16px; text-align: left\">文章的第一眼，决定读者愿不愿意停下来。好排版让观点先被看见，再让细节慢慢展开。</p><p style=\"box-sizing: border-box; line-height: 1.8; margin: 20px 0 20px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=1200&q=85\" alt=\"桌面上的阅读与写作\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><section style=\"margin: 24px 0 12px; text-align: left\"><h2 style=\"border: 2px solid #b54b3e; color: #2b2926; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 0 0; padding: 8px 12px 8px; text-align: left; text-indent: 0; vertical-align: top\">从标题开始，建立阅读节奏</h2></section><p style=\"line-height: 1.8; margin: 0 0 16px; text-align: left\">标题需要一个清楚的重心。<strong style=\"font-weight: 700\">重点句只强调一次</strong>，其余正文让段落长度、行距和留白承担节奏。</p><blockquote style=\"color: #2b2926; font-size: 24px; font-weight: 800; line-height: 1.8; margin: 20px 0 20px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">排版的任务，是把内容的关系呈现出来。</p></blockquote><p style=\"line-height: 1.8; margin: 0 0 16px; text-align: left\">每种风格都应该有自己的声音，同时让正文保持完整、清楚和可读。</p><section style=\"margin: 24px 0 12px; text-align: left\"><h2 style=\"border: 2px solid #b54b3e; color: #2b2926; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 0 0; padding: 8px 12px 8px; text-align: left; text-indent: 0; vertical-align: top\">三个可以马上检查的地方</h2></section><ul style=\"margin: 0 0 16px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">标题是否有独立的视觉重心</li><li style=\"margin: 0 0 8px; padding-left: 3px\">章节之间是否留出呼吸空间</li><li style=\"margin: 0 0 8px; padding-left: 3px\">重点是否与普通正文形成清楚层级</li></ul><p style=\"box-sizing: border-box; line-height: 1.8; margin: 20px 0 20px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=85\" alt=\"写作中的页面\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><p style=\"box-sizing: border-box; line-height: 1.8; margin: 20px 0 20px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1200&q=85\" alt=\"工作台上的笔记\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #b54b3e; border: 1px solid #e4c3b9; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">检查项</th><th style=\"background-color: #b54b3e; border: 1px solid #e4c3b9; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">观察方式</th></tr></thead><tbody><tr><td style=\"border: 1px solid #e4c3b9; padding: 9px 8px; vertical-align: top; word-break: break-word\">标题</td><td style=\"border: 1px solid #e4c3b9; padding: 9px 8px; vertical-align: top; word-break: break-word\">第一眼能否找到主题</td></tr><tr><td style=\"border: 1px solid #e4c3b9; padding: 9px 8px; vertical-align: top; word-break: break-word\">正文</td><td style=\"border: 1px solid #e4c3b9; padding: 9px 8px; vertical-align: top; word-break: break-word\">是否能够连续阅读</td></tr><tr><td style=\"border: 1px solid #e4c3b9; padding: 9px 8px; vertical-align: top; word-break: break-word\">引用</td><td style=\"border: 1px solid #e4c3b9; padding: 9px 8px; vertical-align: top; word-break: break-word\">是否与作者叙述区分</td></tr></tbody></table><p style=\"box-sizing: border-box; line-height: 1.8; margin: 20px 0 20px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=1200&q=85\" alt=\"打开的杂志与页面\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><section style=\"margin: 24px 0 12px; text-align: left\"><h2 style=\"border: 2px solid #b54b3e; color: #2b2926; display: inline-block; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 0 0; padding: 8px 12px 8px; text-align: left; text-indent: 0; vertical-align: top\">把风格落实到每一个细节</h2></section><p style=\"line-height: 1.8; margin: 0 0 16px; text-align: left\">报纸用硬边栏线建立秩序，杂志用大留白放慢速度，信笺让段落像一次自然的交谈。</p><p style=\"box-sizing: border-box; line-height: 1.8; margin: 20px 0 20px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=1200&q=85\" alt=\"阅读中的书页\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><p style=\"line-height: 1.8; margin: 0 0 16px; text-align: left\">一个完整的句子，不应该为了装饰被删掉。一张原有的表格，也不应该被换成没有事实来源的数字。</p><p style=\"border-bottom: 3px double #b54b3e; border-top: 3px double #b54b3e; color: #2b2926; line-height: 1.8; margin: 24px 0 0; padding: 12px 0 12px; text-align: left\">读完之后，留下一个清楚的观点，比留下许多重复的色块更有价值。</p></section></section>",
+  "name": "米纸赤线"
+}

@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-story",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:journal]\n[cw-layout-design:{\"id\":\"story\",\"palette\":{\"paper\":\"#fff9f3\",\"ink\":\"#534036\",\"muted\":\"#746055\",\"accent\":\"#ba7862\",\"panel\":\"#f6e8de\"},\"typography\":{\"font\":\"serif\",\"titleSize\":27,\"titleWeight\":600,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":25},\"composition\":{\"frame\":\"rail\",\"inset\":24,\"measure\":96,\"titleFont\":\"serif\",\"titleSize\":32,\"titleWeight\":550,\"headerTreatment\":\"inset\",\"headerAlign\":\"left\",\"headerMeasure\":76,\"headerLayout\":\"stacked\",\"leadTreatment\":\"bracket\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"underline\",\"imageTreatment\":\"inset\",\"rhythm\":\"airy\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"underline\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"panel\",\"align\":\"center\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"rule\",\"treatment\":\"underline\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"plain\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "story",
+    "label": "暖棕叙事",
+    "category": "美食旅行",
+    "topics": [
+      "家居",
+      "旅游",
+      "文艺"
+    ],
+    "keywords": "美食旅行 工作台原创",
+    "summary": "场景引子 · 人物引语",
+    "visualFamily": "journal",
+    "instruction": "采用「温暖故事型」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：手帐便笺。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"rail\",\"inset\":24,\"measure\":96,\"titleFont\":\"serif\",\"titleSize\":32,\"titleWeight\":550,\"headerTreatment\":\"inset\",\"headerAlign\":\"left\",\"headerMeasure\":76,\"headerLayout\":\"stacked\",\"leadTreatment\":\"bracket\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"underline\",\"imageTreatment\":\"inset\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/inset/left → heading/underline/left → body/plain/left → quote/panel/center → body/plain/left → rule/underline/left → ending/plain/left。\n标题：serif 字体，32px / 550，left 对齐，宽度 76%，stacked 构图，inset 处理。\n导语：bracket；章节：stamp；引用：panel。\n重点与数据：重点句使用浅珊瑚底，不加重框。\n结尾：underline；已有配图：inset。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 25px；正文宽度 96%，airy 阅读节奏。\n色彩角色：纸面 #fff9f3，正文 #534036，辅助 #746055，强调 #ba7862，信息区 #f6e8de。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、inset、underline、panel。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "story",
+      "label": "暖棕叙事",
+      "category": "叙事",
+      "keywords": "美食旅行 工作台原创",
+      "summary": "场景引子 · 人物引语",
+      "palette": {
+        "paper": "#fff9f3",
+        "ink": "#534036",
+        "muted": "#746055",
+        "accent": "#ba7862",
+        "panel": "#f6e8de"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 27,
+        "titleWeight": 600,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 25
+      },
+      "rules": {
+        "title": "标题向内缩进，语气亲和。",
+        "lead": "先放场景引子，宽度短于正文。",
+        "section": "章节用陶土小字和短色块过渡。",
+        "quote": "人物引语放进不对称暖色区。",
+        "emphasis": "重点句使用浅珊瑚底，不加重框。",
+        "ending": "结尾以余韵段落和小短线结束。"
+      },
+      "blocks": [
+        [
+          "title",
+          16,
+          7,
+          58,
+          14,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          16,
+          26,
+          50,
+          12,
+          "inset",
+          "left"
+        ],
+        [
+          "heading",
+          12,
+          44,
+          28,
+          7,
+          "underline",
+          "left"
+        ],
+        [
+          "body",
+          12,
+          55,
+          62,
+          13,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          20,
+          72,
+          56,
+          13,
+          "panel",
+          "center"
+        ],
+        [
+          "body",
+          12,
+          89,
+          62,
+          9,
+          "plain",
+          "left"
+        ],
+        [
+          "rule",
+          16,
+          101,
+          22,
+          2,
+          "underline",
+          "left"
+        ],
+        [
+          "ending",
+          16,
+          105,
+          52,
+          3,
+          "plain",
+          "left"
+        ]
+      ],
+      "visualFamily": "journal",
+      "composition": {
+        "frame": "rail",
+        "inset": 24,
+        "measure": 96,
+        "titleFont": "serif",
+        "titleSize": 32,
+        "titleWeight": 550,
+        "headerTreatment": "inset",
+        "headerAlign": "left",
+        "headerMeasure": 76,
+        "headerLayout": "stacked",
+        "leadTreatment": "bracket",
+        "headingTreatment": "stamp",
+        "quoteTreatment": "panel",
+        "endingTreatment": "underline",
+        "imageTreatment": "inset",
+        "rhythm": "airy"
+      }
+    }
+  },
+  "original": {
+    "id": "story",
+    "label": "暖棕叙事",
+    "category": "叙事",
+    "topics": [
+      "家居",
+      "旅游",
+      "文艺"
+    ],
+    "keywords": "温暖 故事 人物",
+    "summary": "场景引子 · 人物引语",
+    "visualFamily": "journal",
+    "instruction": "采用「温暖故事型」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：手帐便笺。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"frame\":\"rail\",\"inset\":24,\"measure\":96,\"titleFont\":\"serif\",\"titleSize\":32,\"titleWeight\":550,\"headerTreatment\":\"inset\",\"headerAlign\":\"left\",\"headerMeasure\":76,\"headerLayout\":\"stacked\",\"leadTreatment\":\"bracket\",\"headingTreatment\":\"stamp\",\"quoteTreatment\":\"panel\",\"endingTreatment\":\"underline\",\"imageTreatment\":\"inset\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/inset/left → heading/underline/left → body/plain/left → quote/panel/center → body/plain/left → rule/underline/left → ending/plain/left。\n标题：serif 字体，32px / 550，left 对齐，宽度 76%，stacked 构图，inset 处理。\n导语：bracket；章节：stamp；引用：panel。\n重点与数据：重点句使用浅珊瑚底，不加重框。\n结尾：underline；已有配图：inset。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 25px；正文宽度 96%，airy 阅读节奏。\n色彩角色：纸面 #fff9f3，正文 #534036，辅助 #746055，强调 #ba7862，信息区 #f6e8de。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、inset、underline、panel。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "story",
+      "label": "暖棕叙事",
+      "category": "叙事",
+      "keywords": "温暖 故事 人物",
+      "summary": "场景引子 · 人物引语",
+      "palette": {
+        "paper": "#fff9f3",
+        "ink": "#534036",
+        "muted": "#746055",
+        "accent": "#ba7862",
+        "panel": "#f6e8de"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 27,
+        "titleWeight": 600,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 25
+      },
+      "rules": {
+        "title": "标题向内缩进，语气亲和。",
+        "lead": "先放场景引子，宽度短于正文。",
+        "section": "章节用陶土小字和短色块过渡。",
+        "quote": "人物引语放进不对称暖色区。",
+        "emphasis": "重点句使用浅珊瑚底，不加重框。",
+        "ending": "结尾以余韵段落和小短线结束。"
+      },
+      "blocks": [
+        [
+          "title",
+          16,
+          7,
+          58,
+          14,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          16,
+          26,
+          50,
+          12,
+          "inset",
+          "left"
+        ],
+        [
+          "heading",
+          12,
+          44,
+          28,
+          7,
+          "underline",
+          "left"
+        ],
+        [
+          "body",
+          12,
+          55,
+          62,
+          13,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          20,
+          72,
+          56,
+          13,
+          "panel",
+          "center"
+        ],
+        [
+          "body",
+          12,
+          89,
+          62,
+          9,
+          "plain",
+          "left"
+        ],
+        [
+          "rule",
+          16,
+          101,
+          22,
+          2,
+          "underline",
+          "left"
+        ],
+        [
+          "ending",
+          16,
+          105,
+          52,
+          3,
+          "plain",
+          "left"
+        ]
+      ],
+      "visualFamily": "journal",
+      "composition": {
+        "frame": "rail",
+        "inset": 24,
+        "measure": 96,
+        "titleFont": "serif",
+        "titleSize": 32,
+        "titleWeight": 550,
+        "headerTreatment": "inset",
+        "headerAlign": "left",
+        "headerMeasure": 76,
+        "headerLayout": "stacked",
+        "leadTreatment": "bracket",
+        "headingTreatment": "stamp",
+        "quoteTreatment": "panel",
+        "endingTreatment": "underline",
+        "imageTreatment": "inset",
+        "rhythm": "airy"
+      }
+    }
+  },
+  "html": "<section id=\"cw-layout-journal\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #fff9f3; border-left: 1px solid #ba7862; box-sizing: border-box; color: #534036; font-family: Georgia, 'Songti SC', SimSun, serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 24px; padding-left: 24px; padding-right: 24px; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><p style=\"border-left: 1px solid #ba7862; border-right: 1px solid #ba7862; color: #534036; font-size: 17px; line-height: 1.8; margin: 0 0 20px; padding: 12px 18px 12px; text-align: left\">文章的第一眼，决定读者愿不愿意停下来。好排版让观点先被看见，再让细节慢慢展开。</p><p style=\"background-color: #f6e8de; box-sizing: border-box; color: #534036; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=1200&q=85\" alt=\"桌面上的阅读与写作\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><section style=\"margin: 28px 0 12px; text-align: left\"><h2 style=\"border: 2px solid #ba7862; color: #534036; display: inline-block; font-family: Georgia, 'Songti SC', SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 0 0; padding: 8px 12px 8px; text-align: left; text-indent: 0; vertical-align: top\">从标题开始，建立阅读节奏</h2></section><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">标题需要一个清楚的重心。<strong style=\"font-weight: 700\">重点句只强调一次</strong>，其余正文让段落长度、行距和留白承担节奏。</p><blockquote style=\"background-color: #f6e8de; color: #534036; font-size: 17px; line-height: 1.8; margin: 20px 0 20px; padding: 12px 18px 12px; text-align: center\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">排版的任务，是把内容的关系呈现出来。</p></blockquote><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">每种风格都应该有自己的声音，同时让正文保持完整、清楚和可读。</p><section style=\"margin: 28px 0 12px; text-align: left\"><h2 style=\"border: 2px solid #ba7862; color: #534036; display: inline-block; font-family: Georgia, 'Songti SC', SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 0 0; padding: 8px 12px 8px; text-align: left; text-indent: 0; vertical-align: top\">三个可以马上检查的地方</h2></section><ul style=\"margin: 0 0 20px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">标题是否有独立的视觉重心</li><li style=\"margin: 0 0 8px; padding-left: 3px\">章节之间是否留出呼吸空间</li><li style=\"margin: 0 0 8px; padding-left: 3px\">重点是否与普通正文形成清楚层级</li></ul><p style=\"background-color: #f6e8de; box-sizing: border-box; color: #534036; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=85\" alt=\"写作中的页面\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><p style=\"background-color: #f6e8de; box-sizing: border-box; color: #534036; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1200&q=85\" alt=\"工作台上的笔记\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #ba7862; border: 1px solid #ecd5ca; color: #000000; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">检查项</th><th style=\"background-color: #ba7862; border: 1px solid #ecd5ca; color: #000000; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">观察方式</th></tr></thead><tbody><tr><td style=\"border: 1px solid #ecd5ca; padding: 9px 8px; vertical-align: top; word-break: break-word\">标题</td><td style=\"border: 1px solid #ecd5ca; padding: 9px 8px; vertical-align: top; word-break: break-word\">第一眼能否找到主题</td></tr><tr><td style=\"border: 1px solid #ecd5ca; padding: 9px 8px; vertical-align: top; word-break: break-word\">正文</td><td style=\"border: 1px solid #ecd5ca; padding: 9px 8px; vertical-align: top; word-break: break-word\">是否能够连续阅读</td></tr><tr><td style=\"border: 1px solid #ecd5ca; padding: 9px 8px; vertical-align: top; word-break: break-word\">引用</td><td style=\"border: 1px solid #ecd5ca; padding: 9px 8px; vertical-align: top; word-break: break-word\">是否与作者叙述区分</td></tr></tbody></table><p style=\"background-color: #f6e8de; box-sizing: border-box; color: #534036; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=1200&q=85\" alt=\"打开的杂志与页面\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><section style=\"margin: 28px 0 12px; text-align: left\"><h2 style=\"border: 2px solid #ba7862; color: #534036; display: inline-block; font-family: Georgia, 'Songti SC', SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 0 0; padding: 8px 12px 8px; text-align: left; text-indent: 0; vertical-align: top\">把风格落实到每一个细节</h2></section><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">报纸用硬边栏线建立秩序，杂志用大留白放慢速度，信笺让段落像一次自然的交谈。</p><p style=\"background-color: #f6e8de; box-sizing: border-box; color: #534036; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=1200&q=85\" alt=\"阅读中的书页\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">一个完整的句子，不应该为了装饰被删掉。一张原有的表格，也不应该被换成没有事实来源的数字。</p><p style=\"border-bottom: 2px solid #ba7862; color: #534036; line-height: 1.8; margin: 28px 0 0; padding: 0 0 10px; text-align: left\">读完之后，留下一个清楚的观点，比留下许多重复的色块更有价值。</p></section></section>",
+  "name": "暖棕叙事"
+}

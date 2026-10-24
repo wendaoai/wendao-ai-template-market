@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-decor-leaf",
+  "type": "html-template",
+  "layoutPrompt": "[cw-layout-family:letter]\n[cw-layout-design:{\"id\":\"decor-leaf\",\"palette\":{\"paper\":\"#fcfdf8\",\"ink\":\"#304637\",\"muted\":\"#5b7060\",\"accent\":\"#467151\",\"panel\":\"#edf3e8\"},\"typography\":{\"font\":\"serif\",\"titleSize\":32,\"titleWeight\":500,\"bodySize\":16,\"lineHeight\":1.95,\"paragraphGap\":20},\"composition\":{\"inset\":22,\"measure\":96,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"letter\",\"frame\":\"outline\",\"titleFont\":\"serif\",\"titleSize\":32,\"titleWeight\":500,\"headerAlign\":\"center\",\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"rail\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"inset\",\"rhythm\":\"airy\"},\"decoration\":\"leaf-letter\",\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"center\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"underline\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"rail\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"plain\",\"align\":\"left\"}]}]",
+  "nativePreset": {
+    "id": "decor-leaf",
+    "label": "青叶信笺",
+    "category": "情感心理",
+    "topics": [
+      "小清新"
+    ],
+    "keywords": "情感心理 工作台原创",
+    "summary": "青叶题笺 · 轻衬线标题 · 开放正文",
+    "visualFamily": "letter",
+    "supportsImages": true,
+    "instruction": "采用「青叶信笺」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：书信散文。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":22,\"measure\":96,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"letter\",\"frame\":\"outline\",\"titleFont\":\"serif\",\"titleSize\":32,\"titleWeight\":500,\"headerAlign\":\"center\",\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"rail\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"inset\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/center → lead/plain/left → heading/underline/left → body/plain/left → image/inset/left → quote/rail/left → ending/plain/left。\n标题：serif 字体，32px / 500，center 对齐，宽度 100%，compact 构图，plain 处理。\n导语：plain；章节：underline；引用：rail。\n重点与数据：青叶题笺 · 轻衬线标题 · 开放正文。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：plain；已有配图：inset。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 20px；正文宽度 96%，airy 阅读节奏。\n色彩角色：纸面 #fcfdf8，正文 #304637，辅助 #5b7060，强调 #467151，信息区 #edf3e8。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、underline、inset、rail。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "decor-leaf",
+      "label": "青叶信笺",
+      "category": "情感",
+      "topics": [
+        "小清新"
+      ],
+      "visualFamily": "letter",
+      "decoration": "leaf-letter",
+      "keywords": "情感心理 工作台原创",
+      "summary": "青叶题笺 · 轻衬线标题 · 开放正文",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fcfdf8",
+        "ink": "#304637",
+        "muted": "#5b7060",
+        "accent": "#467151",
+        "panel": "#edf3e8"
+      },
+      "composition": {
+        "inset": 22,
+        "measure": 96,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "letter",
+        "frame": "outline",
+        "titleFont": "serif",
+        "titleSize": 32,
+        "titleWeight": 500,
+        "headerAlign": "center",
+        "headerLayout": "compact",
+        "leadTreatment": "plain",
+        "headingTreatment": "underline",
+        "quoteTreatment": "rail",
+        "endingTreatment": "plain",
+        "imageTreatment": "inset",
+        "rhythm": "airy"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 32,
+        "titleWeight": 500,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "青叶信笺：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 underline，按原文顺序重复。",
+        "quote": "原文引用采用 rail；没有引用时省略。",
+        "emphasis": "青叶题笺 · 轻衬线标题 · 开放正文。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 plain；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "underline"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "inset"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "rail"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "plain"
+        ]
+      ]
+    }
+  },
+  "original": {
+    "id": "decor-leaf",
+    "label": "青叶信笺",
+    "category": "情感",
+    "topics": [
+      "小清新"
+    ],
+    "keywords": "小清新 青叶信笺 青叶题笺 · 轻衬线标题 · 开放正文 背景模板 背景图 PNG 纹理",
+    "summary": "青叶题笺 · 轻衬线标题 · 开放正文",
+    "visualFamily": "letter",
+    "supportsImages": true,
+    "instruction": "采用「青叶信笺」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：书信散文。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"inset\":22,\"measure\":96,\"headerMeasure\":100,\"headerTreatment\":\"plain\",\"opening\":\"letter\",\"frame\":\"outline\",\"titleFont\":\"serif\",\"titleSize\":32,\"titleWeight\":500,\"headerAlign\":\"center\",\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"underline\",\"quoteTreatment\":\"rail\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"inset\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/center → lead/plain/left → heading/underline/left → body/plain/left → image/inset/left → quote/rail/left → ending/plain/left。\n标题：serif 字体，32px / 500，center 对齐，宽度 100%，compact 构图，plain 处理。\n导语：plain；章节：underline；引用：rail。\n重点与数据：青叶题笺 · 轻衬线标题 · 开放正文。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。\n结尾：plain；已有配图：inset。\n正文排印：serif 字体，正文 16px，行高 1.95，段落间距约 20px；正文宽度 96%，airy 阅读节奏。\n色彩角色：纸面 #fcfdf8，正文 #304637，辅助 #5b7060，强调 #467151，信息区 #edf3e8。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、underline、inset、rail。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "decor-leaf",
+      "label": "青叶信笺",
+      "category": "情感",
+      "topics": [
+        "小清新"
+      ],
+      "visualFamily": "letter",
+      "decoration": "leaf-letter",
+      "keywords": "小清新 青叶信笺 青叶题笺 · 轻衬线标题 · 开放正文 背景模板 背景图 PNG 纹理",
+      "summary": "青叶题笺 · 轻衬线标题 · 开放正文",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fcfdf8",
+        "ink": "#304637",
+        "muted": "#5b7060",
+        "accent": "#467151",
+        "panel": "#edf3e8"
+      },
+      "composition": {
+        "inset": 22,
+        "measure": 96,
+        "headerMeasure": 100,
+        "headerTreatment": "plain",
+        "opening": "letter",
+        "frame": "outline",
+        "titleFont": "serif",
+        "titleSize": 32,
+        "titleWeight": 500,
+        "headerAlign": "center",
+        "headerLayout": "compact",
+        "leadTreatment": "plain",
+        "headingTreatment": "underline",
+        "quoteTreatment": "rail",
+        "endingTreatment": "plain",
+        "imageTreatment": "inset",
+        "rhythm": "airy"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 32,
+        "titleWeight": 500,
+        "bodySize": 16,
+        "lineHeight": 1.95,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "青叶信笺：按设计契约的开篇构图排印原标题，保留完整文字。",
+        "lead": "导语采用 plain，只使用正文已有开场内容。",
+        "section": "章节采用 underline，按原文顺序重复。",
+        "quote": "原文引用采用 rail；没有引用时省略。",
+        "emphasis": "青叶题笺 · 轻衬线标题 · 开放正文。列表、表格和图片只取原文已有内容，不新增人物、价格、岗位、日期、日历、节日祝福、数据或结论。",
+        "ending": "原文结尾采用 plain；不新增推荐、二维码或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          17,
+          "plain",
+          "center"
+        ],
+        [
+          "lead",
+          8,
+          29,
+          70,
+          12,
+          "plain"
+        ],
+        [
+          "heading",
+          8,
+          46,
+          60,
+          7,
+          "underline"
+        ],
+        [
+          "body",
+          8,
+          57,
+          70,
+          13,
+          "plain"
+        ],
+        [
+          "image",
+          8,
+          74,
+          70,
+          12,
+          "inset"
+        ],
+        [
+          "quote",
+          12,
+          91,
+          62,
+          8,
+          "rail"
+        ],
+        [
+          "ending",
+          8,
+          104,
+          70,
+          5,
+          "plain"
+        ]
+      ]
+    }
+  },
+  "html": "<section id=\"cw-layout-letter\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #fcfdf8; border: 1px solid #c9d6c9; box-sizing: border-box; color: #304637; font-family: Georgia, 'Songti SC', SimSun, serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 22px; padding-left: 24px; padding-right: 24px; width: 100%; word-break: break-word\"><section style=\"box-sizing: border-box; margin: 0 auto; max-width: 100%; width: 100%\"><section style=\"background-color: rgb(252, 253, 248); background-image: url(&quot;data:image/png;base64,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&quot;); background-position: right top; background-repeat: no-repeat; background-size: 200px 200px; border-bottom: 1px solid rgb(70, 113, 81); box-sizing: border-box; color: rgb(48, 70, 55); margin: 0px auto; max-width: 100%; padding: 30px 20px; text-align: center; width: 88%;\"><p style=\"color: rgb(48, 70, 55); font-size: 17px; font-style: italic; line-height: 1.8; margin: 0px; text-align: left;\">文章的第一眼，决定读者愿不愿意停下来。好排版让观点先被看见，再让细节慢慢展开。</p></section><p style=\"background-color: #edf3e8; box-sizing: border-box; color: #304637; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?auto=format&fit=crop&w=1200&q=85\" alt=\"桌面上的阅读与写作\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><section style=\"box-sizing: border-box; margin: 28px auto 28px; margin-left: 0; margin-right: 0; padding: 6px 0 12px; width: 100%\"><h2 style=\"border-bottom: 2px solid #467151; color: #304637; font-family: Georgia, 'Songti SC', SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">从标题开始，建立阅读节奏</h2><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">标题需要一个清楚的重心。<strong style=\"font-weight: 700\">重点句只强调一次</strong>，其余正文让段落长度、行距和留白承担节奏。</p><section style=\"margin: 20px auto 20px; padding: 10px 0 10px; width: 84%\"><blockquote style=\"border-left: 1px solid #467151; color: #304637; font-size: 17px; line-height: 1.8; margin: 0 0 0; padding-left: 16px; text-align: left\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\">排版的任务，是把内容的关系呈现出来。</p></blockquote></section><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">每种风格都应该有自己的声音，同时让正文保持完整、清楚和可读。</p></section><section style=\"box-sizing: border-box; margin: 28px auto 28px; margin-left: 0; margin-right: 0; padding: 6px 0 12px; width: 100%\"><h2 style=\"border-bottom: 2px solid #467151; color: #304637; font-family: Georgia, 'Songti SC', SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">三个可以马上检查的地方</h2><ul style=\"margin: 0 0 20px; padding-left: 22px\"><li style=\"margin: 0 0 8px; padding-left: 3px\">标题是否有独立的视觉重心</li><li style=\"margin: 0 0 8px; padding-left: 3px\">章节之间是否留出呼吸空间</li><li style=\"margin: 0 0 8px; padding-left: 3px\">重点是否与普通正文形成清楚层级</li></ul><p style=\"background-color: #edf3e8; box-sizing: border-box; color: #304637; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&q=85\" alt=\"写作中的页面\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><p style=\"background-color: #edf3e8; box-sizing: border-box; color: #304637; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1200&q=85\" alt=\"工作台上的笔记\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: inherit; margin: 20px 0 20px; table-layout: fixed; width: 100%\"><thead><tr><th style=\"background-color: #467151; border: 1px solid #c9d6c9; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">检查项</th><th style=\"background-color: #467151; border: 1px solid #c9d6c9; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\">观察方式</th></tr></thead><tbody><tr><td style=\"border: 1px solid #c9d6c9; padding: 9px 8px; vertical-align: top; word-break: break-word\">标题</td><td style=\"border: 1px solid #c9d6c9; padding: 9px 8px; vertical-align: top; word-break: break-word\">第一眼能否找到主题</td></tr><tr><td style=\"border: 1px solid #c9d6c9; padding: 9px 8px; vertical-align: top; word-break: break-word\">正文</td><td style=\"border: 1px solid #c9d6c9; padding: 9px 8px; vertical-align: top; word-break: break-word\">是否能够连续阅读</td></tr><tr><td style=\"border: 1px solid #c9d6c9; padding: 9px 8px; vertical-align: top; word-break: break-word\">引用</td><td style=\"border: 1px solid #c9d6c9; padding: 9px 8px; vertical-align: top; word-break: break-word\">是否与作者叙述区分</td></tr></tbody></table><p style=\"background-color: #edf3e8; box-sizing: border-box; color: #304637; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1544947950-fa07a98d237f?auto=format&fit=crop&w=1200&q=85\" alt=\"打开的杂志与页面\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p></section><section style=\"box-sizing: border-box; margin: 28px auto 28px; margin-left: 0; margin-right: 0; padding: 6px 0 12px; width: 100%\"><h2 style=\"border-bottom: 2px solid #467151; color: #304637; font-family: Georgia, 'Songti SC', SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; padding: 0 0 8px; text-align: left; text-indent: 0\">把风格落实到每一个细节</h2><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">报纸用硬边栏线建立秩序，杂志用大留白放慢速度，信笺让段落像一次自然的交谈。</p><p style=\"background-color: #edf3e8; box-sizing: border-box; color: #304637; line-height: 1.8; margin: 20px 12px 20px; padding: 6px; text-align: left\"><img src=\"https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=1200&q=85\" alt=\"阅读中的书页\" style=\"display: block; height: auto; margin: 0; width: 100%\"></p><p style=\"line-height: 1.8; margin: 0 0 20px; text-align: left\">一个完整的句子，不应该为了装饰被删掉。一张原有的表格，也不应该被换成没有事实来源的数字。</p><section style=\"box-sizing: border-box; margin: 20px 0 0 auto; margin-left: 0; margin-right: 0; padding: 12px 0 0; text-align: right; width: 100%\"><p style=\"color: #304637; line-height: 1.8; margin: 0 0 0; text-align: left\">读完之后，留下一个清楚的观点，比留下许多重复的色块更有价值。</p></section></section></section></section>",
+  "name": "青叶信笺"
+}

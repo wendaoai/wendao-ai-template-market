@@ -1,0 +1,1568 @@
+[
+  {
+    "id": "cw-html-edition-cotton-book",
+    "oldName": "棉纸书房",
+    "name": "棉纸书房",
+    "slug": "cotton-book",
+    "documentPath": "documents/cotton-book.html",
+    "assetPath": "assets/templates/cotton-book.json",
+    "previewPath": "previews/templates/cotton-book.jpg"
+  },
+  {
+    "id": "cw-html-edition-vellum-edition",
+    "oldName": "羊皮纸珍藏",
+    "name": "羊皮纸珍藏",
+    "slug": "vellum-edition",
+    "documentPath": "documents/vellum-edition.html",
+    "assetPath": "assets/templates/vellum-edition.json",
+    "previewPath": "previews/templates/vellum-edition.jpg"
+  },
+  {
+    "id": "cw-html-edition-porcelain-margin",
+    "oldName": "青瓷留白",
+    "name": "青瓷留白",
+    "slug": "porcelain-margin",
+    "documentPath": "documents/porcelain-margin.html",
+    "assetPath": "assets/templates/porcelain-margin.json",
+    "previewPath": "previews/templates/porcelain-margin.jpg"
+  },
+  {
+    "id": "cw-html-edition-cinnabar-scroll",
+    "oldName": "朱砂长卷",
+    "name": "朱砂长卷",
+    "slug": "cinnabar-scroll",
+    "documentPath": "documents/cinnabar-scroll.html",
+    "assetPath": "assets/templates/cinnabar-scroll.json",
+    "previewPath": "previews/templates/cinnabar-scroll.jpg"
+  },
+  {
+    "id": "cw-html-edition-kraft-typewriter",
+    "oldName": "牛皮纸打字机",
+    "name": "牛皮纸打字机",
+    "slug": "kraft-typewriter",
+    "documentPath": "documents/kraft-typewriter.html",
+    "assetPath": "assets/templates/kraft-typewriter.json",
+    "previewPath": "previews/templates/kraft-typewriter.jpg"
+  },
+  {
+    "id": "cw-html-edition-blueprint-studio",
+    "oldName": "蓝图设计室",
+    "name": "蓝图设计室",
+    "slug": "blueprint-studio",
+    "documentPath": "documents/blueprint-studio.html",
+    "assetPath": "assets/templates/blueprint-studio.json",
+    "previewPath": "previews/templates/blueprint-studio.jpg"
+  },
+  {
+    "id": "cw-html-edition-terrazzo-notes",
+    "oldName": "水磨石札记",
+    "name": "水磨石札记",
+    "slug": "terrazzo-notes",
+    "documentPath": "documents/terrazzo-notes.html",
+    "assetPath": "assets/templates/terrazzo-notes.json",
+    "previewPath": "previews/templates/terrazzo-notes.jpg"
+  },
+  {
+    "id": "cw-html-edition-ruled-schoolbook",
+    "oldName": "横线练习簿",
+    "name": "横线练习簿",
+    "slug": "ruled-schoolbook",
+    "documentPath": "documents/ruled-schoolbook.html",
+    "assetPath": "assets/templates/ruled-schoolbook.json",
+    "previewPath": "previews/templates/ruled-schoolbook.jpg"
+  },
+  {
+    "id": "cw-html-edition-sunday-broadsheet",
+    "oldName": "星期日大报",
+    "name": "星期日大报",
+    "slug": "sunday-broadsheet",
+    "documentPath": "documents/sunday-broadsheet.html",
+    "assetPath": "assets/templates/sunday-broadsheet.json",
+    "previewPath": "previews/templates/sunday-broadsheet.jpg"
+  },
+  {
+    "id": "cw-html-edition-orange-letterpress",
+    "oldName": "橙红活字",
+    "name": "橙红活字",
+    "slug": "orange-letterpress",
+    "documentPath": "documents/orange-letterpress.html",
+    "assetPath": "assets/templates/orange-letterpress.json",
+    "previewPath": "previews/templates/orange-letterpress.jpg"
+  },
+  {
+    "id": "cw-html-edition-vinyl-jazz",
+    "oldName": "黑胶爵士",
+    "name": "黑金唱片",
+    "slug": "black-gold-vinyl",
+    "documentPath": "documents/black-gold-vinyl.html",
+    "assetPath": "assets/templates/black-gold-vinyl.json",
+    "previewPath": "previews/templates/black-gold-vinyl.jpg"
+  },
+  {
+    "id": "cw-html-edition-sonar-console",
+    "oldName": "深海声呐",
+    "name": "深海声呐",
+    "slug": "sonar-console",
+    "documentPath": "documents/sonar-console.html",
+    "assetPath": "assets/templates/sonar-console.json",
+    "previewPath": "previews/templates/sonar-console.jpg"
+  },
+  {
+    "id": "cw-html-edition-aurora-window",
+    "oldName": "极光之窗",
+    "name": "极光之窗",
+    "slug": "aurora-window",
+    "documentPath": "documents/aurora-window.html",
+    "assetPath": "assets/templates/aurora-window.json",
+    "previewPath": "previews/templates/aurora-window.jpg"
+  },
+  {
+    "id": "cw-html-edition-terminal-log",
+    "oldName": "终端日志",
+    "name": "终端日志",
+    "slug": "terminal-log",
+    "documentPath": "documents/terminal-log.html",
+    "assetPath": "assets/templates/terminal-log.json",
+    "previewPath": "previews/templates/terminal-log.jpg"
+  },
+  {
+    "id": "cw-html-edition-pixel-checkpoint",
+    "oldName": "像素存档点",
+    "name": "像素存档点",
+    "slug": "pixel-checkpoint",
+    "documentPath": "documents/pixel-checkpoint.html",
+    "assetPath": "assets/templates/pixel-checkpoint.json",
+    "previewPath": "previews/templates/pixel-checkpoint.jpg"
+  },
+  {
+    "id": "cw-html-edition-deco-salon",
+    "oldName": "鎏金沙龙",
+    "name": "鎏金沙龙",
+    "slug": "deco-salon",
+    "documentPath": "documents/deco-salon.html",
+    "assetPath": "assets/templates/deco-salon.json",
+    "previewPath": "previews/templates/deco-salon.jpg"
+  },
+  {
+    "id": "cw-html-edition-midnight-cinema",
+    "oldName": "午夜电影票",
+    "name": "午夜电影票",
+    "slug": "midnight-cinema",
+    "documentPath": "documents/midnight-cinema.html",
+    "assetPath": "assets/templates/midnight-cinema.json",
+    "previewPath": "previews/templates/midnight-cinema.jpg"
+  },
+  {
+    "id": "cw-html-edition-charcoal-review",
+    "oldName": "炭黑影评",
+    "name": "炭黑影评",
+    "slug": "charcoal-review",
+    "documentPath": "documents/charcoal-review.html",
+    "assetPath": "assets/templates/charcoal-review.json",
+    "previewPath": "previews/templates/charcoal-review.jpg"
+  },
+  {
+    "id": "cw-html-edition-moon-silver",
+    "oldName": "月面银箔",
+    "name": "月面银箔",
+    "slug": "moon-silver",
+    "documentPath": "documents/moon-silver.html",
+    "assetPath": "assets/templates/moon-silver.json",
+    "previewPath": "previews/templates/moon-silver.jpg"
+  },
+  {
+    "id": "cw-html-edition-indigo-planetarium",
+    "oldName": "靛蓝天文馆",
+    "name": "靛蓝天文馆",
+    "slug": "indigo-planetarium",
+    "documentPath": "documents/indigo-planetarium.html",
+    "assetPath": "assets/templates/indigo-planetarium.json",
+    "previewPath": "previews/templates/indigo-planetarium.jpg"
+  },
+  {
+    "id": "cw-html-edition-coral-editor",
+    "oldName": "珊瑚编辑部",
+    "name": "珊瑚编辑部",
+    "slug": "coral-editor",
+    "documentPath": "documents/coral-editor.html",
+    "assetPath": "assets/templates/coral-editor.json",
+    "previewPath": "previews/templates/coral-editor.jpg"
+  },
+  {
+    "id": "cw-html-edition-bauhaus-workshop",
+    "oldName": "包豪斯工坊",
+    "name": "包豪斯工坊",
+    "slug": "bauhaus-workshop",
+    "documentPath": "documents/bauhaus-workshop.html",
+    "assetPath": "assets/templates/bauhaus-workshop.json",
+    "previewPath": "previews/templates/bauhaus-workshop.jpg"
+  },
+  {
+    "id": "cw-html-edition-swiss-redline",
+    "oldName": "瑞士红线",
+    "name": "瑞士红线",
+    "slug": "swiss-redline",
+    "documentPath": "documents/swiss-redline.html",
+    "assetPath": "assets/templates/swiss-redline.json",
+    "previewPath": "previews/templates/swiss-redline.jpg"
+  },
+  {
+    "id": "cw-html-edition-lilac-couture",
+    "oldName": "丁香时装刊",
+    "name": "丁香时装刊",
+    "slug": "lilac-couture",
+    "documentPath": "documents/lilac-couture.html",
+    "assetPath": "assets/templates/lilac-couture.json",
+    "previewPath": "previews/templates/lilac-couture.jpg"
+  },
+  {
+    "id": "cw-html-edition-pink-sticker",
+    "oldName": "草莓贴纸簿",
+    "name": "草莓贴纸簿",
+    "slug": "pink-sticker",
+    "documentPath": "documents/pink-sticker.html",
+    "assetPath": "assets/templates/pink-sticker.json",
+    "previewPath": "previews/templates/pink-sticker.jpg"
+  },
+  {
+    "id": "cw-html-edition-ink-comic",
+    "oldName": "黑白漫画格",
+    "name": "黑白漫画格",
+    "slug": "ink-comic",
+    "documentPath": "documents/ink-comic.html",
+    "assetPath": "assets/templates/ink-comic.json",
+    "previewPath": "previews/templates/ink-comic.jpg"
+  },
+  {
+    "id": "cw-html-edition-mint-cafe",
+    "oldName": "薄荷咖啡馆",
+    "name": "薄荷咖啡馆",
+    "slug": "mint-cafe",
+    "documentPath": "documents/mint-cafe.html",
+    "assetPath": "assets/templates/mint-cafe.json",
+    "previewPath": "previews/templates/mint-cafe.jpg"
+  },
+  {
+    "id": "cw-html-edition-lemon-picnic",
+    "oldName": "柠檬野餐布",
+    "name": "柠檬野餐布",
+    "slug": "lemon-picnic",
+    "documentPath": "documents/lemon-picnic.html",
+    "assetPath": "assets/templates/lemon-picnic.json",
+    "previewPath": "previews/templates/lemon-picnic.jpg"
+  },
+  {
+    "id": "cw-html-edition-poolside-wave",
+    "oldName": "泳池边来信",
+    "name": "泳池边来信",
+    "slug": "poolside-wave",
+    "documentPath": "documents/poolside-wave.html",
+    "assetPath": "assets/templates/poolside-wave.json",
+    "previewPath": "previews/templates/poolside-wave.jpg"
+  },
+  {
+    "id": "cw-html-edition-peach-horizon",
+    "oldName": "蜜桃地平线",
+    "name": "蜜桃地平线",
+    "slug": "peach-horizon",
+    "documentPath": "documents/peach-horizon.html",
+    "assetPath": "assets/templates/peach-horizon.json",
+    "previewPath": "previews/templates/peach-horizon.jpg"
+  },
+  {
+    "id": "cw-html-edition-botanical-specimen",
+    "oldName": "植物标本册",
+    "name": "植物标本册",
+    "slug": "botanical-specimen",
+    "documentPath": "documents/botanical-specimen.html",
+    "assetPath": "assets/templates/botanical-specimen.json",
+    "previewPath": "previews/templates/botanical-specimen.jpg"
+  },
+  {
+    "id": "cw-html-edition-alpine-fog",
+    "oldName": "山间雾信",
+    "name": "山间雾信",
+    "slug": "alpine-fog",
+    "documentPath": "documents/alpine-fog.html",
+    "assetPath": "assets/templates/alpine-fog.json",
+    "previewPath": "previews/templates/alpine-fog.jpg"
+  },
+  {
+    "id": "cw-html-edition-desert-contour",
+    "oldName": "沙丘等高线",
+    "name": "沙丘等高线",
+    "slug": "desert-contour",
+    "documentPath": "documents/desert-contour.html",
+    "assetPath": "assets/templates/desert-contour.json",
+    "previewPath": "previews/templates/desert-contour.jpg"
+  },
+  {
+    "id": "cw-html-edition-rainy-window",
+    "oldName": "听雨窗边",
+    "name": "听雨窗边",
+    "slug": "rainy-window",
+    "documentPath": "documents/rainy-window.html",
+    "assetPath": "assets/templates/rainy-window.json",
+    "previewPath": "previews/templates/rainy-window.jpg"
+  },
+  {
+    "id": "cw-html-edition-ocean-cartography",
+    "oldName": "海图航线",
+    "name": "海图航线",
+    "slug": "ocean-cartography",
+    "documentPath": "documents/ocean-cartography.html",
+    "assetPath": "assets/templates/ocean-cartography.json",
+    "previewPath": "previews/templates/ocean-cartography.jpg"
+  },
+  {
+    "id": "cw-html-edition-forest-lantern",
+    "oldName": "林间灯火",
+    "name": "林间灯火",
+    "slug": "forest-lantern",
+    "documentPath": "documents/forest-lantern.html",
+    "assetPath": "assets/templates/forest-lantern.json",
+    "previewPath": "previews/templates/forest-lantern.jpg"
+  },
+  {
+    "id": "cw-html-edition-autumn-collection",
+    "oldName": "秋叶收集册",
+    "name": "秋叶收集册",
+    "slug": "autumn-collection",
+    "documentPath": "documents/autumn-collection.html",
+    "assetPath": "assets/templates/autumn-collection.json",
+    "previewPath": "previews/templates/autumn-collection.jpg"
+  },
+  {
+    "id": "cw-html-edition-winter-snowfield",
+    "oldName": "冬日雪原",
+    "name": "冬日雪原",
+    "slug": "winter-snowfield",
+    "documentPath": "documents/winter-snowfield.html",
+    "assetPath": "assets/templates/winter-snowfield.json",
+    "previewPath": "previews/templates/winter-snowfield.jpg"
+  },
+  {
+    "id": "cw-html-edition-tea-room",
+    "oldName": "茶席素笺",
+    "name": "茶席素笺",
+    "slug": "tea-room",
+    "documentPath": "documents/tea-room.html",
+    "assetPath": "assets/templates/tea-room.json",
+    "previewPath": "previews/templates/tea-room.jpg"
+  },
+  {
+    "id": "cw-html-edition-denim-journal",
+    "oldName": "丹宁旅行本",
+    "name": "丹宁旅行本",
+    "slug": "denim-journal",
+    "documentPath": "documents/denim-journal.html",
+    "assetPath": "assets/templates/denim-journal.json",
+    "previewPath": "previews/templates/denim-journal.jpg"
+  },
+  {
+    "id": "cw-html-edition-archive-folio",
+    "oldName": "档案折页",
+    "name": "档案折页",
+    "slug": "archive-folio",
+    "documentPath": "documents/archive-folio.html",
+    "assetPath": "assets/templates/archive-folio.json",
+    "previewPath": "previews/templates/archive-folio.jpg"
+  },
+  {
+    "id": "cw-html-edition-chamber-score",
+    "oldName": "室内乐谱",
+    "name": "室内乐谱",
+    "slug": "chamber-score",
+    "documentPath": "documents/chamber-score.html",
+    "assetPath": "assets/templates/chamber-score.json",
+    "previewPath": "previews/templates/chamber-score.jpg"
+  },
+  {
+    "id": "cw-html-edition-white-cube",
+    "oldName": "白盒子展厅",
+    "name": "白盒子展厅",
+    "slug": "white-cube",
+    "documentPath": "documents/white-cube.html",
+    "assetPath": "assets/templates/white-cube.json",
+    "previewPath": "previews/templates/white-cube.jpg"
+  },
+  {
+    "id": "cw-html-edition-contact-sheet",
+    "oldName": "红框接触印样",
+    "name": "红框接触印样",
+    "slug": "contact-sheet",
+    "documentPath": "documents/contact-sheet.html",
+    "assetPath": "assets/templates/contact-sheet.json",
+    "previewPath": "previews/templates/contact-sheet.jpg"
+  },
+  {
+    "id": "cw-html-edition-copper-architecture",
+    "oldName": "铜色建筑志",
+    "name": "铜色建筑志",
+    "slug": "copper-architecture",
+    "documentPath": "documents/copper-architecture.html",
+    "assetPath": "assets/templates/copper-architecture.json",
+    "previewPath": "previews/templates/copper-architecture.jpg"
+  },
+  {
+    "id": "cw-html-edition-cobalt-museum",
+    "oldName": "钴蓝博物馆",
+    "name": "钴蓝博物馆",
+    "slug": "cobalt-museum",
+    "documentPath": "documents/cobalt-museum.html",
+    "assetPath": "assets/templates/cobalt-museum.json",
+    "previewPath": "previews/templates/cobalt-museum.jpg"
+  },
+  {
+    "id": "cw-html-edition-airmail-postcard",
+    "oldName": "航空邮笺",
+    "name": "航空邮笺",
+    "slug": "airmail-postcard",
+    "documentPath": "documents/airmail-postcard.html",
+    "assetPath": "assets/templates/airmail-postcard.json",
+    "previewPath": "previews/templates/airmail-postcard.jpg"
+  },
+  {
+    "id": "cw-html-edition-violet-labbook",
+    "oldName": "紫罗兰实验簿",
+    "name": "紫罗兰实验簿",
+    "slug": "violet-labbook",
+    "documentPath": "documents/violet-labbook.html",
+    "assetPath": "assets/templates/violet-labbook.json",
+    "previewPath": "previews/templates/violet-labbook.jpg"
+  },
+  {
+    "id": "cw-html-edition-folded-zine",
+    "oldName": "折页独立刊",
+    "name": "折页独立刊",
+    "slug": "folded-zine",
+    "documentPath": "documents/folded-zine.html",
+    "assetPath": "assets/templates/folded-zine.json",
+    "previewPath": "previews/templates/folded-zine.jpg"
+  },
+  {
+    "id": "cw-html-edition-electric-riso",
+    "oldName": "电光孔版印刷",
+    "name": "电光孔版印刷",
+    "slug": "electric-riso",
+    "documentPath": "documents/electric-riso.html",
+    "assetPath": "assets/templates/electric-riso.json",
+    "previewPath": "previews/templates/electric-riso.jpg"
+  },
+  {
+    "id": "aiwritex-html-3aac7f530c50",
+    "oldName": "自然疗愈：回归本真的健康生活",
+    "name": "三彩圆角",
+    "slug": "tricolor-rounded",
+    "documentPath": "documents/tricolor-rounded.html",
+    "assetPath": "assets/templates/tricolor-rounded.json",
+    "previewPath": "previews/templates/tricolor-rounded.jpg"
+  },
+  {
+    "id": "aiwritex-html-b103a179400b",
+    "oldName": "全频带阻塞干扰影视化分析",
+    "name": "墨灰分节",
+    "slug": "ink-gray-sections",
+    "documentPath": "documents/ink-gray-sections.html",
+    "assetPath": "assets/templates/ink-gray-sections.json",
+    "previewPath": "previews/templates/ink-gray-sections.jpg"
+  },
+  {
+    "id": "aiwritex-html-45a20f70feda",
+    "oldName": "其他 · template10",
+    "name": "香槟金笺",
+    "slug": "champagne-gold-paper",
+    "documentPath": "documents/champagne-gold-paper.html",
+    "assetPath": "assets/templates/champagne-gold-paper.json",
+    "previewPath": "previews/templates/champagne-gold-paper.jpg"
+  },
+  {
+    "id": "aiwritex-html-862bd94eceef",
+    "oldName": "徒步拐杖的真相",
+    "name": "蓝灰弧角",
+    "slug": "slate-blue-curves",
+    "documentPath": "documents/slate-blue-curves.html",
+    "assetPath": "assets/templates/slate-blue-curves.json",
+    "previewPath": "previews/templates/slate-blue-curves.jpg"
+  },
+  {
+    "id": "aiwritex-html-2b6fbb7e503b",
+    "oldName": "CrewAI 排版配置指南",
+    "name": "钴蓝圆角",
+    "slug": "cobalt-rounded",
+    "documentPath": "documents/cobalt-rounded.html",
+    "assetPath": "assets/templates/cobalt-rounded.json",
+    "previewPath": "previews/templates/cobalt-rounded.jpg"
+  },
+  {
+    "id": "aiwritex-html-347bbd4d52aa",
+    "oldName": "其他 · template4",
+    "name": "红蓝侧线",
+    "slug": "red-blue-rails",
+    "documentPath": "documents/red-blue-rails.html",
+    "assetPath": "assets/templates/red-blue-rails.json",
+    "previewPath": "previews/templates/red-blue-rails.jpg"
+  },
+  {
+    "id": "aiwritex-html-86b86f995cca",
+    "oldName": "虎扑|什么才叫人间尤物？",
+    "name": "紫韵图文",
+    "slug": "violet-photo-panels",
+    "documentPath": "documents/violet-photo-panels.html",
+    "assetPath": "assets/templates/violet-photo-panels.json",
+    "previewPath": "previews/templates/violet-photo-panels.jpg"
+  },
+  {
+    "id": "aiwritex-html-b1d2768c927f",
+    "oldName": "其他 · template6",
+    "name": "绛紫横线",
+    "slug": "plum-horizontal-rules",
+    "documentPath": "documents/plum-horizontal-rules.html",
+    "assetPath": "assets/templates/plum-horizontal-rules.json",
+    "previewPath": "previews/templates/plum-horizontal-rules.jpg"
+  },
+  {
+    "id": "aiwritex-html-fc952e8d640b",
+    "oldName": "公公给儿媳的陪嫁猫做三层榫卯床",
+    "name": "樱粉折页",
+    "slug": "cherry-pink-folio",
+    "documentPath": "documents/cherry-pink-folio.html",
+    "assetPath": "assets/templates/cherry-pink-folio.json",
+    "previewPath": "previews/templates/cherry-pink-folio.jpg"
+  },
+  {
+    "id": "aiwritex-html-86c80086ebd5",
+    "oldName": "其他 · template8",
+    "name": "海蓝卡片",
+    "slug": "ocean-blue-cards",
+    "documentPath": "documents/ocean-blue-cards.html",
+    "assetPath": "assets/templates/ocean-blue-cards.json",
+    "previewPath": "previews/templates/ocean-blue-cards.jpg"
+  },
+  {
+    "id": "aiwritex-html-15d91ebe4f26",
+    "oldName": "其他 · template9",
+    "name": "薄荷格栅",
+    "slug": "mint-grid",
+    "documentPath": "documents/mint-grid.html",
+    "assetPath": "assets/templates/mint-grid.json",
+    "previewPath": "previews/templates/mint-grid.jpg"
+  },
+  {
+    "id": "aiwritex-html-fd813e3df8d0",
+    "oldName": "娱乐圈内幕",
+    "name": "绯红圆卡",
+    "slug": "crimson-rounded-cards",
+    "documentPath": "documents/crimson-rounded-cards.html",
+    "assetPath": "assets/templates/crimson-rounded-cards.json",
+    "previewPath": "previews/templates/crimson-rounded-cards.jpg"
+  },
+  {
+    "id": "aiwritex-html-b8fe0c7ddffe",
+    "oldName": "第一章：南方来的绿信封",
+    "name": "青墨长笺",
+    "slug": "teal-ink-letter",
+    "documentPath": "documents/teal-ink-letter.html",
+    "assetPath": "assets/templates/teal-ink-letter.json",
+    "previewPath": "previews/templates/teal-ink-letter.jpg"
+  },
+  {
+    "id": "aiwritex-html-8a5cb33cbbba",
+    "oldName": "其他 · template13",
+    "name": "夜紫亮页",
+    "slug": "midnight-violet-pages",
+    "documentPath": "documents/midnight-violet-pages.html",
+    "assetPath": "assets/templates/midnight-violet-pages.json",
+    "previewPath": "previews/templates/midnight-violet-pages.jpg"
+  },
+  {
+    "id": "aiwritex-html-7837ce2d2d98",
+    "oldName": "武汉暴雨专题报道",
+    "name": "雨蓝分栏",
+    "slug": "rain-blue-columns",
+    "documentPath": "documents/rain-blue-columns.html",
+    "assetPath": "assets/templates/rain-blue-columns.json",
+    "previewPath": "previews/templates/rain-blue-columns.jpg"
+  },
+  {
+    "id": "aiwritex-html-fd0de906bf50",
+    "oldName": "其他 · template18",
+    "name": "灰蓝层页",
+    "slug": "gray-blue-layers",
+    "documentPath": "documents/gray-blue-layers.html",
+    "assetPath": "assets/templates/gray-blue-layers.json",
+    "previewPath": "previews/templates/gray-blue-layers.jpg"
+  },
+  {
+    "id": "aiwritex-html-e00f36e1c367",
+    "oldName": "其他 · template21",
+    "name": "浅灰圆框",
+    "slug": "light-gray-round-frame",
+    "documentPath": "documents/light-gray-round-frame.html",
+    "assetPath": "assets/templates/light-gray-round-frame.json",
+    "previewPath": "previews/templates/light-gray-round-frame.jpg"
+  },
+  {
+    "id": "aiwritex-html-ab5aa1f8e36c",
+    "oldName": "特朗普：洛杉矶骚乱是\"外国入侵\"",
+    "name": "深蓝白卡",
+    "slug": "navy-white-cards",
+    "documentPath": "documents/navy-white-cards.html",
+    "assetPath": "assets/templates/navy-white-cards.json",
+    "previewPath": "previews/templates/navy-white-cards.jpg"
+  },
+  {
+    "id": "aiwritex-html-b264aa657bb7",
+    "oldName": "本周热点 - 全球视角",
+    "name": "朱红线报",
+    "slug": "vermilion-news-lines",
+    "documentPath": "documents/vermilion-news-lines.html",
+    "assetPath": "assets/templates/vermilion-news-lines.json",
+    "previewPath": "previews/templates/vermilion-news-lines.jpg"
+  },
+  {
+    "id": "aiwritex-html-1ed22d77e9ba",
+    "oldName": "星辰大学周报",
+    "name": "学院蓝笺",
+    "slug": "academic-blue-letter",
+    "documentPath": "documents/academic-blue-letter.html",
+    "assetPath": "assets/templates/academic-blue-letter.json",
+    "previewPath": "previews/templates/academic-blue-letter.jpg"
+  },
+  {
+    "id": "aiwritex-html-9e6a899e7014",
+    "oldName": "情感与心理的平衡艺术",
+    "name": "青粉双调",
+    "slug": "teal-pink-duotone",
+    "documentPath": "documents/teal-pink-duotone.html",
+    "assetPath": "assets/templates/teal-pink-duotone.json",
+    "previewPath": "previews/templates/teal-pink-duotone.jpg"
+  },
+  {
+    "id": "aiwritex-html-d1220d0fcf3d",
+    "oldName": "那些年：数十载的光阴画卷",
+    "name": "银灰时光",
+    "slug": "silver-gray-timeline",
+    "documentPath": "documents/silver-gray-timeline.html",
+    "assetPath": "assets/templates/silver-gray-timeline.json",
+    "previewPath": "previews/templates/silver-gray-timeline.jpg"
+  },
+  {
+    "id": "aiwritex-html-313463a17e1e",
+    "oldName": "教育学习 · t1",
+    "name": "鸢尾圆卡",
+    "slug": "iris-rounded-cards",
+    "documentPath": "documents/iris-rounded-cards.html",
+    "assetPath": "assets/templates/iris-rounded-cards.json",
+    "previewPath": "previews/templates/iris-rounded-cards.jpg"
+  },
+  {
+    "id": "aiwritex-html-8722b23d6019",
+    "oldName": "全球视野",
+    "name": "藏蓝简报",
+    "slug": "navy-briefing",
+    "documentPath": "documents/navy-briefing.html",
+    "assetPath": "assets/templates/navy-briefing.json",
+    "previewPath": "previews/templates/navy-briefing.jpg"
+  },
+  {
+    "id": "aiwritex-html-f5eee48b2a81",
+    "oldName": "当代生活美学",
+    "name": "电蓝留白",
+    "slug": "electric-blue-space",
+    "documentPath": "documents/electric-blue-space.html",
+    "assetPath": "assets/templates/electric-blue-space.json",
+    "previewPath": "previews/templates/electric-blue-space.jpg"
+  },
+  {
+    "id": "aiwritex-html-3ac31a8c292c",
+    "oldName": "科技数码 · t1",
+    "name": "蓝桃拼色",
+    "slug": "blue-peach-panels",
+    "documentPath": "documents/blue-peach-panels.html",
+    "assetPath": "assets/templates/blue-peach-panels.json",
+    "previewPath": "previews/templates/blue-peach-panels.jpg"
+  },
+  {
+    "id": "aiwritex-html-9f2e6aa8cb0c",
+    "oldName": "寻味之旅 | 探索城市里的美食秘境",
+    "name": "森绿餐笺",
+    "slug": "forest-green-menu",
+    "documentPath": "documents/forest-green-menu.html",
+    "assetPath": "assets/templates/forest-green-menu.json",
+    "previewPath": "previews/templates/forest-green-menu.jpg"
+  },
+  {
+    "id": "aiwritex-html-51277cdd70b7",
+    "oldName": "立夏时节 | 回望北京的春天",
+    "name": "素粉叠卡",
+    "slug": "soft-pink-layered-cards",
+    "documentPath": "documents/soft-pink-layered-cards.html",
+    "assetPath": "assets/templates/soft-pink-layered-cards.json",
+    "previewPath": "previews/templates/soft-pink-layered-cards.jpg"
+  },
+  {
+    "id": "aiwritex-html-18137d753aff",
+    "oldName": "立夏时节 | 回望北京的春天",
+    "name": "夜粉叠卡",
+    "slug": "night-pink-layered-cards",
+    "documentPath": "documents/night-pink-layered-cards.html",
+    "assetPath": "assets/templates/night-pink-layered-cards.json",
+    "previewPath": "previews/templates/night-pink-layered-cards.jpg"
+  },
+  {
+    "id": "aiwritex-html-6e26b9b87264",
+    "oldName": "职场进阶之道",
+    "name": "钢蓝双调",
+    "slug": "steel-blue-duotone",
+    "documentPath": "documents/steel-blue-duotone.html",
+    "assetPath": "assets/templates/steel-blue-duotone.json",
+    "previewPath": "previews/templates/steel-blue-duotone.jpg"
+  },
+  {
+    "id": "aiwritex-html-3b542ae5c377",
+    "oldName": "财经投资 · t1",
+    "name": "红蓝账页",
+    "slug": "red-blue-ledger",
+    "documentPath": "documents/red-blue-ledger.html",
+    "assetPath": "assets/templates/red-blue-ledger.json",
+    "previewPath": "previews/templates/red-blue-ledger.jpg"
+  },
+  {
+    "id": "cw-html-wechat-teal",
+    "oldName": "青绿解读",
+    "name": "青绿解读",
+    "slug": "teal-editorial",
+    "documentPath": "documents/teal-editorial.html",
+    "assetPath": "assets/templates/teal-editorial.json",
+    "previewPath": "previews/templates/teal-editorial.jpg"
+  },
+  {
+    "id": "cw-html-knowledge",
+    "oldName": "清爽知识型",
+    "name": "雾蓝提纲",
+    "slug": "mist-blue-outline",
+    "documentPath": "documents/mist-blue-outline.html",
+    "assetPath": "assets/templates/mist-blue-outline.json",
+    "previewPath": "previews/templates/mist-blue-outline.jpg"
+  },
+  {
+    "id": "cw-html-magazine",
+    "oldName": "品牌杂志型",
+    "name": "米棕杂志",
+    "slug": "beige-brown-magazine",
+    "documentPath": "documents/beige-brown-magazine.html",
+    "assetPath": "assets/templates/beige-brown-magazine.json",
+    "previewPath": "previews/templates/beige-brown-magazine.jpg"
+  },
+  {
+    "id": "cw-html-story",
+    "oldName": "温暖故事型",
+    "name": "暖棕叙事",
+    "slug": "warm-brown-narrative",
+    "documentPath": "documents/warm-brown-narrative.html",
+    "assetPath": "assets/templates/warm-brown-narrative.json",
+    "previewPath": "previews/templates/warm-brown-narrative.jpg"
+  },
+  {
+    "id": "cw-html-minimal",
+    "oldName": "极简现代型",
+    "name": "朱红极简",
+    "slug": "vermilion-minimal",
+    "documentPath": "documents/vermilion-minimal.html",
+    "assetPath": "assets/templates/vermilion-minimal.json",
+    "previewPath": "previews/templates/vermilion-minimal.jpg"
+  },
+  {
+    "id": "cw-html-opinion",
+    "oldName": "观点评论型",
+    "name": "米纸赤线",
+    "slug": "rice-paper-red-lines",
+    "documentPath": "documents/rice-paper-red-lines.html",
+    "assetPath": "assets/templates/rice-paper-red-lines.json",
+    "previewPath": "previews/templates/rice-paper-red-lines.jpg"
+  },
+  {
+    "id": "cw-html-guide",
+    "oldName": "实用指南型",
+    "name": "青蓝序列",
+    "slug": "teal-blue-sequence",
+    "documentPath": "documents/teal-blue-sequence.html",
+    "assetPath": "assets/templates/teal-blue-sequence.json",
+    "previewPath": "previews/templates/teal-blue-sequence.jpg"
+  },
+  {
+    "id": "cw-html-report",
+    "oldName": "数据报告型",
+    "name": "蓝灰报告",
+    "slug": "blue-gray-report",
+    "documentPath": "documents/blue-gray-report.html",
+    "assetPath": "assets/templates/blue-gray-report.json",
+    "previewPath": "previews/templates/blue-gray-report.jpg"
+  },
+  {
+    "id": "cw-html-warm-feature",
+    "oldName": "暖金专题型",
+    "name": "暖金专题",
+    "slug": "warm-gold-feature",
+    "documentPath": "documents/warm-gold-feature.html",
+    "assetPath": "assets/templates/warm-gold-feature.json",
+    "previewPath": "previews/templates/warm-gold-feature.jpg"
+  },
+  {
+    "id": "cw-html-essay",
+    "oldName": "人文随笔型",
+    "name": "米纸随笔",
+    "slug": "cream-paper-essay",
+    "documentPath": "documents/cream-paper-essay.html",
+    "assetPath": "assets/templates/cream-paper-essay.json",
+    "previewPath": "previews/templates/cream-paper-essay.jpg"
+  },
+  {
+    "id": "cw-html-dark-editorial",
+    "oldName": "黑金序号型",
+    "name": "黑金序号",
+    "slug": "black-gold-numbers",
+    "documentPath": "documents/black-gold-numbers.html",
+    "assetPath": "assets/templates/black-gold-numbers.json",
+    "previewPath": "previews/templates/black-gold-numbers.jpg"
+  },
+  {
+    "id": "cw-html-civic-explainer",
+    "oldName": "民生解读型",
+    "name": "橄榄金笺",
+    "slug": "olive-gold-paper",
+    "documentPath": "documents/olive-gold-paper.html",
+    "assetPath": "assets/templates/olive-gold-paper.json",
+    "previewPath": "previews/templates/olive-gold-paper.jpg"
+  },
+  {
+    "id": "cw-html-tech-briefing",
+    "oldName": "科技公告型",
+    "name": "浅蓝公告",
+    "slug": "pale-blue-notice",
+    "documentPath": "documents/pale-blue-notice.html",
+    "assetPath": "assets/templates/pale-blue-notice.json",
+    "previewPath": "previews/templates/pale-blue-notice.jpg"
+  },
+  {
+    "id": "cw-html-apricot-healing",
+    "oldName": "暖杏疗愈文",
+    "name": "暖杏便笺",
+    "slug": "warm-apricot-notes",
+    "documentPath": "documents/warm-apricot-notes.html",
+    "assetPath": "assets/templates/warm-apricot-notes.json",
+    "previewPath": "previews/templates/warm-apricot-notes.jpg"
+  },
+  {
+    "id": "cw-html-rose-selflove",
+    "oldName": "玫瑰自爱文",
+    "name": "玫瑰题签",
+    "slug": "rose-title-labels",
+    "documentPath": "documents/rose-title-labels.html",
+    "assetPath": "assets/templates/rose-title-labels.json",
+    "previewPath": "previews/templates/rose-title-labels.jpg"
+  },
+  {
+    "id": "cw-html-sage-calm",
+    "oldName": "墨绿松弛文",
+    "name": "墨绿留白",
+    "slug": "sage-green-space",
+    "documentPath": "documents/sage-green-space.html",
+    "assetPath": "assets/templates/sage-green-space.json",
+    "previewPath": "previews/templates/sage-green-space.jpg"
+  },
+  {
+    "id": "cw-html-ai-workflow-lab",
+    "oldName": "AI工作流实录",
+    "name": "暗紫终端",
+    "slug": "dark-violet-terminal",
+    "documentPath": "documents/dark-violet-terminal.html",
+    "assetPath": "assets/templates/dark-violet-terminal.json",
+    "previewPath": "previews/templates/dark-violet-terminal.jpg"
+  },
+  {
+    "id": "cw-html-atelier-opinion-stage",
+    "oldName": "赤色观点海报",
+    "name": "赤色海报",
+    "slug": "scarlet-poster",
+    "documentPath": "documents/scarlet-poster.html",
+    "assetPath": "assets/templates/scarlet-poster.json",
+    "previewPath": "previews/templates/scarlet-poster.jpg"
+  },
+  {
+    "id": "cw-html-atelier-catalog-3-3-center-poster",
+    "oldName": "焦点公告",
+    "name": "橄榄居中",
+    "slug": "olive-centered",
+    "documentPath": "documents/olive-centered.html",
+    "assetPath": "assets/templates/olive-centered.json",
+    "previewPath": "previews/templates/olive-centered.jpg"
+  },
+  {
+    "id": "cw-html-atelier-tech-briefing-offset",
+    "oldName": "科技观察",
+    "name": "蓝轨错列",
+    "slug": "blue-track-offset",
+    "documentPath": "documents/blue-track-offset.html",
+    "assetPath": "assets/templates/blue-track-offset.json",
+    "previewPath": "previews/templates/blue-track-offset.jpg"
+  },
+  {
+    "id": "cw-html-atelier-opinion-manifesto",
+    "oldName": "观点宣言",
+    "name": "赤线大字",
+    "slug": "red-rule-display",
+    "documentPath": "documents/red-rule-display.html",
+    "assetPath": "assets/templates/red-rule-display.json",
+    "previewPath": "previews/templates/red-rule-display.jpg"
+  },
+  {
+    "id": "cw-html-atelier-catalog-3-4-graphic-poster",
+    "oldName": "图形公告",
+    "name": "赭色双区",
+    "slug": "ochre-dual-panels",
+    "documentPath": "documents/ochre-dual-panels.html",
+    "assetPath": "assets/templates/ochre-dual-panels.json",
+    "previewPath": "previews/templates/ochre-dual-panels.jpg"
+  },
+  {
+    "id": "cw-html-atelier-civic-explainer-gazette",
+    "oldName": "城市民生报",
+    "name": "棕金双线",
+    "slug": "brown-gold-double-rules",
+    "documentPath": "documents/brown-gold-double-rules.html",
+    "assetPath": "assets/templates/brown-gold-double-rules.json",
+    "previewPath": "previews/templates/brown-gold-double-rules.jpg"
+  },
+  {
+    "id": "cw-html-atelier-report-data",
+    "oldName": "数据焦点",
+    "name": "蓝色焦点",
+    "slug": "blue-focus",
+    "documentPath": "documents/blue-focus.html",
+    "assetPath": "assets/templates/blue-focus.json",
+    "previewPath": "previews/templates/blue-focus.jpg"
+  },
+  {
+    "id": "cw-html-atelier-report-data-ledger",
+    "oldName": "研究纪要",
+    "name": "靛蓝账页",
+    "slug": "indigo-ledger",
+    "documentPath": "documents/indigo-ledger.html",
+    "assetPath": "assets/templates/indigo-ledger.json",
+    "previewPath": "previews/templates/indigo-ledger.jpg"
+  },
+  {
+    "id": "cw-html-atelier-report-dossier",
+    "oldName": "专题档案",
+    "name": "蓝灰卷宗",
+    "slug": "blue-gray-dossier",
+    "documentPath": "documents/blue-gray-dossier.html",
+    "assetPath": "assets/templates/blue-gray-dossier.json",
+    "previewPath": "previews/templates/blue-gray-dossier.jpg"
+  },
+  {
+    "id": "cw-html-atelier-story-feature",
+    "oldName": "街巷纪事",
+    "name": "暖棕影叙",
+    "slug": "warm-brown-photo-story",
+    "documentPath": "documents/warm-brown-photo-story.html",
+    "assetPath": "assets/templates/warm-brown-photo-story.json",
+    "previewPath": "previews/templates/warm-brown-photo-story.jpg"
+  },
+  {
+    "id": "cw-html-atelier-catalog-10-7-folio",
+    "oldName": "代码札记",
+    "name": "青墨等宽",
+    "slug": "teal-ink-monospace",
+    "documentPath": "documents/teal-ink-monospace.html",
+    "assetPath": "assets/templates/teal-ink-monospace.json",
+    "previewPath": "previews/templates/teal-ink-monospace.jpg"
+  },
+  {
+    "id": "cw-html-atelier-knowledge-chapter-front",
+    "oldName": "阅读章节",
+    "name": "草绿扉页",
+    "slug": "grass-green-chapter",
+    "documentPath": "documents/grass-green-chapter.html",
+    "assetPath": "assets/templates/grass-green-chapter.json",
+    "previewPath": "previews/templates/grass-green-chapter.jpg"
+  },
+  {
+    "id": "cw-html-atelier-knowledge-timeline",
+    "oldName": "学习路径",
+    "name": "雾蓝节点",
+    "slug": "mist-blue-nodes",
+    "documentPath": "documents/mist-blue-nodes.html",
+    "assetPath": "assets/templates/mist-blue-nodes.json",
+    "previewPath": "previews/templates/mist-blue-nodes.jpg"
+  },
+  {
+    "id": "cw-html-atelier-minimal-poem",
+    "oldName": "静读诗页",
+    "name": "素纸窄页",
+    "slug": "plain-paper-narrow",
+    "documentPath": "documents/plain-paper-narrow.html",
+    "assetPath": "assets/templates/plain-paper-narrow.json",
+    "previewPath": "previews/templates/plain-paper-narrow.jpg"
+  },
+  {
+    "id": "cw-html-atelier-essay-side-note",
+    "oldName": "页边随笔",
+    "name": "棕色页边",
+    "slug": "brown-margin-notes",
+    "documentPath": "documents/brown-margin-notes.html",
+    "assetPath": "assets/templates/brown-margin-notes.json",
+    "previewPath": "previews/templates/brown-margin-notes.jpg"
+  },
+  {
+    "id": "cw-html-atelier-essay-long-letter",
+    "oldName": "一封长信",
+    "name": "暖纸长信",
+    "slug": "warm-paper-letter",
+    "documentPath": "documents/warm-paper-letter.html",
+    "assetPath": "assets/templates/warm-paper-letter.json",
+    "previewPath": "previews/templates/warm-paper-letter.jpg"
+  },
+  {
+    "id": "cw-html-atelier-essay-columnist",
+    "oldName": "人物侧写",
+    "name": "米棕错列",
+    "slug": "beige-brown-offset",
+    "documentPath": "documents/beige-brown-offset.html",
+    "assetPath": "assets/templates/beige-brown-offset.json",
+    "previewPath": "previews/templates/beige-brown-offset.jpg"
+  },
+  {
+    "id": "cw-html-atelier-report-exhibit",
+    "oldName": "数据展签",
+    "name": "米金展签",
+    "slug": "beige-gold-exhibit",
+    "documentPath": "documents/beige-gold-exhibit.html",
+    "assetPath": "assets/templates/beige-gold-exhibit.json",
+    "previewPath": "previews/templates/beige-gold-exhibit.jpg"
+  },
+  {
+    "id": "cw-html-atelier-magazine-photo-spread",
+    "oldName": "生活画册",
+    "name": "草绿跨页",
+    "slug": "grass-green-spread",
+    "documentPath": "documents/grass-green-spread.html",
+    "assetPath": "assets/templates/grass-green-spread.json",
+    "previewPath": "previews/templates/grass-green-spread.jpg"
+  },
+  {
+    "id": "cw-html-atelier-magazine-atlas",
+    "oldName": "草木图鉴",
+    "name": "墨绿图鉴",
+    "slug": "dark-green-atlas",
+    "documentPath": "documents/dark-green-atlas.html",
+    "assetPath": "assets/templates/dark-green-atlas.json",
+    "previewPath": "previews/templates/dark-green-atlas.jpg"
+  },
+  {
+    "id": "cw-html-atelier-magazine-photo-cover",
+    "oldName": "影像封面刊",
+    "name": "素金影页",
+    "slug": "muted-gold-photo-pages",
+    "documentPath": "documents/muted-gold-photo-pages.html",
+    "assetPath": "assets/templates/muted-gold-photo-pages.json",
+    "previewPath": "previews/templates/muted-gold-photo-pages.jpg"
+  },
+  {
+    "id": "cw-html-atelier-story-photo-essay",
+    "oldName": "旅途影记",
+    "name": "棕调影记",
+    "slug": "brown-photo-journal",
+    "documentPath": "documents/brown-photo-journal.html",
+    "assetPath": "assets/templates/brown-photo-journal.json",
+    "previewPath": "previews/templates/brown-photo-journal.jpg"
+  },
+  {
+    "id": "cw-html-atelier-knowledge-image-note",
+    "oldName": "图说笔记",
+    "name": "青蓝图注",
+    "slug": "teal-blue-caption",
+    "documentPath": "documents/teal-blue-caption.html",
+    "assetPath": "assets/templates/teal-blue-caption.json",
+    "previewPath": "previews/templates/teal-blue-caption.jpg"
+  },
+  {
+    "id": "cw-html-atelier-magazine-diptych",
+    "oldName": "双页相册",
+    "name": "米金双页",
+    "slug": "beige-gold-diptych",
+    "documentPath": "documents/beige-gold-diptych.html",
+    "assetPath": "assets/templates/beige-gold-diptych.json",
+    "previewPath": "previews/templates/beige-gold-diptych.jpg"
+  },
+  {
+    "id": "cw-html-topic-education",
+    "oldName": "教育·课堂笔记",
+    "name": "蓝墨扉页",
+    "slug": "blue-ink-chapter",
+    "documentPath": "documents/blue-ink-chapter.html",
+    "assetPath": "assets/templates/blue-ink-chapter.json",
+    "previewPath": "previews/templates/blue-ink-chapter.jpg"
+  },
+  {
+    "id": "cw-html-topic-fire",
+    "oldName": "消防·安全手册",
+    "name": "赤橙手册",
+    "slug": "red-orange-handbook",
+    "documentPath": "documents/red-orange-handbook.html",
+    "assetPath": "assets/templates/red-orange-handbook.json",
+    "previewPath": "previews/templates/red-orange-handbook.jpg"
+  },
+  {
+    "id": "cw-html-topic-recruitment",
+    "oldName": "招聘·岗位公告",
+    "name": "晴蓝分区",
+    "slug": "sky-blue-panels",
+    "documentPath": "documents/sky-blue-panels.html",
+    "assetPath": "assets/templates/sky-blue-panels.json",
+    "previewPath": "previews/templates/sky-blue-panels.jpg"
+  },
+  {
+    "id": "cw-html-topic-exam",
+    "oldName": "考试·备考清单",
+    "name": "褐金清单",
+    "slug": "brown-gold-checklist",
+    "documentPath": "documents/brown-gold-checklist.html",
+    "assetPath": "assets/templates/brown-gold-checklist.json",
+    "previewPath": "previews/templates/brown-gold-checklist.jpg"
+  },
+  {
+    "id": "cw-html-topic-training",
+    "oldName": "培训·课程路径",
+    "name": "松绿路径",
+    "slug": "pine-green-path",
+    "documentPath": "documents/pine-green-path.html",
+    "assetPath": "assets/templates/pine-green-path.json",
+    "previewPath": "previews/templates/pine-green-path.jpg"
+  },
+  {
+    "id": "cw-html-topic-ecommerce",
+    "oldName": "电商·商品橱窗",
+    "name": "琥珀图鉴",
+    "slug": "amber-atlas",
+    "documentPath": "documents/amber-atlas.html",
+    "assetPath": "assets/templates/amber-atlas.json",
+    "previewPath": "previews/templates/amber-atlas.jpg"
+  },
+  {
+    "id": "cw-html-topic-home",
+    "oldName": "家居·空间画册",
+    "name": "橄榄画册",
+    "slug": "olive-photo-book",
+    "documentPath": "documents/olive-photo-book.html",
+    "assetPath": "assets/templates/olive-photo-book.json",
+    "previewPath": "previews/templates/olive-photo-book.jpg"
+  },
+  {
+    "id": "cw-html-topic-tourism",
+    "oldName": "旅游·行旅手记",
+    "name": "青绿行笺",
+    "slug": "teal-travel-pages",
+    "documentPath": "documents/teal-travel-pages.html",
+    "assetPath": "assets/templates/teal-travel-pages.json",
+    "previewPath": "previews/templates/teal-travel-pages.jpg"
+  },
+  {
+    "id": "cw-html-topic-finance",
+    "oldName": "金融·市场观察",
+    "name": "藏蓝账页",
+    "slug": "navy-ledger",
+    "documentPath": "documents/navy-ledger.html",
+    "assetPath": "assets/templates/navy-ledger.json",
+    "previewPath": "previews/templates/navy-ledger.jpg"
+  },
+  {
+    "id": "cw-html-topic-beauty",
+    "oldName": "美容·护理专栏",
+    "name": "玫红细线",
+    "slug": "rose-red-fine-rules",
+    "documentPath": "documents/rose-red-fine-rules.html",
+    "assetPath": "assets/templates/rose-red-fine-rules.json",
+    "previewPath": "previews/templates/rose-red-fine-rules.jpg"
+  },
+  {
+    "id": "cw-html-topic-food",
+    "oldName": "美食·风味笔记",
+    "name": "焦糖图页",
+    "slug": "caramel-photo-pages",
+    "documentPath": "documents/caramel-photo-pages.html",
+    "assetPath": "assets/templates/caramel-photo-pages.json",
+    "previewPath": "previews/templates/caramel-photo-pages.jpg"
+  },
+  {
+    "id": "cw-html-topic-game",
+    "oldName": "游戏·版本情报",
+    "name": "暗青分区",
+    "slug": "dark-teal-panels",
+    "documentPath": "documents/dark-teal-panels.html",
+    "assetPath": "assets/templates/dark-teal-panels.json",
+    "previewPath": "previews/templates/dark-teal-panels.jpg"
+  },
+  {
+    "id": "cw-html-topic-pets",
+    "oldName": "萌宠·陪伴日记",
+    "name": "栗棕贴签",
+    "slug": "chestnut-labels",
+    "documentPath": "documents/chestnut-labels.html",
+    "assetPath": "assets/templates/chestnut-labels.json",
+    "previewPath": "previews/templates/chestnut-labels.jpg"
+  },
+  {
+    "id": "cw-html-topic-dance",
+    "oldName": "舞蹈·舞台记事",
+    "name": "绛紫舞页",
+    "slug": "plum-stage-pages",
+    "documentPath": "documents/plum-stage-pages.html",
+    "assetPath": "assets/templates/plum-stage-pages.json",
+    "previewPath": "previews/templates/plum-stage-pages.jpg"
+  },
+  {
+    "id": "cw-html-topic-environment",
+    "oldName": "环保·自然观察",
+    "name": "草绿档案",
+    "slug": "grass-green-archive",
+    "documentPath": "documents/grass-green-archive.html",
+    "assetPath": "assets/templates/grass-green-archive.json",
+    "previewPath": "previews/templates/grass-green-archive.jpg"
+  },
+  {
+    "id": "cw-html-topic-wedding",
+    "oldName": "婚礼·誓言信笺",
+    "name": "豆沙信笺",
+    "slug": "dusty-rose-letter",
+    "documentPath": "documents/dusty-rose-letter.html",
+    "assetPath": "assets/templates/dusty-rose-letter.json",
+    "previewPath": "previews/templates/dusty-rose-letter.jpg"
+  },
+  {
+    "id": "cw-html-topic-traffic",
+    "oldName": "交通·出行指南",
+    "name": "浅蓝轨线",
+    "slug": "pale-blue-track",
+    "documentPath": "documents/pale-blue-track.html",
+    "assetPath": "assets/templates/pale-blue-track.json",
+    "previewPath": "previews/templates/pale-blue-track.jpg"
+  },
+  {
+    "id": "cw-html-topic-books",
+    "oldName": "图书影音·文化评论",
+    "name": "青灰专栏",
+    "slug": "teal-gray-column",
+    "documentPath": "documents/teal-gray-column.html",
+    "assetPath": "assets/templates/teal-gray-column.json",
+    "previewPath": "previews/templates/teal-gray-column.jpg"
+  },
+  {
+    "id": "cw-html-topic-fresh",
+    "oldName": "小清新·青笺日常",
+    "name": "嫩绿轻笺",
+    "slug": "fresh-green-notes",
+    "documentPath": "documents/fresh-green-notes.html",
+    "assetPath": "assets/templates/fresh-green-notes.json",
+    "previewPath": "previews/templates/fresh-green-notes.jpg"
+  },
+  {
+    "id": "cw-html-topic-classical",
+    "oldName": "古风·水墨长卷",
+    "name": "宣纸水墨",
+    "slug": "rice-paper-ink",
+    "documentPath": "documents/rice-paper-ink.html",
+    "assetPath": "assets/templates/rice-paper-ink.json",
+    "previewPath": "previews/templates/rice-paper-ink.jpg"
+  },
+  {
+    "id": "cw-html-topic-spring",
+    "oldName": "春天·春日来信",
+    "name": "新绿春笺",
+    "slug": "spring-green-letter",
+    "documentPath": "documents/spring-green-letter.html",
+    "assetPath": "assets/templates/spring-green-letter.json",
+    "previewPath": "previews/templates/spring-green-letter.jpg"
+  },
+  {
+    "id": "cw-html-topic-summer",
+    "oldName": "夏天·海风画册",
+    "name": "海蓝双页",
+    "slug": "ocean-blue-diptych",
+    "documentPath": "documents/ocean-blue-diptych.html",
+    "assetPath": "assets/templates/ocean-blue-diptych.json",
+    "previewPath": "previews/templates/ocean-blue-diptych.jpg"
+  },
+  {
+    "id": "cw-html-topic-autumn",
+    "oldName": "秋天·秋色随记",
+    "name": "秋金侧记",
+    "slug": "autumn-gold-notes",
+    "documentPath": "documents/autumn-gold-notes.html",
+    "assetPath": "assets/templates/autumn-gold-notes.json",
+    "previewPath": "previews/templates/autumn-gold-notes.jpg"
+  },
+  {
+    "id": "cw-html-topic-winter",
+    "oldName": "冬天·冬日阅读",
+    "name": "冰蓝细框",
+    "slug": "ice-blue-fine-frame",
+    "documentPath": "documents/ice-blue-fine-frame.html",
+    "assetPath": "assets/templates/ice-blue-fine-frame.json",
+    "previewPath": "previews/templates/ice-blue-fine-frame.jpg"
+  },
+  {
+    "id": "cw-html-topic-festival",
+    "oldName": "传统节日·节庆长卷",
+    "name": "朱红金线",
+    "slug": "vermilion-gold-rules",
+    "documentPath": "documents/vermilion-gold-rules.html",
+    "assetPath": "assets/templates/vermilion-gold-rules.json",
+    "previewPath": "previews/templates/vermilion-gold-rules.jpg"
+  },
+  {
+    "id": "cw-html-topic-solar-terms",
+    "oldName": "二十四节气·时序札记",
+    "name": "草绿时序",
+    "slug": "grass-green-season",
+    "documentPath": "documents/grass-green-season.html",
+    "assetPath": "assets/templates/grass-green-season.json",
+    "previewPath": "previews/templates/grass-green-season.jpg"
+  },
+  {
+    "id": "cw-html-decor-leaf",
+    "oldName": "青叶信笺",
+    "name": "青叶信笺",
+    "slug": "green-leaf-letter",
+    "documentPath": "documents/green-leaf-letter.html",
+    "assetPath": "assets/templates/green-leaf-letter.json",
+    "previewPath": "previews/templates/green-leaf-letter.jpg"
+  },
+  {
+    "id": "cw-html-decor-mist",
+    "oldName": "晨雾蓝",
+    "name": "晨雾蓝笺",
+    "slug": "morning-mist-blue",
+    "documentPath": "documents/morning-mist-blue.html",
+    "assetPath": "assets/templates/morning-mist-blue.json",
+    "previewPath": "previews/templates/morning-mist-blue.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1419",
+    "oldName": "鎏金表彰",
+    "name": "红金桂冠",
+    "slug": "red-gold-laurel",
+    "documentPath": "documents/red-gold-laurel.html",
+    "assetPath": "assets/templates/red-gold-laurel.json",
+    "previewPath": "previews/templates/red-gold-laurel.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1462",
+    "oldName": "热点蓝报",
+    "name": "点阵蓝报",
+    "slug": "blue-dot-news",
+    "documentPath": "documents/blue-dot-news.html",
+    "assetPath": "assets/templates/blue-dot-news.json",
+    "previewPath": "previews/templates/blue-dot-news.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1433",
+    "oldName": "静简生活",
+    "name": "苔绿拼纸",
+    "slug": "moss-green-collage",
+    "documentPath": "documents/moss-green-collage.html",
+    "assetPath": "assets/templates/moss-green-collage.json",
+    "previewPath": "previews/templates/moss-green-collage.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1499",
+    "oldName": "山河假日",
+    "name": "朱金山河",
+    "slug": "vermilion-gold-landscape",
+    "documentPath": "documents/vermilion-gold-landscape.html",
+    "assetPath": "assets/templates/vermilion-gold-landscape.json",
+    "previewPath": "previews/templates/vermilion-gold-landscape.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1502",
+    "oldName": "小城漫游",
+    "name": "琥珀城图",
+    "slug": "amber-city-map",
+    "documentPath": "documents/amber-city-map.html",
+    "assetPath": "assets/templates/amber-city-map.json",
+    "previewPath": "previews/templates/amber-city-map.jpg"
+  },
+  {
+    "id": "cw-html-aligned-909",
+    "oldName": "每日蓝讯",
+    "name": "浅蓝地球",
+    "slug": "pale-blue-globe",
+    "documentPath": "documents/pale-blue-globe.html",
+    "assetPath": "assets/templates/pale-blue-globe.json",
+    "previewPath": "previews/templates/pale-blue-globe.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1422",
+    "oldName": "暖龄指南",
+    "name": "暖橙花纹",
+    "slug": "warm-orange-floral",
+    "documentPath": "documents/warm-orange-floral.html",
+    "assetPath": "assets/templates/warm-orange-floral.json",
+    "previewPath": "previews/templates/warm-orange-floral.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1386",
+    "oldName": "黑白智界",
+    "name": "黑白几何",
+    "slug": "black-white-geometry",
+    "documentPath": "documents/black-white-geometry.html",
+    "assetPath": "assets/templates/black-white-geometry.json",
+    "previewPath": "previews/templates/black-white-geometry.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1346",
+    "oldName": "职场第一课",
+    "name": "晴蓝阶梯",
+    "slug": "sky-blue-steps",
+    "documentPath": "documents/sky-blue-steps.html",
+    "assetPath": "assets/templates/sky-blue-steps.json",
+    "previewPath": "previews/templates/sky-blue-steps.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1498",
+    "oldName": "产业新动能",
+    "name": "青蓝城影",
+    "slug": "teal-blue-city",
+    "documentPath": "documents/teal-blue-city.html",
+    "assetPath": "assets/templates/teal-blue-city.json",
+    "previewPath": "previews/templates/teal-blue-city.jpg"
+  },
+  {
+    "id": "cw-html-aligned-404",
+    "oldName": "年度蓝图",
+    "name": "蓝色建筑",
+    "slug": "blue-architecture",
+    "documentPath": "documents/blue-architecture.html",
+    "assetPath": "assets/templates/blue-architecture.json",
+    "previewPath": "previews/templates/blue-architecture.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1497",
+    "oldName": "逐风赛场",
+    "name": "橙蓝线稿",
+    "slug": "orange-blue-linework",
+    "documentPath": "documents/orange-blue-linework.html",
+    "assetPath": "assets/templates/orange-blue-linework.json",
+    "previewPath": "previews/templates/orange-blue-linework.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1484",
+    "oldName": "桂月团圆",
+    "name": "月白金笺",
+    "slug": "moon-white-gold",
+    "documentPath": "documents/moon-white-gold.html",
+    "assetPath": "assets/templates/moon-white-gold.json",
+    "previewPath": "previews/templates/moon-white-gold.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1356",
+    "oldName": "追风少年",
+    "name": "浅蓝跑道",
+    "slug": "pale-blue-runway",
+    "documentPath": "documents/pale-blue-runway.html",
+    "assetPath": "assets/templates/pale-blue-runway.json",
+    "previewPath": "previews/templates/pale-blue-runway.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1424",
+    "oldName": "算力潮汐",
+    "name": "深蓝电路",
+    "slug": "deep-blue-circuit",
+    "documentPath": "documents/deep-blue-circuit.html",
+    "assetPath": "assets/templates/deep-blue-circuit.json",
+    "previewPath": "previews/templates/deep-blue-circuit.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1483",
+    "oldName": "数创之翼",
+    "name": "蓝色天幕",
+    "slug": "blue-canopy",
+    "documentPath": "documents/blue-canopy.html",
+    "assetPath": "assets/templates/blue-canopy.json",
+    "previewPath": "previews/templates/blue-canopy.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1397",
+    "oldName": "夏野研学",
+    "name": "青山云页",
+    "slug": "green-mountain-clouds",
+    "documentPath": "documents/green-mountain-clouds.html",
+    "assetPath": "assets/templates/green-mountain-clouds.json",
+    "previewPath": "previews/templates/green-mountain-clouds.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1344",
+    "oldName": "企业晴蓝",
+    "name": "淡蓝金点",
+    "slug": "pale-blue-gold-dots",
+    "documentPath": "documents/pale-blue-gold-dots.html",
+    "assetPath": "assets/templates/pale-blue-gold-dots.json",
+    "previewPath": "previews/templates/pale-blue-gold-dots.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1518",
+    "oldName": "十月慢信",
+    "name": "秋叶信纸",
+    "slug": "autumn-leaf-paper",
+    "documentPath": "documents/autumn-leaf-paper.html",
+    "assetPath": "assets/templates/autumn-leaf-paper.json",
+    "previewPath": "previews/templates/autumn-leaf-paper.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1477",
+    "oldName": "家校花开",
+    "name": "暖金花笺",
+    "slug": "warm-gold-floral",
+    "documentPath": "documents/warm-gold-floral.html",
+    "assetPath": "assets/templates/warm-gold-floral.json",
+    "previewPath": "previews/templates/warm-gold-floral.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1425",
+    "oldName": "晴空智能",
+    "name": "蓝金轨迹",
+    "slug": "blue-gold-tracks",
+    "documentPath": "documents/blue-gold-tracks.html",
+    "assetPath": "assets/templates/blue-gold-tracks.json",
+    "previewPath": "previews/templates/blue-gold-tracks.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1341",
+    "oldName": "黑白建构",
+    "name": "灰阶建构",
+    "slug": "grayscale-structure",
+    "documentPath": "documents/grayscale-structure.html",
+    "assetPath": "assets/templates/grayscale-structure.json",
+    "previewPath": "previews/templates/grayscale-structure.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1486",
+    "oldName": "北境秋行",
+    "name": "金色山峦",
+    "slug": "golden-mountains",
+    "documentPath": "documents/golden-mountains.html",
+    "assetPath": "assets/templates/golden-mountains.json",
+    "previewPath": "previews/templates/golden-mountains.jpg"
+  },
+  {
+    "id": "cw-html-aligned-1352",
+    "oldName": "向新出发",
+    "name": "蓝金阶梯",
+    "slug": "blue-gold-steps",
+    "documentPath": "documents/blue-gold-steps.html",
+    "assetPath": "assets/templates/blue-gold-steps.json",
+    "previewPath": "previews/templates/blue-gold-steps.jpg"
+  }
+]

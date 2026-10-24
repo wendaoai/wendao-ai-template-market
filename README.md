@@ -56,8 +56,16 @@ https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/reg
 
 `data/catalogs/` 记录分类、版本、大小和 SHA-256；`previews/templates/` 提供效果图；`assets/templates/` 保存可安装配置与来源内容。浏览目录不会自动安装完整模板。模板记录的 attribution 标明来源，原始配置保留在下载资源中。
 
-## HTML 市场整合 1.2.2
+## HTML 模板全量验收 1.3.0
 
-本次以174套为完整目录，直接移除旧目录的51套配置及预览文件，新增50套独立设计，并升级31套结构导入资源；不保留可下载安装的下架占位项。MD、图片及旧版 registry/v2/stable.json 保持各自原有目录。
+174 个稳定资源 ID 保持不变；每套完成普通图文稿、长导语稿在 1440px 和 1024px 桌面窗口的全文渲染、保存刷新和导出检查，合计 696 组全文证据。25 套具体样式问题已修复，保留各套原设计、章节、图片与 GIF 装饰。
 
-新增设计需要 inline-editorial-v1 渲染器，结构导入需要 imported-structure-v2（含 headerLead、textStyle、group/image）支持。31套导入明确标注为部分适配。模板市场JPEG与正文主标题分离目前尚未统一，个别文字配色与图片/表格宽度问题仍待修正，本次目录整合不代表完成这些样式修复。原始来源与署名保存在各资源 original/attribution 字段中。
+- 全部中文名称使用 4—8 字视觉命名，英文 slug 全量唯一。
+- `assets/templates/<slug>.json`：可安装资源，示例 HTML 不含文章主标题。
+- `previews/templates/<slug>.jpg`：从本次真实前端正文截取的完整预览。
+- `documents/<slug>.html`：174 份独立 HTML，图片位于 `sample-images/`。
+- [完整画廊](gallery.html) 与 [旧新命名对照](naming-map.json) 包含全部 174 套。
+
+同步更新版本、文件大小与 SHA-256；删除被替换的旧生成路径。此前 51 套删除结果保留，MD、图片和旧版 registry/v2 协议保持各自目录。原始来源与署名保存在 original/attribution 字段中。
+
+渲染依赖 inline-editorial-v1 / imported-structure-v2，以及 Content Workbench 本轮导语容器、颜色继承和独立 HTML 导出修复。本次为市场资源更新，桌面应用发布包另行发布；验收结论限定于本次双稿、双宽用例。
