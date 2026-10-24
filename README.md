@@ -56,9 +56,9 @@ https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/reg
 
 `data/catalogs/` 记录分类、版本、大小和 SHA-256；`previews/templates/` 提供效果图；`assets/templates/` 保存可安装配置与来源内容。浏览目录不会自动安装完整模板。模板记录的 attribution 标明来源，原始配置保留在下载资源中。
 
-## HTML 模板全量验收 1.3.0
+## HTML 模板全量验收 1.3.1
 
-174 个稳定资源 ID 保持不变；每套完成普通图文稿、长导语稿在 1440px 和 1024px 桌面窗口的全文渲染、保存刷新和导出检查，合计 696 组全文证据。25 套具体样式问题已修复，保留各套原设计、章节、图片与 GIF 装饰。
+174 个稳定资源 ID 保持不变；每套完成普通图文稿、长导语稿在 1440px 和 1024px 桌面窗口的全文渲染、保存刷新和导出检查，合计 696 组全文证据。26 套具体样式问题已修复，保留各套原设计、章节、图片与 GIF 装饰。
 
 - 全部中文名称使用 4—8 字视觉命名，英文 slug 全量唯一。
 - `assets/templates/<slug>.json`：可安装资源，示例 HTML 不含文章主标题。
@@ -69,3 +69,5 @@ https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/reg
 同步更新版本、文件大小与 SHA-256；删除被替换的旧生成路径。此前 51 套删除结果保留，MD、图片和旧版 registry/v2 协议保持各自目录。原始来源与署名保存在 original/attribution 字段中。
 
 渲染依赖 inline-editorial-v1 / imported-structure-v2，以及 Content Workbench 本轮导语容器、颜色继承和独立 HTML 导出修复。本次为市场资源更新，桌面应用发布包另行发布；验收结论限定于本次双稿、双宽用例。
+
+1.3.1 补齐钴蓝圆角导语的必要内边距；174 套、696 组均增加圆角上下内距复核，原配色和圆角保留。
