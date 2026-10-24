@@ -1,0 +1,5829 @@
+{
+  "version": "1.3.3",
+  "activeTemplates": 173,
+  "retiredTemplates": 52,
+  "scope": "三段开场普通稿与长导语压力稿，1440px/1024px真实前端全文验证；人工复核用户问题和异常标记，未逐张人工通读全部长图。",
+  "previousConclusionCorrection": "1.3.1/1.3.2双固定稿件只有单段开场，未覆盖连续多段开场；原全量通过结论过宽。",
+  "before": {
+    "importedTemplatesChecked": 30,
+    "edgeAffectedTemplates": 27,
+    "edgeParagraphs": 44
+  },
+  "after": {
+    "cases": 692,
+    "invalidEarlyCapturesReplaced": 24,
+    "fullScreenshotHashesIncluded": true
+  },
+  "clientLimit": "本次仅同步市场资源；含多段导语渲染器与名称修复的桌面安装包未发布，历史HTML需在新客户端重新套用。",
+  "templates": [
+    {
+      "id": "cw-html-edition-cotton-book",
+      "oldName": "棉纸书房",
+      "name": "棉纸书房",
+      "htmlFile": "documents/cotton-book.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "c14afdf1858661a938f66b9afa760f9ff396c6ffdc7e6ef841b62accbe3234bf"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "966be728034f9a4b2c47975bf879d871f4960b4d18ad705204a4078e20538e6b"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "de5c34d621604c7a97b8076819fe8fd8ea6d6f8ecdb5506d3d039ca658b225a3"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "a3b0791780719ebddcc334d210b4c0b3afe2e5231b1a38b77ac4f3b10833c955"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-vellum-edition",
+      "oldName": "羊皮纸珍藏",
+      "name": "羊皮纸珍藏",
+      "htmlFile": "documents/vellum-edition.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f7a715ce16e566e63cbdb3a254baccce3e823ef32b31dbabc28f2b2be02d3093"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "bc0f5b2ce9b6c8168f82bfcdfc195a6698287779f563e8795035d9eb179f1341"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "8cf04766ddd79b13bfd59ed97ad88414e287e17c94a35849479084479b3a7a22"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "42eb340aa7fd0300c6efdebcb02f4545a34522001cdd3796e071b0bf5a239718"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-porcelain-margin",
+      "oldName": "青瓷留白",
+      "name": "青瓷留白",
+      "htmlFile": "documents/porcelain-margin.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "c04740d249be8f819b8897fd581f2adb84694e7ad03eb6f3fcf4ffef02276cd4"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "0a2331ab123bdbc7ce590b76fd81f117a8a04f4a333fc6be76ab76a48b1b3f99"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "891bfc987c8780e59cfd990b73d6fc7359ee394621d52b5adda743d3999b977c"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "0a5bb402f5b1e9344621ec10578967d66fdf3a5d8d655f35e38416be4e0c2306"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-cinnabar-scroll",
+      "oldName": "朱砂长卷",
+      "name": "朱砂长卷",
+      "htmlFile": "documents/cinnabar-scroll.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "6be97cecb921177256f1e820479b1d99b0424983c5f803c9b161316c20c0e171"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "77d9e9acc8eaa1efd893a5403cfd5e820993159254cd5ab645c6da746186f206"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "bfc259ac7e50c5bc049474c1ce808bbe0c6064fc1a2859fda2edc5031bb88fcf"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "2944e2f1770b848de006f191943864f8fb50d1ec64a0796d224d19ad46d349e2"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-kraft-typewriter",
+      "oldName": "牛皮纸打字机",
+      "name": "牛皮纸打字机",
+      "htmlFile": "documents/kraft-typewriter.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "b1f2c5148802b29e8b20f1ec56c00e0c88469ca2ee67b19006642d6954f55701"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "cf0bb08778d1eb17533b7f1cd4383ae9b976426b07b05837550fe0646c27d195"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "7e64acc1379a8ae048d6fedb31da2af09eefa1cd84d98cef510e4079d7187c08"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ce28cdd23ad80a6115656dac6965af05cf645192e5cce0e0fa1c70e4213bcc15"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-blueprint-studio",
+      "oldName": "蓝图设计室",
+      "name": "蓝图设计室",
+      "htmlFile": "documents/blueprint-studio.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "bf2cc1a69b3021725a286fe38f71a5562fa5eed34c54d729effcdb69c93e26d8"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "b1bb460256925aabc0f89ce8e205710f7ff3f1c4ea60b7e328fa0569f33b1ebe"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "0617638911b04c960678e0219dbc43b386482baf18fd55c9d6218f5ce725b3ca"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "633a79879a0602cb595ecc93cad11a7af696585a8f24f8ebf868adcc292a0b66"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-terrazzo-notes",
+      "oldName": "水磨石札记",
+      "name": "水磨石札记",
+      "htmlFile": "documents/terrazzo-notes.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "31a3641b9491e6b962ad32eb6c0abf6c9d1cd3bce8508a086b754f76626d86bb"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "58cb84baa0dae396ab053ec87ab0db4e04be7dc897adf398f08c498afa0f4585"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "fef8dda6414442ce24827dc185f5d08410d6979501692ce74d013685ad704e49"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "b52620c2b3b1a49de35387fefc1823bc057dbc7d72d830dc097bd02a833d59a2"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-ruled-schoolbook",
+      "oldName": "横线练习簿",
+      "name": "横线练习簿",
+      "htmlFile": "documents/ruled-schoolbook.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "94b1f6648d5cb3a9e11f836687b7bff39552a994a0ac0b21315a7f02e53c092e"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "913fd7b8fd8283a25779a6032f5833246885a24108761171507e8d9ab7243f9e"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "848afccb1aa4a1c72a0a428e8e8d040a3f9ad8c4b79e0321bfff437e8f1ba7fb"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "94c9eb845ce2578c323169fd55f6b612bee592fb6859aa784f04ca779e0a02a0"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-sunday-broadsheet",
+      "oldName": "星期日大报",
+      "name": "星期日大报",
+      "htmlFile": "documents/sunday-broadsheet.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "abb977a79e27019ce47cb09e237041f00477db229c0de623eb24568adebf15b1"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "d761084c3f5e03da1c25ea15d767ba99047ba6fc69e3cebddacc545aca54422e"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "b91d808604edcdb05ffa866157ea23b716f7f1fe86e6b94176da3b25838c8fb2"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ea7c8334c93555c03d820a983c7a2db27e394309b75a13438d0ebac93fce75b0"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-orange-letterpress",
+      "oldName": "橙红活字",
+      "name": "橙红活字",
+      "htmlFile": "documents/orange-letterpress.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "df2af65d295b574505938506f9d76d59509b7fe3d5fd2bccc91ce38c16ec6041"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "975c9522432203634e3d7e0d9467d6e657a224f9d202bd331f7660c2fbf4f8d9"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "23534245565bf144fd868826913b7c99965db0e74916f84d92a7176d91a97646"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "1c3d6abf785847e3c955daad96cf1cdb9073ac396f20e3ffebc9a275936895c9"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-vinyl-jazz",
+      "oldName": "黑胶爵士",
+      "name": "黑金唱片",
+      "htmlFile": "documents/black-gold-vinyl.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "cf3b49d21d443eecd6a67e8dd781f5b240b65e46f315d33b60b9a623c7a8b229"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "e9e3325abf0c751ab81cc2ec839764bd153210dc7434be351e627fd760253e75"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "7303656c29874122824a3e6630c33fa05ba85c51347384f9bcaea085af199cbb"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "413b4e0964bcb7e4ffbad3154bbc66660eea356695344bc428d65fb2738d0431"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-sonar-console",
+      "oldName": "深海声呐",
+      "name": "深海声呐",
+      "htmlFile": "documents/sonar-console.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a0aeea99b730034b2c1ff0dd4021e41d0fbe87ed30f683c04fd3f9599f39fe78"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "af54cd577543a3c8f542fc14777c49cfe88b50077c13bcf4e63d5fe9a50637a0"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "e24258a902a23a61124db943d2a8e55b12ba93ef7d4fb5271c07db8a0b733ae5"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "a3f1851437301b7bacbddbfdca68d6fac12a13be7649c26e7cad8fc375d60be7"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-aurora-window",
+      "oldName": "极光之窗",
+      "name": "极光之窗",
+      "htmlFile": "documents/aurora-window.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "186d6d259c2c6020b602f98da3df21ac2e64afc087b4a18ca16f09ca674f0bad"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "a2ff1822a807d76836e3727564cd464178f87ee16184859b21f27a40c833fec9"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "2b82be92059c32d6b8d96d51297bbb099dc62dfb89fa7d076a807c24065ddc7c"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "3aeee40111599e3aab0a15f745018607ad7bcf9259fa96f32fd7328e4ded6d90"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-terminal-log",
+      "oldName": "终端日志",
+      "name": "终端日志",
+      "htmlFile": "documents/terminal-log.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "b8df5d3a26c162ef75e2b99cc5d373a0439e32d54e7c37c0badbc419cddf6b7c"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "a46e176c7c1de49f70b7c0e1ebf120112674c469024c55991b7d6cefee9a79b2"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "4ba7ee9a9ea1556cbbe2f84f8d8d2703d1dbd8ed6e7314de099ff8137b4d54c3"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "09d80e57d3948da3c756d7ff0a357624a1bde9bf0e0a21d194732b1ce1a3342c"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-pixel-checkpoint",
+      "oldName": "像素存档点",
+      "name": "像素存档点",
+      "htmlFile": "documents/pixel-checkpoint.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "6ee2b5811f7ff96161142efe62acfcf4fd9d24d9e632ee085efa12d25df1c3b9"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "20ef73ca20fe439ccd7db4fbf1bdafd0bb12f11a5a04b92d4b4482e07a25d144"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "ca9150760caeda5b481905465bbd7b25b861e32bc219cb36ba04a9dea7d6c076"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "07f72d90f51410013c69de22626c13c1106dea702cfc7742ad359c776d4f5b3d"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-deco-salon",
+      "oldName": "鎏金沙龙",
+      "name": "鎏金沙龙",
+      "htmlFile": "documents/deco-salon.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a147d64c52ca54f2d8644ad85ca31371538507449e7d6c8b94cd1dbe86f66b17"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "8c2aba28fad882aa3253b90ca833fa21549a6849cd4123313f8fdf538f9f292f"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "2b4076465642da99594a19b163329d8baba51c3372b357a0f82251e714210540"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "8a563e8a2f704240ebd95b1bfadce1338296d0fbb2de5110157b1e8e154495a2"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-midnight-cinema",
+      "oldName": "午夜电影票",
+      "name": "午夜电影票",
+      "htmlFile": "documents/midnight-cinema.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "c23ae2d264fb16179430fc4217fc2369172da08dea409cc8a5c0278abd91715d"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "711473505251c93a43524b1777d7373f224c4d105cc59c3393f7b7c8de483823"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "26058f0768e27a009b88b7c687bff195b0826a2d450819d35a82467403efa439"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "b657e1b3bc93f1055b832c86ed87934109ee681d35527eeb0f2f7e37de4737b0"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-charcoal-review",
+      "oldName": "炭黑影评",
+      "name": "炭黑影评",
+      "htmlFile": "documents/charcoal-review.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "ef6bb5eac13e9e7ea1c9962ae4f3606fd0d325dde75bb215e0543bbc0a8acd3b"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "ce58013dd963530e8f2dee1027dd97b498eec2c50ae066503376283c62d5c26b"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "49a0d55fcab7a13e94a704720db373c7f6c0047c1bb029ba02ae54b0ad2d9f46"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "95927d7e53d0b24b74289c62e5e178e1f9dc311bfce25604b739048d2bbd205d"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-moon-silver",
+      "oldName": "月面银箔",
+      "name": "月面银箔",
+      "htmlFile": "documents/moon-silver.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "23b4d6ddcfe9cbae35ef8934837c73f32e867898dcb0a5910d85856c093376a7"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "28f31efa551ff2626c02b0742a4b4496c91385a425ef146a71e89bb980a83768"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "5965834667972ecae837520fadc5742e33b38575e071f851e0a81607c6530fb7"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "aee12d7f3487943a8a8fa570441b37eb49fb8109543689bc54d9a40a37d44c79"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-indigo-planetarium",
+      "oldName": "靛蓝天文馆",
+      "name": "靛蓝天文馆",
+      "htmlFile": "documents/indigo-planetarium.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "40c2b4ddbc188bbb68dbcd18c70653a53251c24ab681e6ac78a3195c16ea123e"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "89ec44c20bacebe2983e3c036598f13d11e478570f26d5798e3ca2870915fb0f"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "c7a76fd976dbf4f46932dc541cd2f7c80ab8187f7bc77eaf16f31a7d85effb62"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "6c654fd477afa66167462f54649067ccab931b9343b74e16d53f5fbb1cb6c59f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-coral-editor",
+      "oldName": "珊瑚编辑部",
+      "name": "珊瑚编辑部",
+      "htmlFile": "documents/coral-editor.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "4abc0ea83d6b369fb66cbb1918cbd8847c11a9e79f55d1af78bebd72ab871cf8"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "c5b29f4e85aca6a483c08ba723d5cf8ef8aef4624e89c3616283de678f7e7ea2"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "b9501b108319fe08e85c755520c65fb5ee5a19cf21c9fd2d5e8daaa3c72f3aa7"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "6b4bdc36808df3b5c3d5ac89c41cfce18fd305ecd324964e48e2f8e1486dfd79"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-bauhaus-workshop",
+      "oldName": "包豪斯工坊",
+      "name": "包豪斯工坊",
+      "htmlFile": "documents/bauhaus-workshop.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "6945ac0c54faa7009a424b977eb82d1636d5b37efdc70f67277aec2d64f2b397"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "54dd255a7d898b10b89b5ba20694bcde8bbaeda8fb28eab2f3986812d4ef5439"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "afff75336953101497b5772e1f3d68a4f2970d4e9a2939c511d8c077b5897cfd"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "e1937ea78e40316e0481110e8475008981097cbc8041bfb9fa4536970b4a69f1"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-swiss-redline",
+      "oldName": "瑞士红线",
+      "name": "瑞士红线",
+      "htmlFile": "documents/swiss-redline.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "1bec29e025441e112d683fbcd2e1469745ae6460804ea22ce498bdf640bcb48b"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "795e964e78d7ddc65eed0027f6e7c1f13d8fe96e02fa92c2c36cffc5a81db699"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "b861a67983438a5643e579b73a3e91c4ae8e5138c1a94b4f59c01a731c1a0e3b"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "7232feaf7ea64475522458bfa4039214c5da3c70618014cb859348305ccc07d7"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-lilac-couture",
+      "oldName": "丁香时装刊",
+      "name": "丁香时装刊",
+      "htmlFile": "documents/lilac-couture.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "443e8381f85ad943c56d036f622df60ae50b8823a301758a3e3e806733060335"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "a15a3db406f15ae88f676de2f7e28f6dabc39fb62967e2dbfd206c353b3e7eb1"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "dc62b436837d9b28b64b51645a0a3adac24631247b3d56b7682c96fc4d3ee776"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "5e9000c424794cae2d9121cf1546cb94adee0211b1e7adeffb0f993230d7a693"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-pink-sticker",
+      "oldName": "草莓贴纸簿",
+      "name": "草莓贴纸簿",
+      "htmlFile": "documents/pink-sticker.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "026466d867798d91f54b97c0e9803ca18372ad4c20715f0e87472efeffa3b2dd"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "1fdba29abd6932e5659529e85a7fc5eadc2121a2c6dedddb67f55f7fe1646b06"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "45271cbf6a44a7d1c79a0184f082f770a2b04ef577f06763d91db288632a6584"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "2d9707fd88b83976b6143e1899e5008a79f741a95b118c4db048240b93d91eea"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-ink-comic",
+      "oldName": "黑白漫画格",
+      "name": "黑白漫画格",
+      "htmlFile": "documents/ink-comic.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "c19105f4da1d36207a5ca3110ade05d760951995acba2a678f90db1e44f8b5ff"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "75aa6fc807d2ba5bfa7bdce311f942e2ff7630629c939caab8742aaca9f59c77"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "6d07bddc232d6d075df930e0dc57018b0560aaee2ea8b8ede743658859a65501"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "2b8a2d9ad2de222457976f2dc53da6821f12caed250cf9c367687353d60c13ca"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-mint-cafe",
+      "oldName": "薄荷咖啡馆",
+      "name": "薄荷咖啡馆",
+      "htmlFile": "documents/mint-cafe.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "62325681ea6aa3c629f29562505359a6a6fff72ec8da945a2014b2e697dd4ead"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "8fb86bd0eb1d9a797981957880f662d67b3176f3fa4eceace48716d67cb43ae7"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "92fba2442c9c6610d3e2f0dca5140b9ed6df0f6d5ac3043c2c7f3611325f5913"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ac39f0246844fb060ab66cc079042b70ab5a98f5ead873c22266e865b9920362"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-lemon-picnic",
+      "oldName": "柠檬野餐布",
+      "name": "柠檬野餐布",
+      "htmlFile": "documents/lemon-picnic.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "fdbd8eb8a940b69b4553c97ac838a7c2673bf537ee3d962334c720e0e67d3287"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "e923ea9a4fd2b5b667785e20f295bc2b04b32515c813d66663d1ab5368aa4286"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "74a78cabb7da31aa26dc617440be2119e5026a1faccbb44707320577b57479e4"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "92cbfb25b363e6ec6b66636edb1b34fb3d049ba9cf6e547b930f15b33ce99c0a"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-poolside-wave",
+      "oldName": "泳池边来信",
+      "name": "泳池边来信",
+      "htmlFile": "documents/poolside-wave.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "5180914fee52ec2509ae1d941a1298179885b6807c276ae59ee457f2e613b1bc"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "c264e103648120bcdac161bcaebab6f3f052388b4583a99a89bfa1764f71df8a"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "6ed7f581eca2d7b1ee6916943478ada4551f1f353ee5dea9f8acd81634f2c6a1"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "e37fcc66d4d53016ddc69eef43fa7e2fce967e1a22504b6ee9e318c91ec5c2a7"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-peach-horizon",
+      "oldName": "蜜桃地平线",
+      "name": "蜜桃地平线",
+      "htmlFile": "documents/peach-horizon.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "3638af2337ff014a98e4ecbda9dbda15412d1e4a98fce18a9f972bb3fae7bf4f"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "f1b927e9eaedfacf0a6a3a4e1f7bfd7b1defd594f3090840fe4eb67f34e6d7b7"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "ce2f4eda212f0fed5797b4ea09d53adbae7b54c1f405ed769207f11128a02cb7"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "38c20b744d2450f5225ba58eb38f8f05666a1008e7ce532beaf1c7e54c5296c0"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-botanical-specimen",
+      "oldName": "植物标本册",
+      "name": "植物标本册",
+      "htmlFile": "documents/botanical-specimen.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "182847dc0a48b6cc1c008aa9c94a3497d0741f1c80420c4d6234865f45faad40"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "a8426e7591d9bc71a904c89d0e027a16e076191b7d07de78571aeb8a7a262a15"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "56e08aae69ffa50bc39a19df2ebb51f88cbac0c455931e98d953201d31dae674"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "44e5585f32fbc2b4ecc648c45743b3a6ea848500464ae48167a4362cc64bb3f5"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-alpine-fog",
+      "oldName": "山间雾信",
+      "name": "山间雾信",
+      "htmlFile": "documents/alpine-fog.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "ab739116314d8afeb0156565a6b882a4af195463a5cd90199b5fd7d35102fc6f"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "084a716d055b3da60fbca348d45b0e94df9bd3a1d3fe4b03c300e52ce4124846"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "266dda29e757bfc77ae391f6fc6215ab360974676e12c28f8bdaa687d96a0fbb"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "4c1b2d8180ee7a1e83b060a14d4ddb7110e47999ae072dce6efbbd8c006b7b50"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-desert-contour",
+      "oldName": "沙丘等高线",
+      "name": "沙丘等高线",
+      "htmlFile": "documents/desert-contour.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "ece4d7658e3c3e941cbe8831adef0c84e4fd902d77684e4a279b689695ba2a90"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "7dc492d0b25c8939b51ae118eb297a65713300394876e0e19ed69387f1375a0a"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "b96b0c6e5fe95145db18ccba8d5124d44478398de43516b6ba55547f44796c39"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "8afa0eb37b8ce2ef4c355b4371caaa76240be4d97acf7ab9784e11725bf6635f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-rainy-window",
+      "oldName": "听雨窗边",
+      "name": "听雨窗边",
+      "htmlFile": "documents/rainy-window.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "46958b0d67cf5ec5484b888624cbdde1d3d9361fdc4926ef46e504135ccada24"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "38e32d698063654f415431867d456756a495a8551370fd6697c4b0139714daec"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "2f0a1f61e6587ff7a8ecb58749b62a1736c2fe50a47c3832059c81b6239f01ad"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "d9c3d49efd00b615a37a3318b58d88867a1db9bbba2b02d4a9a6ff57193ba358"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-ocean-cartography",
+      "oldName": "海图航线",
+      "name": "海图航线",
+      "htmlFile": "documents/ocean-cartography.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "d61613b0ca0438f60c69e5b50935dbc456f81c66e9a3a305ffafb73ef2b7b26c"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "cffa93cf8c372a8d82fb44adf4f53ac60359e7b88de04e6523d4755521c39506"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "28ef58173cb17fc79afb247027be9a254738698f3ebc181c1372cb164afc6d9e"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "b65c3ee73b45c21a47de0742f02d71d73968c6100562a449fed396d2c6c3a962"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-forest-lantern",
+      "oldName": "林间灯火",
+      "name": "林间灯火",
+      "htmlFile": "documents/forest-lantern.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "0f1c2bbd22bee9b74ea556c5d0933523352aad4259d4fd6e630d05c0f8a6a273"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "4b77ebae6caa6ed95f12ea861ac52db9e4aea249a2026eb7ca89d27369260ef6"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "3ed5bba747d50ed80442ff7821a5a6835f3d678cf956872f0619f52dd63a8171"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "011d1e8672eaa5d951305bd320cd23ecbe89316744f44ade34eda32f14181f6b"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-autumn-collection",
+      "oldName": "秋叶收集册",
+      "name": "秋叶收集册",
+      "htmlFile": "documents/autumn-collection.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "8c22d775a84655ea6868e680b2a0922f3013deb29b8e2fc828ee684d1612df95"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "8c3961c21918a7c8b30c31e529bb9f2346a6ab9aa9436b4e05056f4072a9c69c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "acdc7c9c16fb1d5a85e955f2e9d95398d8b9a16ce5bb425dbec8a65e2fd1f8ab"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "5da087ceec34171be72c8758b210fc6c3c3c2f5fbe8d4a4cc8efe934d23ac07a"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-winter-snowfield",
+      "oldName": "冬日雪原",
+      "name": "冬日雪原",
+      "htmlFile": "documents/winter-snowfield.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "43a1b2f6a857f02ccf6d8be8e3cfa3fcdd0b6ab97e85176c218b29d6a7e893cb"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "00b91bf15099211e16dc3fc47b7e578863fc9b66f02b65b24f8675df323fe75c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "9cd4e35eb2c0d0d06495c173df471d75f41ccfa31bdd315856113e8bafc49ca8"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "767fcc150a51ff4b2ecffb89c2fd071d49acb090c18242bc5f5ba95c55444b79"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-tea-room",
+      "oldName": "茶席素笺",
+      "name": "茶席素笺",
+      "htmlFile": "documents/tea-room.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "b5311ff4ec84d80246bdad6847d212dc88cbddbb1b208e98b974d9c371ca7402"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "7afe467e4ed72bb1456bc2e6d9575408ecd2f621dcce6cba2902f6c4f32ef0aa"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "d85419ff0f87d04770687365c07f53626364f6512adec6c87b6681d4bf013066"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "19898133c0feead321aa8b71a21e2d5324c3a2acc6e2a15132ad551d511e9e14"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-denim-journal",
+      "oldName": "丹宁旅行本",
+      "name": "丹宁旅行本",
+      "htmlFile": "documents/denim-journal.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "cfdbfff9d0f092bbb83bed658af5d5ff2a8d098cd48ddc38781278b3036da648"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "7c194fd6d40ff6c511d34319e88e8799a016e644c617ab700bd39dca6da50482"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "c4a5151bb63b0b691bd87efbdfff598c2b691ac63a8fdf831e5798cf35ebb432"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ae1dd26e06589a80b7f03d00edbf1b581e50b0d37755f3286b9324cc0ee0a7de"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-archive-folio",
+      "oldName": "档案折页",
+      "name": "档案折页",
+      "htmlFile": "documents/archive-folio.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "65276327ca9296ed14d9b591ef75ffd9d6f35e8180a03211eb1c88d5e34fe284"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "206a7ee70e834bd5bf632336289742edff6193b9e954c5b5790a0ebf380e52ca"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "8e85dfb9a10d3b6d0c2f23f45be323e9a06720ea6f79a5718ad6fa58c68e01e0"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "653c1cff2b73519a2771925a28ff3caf619a805bf41b8f15b70b2583f9166499"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-chamber-score",
+      "oldName": "室内乐谱",
+      "name": "室内乐谱",
+      "htmlFile": "documents/chamber-score.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "bc0bd3a17b24e250e3f49b13ff9e3daa4a35b75814417cf4c34c33f68e5f7dc6"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "34535cb02b0cc23c85677195a1c155192025b3e7d4615fd3cedb0a67c2fa2ff7"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "2eac076f5cd8534da233de1a27de29e38e9c53007b3a7f53825bba4ad5193ff5"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "dda7a729bca2ce8e67146d436b1108d8f95e386bc2471daec8662073ffc8d590"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-white-cube",
+      "oldName": "白盒子展厅",
+      "name": "白盒子展厅",
+      "htmlFile": "documents/white-cube.html",
+      "problems": [
+        "已核对全文截图：画廊图片框与章节之间保留原设计留白，图片比例正常，无半列内容缺失。"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f16143b63f5a2f0dbeb533862648560266e2439e201d9919be9053c076762215"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "0bc8d2e429584c34518c4fda2ecd26632ed2a7752a3d55e0cfad46b2f527d3d3"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "3acd6721e34630fa744d27a90ea865c21a1d13219f9f9f2ed3803e90be50eb48"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "094aabd774d5e1dc7fc658855fbddd1b2cfb4517fb24e88fda82991977d02194"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-contact-sheet",
+      "oldName": "红框接触印样",
+      "name": "红框接触印样",
+      "htmlFile": "documents/contact-sheet.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "82aba13f1472a90b2e1b06cffc6757104d30c0937c1aedca185997f33b526dd7"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "162065f9f1000f4b0ee1de1517f707ab18c5eca818467def1b7a3120120c0e67"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "f876138666a69f46a05ae7a14124e17912e0117392acdf3807668295b11ee76a"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "4404b39fa428454bf84aaac5a01d478103ae2f90512bf52f17a29ba65dd844a7"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-copper-architecture",
+      "oldName": "铜色建筑志",
+      "name": "铜色建筑志",
+      "htmlFile": "documents/copper-architecture.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f18ee7afef2a7b560e91357669709de1a5717990ea7715522f6e7bf16c992f44"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "f028aca7d12371d5838b6c390757e61d4e93a00f7ef6d77f63d77b5f8fe0a9a2"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "cbbfbadaae50b2907e96300e29f1a5c6cf2074dc53b7a8e37b8ce6ccbf218ac5"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "c2dfd8f965c47b731135f88a4af50dacde2c0ccad76e5a79a5c4e8ffc026e60d"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-cobalt-museum",
+      "oldName": "钴蓝博物馆",
+      "name": "钴蓝博物馆",
+      "htmlFile": "documents/cobalt-museum.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "0d1ff565915011c428ac9a4edcd036b9b39cf1fbc4ead069c08e3f9bb6fc0a8d"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "8ed50e67c46e7cfa4985a3755ecb26d20cd07cb8b4502e8e54e9744c294df9f7"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "e09686e4fe928ceb822400136dc0d6d73cf52ff171e6591738efdde515b74492"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ed7aa1239b6ada6b1629a4cde8406029d5f8e19dd9cd1489beefcb03520d952d"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-airmail-postcard",
+      "oldName": "航空邮笺",
+      "name": "航空邮笺",
+      "htmlFile": "documents/airmail-postcard.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "af4045ed11c4bb03a0ef5ed75941baaa5db1b6858b0695581d589298c8a7edc4"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "8a83f8c026af718af3d9cab6378232236e043542cc1f206bee8ec350f56d58f9"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "d5d937558edecf66845c1c6a5097e3ac2c8ac208243aaab44652a7b1952062ad"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "6dea4509ada9c803c1886c9c604e4cbd79c7e133af34217df69ef4800969f542"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-violet-labbook",
+      "oldName": "紫罗兰实验簿",
+      "name": "紫罗兰实验簿",
+      "htmlFile": "documents/violet-labbook.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "95c72553ae8e09d662ba0717a35800c05060061de2a36bb47a5cd1404353cb74"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "36a88ef8ac7191935be85d54ffb47ffae308f8688389bfe69de703b6cbc3b250"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "35309686285aed4e8625da54dc5333b65dc914d1434353c23c715e044f58f426"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "073bf109649745de683ef22615a1f9c08fdd2f94db63951aaf1afc91c7360aba"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-folded-zine",
+      "oldName": "折页独立刊",
+      "name": "折页独立刊",
+      "htmlFile": "documents/folded-zine.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "278afdb3d8a1e05374161b34887a23595a16b3684b8b5e47d8c0f8a0ccd5e930"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "44d4fdf1d6db106aec2025f00cb7c4fe4378fd0834ed05293974f89692dae9cf"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "796d6ad57be0b8dbb0733b523156be0cfd635aecf5201c6e6fa0adae868bd85b"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "501167f910fcf9a5b92a7037ff344b68db18566e9d7b4831d8cd0e863007a747"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-edition-electric-riso",
+      "oldName": "电光孔版印刷",
+      "name": "电光孔版印刷",
+      "htmlFile": "documents/electric-riso.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "e6a8cbbd958c7dce4d3a61f890e365065fbcbef59145bf5a3c156734e5891d51"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "415389652ca7f21ca8e8943bb95e3c089e1c7a556a42f29e30dca5af07049be8"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "010a7d11518eb29d91747b9675dcceb3834df1f5a3607e4d7e45bc1127cd4647"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "22bde95837822e65e4b2183af6cddb32288f461075d4f8c5b7e12929111d808f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-3aac7f530c50",
+      "oldName": "自然疗愈：回归本真的健康生活",
+      "name": "三彩圆角",
+      "htmlFile": "documents/tricolor-rounded.html",
+      "problems": [
+        "修前2处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "096868836484b21467fb376b9ffade3da3863816c6585cd405e4f17e24bb93cd"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "25ab27056de2698e0b32934cd4b6db79f3ba9284e50199b7e4c374a74e24a359"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "14942be8a4e0daf2dd0f75e2a0c2c5ae1e70a5508961ecff1ec70e22ed9aff17"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "5bde8019b41b86094667fc1da5d26a6a8ba85c099867e194478f4ae43504f34c"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-b103a179400b",
+      "oldName": "全频带阻塞干扰影视化分析",
+      "name": "墨灰分节",
+      "htmlFile": "documents/ink-gray-sections.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器",
+        "导语蓝字在白底对比度4.22；保留蓝色并加深文字"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go",
+        "content-workbench/web/scripts/template-imported-repairs.mjs"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "895d33d9c1ef6798da312fc294b2e45402fd202e78e4011aa4255dd76a2dcc75"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "dba52221bc26c20acd9a713f682da01691190e64a629232a7e622a1ffa839a2a"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "54ef72e091dcf765beb7ed9f36c7c9209bbeb3168836763e70137532d1585e4c"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "2e99012e47bc934418f2b1a1df57e4c5b9c858edc7844574adef46079d7f6d8a"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-45a20f70feda",
+      "oldName": "其他 · template10",
+      "name": "香槟金笺",
+      "htmlFile": "documents/champagne-gold-paper.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "eff3d726442cf45beca44f17011eae25dc9f551850651916e6fd0d6ea1b7e73e"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "08d2d11c5f51783757846eb59f3c17ce6d7cbdea9f2983bd6f4362ec18535481"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "0ab8468bafe8a4cafbdc4f72ad7b23edb2eab36cffa31a07cf7b0b5d0fb8023b"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "9be155761c7246f9b6269c3f81076c43d6b18a73f16cfdb52afbf6d7759a8d29"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-862bd94eceef",
+      "oldName": "徒步拐杖的真相",
+      "name": "蓝灰弧角",
+      "htmlFile": "documents/slate-blue-curves.html",
+      "problems": [
+        "修前2处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器",
+        "深色章节段落内边距不足；恢复该卡片20px内边距"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go",
+        "content-workbench/web/scripts/template-imported-repairs.mjs"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "461af97f75d739723646afe747ee33f6a783bae01a67b1f7cee7644cb04325f0"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "0d87100e9b03e760c1dec0fbb2ff34b47961557806b09b0fb10c4337361c528a"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "805c752c7f7d998a39e75a6d1e99bc92a515a89c6b271075d8417f34fff27802"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "e92d4567a05b1179eef1d24cf8f41d6c85b9cf30aff2df912482f6b32ab89932"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-2b6fbb7e503b",
+      "oldName": "CrewAI 排版配置指南",
+      "name": "钴蓝圆角",
+      "htmlFile": "documents/cobalt-rounded.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "040275a8fff92299b4069207ee446655578de5cf759b2d438dc8d4d5f9cde47a"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "09065ebc5b2f166dacc5032786efffc9d02142f07268d2ad4388d5949f33a1fa"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "e81ff31852a904c3b667ef54efc79e2f89467807036db7f8a84eef0c6bcb1535"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "6db249358e5293dce3c636af2cb52313d87280ca26e7b55286ac077a9e6a64b8"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-347bbd4d52aa",
+      "oldName": "其他 · template4",
+      "name": "红蓝侧线",
+      "htmlFile": "documents/red-blue-rails.html",
+      "problems": [
+        "修前4处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器",
+        "开场与章节正文贴边；为正文承载区补20px水平内边距，保留原卡片内边距及章节外边距"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go",
+        "content-workbench/web/scripts/template-imported-repairs.mjs"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "bd1edbfcbb22f5706b3736ac2aa4962f31cc98872b3b71490c4d902b127a49a1"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "da06edb242797918afb04fd72bd41921ac4690014a37e2a3e2e95bd60cdff448"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "72eb7b9dee67c8f12af9a1cf828e2f845d9e8adf03b8c7a337a7cadf70526d5e"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "47f6cea02db57dace0ce1791fe1653a5aede2776cb13a77a57a9aad4fe024ad4"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-86b86f995cca",
+      "oldName": "虎扑|什么才叫人间尤物？",
+      "name": "紫韵图文",
+      "htmlFile": "documents/violet-photo-panels.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器",
+        "已核对全文截图：紫色尾卡底部为原设计内边距，内容完整且无重叠，保留该留白。"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "e2e7e322c5d0ff6dcae56ddf3f93b4cd9fe5822b630356f281f9747c73d3198f"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "da1bc41d577bd711a5c69324ca54686f860b7a5c3993acd768b5fca39ce478e1"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "1b2fe0a9081501e74e36ad68779ff64ddb1ad58da12f223ce7f95f619790fe8f"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "5469844dae67ac648bc28d55311be0911be6b30a20589c92621b6f974a77bf4f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-b1d2768c927f",
+      "oldName": "其他 · template6",
+      "name": "绛紫横线",
+      "htmlFile": "documents/plum-horizontal-rules.html",
+      "problems": [
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器",
+        "已核对全文截图：描边图片卡片与下一章节原有外间距构成分隔，保留原设计留白。"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f991c276e50fd0674d403517d8a74bd0d215c75817903c750af65969be52b002"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "105da95a3d14d1528468e96461f2327277a3c5f8cf9fd142990533aa0716df25"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "8137b6d05cfca39e1d0c23ed9459b7ac1194d70eec9882ffab232f56b68e70c2"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "8554a474ac9d76800dc3e174b512c0e0eaf2cdcaf24a7383c39c5543deb2e200"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-fc952e8d640b",
+      "oldName": "公公给儿媳的陪嫁猫做三层榫卯床",
+      "name": "樱粉折页",
+      "htmlFile": "documents/cherry-pink-folio.html",
+      "problems": [
+        "修前3处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器",
+        "开场与引用贴边；分别恢复20px内边距"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go",
+        "content-workbench/web/scripts/template-imported-repairs.mjs"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "c8203f55d7edc98ccc716e06ee3b180a543f6797e7393ca1e79a77dbc92d7d72"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "018bfccf25dca90351ebb5a228b075765cbfb2f43b8582902e353b35ce8e606b"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "ad66415f1a2aee20fd237b835fe7d8b27cc4682bffe916db92773130400f42ff"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "637b10ccf8328f22d64476d2f37d5eb52685399849e21c498e938303eb3573ab"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-86c80086ebd5",
+      "oldName": "其他 · template8",
+      "name": "海蓝卡片",
+      "htmlFile": "documents/ocean-blue-cards.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f9acc3669ec850efa05f9655578b499b3d4a4268f1b7a33ebc0aae60f5e268f3"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "b89392d71ec15c022bbcbaf212afbe548c2660a0a1380d0a516e18eda48805e7"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "a17762df5e8b02f71d85b626f221cc04880e513b4b97fd7719ceb67d6bc46bb9"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "eff56cd36a8306e5460384973eb14ff7dd5ff035a39a3d551b41f5f540f8101f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-15d91ebe4f26",
+      "oldName": "其他 · template9",
+      "name": "薄荷格栅",
+      "htmlFile": "documents/mint-grid.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "b2839d3db7c3f5376b0c4f8760b8b6bcafdb212769eca875f49ef06047378280"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "649ff13b336069fc3e60b057e18a58491804d6a527084be5be566e255b86cce4"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "30287c3b146285563bbe3e7e474a1714a39fc684d35a778d22b290ea4a2da00e"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "a88b856807400a6df5b1e5d5216cafbd9f1752359dbc8961e36c1089a2898ed2"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-fd813e3df8d0",
+      "oldName": "娱乐圈内幕",
+      "name": "绯红圆卡",
+      "htmlFile": "documents/crimson-rounded-cards.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "54b8d4f5884617c495371f62c057d4a0a1f70d2f0e4abb903b9ba10c0a0301b9"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "4116ed92ee96e13501d10eb1525c3a8b185daff8a778d8a596080a28f46c561a"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "f6350d68320bf93db14ae7f2fea7b0420f104d5e63a5daedb2426030c8736087"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "afc8351817129fdfbac924b0e04777e3f2525a5e6425f1ec7b1f6cec2258986a"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-b8fe0c7ddffe",
+      "oldName": "第一章：南方来的绿信封",
+      "name": "青墨长笺",
+      "htmlFile": "documents/teal-ink-letter.html",
+      "problems": [
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "207c636a6c20c998d329c91bfc89aff7e7fe6683052082d3ee51412fca0b6fb7"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "11d19662f388cd38ab8473d9c800901618d31df1601f52f17d079280f9996386"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "ea1233f811f589574813a5d40a49d11fd1f70b4ed1d22f7222dd7c3d64751582"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "c4b7beb71f2863f5ab011fd0cfcd61d3e3d4e776b8dfa206e30eedd7daeeb5ca"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-8a5cb33cbbba",
+      "oldName": "其他 · template13",
+      "name": "夜紫亮页",
+      "htmlFile": "documents/midnight-violet-pages.html",
+      "problems": [
+        "修前2处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "2dedc88d148fc55848ea8754c499f4ef3e4c33cfceae8fa5ef57965a4fd1703d"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "8beb2b4782acd029f902079447b6cb631d9b060c0623834682ba4df7095114c1"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "dda580743a1f3612165c44e02bf299c710a764a719e172ae2539a6ed20b9bda8"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ee4e7153145fceffd92da93d6d1421304e99420170b52898ca83cc698b915355"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-7837ce2d2d98",
+      "oldName": "武汉暴雨专题报道",
+      "name": "雨蓝分栏",
+      "htmlFile": "documents/rain-blue-columns.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7b05023b58b961df66fb42fadaf093122e9cd90ca347188753c065e69103b506"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "0c361310764b3db8bf3a0ad02432b32b23b6b7c01c27e1325a2ccce7e258227a"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "a29ae3a5e437559b18928cff68ab501a2321fc4e1df11c70493c369a0c742763"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "8c72cd355e308f0aec65b8bb482195f8e94babb8c96af4d09fa7129d038856a2"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-fd0de906bf50",
+      "oldName": "其他 · template18",
+      "name": "灰蓝层页",
+      "htmlFile": "documents/gray-blue-layers.html",
+      "problems": [
+        "修前2处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器",
+        "已核对原设计与全文截图：图片卡片底部内边距、20px卡片外间距及下张卡片内边距共同形成留白，正文完整，无半列空置。"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "83115e6eced78f07afca964b274e1749a30cf56698f449b320f942ed219040b8"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "9539c509d86164fbc3ea2134a3b374622f0046e90e8e15f3da607ac1b44efebb"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "d33cc3b4d283bf332c01e0b48a959217fb7d30017978854840cb64592b5d3675"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "9ab9cf9cc96efa82f907d1436300b1af7513c71fd901660ff1fabc8b36577d2e"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-e00f36e1c367",
+      "oldName": "其他 · template21",
+      "name": "浅灰圆框",
+      "htmlFile": "documents/light-gray-round-frame.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a31f8c7c4d28a4f95bfa13a51e18038df2d2f4fe27769a06ca2174696a730aa4"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "2a1e19b9572c2f58ba9e28fc1ac31653ec5e478c4e82a89e90d8323cfe9fa632"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "cb36081c17cb5700674bfc4b6c0152be53aa95b55ab58a496f0ce3d48fe57112"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "7e584bd81c0ec263465f63f91da302da0677cfdc4c9a5c61192c754a16b174b4"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-ab5aa1f8e36c",
+      "oldName": "特朗普：洛杉矶骚乱是\"外国入侵\"",
+      "name": "深蓝白卡",
+      "htmlFile": "documents/navy-white-cards.html",
+      "problems": [
+        "修前2处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a20057e70aeb9c53194187a9434d16e612e6e0d585ac064b2b19ccb016360d87"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "f0048c14d004840fc430cb591c426efe2c05e0d2d6b601608fcec6a5b71b1bf5"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "fc9c4ff93791b8e6dfbe98599f4bbc8da8f941b0144b310675d23247e3129b1a"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "24e8cdd73d1630309af8a233004419ba34377fc78a9d61dcaa6aaf1b9e02bd7a"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-b264aa657bb7",
+      "oldName": "本周热点 - 全球视角",
+      "name": "朱红线报",
+      "htmlFile": "documents/vermilion-news-lines.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "cf4b46aa5c358d31150eb8c28609325bb6320a62018ab0f02da3df98cfb2b745"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "24c03d8c119a6b6b2879b1d0330e486b5f15aec7306094a6a36521d6ce39b2af"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "7412dc07b98394e245caa26e7bc13b871d276160a7fffcd9505d77df6de385aa"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ef11a395a7962c62063b32b1e3f857b499c8ece2852106f2850f13ffbdc923b5"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-1ed22d77e9ba",
+      "oldName": "星辰大学周报",
+      "name": "学院蓝笺",
+      "htmlFile": "documents/academic-blue-letter.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "186abe2d1552d49c5f2f281e2a8edfc7fd3acd8401c77b94160d0550d44012a5"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "05b83e6e71cc6775e430b8814012ca754dc05988249e9f19e152331ce4770bdc"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "87db8a4fd5c355ccb6efe75957c5af32dbef66db860bc970c33deadfa25723dc"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "1de04aca5bd05e09d62769548e4c13e92cad8c1daac5e8854e2b9e53d4a268ee"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-9e6a899e7014",
+      "oldName": "情感与心理的平衡艺术",
+      "name": "青粉双调",
+      "htmlFile": "documents/teal-pink-duotone.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "77e8df4a8ecaf25ad1a1e29ccd84a7a7a6cc65182d4db731655dea28bd842bd7"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "084ada3661df8f76e006996a6d6045f45aa6cb808ca7aca10098e42214b1676d"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "76b6c1c5b8ad2ec57392999f37adfd82829e7a0360af5b7e735f02a51c672c59"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ba22f9ceadb164b2a84147289ecd45608a109fb1ca1334ad587ffc18a41afe99"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-d1220d0fcf3d",
+      "oldName": "那些年：数十载的光阴画卷",
+      "name": "银灰时光",
+      "htmlFile": "documents/silver-gray-timeline.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "58a8c58817104b61a4b84419b7e2496f0267c2e64ec1aec3bf98a16482bc7824"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "98e74c78938cbd540391df8523ce29463922104eaa768e07bebc475b6d2137bb"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "44c12c538495b793bc4979fddff3127cafb5937c8c620b29dc88bf2c736c8e31"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ea288eaeae9bd96c306b5b3ed63318ef25a5076b0c0f73196c41560e6e4ed232"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-313463a17e1e",
+      "oldName": "教育学习 · t1",
+      "name": "鸢尾圆卡",
+      "htmlFile": "documents/iris-rounded-cards.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7df98f55e288da0a92e7c207b0531ea9629489f18bf8c689cc2d9cf184a771f6"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "dc5cd99079c13e5e0454316df493f9af370c045ba191b72c9efab214e58f00f0"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "83fcf4ba414f46649d81861b8661465fd3389d524eecb33818ee8aabff8176aa"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "06fbe9bbd6c3307ef229651a10b5294a7e0e414d17ee5a6ad2a3f5b4adb8bbce"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-8722b23d6019",
+      "oldName": "全球视野",
+      "name": "藏蓝简报",
+      "htmlFile": "documents/navy-briefing.html",
+      "problems": [
+        "修前7处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器",
+        "章节正文及引用贴边；为正文承载区补16px水平内边距"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go",
+        "content-workbench/web/scripts/template-imported-repairs.mjs"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "6aa9696eb9b486a68151b52430abfbcaac1d6ea63d1038e42147a2e9a07dbe26"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "98a752aa8ad1c6f7fe39159ef8871c296f8a1fb5b4338bde332407c453557604"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "6a0807e3f44453cd7640d65f632d0648c89392814e92a07142e6a141e5d61581"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "09c6777d6198831f821364e7b663013ace56566b1eed34fa4383897552b73811"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-f5eee48b2a81",
+      "oldName": "当代生活美学",
+      "name": "电蓝留白",
+      "htmlFile": "documents/electric-blue-space.html",
+      "problems": [
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "eefd58402f7bb5db2c91f3eb0fb2dacae459c30cd5f617193ce6d9dd1c4d9f18"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "937d28f4f7b8af34ce1957d1f3392b9a7caf216ed891227ebb35977e10cddeac"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "c52bc19b6a4ef0d87d8529ed25fe4dbdfcfaf96e6438fc664d1fe44a0932a72c"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "32ce72b86853a0741fde981d49baafe07ca6c3b9963ff986b9100b04c3884c39"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-3ac31a8c292c",
+      "oldName": "科技数码 · t1",
+      "name": "蓝桃拼色",
+      "htmlFile": "documents/blue-peach-panels.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "2a51cf154b1327b0060087f601a30b7ef445106e8ddd090dfe31528f68f0b00f"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "b182113c36da5c5c5370cb3b05ba35a3ede9ec2840b144b98548a6e2ffb51ecf"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "6444c1c0d6119e605be66eab97e0c190d370809b2553148c2659258a5816c1cc"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "028d15fee64e6683d101b5fe64b262f1a0d22f9510786569527c09da1ce4c4c8"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-9f2e6aa8cb0c",
+      "oldName": "寻味之旅 | 探索城市里的美食秘境",
+      "name": "森绿餐笺",
+      "htmlFile": "documents/forest-green-menu.html",
+      "problems": [
+        "修前2处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "43c88ca7f1540a680f231a0f0643a2b7db29982a67070416a08d361a608281cc"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "adab7d6359a540314232be5b512d8d964992ccbaadae8fa76df52016208919c4"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "fb60d2ccbb952445106af51419b7ece434ba23e3a6f427bd6ade5196769cdf5c"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "896b0df5ff7ff26a562c5d04a160fbf7cd50ce8c6a92e4fad0054c89ba9291c9"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-51277cdd70b7",
+      "oldName": "立夏时节 | 回望北京的春天",
+      "name": "素粉叠卡",
+      "htmlFile": "documents/soft-pink-layered-cards.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "5a7f8eccc45a55cb9159345defb1194ba1c2fe5eebdd68987fbefc1e861d8ae2"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "a73aa2ca7e229b44d8b5850a37dbb22aa852ee79c4ca3b358efba8fb37cb340d"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "2bfd623db4e94a1143f71512df296c5d97cc405708b53be037e17b86e4572450"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "657ebdefca96159ab71d925ba773e2bbbf2c9f1db9e790057af3998664dc63df"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-6e26b9b87264",
+      "oldName": "职场进阶之道",
+      "name": "钢蓝双调",
+      "htmlFile": "documents/steel-blue-duotone.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "89992c50174df90270e0297ce017cad774ceb5c26fe859bc253f59eaaeabc0d3"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "7b0ca6411bc05d6b78236fbf54a8f581af1470e0d50e7893dafb49e2b4958d8c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "0d542632ab9d94253c2ac96ba7dedbc47891f0adb4edba55de154e82917471f7"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "bca8f2e5297e8036b96b0eae8656f06b29ecc80681cee896865a4bba66004922"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "aiwritex-html-3b542ae5c377",
+      "oldName": "财经投资 · t1",
+      "name": "红蓝账页",
+      "htmlFile": "documents/red-blue-ledger.html",
+      "problems": [
+        "修前1处正文贴边，最小左留白0.0px",
+        "共用渲染路径只把第一段放入Lead，其余连续段落未共用原容器"
+      ],
+      "repairLocations": [
+        "content-workbench/server/internal/service/htmltemplate/imported_structure_render.go"
+      ],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7d0568e4a9a9deb7e902e93094ceeb0c023fbd6e89e811d9288e4e94670b54d5"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "d8f2e9356a93e08e8977fa87f1cf3b2c2ff6d341edec93429f7bc4bd91850285"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "48781d9f733892ae5425c9f56882b3111b44ff049fe3da2d28d1ea213ecd2483"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "eeebed3024159540b8c29a1c2bbaa99f17222e65e64318691ba54d495289c6d0"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-wechat-teal",
+      "oldName": "青绿解读",
+      "name": "青绿解读",
+      "htmlFile": "documents/teal-editorial.html",
+      "problems": [
+        "已核对DOM与全文截图：01/02/03/04为随当前章节生成的序号，END为原设计结束标记，非旧文章正文残留。"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a42eed028178536d0b10ed08e0cb83576fb4f984971128bb310c6c4431c31b6f"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "b687dd0082334289aac53b99d180b950200d9b2191a19e0ecfd9884e79d51c6e"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "340d3170618cf8c17e33748fa7e4bcaff7b80c7c129c39ff3c2e269c7a0bc940"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "dce481bf59080f9b3bb495e8be42ff9b4bf662512fe2a6c6daee1d63faba010f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-knowledge",
+      "oldName": "清爽知识型",
+      "name": "雾蓝提纲",
+      "htmlFile": "documents/mist-blue-outline.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "71dd613e290c123fb2ecacc2033146e5067e7a6cc981a28efbc3d36068f2783e"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "d10e658b2ab6dcd41b400281bdc1c2891351c16c1c73da68b440166c90c4257d"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "55910a29ab95561b2641e53db782c3dcbedd2bd7b19f721fffabec1f5e86eb0b"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "3546e05714bcfaeae86cbe375f08e2246e5172defd6cf19194d548de8c410202"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-magazine",
+      "oldName": "品牌杂志型",
+      "name": "米棕杂志",
+      "htmlFile": "documents/beige-brown-magazine.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "4e852d7d385cccbc84099067f458818db303ed99de41f3053a093082623b4b35"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "187e171a315be01627b1a823abdd19cc75460feb52de68a3f7e83f55c0bbd0f0"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "325d4c6795e279f20e05f598146e32132669201c651dea5af8363a4da56f6701"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "99bb6600f0d22dc5e42cc3c582197ee46092adf828ceeedbd41c794eec6233b4"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-story",
+      "oldName": "温暖故事型",
+      "name": "暖棕叙事",
+      "htmlFile": "documents/warm-brown-narrative.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "17d62bc8459c7a330c7e889dec5e130d8230c205fdfcd18c160b3800672174d6"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "1ee06259c821abe61817194fe62913a18dbe40039bb563a7dbd85dfbe28eb376"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "f0247a374e8d833617ba74733af5fe0cfe89ee44003469462c4f6d6e25363eb4"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "be3cf3eceb3f927413f1eba8eef3ea671d9e1743bb8f61d8b59129c048b0371b"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-minimal",
+      "oldName": "极简现代型",
+      "name": "朱红极简",
+      "htmlFile": "documents/vermilion-minimal.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a1073e0a0462a3bed62de1d045dbb579990d17dc98c6945a5b7f0bad317f85b2"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "72f9a5d2a7f92651bc9516f9800e8f484e6cbb37f3f0ee1bede798e1561af3cd"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "c185df913d5178faea256f2021b7959996bc78b1c06d5427034f0a19e03bc4d3"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "8b6fc82c10821ce3f56429fadaf01384afdc0a8527898812c92b798f0e660aa4"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-opinion",
+      "oldName": "观点评论型",
+      "name": "米纸赤线",
+      "htmlFile": "documents/rice-paper-red-lines.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "c0d379c14173f86ffdae6e9e221ad85ad02051c0e3b8b0597abca9f65dd710e9"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "b56db1d2d028c0580e4aab61843d0ae70b9330515707927147bc408b98e9c0ba"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "510ff72b5a44f1369c8a18ad140808a30b8d3ceae00f79912669bb406c1c379f"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "bd2a9da094e40577e0facb6cc56e6d6a88d73a83f63e3024d92d84c4c2935174"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-guide",
+      "oldName": "实用指南型",
+      "name": "青蓝序列",
+      "htmlFile": "documents/teal-blue-sequence.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f60229fedea9cf8dcc28cfcaad7b93fb631c347ca2f7ee6f221f7025d9a67a87"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "db593f905dde98ae7ae936ee04b82807a98f487992821c5f1b47d55c645dea7c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "ab213adb07b978abcecb39e86e0190de37e89faa67487cacb03b5e52da0769ac"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "59c42c1462d25f8a92419889a0d592d9aa621a59f2384cc30ed5fe2aba9d158d"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-report",
+      "oldName": "数据报告型",
+      "name": "蓝灰报告",
+      "htmlFile": "documents/blue-gray-report.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f4189c93fc4f12fb7771c532d473c50280957af7fa9dff2a038a57a7af3ce9b3"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "78ea03f139bc5018c95e4d79e1ab09c0f08df14421867a65599aa008557efdfe"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "1cab2d492db12982b3903807907c6eab3508f53d7c0c6edde924c42ba56bc307"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "67c226b5a9582dae65a478e05e5ec729c62bada2638238a344ce2f7f17514881"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-warm-feature",
+      "oldName": "暖金专题型",
+      "name": "暖金专题",
+      "htmlFile": "documents/warm-gold-feature.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "5abbdc18cd9d84aa6861f57e202101e55de807e2915883a10493759e6a892819"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "3bc4a7a441935b617ced22fdb5e7c6b99fbd5049b19b9514cbd1d36a9618f76b"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "e0666d0796c6375a72c7c37a9a637ba2efe07ed53cf54ce5b0813e36ef598b46"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "906e20217add8e27845858d45bc8973ac0203ad81d0bf0a8ed9b8cfb2ba9320c"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-essay",
+      "oldName": "人文随笔型",
+      "name": "米纸随笔",
+      "htmlFile": "documents/cream-paper-essay.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "299aa5d10c9f1891b4461b97ba03674d1199b993f29c2080c10011681661171b"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "77bedfa807f4325bc599298439e96b3fcdd27a215327b1ec8f9e9d72c822af2d"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "c46c11fd57b6e90c092f786525c007111a1ceb15cfbb579ddd91b2ea92cc5e15"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "d0008db45baf9406f79eb251d493cd77148c398a3edf0f75d2c50560b9305106"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-dark-editorial",
+      "oldName": "黑金序号型",
+      "name": "黑金序号",
+      "htmlFile": "documents/black-gold-numbers.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a2a04263570036c81ebfd9cb5fdc51a3c1d28e3196321a85939159db3c017112"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "cbef2ece829d55879fea391ccd3ed49eb20cbc0fc35b9def513c67ece0f4f630"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "a61716113daa2861b7ce3c586dd2d1a355bad165af0ec8fa6af3348531ebf354"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "f2a9d134f63c7d73e73b241089921ab7be72f8b3aaf7ceaa372e129c9a5d8c0d"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-civic-explainer",
+      "oldName": "民生解读型",
+      "name": "橄榄金笺",
+      "htmlFile": "documents/olive-gold-paper.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7b6b356ce80e2834073a712a62f48b325680312f0a3a8a062b4461f47d68d5c2"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "809f8608fd96a4d465bccf83969578da516af0d886563d4199d30ce69f5ebedc"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "548d2b144a6d70bc88a6a1647b9fd6d251090129a3a9080cd5277f5dbbcf80d9"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "e537fa55148fe9a60fa49886261e0c522e70bc8b081f1a02cc1bb807088f2198"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-tech-briefing",
+      "oldName": "科技公告型",
+      "name": "浅蓝公告",
+      "htmlFile": "documents/pale-blue-notice.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f536f30ffb8e6fb32c1cbda4891ba385dbdd49132c51c6932bf080438de4d0f2"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "098f03b7755727058491c4ffd753416cf6b74a1509a3bb31c5537567d8aaceca"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "ebb120bf204e6075c32eec0bb91d40c9c888c5ee1c0269b5813e0994e210e08b"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "cf7a2463d2e989922905b4316f7b9149f0a1819445bd7d63ea65ec2397521fc8"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-apricot-healing",
+      "oldName": "暖杏疗愈文",
+      "name": "暖杏便笺",
+      "htmlFile": "documents/warm-apricot-notes.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7e80c30f509e5caa71441c13f9145d28b57d832efe61dac4ad6a5b87e3a0afc7"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "8486869292fd34bf64d92dce1625443aa7e6f01ae5ae269be9d13e62016659be"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "eaabaff6d23d95e5e8b174400658e4d1fdd2dda9821b7077c9b246ee5826af1d"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "c6180ea05030bbbe52e0f56cb6463d6bf9756b2139a9e4e4f281b3d8de32c0e4"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-rose-selflove",
+      "oldName": "玫瑰自爱文",
+      "name": "玫瑰题签",
+      "htmlFile": "documents/rose-title-labels.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "548260a38333024b4320bea1a2c2b61982e2d364c1f7d61ca9a26baedc733118"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "fa70095cb648723b68fcf067579f7514cae017cc09c98bb067fb4af7358c96d8"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "f6c2424931c0d302444b357a82a14784bedec2ba6cb6bead48712c7d234ed8c4"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "1a889c3675809bfdeafa8fd9598a72476590bf8ee4b98d6d33cf24896efb68bf"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-sage-calm",
+      "oldName": "墨绿松弛文",
+      "name": "墨绿留白",
+      "htmlFile": "documents/sage-green-space.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "d3f07ac1dffa0f8ecfe7fab5f4be3dbdb6cd562b1138b980d75dc534385f0656"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "889ba8eab875db613705036dd1510b1c3e948d01246d183f991a00e93534f47d"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "7e74e514ea0d5041a566b3b1c58385e462c4bae64e943e2e8b3104bde3de9d11"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "76dca5da99f4a5d50021033dc074031a3e1d2ce8dc89f7acbc40f6609a220a5c"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-ai-workflow-lab",
+      "oldName": "AI工作流实录",
+      "name": "暗紫终端",
+      "htmlFile": "documents/dark-violet-terminal.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "46cc22c487d0c3797bdc30c475bf80dc5ba6a661d1b0072bb9d23f49673ee6ce"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "6d8fdedc8b333aa6334516e9b56f1081073509df1a34e76537382396ba5fce8f"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "04892d3c692b2cf66f6c899a78f3a2515556e94e252e8ad3b5719cf179299bdc"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "13124b3776222a0156279b15eefbb29a2723d84db799955210dd403245c58bed"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-opinion-stage",
+      "oldName": "赤色观点海报",
+      "name": "赤色海报",
+      "htmlFile": "documents/scarlet-poster.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "cbb6df5ce85488de727aecca4f4b7d926dea81895b8de58c499a0015e5f59573"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "32b603c4630302a0b3173b380fc162ba7ce7f0f9d1f53f832c3e15ab8ee259d1"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "2f6f793f96f6deadd840e0a67b031becc968747a0ff18eb5f4063958a45f2977"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "b04c0a3878b0b03ec9416d0c63350eaa8aa1cf3071f433b7dbf0b563232528f8"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-catalog-3-3-center-poster",
+      "oldName": "焦点公告",
+      "name": "橄榄居中",
+      "htmlFile": "documents/olive-centered.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f6a04cafdadce553679dff071b9c887515440d65af6150a68f61fa71bf993051"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "db6e5810d9bf8423e2a30bf61b3d098b33705cb8492939451cf9ba7915fc1c2c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "9d6608c08a51c47e7f639c87768460402e0f2705b389ca9568f54ff5c02d0b30"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "d62523e726186284a43b91640e65a1dd3503cbf99912cb19437005161a636072"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-tech-briefing-offset",
+      "oldName": "科技观察",
+      "name": "蓝轨错列",
+      "htmlFile": "documents/blue-track-offset.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "23e9a3ddab0773b4994afa2dd98bc308a3701be1d8ace5ec7853e9129b8e1c3e"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "cffadea87e830f5dde9b8f0b7644ce7d2a93fc527c0c1c4b6839498e527a385c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "3dd8eb2b2146dfb414ebcdba60811acff4fd3429200f3d58612e43bdb095ca64"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "5a1b6c1755cd314e483ba735420b3964041f171f0280aade7f4dab27f9d7accd"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-opinion-manifesto",
+      "oldName": "观点宣言",
+      "name": "赤线大字",
+      "htmlFile": "documents/red-rule-display.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "1fdb18e6ed8a9bc2c1b238bde20d307a864f38ef5671a41e0b59f78ccc9afafc"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "80cccd61ae68770d8127c8408a418e5b003173c90a60af99d5d225df601ead92"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "ff5437a2f6d93dbae2664e1487f53392949a0fa778edc74819a6ff8a25f4804d"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "2268171df21c7c225c44187dfb15a0a89d38f7a66f295e843753e79ea9dc6463"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-catalog-3-4-graphic-poster",
+      "oldName": "图形公告",
+      "name": "赭色双区",
+      "htmlFile": "documents/ochre-dual-panels.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "dd0406d012659141aa2cdb6a43cdc2ce955b788020090c3576ba78756bd65751"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "815b7f7099723abfda68ca16dd5cfcfbc1aca0eb006e9ce834903ea96c358724"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "de8050253bf3c422268a01f299317f06154e15123d5bc0a8c380a488a6c7d4ae"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "77d821c946b5094560aa52710d4c59eefa1f20ad9b7728b9768353925e979e0d"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-civic-explainer-gazette",
+      "oldName": "城市民生报",
+      "name": "棕金双线",
+      "htmlFile": "documents/brown-gold-double-rules.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "140345548279ba9609eae83ef76147feecead80dd6700304b01fc88eea662437"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "6486e8fdfb1df05743af64e21400fcb9eef9a95fc59719d7e252139194ab24a9"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "a86b2240009be3fbe975f8e439470f0f6b174a450ea5259261a9d26e6176b8b8"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "a59f5065e58b24937d08caa3ce43338d21f017cd34a6ed44e5a4751c0bdc2d73"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-report-data",
+      "oldName": "数据焦点",
+      "name": "蓝色焦点",
+      "htmlFile": "documents/blue-focus.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "05d76c5702923d1fbb29bcbcdab35ed9801dac3e198ffdd8ffb61e038b7ae3aa"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "9fb60b951258a940a16660b98153ab28c52f9a162bcf4321f8f7fbde89a76770"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "f2548ea0ca1910b04c3741bb2d2beb2c44de42eb07549c888227fa4f1d5c5711"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "cce5d69ef2490e407bd3ad20e4e32b1a0528f3f42c390c104ed6e1b5c541c953"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-report-data-ledger",
+      "oldName": "研究纪要",
+      "name": "靛蓝账页",
+      "htmlFile": "documents/indigo-ledger.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "bc10882a7142709c8ed3da2ffd187878187f99cb9e9ef6baac19375b9c808b3a"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "5f4015969b5110ebc16f197b76c623ae57e2e0cae0305c9c0cb842d7c6d4040c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "52f933c46063941af655e4d876f334e0208d3bf36d035ea1b6fac525ffd14c82"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "f4fbc53a5dc20ace26bba8bfead308677e56bbd014634e2402aed6823da61141"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-report-dossier",
+      "oldName": "专题档案",
+      "name": "蓝灰卷宗",
+      "htmlFile": "documents/blue-gray-dossier.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "99256a3995e4c5e9eb872b2daa9969e68e6307bc95dbd4518906b095c3c1d19c"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "0ff7e8cd3c2ae3c55cc2b94895028eb1a8a9f01b8d9d7ca2d042c2be18c864fe"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "01d40410efc7d06b58ae1e2e93bc003b377beaa28c137619a07fa47b39477778"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "bee8c76f0483844bc0bdc4c3505cebd44390c39cdf273e2db1b8b14b855ead3b"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-story-feature",
+      "oldName": "街巷纪事",
+      "name": "暖棕影叙",
+      "htmlFile": "documents/warm-brown-photo-story.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7a7d59f463b7b4dbc8eb1a82a4bfdd6b7dbfe988fc2ead57225a16af52dd23a9"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "6ec81e7c11720e3c99e482207122fd7f023bbd2397792f82f9f91897e123422c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "b17eba959a65b07581e3eeb829fca8039e6eb615225ecf2250ad94c13e1940b2"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "449c5b52150f63efb92044fb2ca59b30bb18e75b44af11f5710a3600f42fcad6"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-catalog-10-7-folio",
+      "oldName": "代码札记",
+      "name": "青墨等宽",
+      "htmlFile": "documents/teal-ink-monospace.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "5b8f6180ca6db191826a4c024b11c818b1f41a6bcaac79a07f00a2a05bfc6ec7"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "fdf8f0ebb52265f502b79453c480d27f5dc9b9af850e1f04dfbd3e70d3d743b5"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "b78870530b48a2361363d35726bd848a7b8f136776f603ab577c67605f85a2d0"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "5f9313c8378f557e7eac264b208a98387bb89d5a363643d8e2e3e646e8cd8d71"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-knowledge-chapter-front",
+      "oldName": "阅读章节",
+      "name": "草绿扉页",
+      "htmlFile": "documents/grass-green-chapter.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a9ba4aa09aefe8e405655eec1e0814cd091b0481017b20d0f222ac1a14249310"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "65d49dbeb886e9eaf516e09b3a0b2b5f5159cd1be13db9a0ee18dae590bb74e7"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "07c3c660d3148a2a07fb6476190494cdd75b3ee99f73c6dd7bef2732dbdd3943"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "17f1e36bc802c8931574e247ca7bbf7cb296bf7cbadccbc0cecb202a566bb1eb"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-knowledge-timeline",
+      "oldName": "学习路径",
+      "name": "雾蓝节点",
+      "htmlFile": "documents/mist-blue-nodes.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "12cc2b4cc3ed4119538f9bc2611b766ea4777f33a836b0618b4cf71c175d6d36"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "d57108d394768e248865e52c5cc544c9514dfa981ed174d72a172e389bbda500"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "0a3e0d3a7ce90ca4fe9ea4ab9066caf5da720f11520d49e7b7c70d4f18b2b068"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "cecb97961faced6d12bfa4597af32c3dc8e0a1e04e6a91fd6f887cc4a6a9ea43"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-minimal-poem",
+      "oldName": "静读诗页",
+      "name": "素纸窄页",
+      "htmlFile": "documents/plain-paper-narrow.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "d2f97c2463ab7110ffaf4081ac1291df4f9fb171b8c899b2037cc3eb06233834"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "305e9ad7234aad9ea7e6436d9a332dc63e2df2e69cfd335277c3aa11d8bb74ca"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "57eb54b29456abb8255395d78131a7a4d024fa61386ea0eacf6a5f0fae580c5d"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "addb1b12be9c5d59429d5276832d5ba17941b1190969712225b0e08980178dd6"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-essay-side-note",
+      "oldName": "页边随笔",
+      "name": "棕色页边",
+      "htmlFile": "documents/brown-margin-notes.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "d21ba34c70160b67faefb058fe72cbeefa1a1862c42e76b753f78cd29d00e6d2"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "87545ea82ddd5c0bffe74dfcfb770487add87ab793f533b1843694d8e0a55158"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "1b5e4d31483291c2f59d6b33702fba344952b97d9f36c70c57e52f6424ebe7e2"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "3c8fe2305c5713d273e5101c2f01b9d125e5167ad19064621138d8654f4c784f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-essay-long-letter",
+      "oldName": "一封长信",
+      "name": "暖纸长信",
+      "htmlFile": "documents/warm-paper-letter.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "c801d0f8527dd457c8f86bc1f312df6d20288bf151c693c28851c16dd96294bc"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "e423ee35684897fbe0501d7fe07b1923a385dbd05966b7325dc104a7cbebfca5"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "a616881ece88a18be3f3a6f5bc101f33c54a41a90fc5d266fc95e8655782800c"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "b9d3ac47baa690ad16044b93d9ad7879aae89548ed9823177977863ffc0db0b3"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-essay-columnist",
+      "oldName": "人物侧写",
+      "name": "米棕错列",
+      "htmlFile": "documents/beige-brown-offset.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "2ea25c602c05c78a24d1fe4e0536682207613eb6a5237572620fd34002409b1a"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "5f5ca2d01a48f440da0dc2749f5883e347a15888c16f193a511c72cc0f4b3cec"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "a08b010f70d83b43d501c81f32bf3322a6886005383df6db7e50a870a70eff5a"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "cf9811661c9e316528a797a399b9e83e9d6f83fab202e9ac840a56afaabb8119"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-report-exhibit",
+      "oldName": "数据展签",
+      "name": "米金展签",
+      "htmlFile": "documents/beige-gold-exhibit.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "dab269aad7bb28b8da2c68f44e579cb7593865bc5a7693ce97c5c9e32462737f"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "68f10437de581a9b1400f9d8750d5db2cccd73558b0b8fcc20898f4aa4155101"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "30289ff342b9afb01a682f59d35a1f6d72eae467e444ab33b489a001337f0d30"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "cf5a1a4b1f6afdac3f23cd4cab9ec3de59067279392c979603fc5678505e1e9c"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-magazine-photo-spread",
+      "oldName": "生活画册",
+      "name": "草绿跨页",
+      "htmlFile": "documents/grass-green-spread.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "e020eff7e2f6b795061b0c473fa4240c2e0f493a7a13951bb462d3279ccea4fc"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "87d364c3fc4f33d6a00677e962cab8261cab00a9a2b6cf0b5ea498d2617b101d"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "eef3967be88d45daa3393c1374331d422d39fa45492f147e9dc94597c6a2ee4b"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "c05be2bfd0457ea10cd15818e9cf89e2c3f96c22783499fb5b5b6195a642393c"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-magazine-atlas",
+      "oldName": "草木图鉴",
+      "name": "墨绿图鉴",
+      "htmlFile": "documents/dark-green-atlas.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7494853efdd1b51133be684edf853d0893e83eb771595b0ca7931340300c7c01"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "ec930fc30a2c0ed0a60eb7728247dd6eafb7a57ab0f81e90a5d6cc4572b8986f"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "c864bd9588ccfa7aafb3d620969170afce905f65a1871fd1e348b133a99d5145"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "984333bdd79340bbff65bf100fa4eeef4e4c4f36d496620b94b87d555ad007c2"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-magazine-photo-cover",
+      "oldName": "影像封面刊",
+      "name": "素金影页",
+      "htmlFile": "documents/muted-gold-photo-pages.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "2966751ddef369db781fbbb52bb2de70a8a08bd40eb1b8f1f6c301c830e0e3e6"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "c0d41a5101306be94ffcf1fe53acd7e70cf5b3ec62ca0c9eec9a2c77641891b0"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "06a572615cdc02366d0db0042fe56b213a9ed46a2f93ce0ffc1af8ef9ef4a306"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "a8753806dab44665da83380bae47835ec752d465c235e6d62ced2b7d8ace1c5e"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-story-photo-essay",
+      "oldName": "旅途影记",
+      "name": "棕调影记",
+      "htmlFile": "documents/brown-photo-journal.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "cde2329453fcdeecbbaacc3150f74fee9f23bacddafa47e3d3b01738145d9a1a"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "c475f562503fe91501fcbb729efcf1157c5251b5f4e9e95c21b9f3c363bde86a"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "f54c95344718607aeac186be92ff4c31206fb7aef07c0e4d319775f30c6dbf38"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "71cb2db4f91460a337657b3ca5469ab378ab8022da5c92a4d90c223e8370e147"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-knowledge-image-note",
+      "oldName": "图说笔记",
+      "name": "青蓝图注",
+      "htmlFile": "documents/teal-blue-caption.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "12d9e1877c0949e489fe8e87cd57b3de6bbfd79119b2cabe14d18145901d544d"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "d7fe2280927e18f678391252e0c622533cc1b797731bc7c0ee443458b5553ced"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "e54d4fd252514e4d99300e638f5abf23ed3a2f55381d413e1481fc506ab543c4"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "719bed7de1383c846c36c3aeaeda74931994c0bf79d4a77b148b89b1e2b84c1c"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-atelier-magazine-diptych",
+      "oldName": "双页相册",
+      "name": "米金双页",
+      "htmlFile": "documents/beige-gold-diptych.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "e2d211e13eb1054d67c33f26380ca14034d89c67bec91f4fc4b8171d136b7a77"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "b4c225b304202f8cab4a837477fe9349e62b98fe72762714c42143848a66a4c0"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "af73e33bb7fca03630c110907744831690b64b05220664483387430e6bdb12ce"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "5abf9637bf01d9d284b279040803eeb416239eae5ff4224c1895b3551dabeed4"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-education",
+      "oldName": "教育·课堂笔记",
+      "name": "蓝墨扉页",
+      "htmlFile": "documents/blue-ink-chapter.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7ed2e1b3252b51173d6ed6170aa87757a88e90eb94dbf91d812716756ea999ab"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "40ddc6e4c02bbe093202cf5eb1bebaa0ea4f60494e44b51eb01c2db26dcd4142"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "12fa9671ed99f77ca9e53d75f6f1e912fd8c2befdefecfb98e3b6c76de0efcca"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "38dc9dc609cb19eac0c490a58da281a23ae41bb2bee6532e0a1bca8ab5745cd8"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-fire",
+      "oldName": "消防·安全手册",
+      "name": "赤橙手册",
+      "htmlFile": "documents/red-orange-handbook.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a850b1ceebeb700487ca7caa799c25ae86c8dbfbffb10cfb4117cceb02e2fe06"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "90fee07a5f95cb47d008f452f7f8731f29d793c773bce0de175f115e3f6a2aae"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "2bc342664ffc4b567ba949f4dc8f5f0f1f73d9bb5167fe3114010172b8a182fa"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "acacee0c44436942b4d59040a20de19371c9ec16e3eae80d99c6347575725241"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-recruitment",
+      "oldName": "招聘·岗位公告",
+      "name": "晴蓝分区",
+      "htmlFile": "documents/sky-blue-panels.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "67bfebe481a818c71cfcc75c9e4af18ba19fc4db6f72e507769f9dc5628c765a"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "efbcd9da9846a84d507579e36015f77dc7a46612d910b5a0bc4b03c57a46890f"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "c474040559ddcda427098a721e63957e3bf9bb0350f41f19383115ef5491230a"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "2e003849910e6da404533d6eccc8c66a052b20d6c0a18455981fd5f567d3b119"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-exam",
+      "oldName": "考试·备考清单",
+      "name": "褐金清单",
+      "htmlFile": "documents/brown-gold-checklist.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "297b46aa32deba17e98ce47eb7efe275490baf60c64ef73a61a608162f5ad571"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "4a332f9d70d9491b6f406c215c476047acacd296dfd3a30f31743fa22e1b0e70"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "256ccdeb5257012367603602cd70314ccdc5266a20a97d1dbe988867a2482469"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "1fadac27278e18d32d7dcfa0ae593c4ee04ba902446c9da1011f9a5e32f43ab1"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-training",
+      "oldName": "培训·课程路径",
+      "name": "松绿路径",
+      "htmlFile": "documents/pine-green-path.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "b614989d8edacb01f4a58b7fa195671b15a6692924b8099ebe1be9ce58021dbd"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "ec13f5becf6bf894f6acf9a44ed0ac727f8e18ff5cd3cf8eb893b6c7d89d9bfc"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "eb395e0316cfe2567a4cee20cc075a1bcf45dd2d12b9fc994e62dc71a359e3d3"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "68b2ffa33dc1927e045a4b34ae61138f935b958ac3c0e08a865780812781b78e"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-ecommerce",
+      "oldName": "电商·商品橱窗",
+      "name": "琥珀图鉴",
+      "htmlFile": "documents/amber-atlas.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "df604fff05773b1e90aa66e02917071704138b2731dbd5785ee780698845ebb9"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "74a6ad94b51b523e8ea6e67065ea86a8f3f82c68416a6da764b85d56acab8909"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "401ecfda91d3b25f9e17d1e075b0d8331e23af718b6c1b8bb5ac8d6e684f4752"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "8c1f8ac8dd3cb98ff9c9eb84656261026c8ccc14174b1774283bb6de0cd2d158"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-home",
+      "oldName": "家居·空间画册",
+      "name": "橄榄画册",
+      "htmlFile": "documents/olive-photo-book.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "27b37027aeab0f48f6305e01f36ee0df74c48506a9cf136a59a90cda6ad20a70"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "43f1fd18e4f3a93c1572fcfdc7ffb86da47d7cdafe89397d263dcf29623854b9"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "6a0a5cd66599fb3a24b2bbf21e8cd6a9f96356fdfe66fed090c2d577cb0b1b62"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "e61ada802c91562869996e9d649c76fac1fbcd36b1738105295917fcdcc5848f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-tourism",
+      "oldName": "旅游·行旅手记",
+      "name": "青绿行笺",
+      "htmlFile": "documents/teal-travel-pages.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "cbea9ec4bc608c6d646b16199389e8035f99e02680ba2566b58af05fee4625bf"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "7b3a506efc8d39ba938094fea242cef1308887d19492fe681403394b5b52fc62"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "37f2c2f36a898a649ef2e28bd13592492b60425c43b7392f685bf215bce47654"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "d8bc0ad65db2412951b42d2d51e2067c53a0283ed7973f44bd645ca3cf5a12ef"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-finance",
+      "oldName": "金融·市场观察",
+      "name": "藏蓝账页",
+      "htmlFile": "documents/navy-ledger.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "3cf2e6372d704b59b6dff9af01d5a8d7b2267a4b65989d87b0bba386b14e1a62"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "536567e2c6fa118c89832d1788bff6a24c49d6a93185d9ce0d13f6c8e8cffc73"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "71489e7eb4dd2f2076ac114768e80357d5b3bcbbd75ef6d1030170cb77d9b5e7"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "01a9c565aa9937118c68d7cdf10306c3bc93a5ae0bf9874f2eac311cf7d754c5"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-beauty",
+      "oldName": "美容·护理专栏",
+      "name": "玫红细线",
+      "htmlFile": "documents/rose-red-fine-rules.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "b22a9b6ae8c39c6815c8aa3104fead161a57e9ca42abb8da7104b34d0fefdfb4"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "042bc8236fb8a18f1841fdf77863a3bb47c00a44216e2c66f108e13a96db1c8e"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "25c13404be1aee7fb8e75ec82cf87bb5a56820f6984d0072d85008ac15546edf"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "11ed35d78bf96a3b1176f5c9e1b124631b92ba28381d1ed0f4e6048d9954f07d"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-food",
+      "oldName": "美食·风味笔记",
+      "name": "焦糖图页",
+      "htmlFile": "documents/caramel-photo-pages.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "0aea3382f280bbad90cb172b7162f8ec4a1f79d67560c221ea9bb3a3f311bd15"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "f07f0edca96284431bd0454f3aa2aadc6b4d1fbbe4ffdb473c02c535581bda92"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "8448a85fe94c69a1a9b34700ef751cd9b76a67ce60e50b5878c810d429c3c658"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "c60e4eb1b7a643ba07081eec3b22fc9959b7ec30405909585de38bad5b46ae71"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-game",
+      "oldName": "游戏·版本情报",
+      "name": "暗青分区",
+      "htmlFile": "documents/dark-teal-panels.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "25eec6802d1d60953406b1faa3d22b8541664d89bd9e2c65d05ee24584d113db"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "5cc7be46d2bcaeb2777d8d940fc7d83937dfc6cda42e43a777c5eef98f4773fd"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "457f84a7b5a47a1e68b9104b04e033d8db8fe9e0eaad4c10b43f3382c3b44059"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "a2128e7513053b755f72ff446b483495304d610612f366c054c602600582d13f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-pets",
+      "oldName": "萌宠·陪伴日记",
+      "name": "栗棕贴签",
+      "htmlFile": "documents/chestnut-labels.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "451364aeda9a4cbd1cb91a75709513c43d3292f68bcc76ba51f8bf33f8fea24d"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "d3240432ec5ff6954b8046b5fed28a62459630c64d7bffec0d21e425367e4df3"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "17261af7666fdae4d23f682d5a2610cf77ba05f69da90e232cc19b431a8231ca"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "3f515737ba51d7b9a4dd6816392c6b3e72ca6e80a6492759a899dae790641c93"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-dance",
+      "oldName": "舞蹈·舞台记事",
+      "name": "绛紫舞页",
+      "htmlFile": "documents/plum-stage-pages.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "317ce23d1d112fbb8a5bc315f1d56d95d60821fdd7c6ee3c195c633bf2edf03e"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "c804e79f396f6a83c2a589cd953d075103f6c7403114ea00c287e46565d3f91a"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "e254adaa2f3c741cd4c87c540058621962050b1da1b7af98b91dfef9dd28b2a7"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "512afa12b185cfe7b1f5a560e07522c7bae17208e75bfeff275f0006740b9702"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-environment",
+      "oldName": "环保·自然观察",
+      "name": "草绿档案",
+      "htmlFile": "documents/grass-green-archive.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f8c02eefcf8da0da1db5fbab52a3cd4bfcd29991ba15ee3c7efef826150cc15e"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "2eb0e4586527f6b7722ac6bcbff533038c320d35c635d6abb6bb1b51fa9f5099"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "38c6a92d9bbd5b157859753f43d98db6a2eea4e29667f22c11aa38305e2d0189"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "1b33c2623511fbc7551e9ad34921e96d8b7f5337475d960203f67cf7d7e652ef"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-wedding",
+      "oldName": "婚礼·誓言信笺",
+      "name": "豆沙信笺",
+      "htmlFile": "documents/dusty-rose-letter.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f2ec9475fcd34cf0a6c02c300e5a7b41b49499fcb73e43412f901096636ce6f6"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "faaedbd3321f935d8845d97f3998ec22526bd2d1a377f12cf4995fc10c1cf7e0"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "0911d3006726f2155304f541222f0969b4ae16b1b55e6709adfedf5dd16ce463"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "648113fcc8498cd44c8425bf0ca2033cd8cfb57bee177662fcea85b108757592"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-traffic",
+      "oldName": "交通·出行指南",
+      "name": "浅蓝轨线",
+      "htmlFile": "documents/pale-blue-track.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "24da857fd09b1119714ede203ae104d257f61ceadd320ad275d80ac959be1bfc"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "09a457daa2788f83a15e3ac0ba1c18183d35d5936e6ac1a321196fa4aefdf0c8"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "59ff0bb9d57a8ee852c3be1cfa9bb7aecc1eae376dbb8d913bd3a5167089740e"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "3d2e94449e064fdb0752c4baaa5041bcf1ed254ca77da9ff0692027e3e69fe2c"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-books",
+      "oldName": "图书影音·文化评论",
+      "name": "青灰专栏",
+      "htmlFile": "documents/teal-gray-column.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "5eb7d3e15898e2b2e301e11c5eabc270b33dd7a030be325f5c127299c32ceb63"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "9edbeda242ddeb6c9297d2e6aeb2dde12698e8f4cbf9df99e1344dab02471b2a"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "55746f8b0183aa9bfa66e14643d3c1b1c4e376f9c2c112628aacb6061c60427b"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "b85cfdfced6947a3b5e44d7de5d85e4c054994d0e4d6ff7ff604af60dbdbea7c"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-fresh",
+      "oldName": "小清新·青笺日常",
+      "name": "嫩绿轻笺",
+      "htmlFile": "documents/fresh-green-notes.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "87e1ace6af74911d5042448f5f4de750c9aedda3fc3249dc2d92d8ee0fa656dc"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "9d0aa5b0602bf781c3889cb358a543de415de999f57827a21380867d7bfe5c40"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "34b3d02c8cdfb2ca3a7c4478d1aa99c13ce9cc2449698e60db5cb04021d72b9a"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "b08415da6d39c084879da9ef023115d1bf89d18b57233452f708b7b2240c283b"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-classical",
+      "oldName": "古风·水墨长卷",
+      "name": "宣纸水墨",
+      "htmlFile": "documents/rice-paper-ink.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7c90a1e7842b85d57b8fa13f38864d1b0e65dd737fb4578a2843aa557f0c26fd"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "9f73e98f6efecdea508630ae071bd20a7ebe1feeed99648e3ab577a6b54e38ca"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "8a1cb62b43ce9e4405e0f860c6677554e2641b7dae5c503d52eb8a14a9c30b2d"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "8f32e45bd43dfc603724408f0b4242d45059d6b7f429de44f9ad259569ab2abe"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-spring",
+      "oldName": "春天·春日来信",
+      "name": "新绿春笺",
+      "htmlFile": "documents/spring-green-letter.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "e3629ecae33e9cdf7a0d9998502533a162a52e2e232d973e7f80c525655537a2"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "05f13c17d0a7e37602d3d24e7e616c07a30170121242307c3f81f4caee582d74"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "af749923a8d22d8ade904a5cef0e7660e546730a6d121c1258cbec4b094d65a9"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "cdab4f226acece6dbd499cee4b17589ae6a8caeedcd2eed937a0d346f8681c11"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-summer",
+      "oldName": "夏天·海风画册",
+      "name": "海蓝双页",
+      "htmlFile": "documents/ocean-blue-diptych.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f8ad70c65537c1e9d058adfc519e28398d8efbfe032451e090672dde9818c5d5"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "a9fe967eb075a09d2d88cbe9b50f83d74c3b4db3e354ad59ada0f26f4dc1cf6d"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "78e122aebdf15dde7f286c43de267dc66ee735365e29a3ae011e41d463115b45"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ff7cc781c62789d1d22b8b4c3471f7b3fda9a11b3a334898ec01c422586d4f62"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-autumn",
+      "oldName": "秋天·秋色随记",
+      "name": "秋金侧记",
+      "htmlFile": "documents/autumn-gold-notes.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "0c5ef07cb95188bbb0e5a3bed4aa91ba42a9408145731b551c047148e2244a11"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "a1a405578560c94fb581479de1b6e163b471df27ec753299de9553c091981d9e"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "72d3dec4357800187049a3764ac9fe7d2b66825c9cc4e7808c89f97fc67a029f"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "c3f60a027c01cd439377d873820e6721310359514a3e46c1fb36c8ddbcc07b67"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-winter",
+      "oldName": "冬天·冬日阅读",
+      "name": "冰蓝细框",
+      "htmlFile": "documents/ice-blue-fine-frame.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "23f1b32446f5bc609a8bc342eaf0bb24de59d902b7afe7f20167da0bbb976677"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "cdf50977329bbed0d110844ceb9c131bac1d64060793dff77507a537a25660b5"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "fb1870808aabea7a8603742874c372418248a22370c07de8d8ba310447442613"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "191a70e3a2f6571b79e9afe8a0ab405e9f7809aabcb304da05d1fbd5b912367f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-festival",
+      "oldName": "传统节日·节庆长卷",
+      "name": "朱红金线",
+      "htmlFile": "documents/vermilion-gold-rules.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "6483409e8f023e297bbfcc2ab7381cbed0823fc78ebc603c71992685371dfb30"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "758dc946a4365377e07634d56dd68dbee23d25ca7d1faad4adb3d6cae132c2f5"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "28b6bc5fd9606f750d55e43c9c285f16fb18dd1146cdf704e0d7051248be406e"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "0db48974c6fac6d26d86d6b1209abf1e761d9674f6abc28e94eff35b390b7a03"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-topic-solar-terms",
+      "oldName": "二十四节气·时序札记",
+      "name": "草绿时序",
+      "htmlFile": "documents/grass-green-season.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "7436391af5cc7e2e6fb2461e5315069fb25c5a6033adda56081b1e77285562e3"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "dd4038e6ec680cdc3ddde5578368e9af45225b52d2aeb4148e6b2ed0fb77737c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "467f817e201884e7503e7fb84a71bc5ca733366507f4ecde69a39109bb1db3a3"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "a0ef824dc07f1530e1e2fc321dfde616677143582e45ed60217c396fd2a12bf2"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-decor-leaf",
+      "oldName": "青叶信笺",
+      "name": "青叶信笺",
+      "htmlFile": "documents/green-leaf-letter.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "78886827f5c7c71924be9e5617a431a0a9b40a25e77d6157fe0c8192e5e2d3d9"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "4903b97a9f901dc3cdeeca522420b9c27e010ba402fa9c749825ffda697beda5"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "0d3db1ba1408a46ce70d97981caa9815e585dda9420de3f1a5c7510c0e7dc8f6"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "2322eb1341ac194699b04d06c1774c1a67fe3d5f35e364cbbc324801fc486c57"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-decor-mist",
+      "oldName": "晨雾蓝",
+      "name": "晨雾蓝笺",
+      "htmlFile": "documents/morning-mist-blue.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "9706ccd61d093233b8031bd2d41ec2682dff769eb1594bbf93f1bed02342ccb6"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "715d81a046d6b8fe20c7e5abe2fc36de8048c5e978bdc9c8326d1738bc4a31bc"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "2e4b311778462a7d826b3992b29c74808d00e74842c4538908d95489a82c021b"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "e3235eac2ce4bb4f0df815f2cf62b83a10e963de2b46414866e5e99bb7dba693"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1419",
+      "oldName": "鎏金表彰",
+      "name": "红金桂冠",
+      "htmlFile": "documents/red-gold-laurel.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a9a3357dcec82859b7fc5a68bc0dac7d5f54a1d7528649692e687a59aae59978"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "369b1cf45ef12bc6a54a92ba8b072d5e6b37a670abf879d8000b34de09d84a74"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "5ec6a2fdbd656df966c36ce8ad6be62dab9917f09352ea9db0f0f0bf4f779dbd"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "86acab36d81c01b36a73084df32fefa7abc6d16aaa2b6df194cbadd117af8919"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1462",
+      "oldName": "热点蓝报",
+      "name": "点阵蓝报",
+      "htmlFile": "documents/blue-dot-news.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "2239f3e08e760f329bb014f5b5ceb511948c8ddbe657b302c239ce160d21153c"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "bf661b48aae761b0ac0a5b85fc7ab8071c0878ce2d49d70498568a781d5fc9a2"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "4ae3afd4789f0cd51623b33d075c08c71384b3a5279558b5271bdcacc7024974"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "3059b4b1a095311d556cfdafcb57f9a59487da1ef1ba59b65f220994a2f077d0"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1433",
+      "oldName": "静简生活",
+      "name": "苔绿拼纸",
+      "htmlFile": "documents/moss-green-collage.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "5499d82ff6fca370ca14757a5bffb0c702dca9c5293afcc86b10d06fd90fa54b"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "7f57906049425b967c07369613f5146e7ea17625ad96fc9a3c2a44186dad9160"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "b40d9a40895ed4b2007df845a577315d47b4e9e45c1c36334e0d9f98f6c06a5a"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "469e52670689fca3a806ac37c600e23f61264fae6fc4c40715c3a84f74f8972f"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1499",
+      "oldName": "山河假日",
+      "name": "朱金山河",
+      "htmlFile": "documents/vermilion-gold-landscape.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "d036d9bc4f256db28d6e2341f043450cc34dc4c025db207060496fb15bb083f1"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "573e50c9dfeab0dbea43f7a448079fd14845a158cf2538cc76c37760f6426ffa"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "4e0462df008042a9439cc3c2f05dd42aa1865784fb44fa39ef7e98d32787ae9c"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "166c37ab2dc616731161d5d15b9a8b6daa59f27286144bd77059d8f50c4b2597"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1502",
+      "oldName": "小城漫游",
+      "name": "琥珀城图",
+      "htmlFile": "documents/amber-city-map.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "d46a622d08e9cdcb07de1e720714cbac325b65f42c60f1890734a861a811df2d"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "25db4ac8166a194a31fed31ad237abdd2d9637c41d10e9a76e3e40b3d8725592"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "1f23e3b70bfd1339f90254d74161a0b5b5da41227a8c6566e5da6f1275099b95"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "1b891477760e343e56e3bd4381c69b524c952fd15962d3466e27d54474ff7d49"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-909",
+      "oldName": "每日蓝讯",
+      "name": "浅蓝地球",
+      "htmlFile": "documents/pale-blue-globe.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "5527fe13b1cc545ff811a093175a551f761392075a7da4ebc2382f3856413447"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "ebb72c955c19a5bae15847386aff8ca1372678dfe5ed2b02730eadcf76fef9d8"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "28f8b2db2e440bce88a8223e0f75004d0e62f9e7801b92b2b327749d79aebf4e"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "81d2c3182454d8ab0c9274509c627ea9ceff5366f65cd535170fa56ad58869d1"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1422",
+      "oldName": "暖龄指南",
+      "name": "暖橙花纹",
+      "htmlFile": "documents/warm-orange-floral.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "fa770aa3494947bcb8207b4227d528325cc839adcfbb9a194404c0f2799c8251"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "f1c7c2b44478d753795f83e03902bdf1f064fa41a6434afbede7f5a88b072305"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "13eb6c1dff0e228f30ad2479fe59a293fc96602e20f488021356047fb7e48297"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "1b8b2d3dd17684500ee21e5d51035956aef9c04b5054027371b2c53cacd46716"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1386",
+      "oldName": "黑白智界",
+      "name": "黑白几何",
+      "htmlFile": "documents/black-white-geometry.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f16d8a7dca0b13e1a328ac581c954f682847ab49625d314fbc1119fb1a29812f"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "fe27f9769cea0438e36f7c100c60dc396a7f55e4ab3f01a8657eb4357eef2d7e"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "3157f715ad9f5ee0f84e121f22721af70fd74844185156ec07feda3806e7accc"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "cadf76cb6b2af025e64c9376f4b15e0fcbdac7973ef705727d86ea84591e72be"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1346",
+      "oldName": "职场第一课",
+      "name": "晴蓝阶梯",
+      "htmlFile": "documents/sky-blue-steps.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "c9fb16ae95c01a5acec130972d6611479071d4287b50638eab4c60ab6ea3efde"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "cfa666306cba514b76ed18db6c293a7edc66e12d34f572bfcf9f9ae0ab44e604"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "a459760deb2e8686601503292d722c9b87c7c64e9f552f2a09ba76a54e38534e"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "2d143adc343e93df275c3ebe0844c606f9f9ca87e573fd5271cf7cb7e003cb61"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1498",
+      "oldName": "产业新动能",
+      "name": "青蓝城影",
+      "htmlFile": "documents/teal-blue-city.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "cd35a7d3db57be6ac8841c6b3175c6a778412f425d1d19e389c04d1693114021"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "397a4d9f67331b17a6de443a777642ad33a153cd5594b44e596d327981bf5721"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "0d9680a0f1608a253c161cb471100a0b9013e3cfb89814c052104838e50e37b1"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "17018eb78257fd93731b91248ccb5fcdda3b41d63cc6e5b254b3e947f76acd17"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-404",
+      "oldName": "年度蓝图",
+      "name": "蓝色建筑",
+      "htmlFile": "documents/blue-architecture.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "f092010f8babef9f362c49cef3a45eaa85d36b62f00f5a572f531e67684f0d43"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "cd322ee7fc88f88d2eb19def877afeba2a5a897cbcdace4da249e1f64d137574"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "2da3e25f4e5210531cbecf7aaf02a2097aed39fa0486da55983f4b9b219321e3"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "e72ea8307a3ffe2bc2e98333638ec770cbb5a2b91b8a3c8edd27ccb4aea25694"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1497",
+      "oldName": "逐风赛场",
+      "name": "橙蓝线稿",
+      "htmlFile": "documents/orange-blue-linework.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a0bd839c71e967c462b98243c4dbc8dc573b962d6d0960d35d51c4e5d9eb5cba"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "5d365965881a3d5192f44b0cf6a2373ad5a578d6f684c1e3a11a2dfd3392f80d"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "f176bac5b95c31d4c97046b339742caba7b77afa1a1d6b0a50b7c2a2ea278930"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "85c55e8c91b81a750ec8f1fc910d5286b59ba2e197efe752fbf946a6308ae1c7"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1484",
+      "oldName": "桂月团圆",
+      "name": "月白金笺",
+      "htmlFile": "documents/moon-white-gold.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "b015720ed560a4f782d19c3a1ac8802c5aca1c2c0df99fa046648729020cfec2"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "c38015607d19fe0aed1cc21d692c26750a64952020d831f04279cd774332a2a4"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "28f80c504f2c95904d0adacabe8209316ecef3826dacde9925b2e2e4684ba838"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "ce40d5af64c3b0143e006158af306ebe2c5a410ba47dc9507e2bc7d2f836ab28"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1356",
+      "oldName": "追风少年",
+      "name": "浅蓝跑道",
+      "htmlFile": "documents/pale-blue-runway.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "22575b963f6ef53098350e2f27222b0232256fa9fff702b91c8069967d0337f7"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "0d498fc8bc305a1a6d1569691ee0c50ea1c419a708159ef6bfb3cee731f03e7c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "ccfc9dfb58e9d5b9a3501b1c69b4f21d4ff46536a251eac2e0f526355c8d4646"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "34abf51f4369556dec68a192330a58b23d1e8294c6805e5354b29b9b10608788"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1424",
+      "oldName": "算力潮汐",
+      "name": "深蓝电路",
+      "htmlFile": "documents/deep-blue-circuit.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a685532f3e8e6ac6953e9335dd8922e1b0a50c865c8dd5e98023a00f0fe3ad5e"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "446f7d7777d3a07f2b107522f20c27e4f5db65028a288e5f5041b056601b7119"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "160418624760a74b5cab7a96c66af23440322700ba2e0b1f78b445b92ab14f61"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "79628d85721c3f478fc0a3c749238b047479ce4d6138dbdce856ff2db7cbd239"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1483",
+      "oldName": "数创之翼",
+      "name": "蓝色天幕",
+      "htmlFile": "documents/blue-canopy.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "faf3c852b1af468db8d39e9b8695f1f207a78ac5cf728399193d874a04a41ba9"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "623854dfdf544f371b49581fb5c957c84f2466412b9f6622686bc0a991b81f28"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "585f70abd0b097f844f98a6bc52507d175cbcec4824639867b98f7c5a2fa6811"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "2d077508ffa7c52ed18ee8d2a6a72ca3fecab7320ebb5ff54da1e69f247199a4"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1397",
+      "oldName": "夏野研学",
+      "name": "青山云页",
+      "htmlFile": "documents/green-mountain-clouds.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "8cde5b4331fdf3c8ee43b7478645fd9dbb7f8c43cfdf1c1a9718056904f646af"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "87c9d369d88f79879e6381e731efb8ce72256d78efe219387eabecb328045677"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "9a39045b9bc5708834f4ae10c98eded94e1453568c6e94a2701f7a4fed9a1836"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "88e23c14599c098a377879a424ed6b709a9da8d2ead5787985d391b5f5558011"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1344",
+      "oldName": "企业晴蓝",
+      "name": "淡蓝金点",
+      "htmlFile": "documents/pale-blue-gold-dots.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "9c2debfb19da7572c5424f3a869716aa65d586cea0d6cdfd0bd0da89690f2716"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "fdbd953e6de782a7e70f2ebdfe0ad63ba73906920f8f1830cb2c42de219eae62"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "697c99d375df8f68c535066b54bc446f3d4090b94ab6481cdae10c9501f3b988"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "64098d12e2a6b6e1e2bbbc4bff65009e6c0006610392ad4cdeb57e81a03e1295"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1518",
+      "oldName": "十月慢信",
+      "name": "秋叶信纸",
+      "htmlFile": "documents/autumn-leaf-paper.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "a1242ee75663e6cbfbfa14249ddfca789be4cfc01778571cdf18bf8266553e03"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "b1a0b5faf4f871339a36bee5930dfd6fbc6944771ad72d40b9b2221f367f966c"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "58bfbbac2eea69ea76e2914f490371cfa6acb1b3f5d9a8f911a5500f1ee47961"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "8e0105e4330a3ab05e0bfbd327377a35ed6387a7deedfdae9cdfec7ff3ce2107"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1477",
+      "oldName": "家校花开",
+      "name": "暖金花笺",
+      "htmlFile": "documents/warm-gold-floral.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "52f2e8853d4e27130f25a634a284ea6054abf9d78c98d418fa3f383a5ecd5811"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "c469b1d8b2a0b1c21d3e8f1a9507b0caf3a74a2bb5c82074ee75a7718170474b"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "6dc12b092ac96aad4ccea943e88293ff7d61adc5a4a6df30b8d4ddc673ec0701"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "04a159e4703b241e59add3547884aac44802f8b3a789d2a4483a193714051abc"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1425",
+      "oldName": "晴空智能",
+      "name": "蓝金轨迹",
+      "htmlFile": "documents/blue-gold-tracks.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "49ca48651d3b4989c8f05e6d33ad138aefb136e6de6af33f549edd8024ffdba2"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "0f29cd4cadc1ede1f69b8e4ebb837055f0c81a7a031cc4ca0287ac35f77eb0c5"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "5e286ec414137e51416189bccfc935581394a7d9fa1a96b74193c690eb022e82"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "86a6db7c1ba0f5eae3daabf7d8e50bc768a38438cc0c47e1c97cdcb4cce92a71"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1341",
+      "oldName": "黑白建构",
+      "name": "灰阶建构",
+      "htmlFile": "documents/grayscale-structure.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "8912382f2f5ca5bde330b736e664dd0bef9db2b9f88918405e73d6f2f6a2e03e"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "755230afd8b23227f86420085cbc53c47bedecff99103b2ba08989ab0ddace87"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "a2c955333bf2161e10c4199c0cbc90ca36f9f9cecabd9b0494664b3c8ec6da83"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "a8aebe9935e69c0e2d96633c60752a8491d2fab92f07db2c4a2eaace26bcd753"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1486",
+      "oldName": "北境秋行",
+      "name": "金色山峦",
+      "htmlFile": "documents/golden-mountains.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "43990b01a239471db68a9a60a636e9c8c044ce25986f17bb8e9533634b43702d"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "fed4c55b3b280593b2a446f6ef3482861803c3de371be098197a9f61231527ca"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "4feee4f094c22a47a8a8505adcf30b508e4df96968f8e2ddae32492a8949b5c0"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "1f905bbd0f0e2986767343d6bced394bb6b6d46c50066e0791be8a58f2b8181d"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    },
+    {
+      "id": "cw-html-aligned-1352",
+      "oldName": "向新出发",
+      "name": "蓝金阶梯",
+      "htmlFile": "documents/blue-gold-steps.html",
+      "problems": [
+        "本轮新稿件未检出指定问题；本轮未执行该模板的新增场景修前检查"
+      ],
+      "repairLocations": [],
+      "evidence": [
+        {
+          "kind": "normal",
+          "width": 1440,
+          "sha256": "ee0f4cff4b4f45ceb1e9b80caf4a5d6ae390ebbcb0e5ef3723583a83da0bde9c"
+        },
+        {
+          "kind": "normal",
+          "width": 1024,
+          "sha256": "a9f4b3c930b9abf5fbc089c95b83f50bba9b05aaee163c2340bad241f878ebb9"
+        },
+        {
+          "kind": "stress",
+          "width": 1440,
+          "sha256": "72df0cbfd94331050375fd8f992d4d2e265156fce2b6a8eb8e2616c5c8eebfdb"
+        },
+        {
+          "kind": "stress",
+          "width": 1024,
+          "sha256": "d16f2d8b12ea8e520546d972cf652c2fd3a4e4050ec6e90262c02ca84fbe9be8"
+        }
+      ],
+      "result": "新增三段开场普通稿/压力稿 × 1440/1024真实渲染复验通过"
+    }
+  ]
+}

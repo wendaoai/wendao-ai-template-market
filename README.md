@@ -56,19 +56,21 @@ https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/reg
 
 `data/catalogs/` 记录分类、版本、大小和 SHA-256；`previews/templates/` 提供效果图；`assets/templates/` 保存可安装配置与来源内容。浏览目录不会自动安装完整模板。模板记录的 attribution 标明来源，原始配置保留在下载资源中。
 
-## HTML 模板验收与去重 1.3.2
+## HTML 模板多段开场更正 1.3.3
 
-当前保留173套。对1.3.1的174套逐套读取实际计算样式、几何和装饰，完成15051对比较，确认1组仅明暗配色不同的同版式：保留素粉叠卡（aiwritex-html-51277cdd70b7），移除夜粉叠卡（aiwritex-html-18137d753aff）。重复JSON、预览及独立HTML已删除；累计52套退休，此前51项删除映射完整保留。
+[完整画廊](gallery.html) · [逐套更正与截图摘要](audit/html-template-intro-correction-2026-10-24.json) · [原174套去留记录](audit/html-template-dedup-2026-10-24.json)。
 
-- 中文名称全部使用4—8字视觉命名，英文slug全量唯一。
-- `assets/templates/<slug>.json`：173份可安装资源，示例正文不含文章主标题。
+原174套中，夜粉叠卡与素粉叠卡确认重复，保留素粉叠卡；最终173套。此前51项退休映射与新增1项去重结果均保留，累计52项。中文名称4—8字，名称及英文语义slug全量唯一。
+
+- [173套命名表](naming-map.json)。
+- `documents/<slug>.html`：173份独立HTML，保留章节、图片、装饰和原设计。
+- `assets/templates/<slug>.json`：173份可安装资源及来源署名。
 - `previews/templates/<slug>.jpg`：173张真实前端完整正文预览。
-- `documents/<slug>.html`：173份独立HTML，离线图片位于`sample-images/`。
-- [完整画廊](gallery.html)与[最终命名表](naming-map.json)包含全部173套。
-- [原174套去留及命名记录](audit/html-template-dedup-2026-10-24.json)，[退休映射](data/retired-html-templates.json)。
+- `data/retired-html-templates.json`：52项退休替换映射。
+- `sample-images/`：5张离线示例照片。
 
-173套保留资源的JSON、HTML与JPEG均与上一轮验收版本字节一致。上一轮对原174套分别使用普通稿、长导语稿在1440px、1024px桌面窗口完成真实排版、前端、保存刷新与导出检查，共696组原尺寸全文证据；本轮逐份复核截图SHA-256及资源字节，沿用这些证据。26套样式修复、15套内嵌GIF及15种动画资产保留。近似构图但组件或装饰不同的设计变体保留，详见去重记录。
+1.3.3修复连续多段开场只有第一段进入导语容器的问题，并定点修复5套模板的内边距或文字对比度。新增三段开场普通稿、长导语压力稿，逐套在1440px与1024px真实前端渲染，保存692份原尺寸全文截图；校验预览、套用、保存刷新及独立HTML导出。人工复核用户问题与异常标记，不能据此声称人工逐张通读全部长图，也不能推断任意文章均无问题。
 
-目录及资源版本更新为1.3.2，大小与SHA-256校验一致。稳定ID保留，命名、路径及引用统一。源生成入口排除退休项；MD、图片和旧版registry/v2协议保持独立。原始来源与署名保存在original/attribution字段。
+目录、资源、文件摘要、预览摘要与画廊缓存标识同步更新为1.3.3。内嵌GIF与原设计保留；MD24套、图片56套维持原有独立目录。
 
-本次为市场资源更新。新退休项对旧下载列表的屏蔽已在应用源码与临时Go/SQLite环境验证，随桌面应用后续版本生效；本次未构建或发布桌面安装包。
+本次市场资源更新不包含桌面安装包。多段导语排版器与旧下载名称显示修复需要含本次代码的客户端；历史已保存HTML快照需在更新后的客户端重新套用模板。未执行Wails原生窗口验收，无章节文章仅有Go回归测试，未另建前端截图矩阵。

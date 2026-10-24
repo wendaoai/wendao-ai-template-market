@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
   "marketId": "wendao-ai-template-market",
-  "marketVersion": "1.3.2",
-  "generatedAt": "2026-10-24T06:34:53.911Z",
+  "marketVersion": "1.3.3",
+  "generatedAt": "2026-10-24T09:20:38.395Z",
   "catalogs": [
     {
       "type": "html-templates",
-      "version": "1.3.2",
+      "version": "1.3.3",
       "path": "catalogs/html-templates.json"
     },
     {
