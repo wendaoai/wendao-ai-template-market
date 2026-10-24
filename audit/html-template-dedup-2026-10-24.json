@@ -1,0 +1,1807 @@
+{
+  "summary": {
+    "baseline": 174,
+    "comparedPairs": 15051,
+    "exactFullStyleDuplicates": 0,
+    "colorOnlyDuplicateGroups": [
+      [
+        "aiwritex-html-51277cdd70b7",
+        "aiwritex-html-18137d753aff"
+      ]
+    ],
+    "removed": 1,
+    "retained": 173,
+    "highSimilarityReviews": 3,
+    "reusedFullScreenshotEvidence": 696,
+    "originalRetirementsPreserved": 51,
+    "totalRetired": 52,
+    "version": "1.3.2"
+  },
+  "decisions": [
+    {
+      "a": "aiwritex-html-51277cdd70b7",
+      "b": "aiwritex-html-18137d753aff",
+      "names": [
+        "素粉叠卡",
+        "夜粉叠卡"
+      ],
+      "styleSimilarity": 0.823085,
+      "structureSimilarity": 1.0,
+      "colorOnly": true,
+      "geometryEqual": true,
+      "decision": "重复版式，删除夜粉叠卡，保留素粉叠卡",
+      "reason": "同一原稿；63个节点的完整几何相同。所有计算样式差异仅为颜色；导语、圆卡、章节、图片和表格完全同构。"
+    },
+    {
+      "a": "cw-html-atelier-catalog-3-3-center-poster",
+      "b": "cw-html-topic-fire",
+      "names": [
+        "橄榄居中",
+        "赤橙手册"
+      ],
+      "styleSimilarity": 0.791349,
+      "structureSimilarity": 0.9712,
+      "colorOnly": false,
+      "geometryEqual": false,
+      "decision": "相似构图，保留组件设计变体",
+      "reason": "橄榄居中使用居中导语、无框引用与细线收尾；赤橙手册使用左对齐导语、描边引用与反白色带收尾。配色、段落内距和结尾组件存在实际区别。"
+    },
+    {
+      "a": "cw-html-atelier-magazine-photo-cover",
+      "b": "cw-html-aligned-1356",
+      "names": [
+        "素金影页",
+        "浅蓝跑道"
+      ],
+      "styleSimilarity": 0.774436,
+      "structureSimilarity": 0.973394,
+      "colorOnly": false,
+      "geometryEqual": false,
+      "decision": "保留两套独立设计",
+      "reason": "素金影页采用深色影像题头和衬线章节；浅蓝跑道采用独立跑道GIF、80px题头上留白、浅蓝纸面和无衬线章节。"
+    }
+  ],
+  "templates": [
+    {
+      "id": "cw-html-edition-cotton-book",
+      "oldName": "棉纸书房",
+      "name": "棉纸书房",
+      "slug": "cotton-book",
+      "htmlFile": "documents/cotton-book.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-vellum-edition",
+      "oldName": "羊皮纸珍藏",
+      "name": "羊皮纸珍藏",
+      "slug": "vellum-edition",
+      "htmlFile": "documents/vellum-edition.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-porcelain-margin",
+      "oldName": "青瓷留白",
+      "name": "青瓷留白",
+      "slug": "porcelain-margin",
+      "htmlFile": "documents/porcelain-margin.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-cinnabar-scroll",
+      "oldName": "朱砂长卷",
+      "name": "朱砂长卷",
+      "slug": "cinnabar-scroll",
+      "htmlFile": "documents/cinnabar-scroll.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-kraft-typewriter",
+      "oldName": "牛皮纸打字机",
+      "name": "牛皮纸打字机",
+      "slug": "kraft-typewriter",
+      "htmlFile": "documents/kraft-typewriter.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-blueprint-studio",
+      "oldName": "蓝图设计室",
+      "name": "蓝图设计室",
+      "slug": "blueprint-studio",
+      "htmlFile": "documents/blueprint-studio.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-terrazzo-notes",
+      "oldName": "水磨石札记",
+      "name": "水磨石札记",
+      "slug": "terrazzo-notes",
+      "htmlFile": "documents/terrazzo-notes.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-ruled-schoolbook",
+      "oldName": "横线练习簿",
+      "name": "横线练习簿",
+      "slug": "ruled-schoolbook",
+      "htmlFile": "documents/ruled-schoolbook.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-sunday-broadsheet",
+      "oldName": "星期日大报",
+      "name": "星期日大报",
+      "slug": "sunday-broadsheet",
+      "htmlFile": "documents/sunday-broadsheet.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-orange-letterpress",
+      "oldName": "橙红活字",
+      "name": "橙红活字",
+      "slug": "orange-letterpress",
+      "htmlFile": "documents/orange-letterpress.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-vinyl-jazz",
+      "oldName": "黑胶爵士",
+      "name": "黑金唱片",
+      "slug": "black-gold-vinyl",
+      "htmlFile": "documents/black-gold-vinyl.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-sonar-console",
+      "oldName": "深海声呐",
+      "name": "深海声呐",
+      "slug": "sonar-console",
+      "htmlFile": "documents/sonar-console.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-aurora-window",
+      "oldName": "极光之窗",
+      "name": "极光之窗",
+      "slug": "aurora-window",
+      "htmlFile": "documents/aurora-window.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-terminal-log",
+      "oldName": "终端日志",
+      "name": "终端日志",
+      "slug": "terminal-log",
+      "htmlFile": "documents/terminal-log.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-pixel-checkpoint",
+      "oldName": "像素存档点",
+      "name": "像素存档点",
+      "slug": "pixel-checkpoint",
+      "htmlFile": "documents/pixel-checkpoint.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-deco-salon",
+      "oldName": "鎏金沙龙",
+      "name": "鎏金沙龙",
+      "slug": "deco-salon",
+      "htmlFile": "documents/deco-salon.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-midnight-cinema",
+      "oldName": "午夜电影票",
+      "name": "午夜电影票",
+      "slug": "midnight-cinema",
+      "htmlFile": "documents/midnight-cinema.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-charcoal-review",
+      "oldName": "炭黑影评",
+      "name": "炭黑影评",
+      "slug": "charcoal-review",
+      "htmlFile": "documents/charcoal-review.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-moon-silver",
+      "oldName": "月面银箔",
+      "name": "月面银箔",
+      "slug": "moon-silver",
+      "htmlFile": "documents/moon-silver.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-indigo-planetarium",
+      "oldName": "靛蓝天文馆",
+      "name": "靛蓝天文馆",
+      "slug": "indigo-planetarium",
+      "htmlFile": "documents/indigo-planetarium.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-coral-editor",
+      "oldName": "珊瑚编辑部",
+      "name": "珊瑚编辑部",
+      "slug": "coral-editor",
+      "htmlFile": "documents/coral-editor.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-bauhaus-workshop",
+      "oldName": "包豪斯工坊",
+      "name": "包豪斯工坊",
+      "slug": "bauhaus-workshop",
+      "htmlFile": "documents/bauhaus-workshop.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-swiss-redline",
+      "oldName": "瑞士红线",
+      "name": "瑞士红线",
+      "slug": "swiss-redline",
+      "htmlFile": "documents/swiss-redline.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-lilac-couture",
+      "oldName": "丁香时装刊",
+      "name": "丁香时装刊",
+      "slug": "lilac-couture",
+      "htmlFile": "documents/lilac-couture.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-pink-sticker",
+      "oldName": "草莓贴纸簿",
+      "name": "草莓贴纸簿",
+      "slug": "pink-sticker",
+      "htmlFile": "documents/pink-sticker.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-ink-comic",
+      "oldName": "黑白漫画格",
+      "name": "黑白漫画格",
+      "slug": "ink-comic",
+      "htmlFile": "documents/ink-comic.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-mint-cafe",
+      "oldName": "薄荷咖啡馆",
+      "name": "薄荷咖啡馆",
+      "slug": "mint-cafe",
+      "htmlFile": "documents/mint-cafe.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-lemon-picnic",
+      "oldName": "柠檬野餐布",
+      "name": "柠檬野餐布",
+      "slug": "lemon-picnic",
+      "htmlFile": "documents/lemon-picnic.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-poolside-wave",
+      "oldName": "泳池边来信",
+      "name": "泳池边来信",
+      "slug": "poolside-wave",
+      "htmlFile": "documents/poolside-wave.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-peach-horizon",
+      "oldName": "蜜桃地平线",
+      "name": "蜜桃地平线",
+      "slug": "peach-horizon",
+      "htmlFile": "documents/peach-horizon.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-botanical-specimen",
+      "oldName": "植物标本册",
+      "name": "植物标本册",
+      "slug": "botanical-specimen",
+      "htmlFile": "documents/botanical-specimen.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-alpine-fog",
+      "oldName": "山间雾信",
+      "name": "山间雾信",
+      "slug": "alpine-fog",
+      "htmlFile": "documents/alpine-fog.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-desert-contour",
+      "oldName": "沙丘等高线",
+      "name": "沙丘等高线",
+      "slug": "desert-contour",
+      "htmlFile": "documents/desert-contour.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-rainy-window",
+      "oldName": "听雨窗边",
+      "name": "听雨窗边",
+      "slug": "rainy-window",
+      "htmlFile": "documents/rainy-window.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-ocean-cartography",
+      "oldName": "海图航线",
+      "name": "海图航线",
+      "slug": "ocean-cartography",
+      "htmlFile": "documents/ocean-cartography.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-forest-lantern",
+      "oldName": "林间灯火",
+      "name": "林间灯火",
+      "slug": "forest-lantern",
+      "htmlFile": "documents/forest-lantern.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-autumn-collection",
+      "oldName": "秋叶收集册",
+      "name": "秋叶收集册",
+      "slug": "autumn-collection",
+      "htmlFile": "documents/autumn-collection.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-winter-snowfield",
+      "oldName": "冬日雪原",
+      "name": "冬日雪原",
+      "slug": "winter-snowfield",
+      "htmlFile": "documents/winter-snowfield.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-tea-room",
+      "oldName": "茶席素笺",
+      "name": "茶席素笺",
+      "slug": "tea-room",
+      "htmlFile": "documents/tea-room.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-denim-journal",
+      "oldName": "丹宁旅行本",
+      "name": "丹宁旅行本",
+      "slug": "denim-journal",
+      "htmlFile": "documents/denim-journal.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-archive-folio",
+      "oldName": "档案折页",
+      "name": "档案折页",
+      "slug": "archive-folio",
+      "htmlFile": "documents/archive-folio.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-chamber-score",
+      "oldName": "室内乐谱",
+      "name": "室内乐谱",
+      "slug": "chamber-score",
+      "htmlFile": "documents/chamber-score.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-white-cube",
+      "oldName": "白盒子展厅",
+      "name": "白盒子展厅",
+      "slug": "white-cube",
+      "htmlFile": "documents/white-cube.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-contact-sheet",
+      "oldName": "红框接触印样",
+      "name": "红框接触印样",
+      "slug": "contact-sheet",
+      "htmlFile": "documents/contact-sheet.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-copper-architecture",
+      "oldName": "铜色建筑志",
+      "name": "铜色建筑志",
+      "slug": "copper-architecture",
+      "htmlFile": "documents/copper-architecture.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-cobalt-museum",
+      "oldName": "钴蓝博物馆",
+      "name": "钴蓝博物馆",
+      "slug": "cobalt-museum",
+      "htmlFile": "documents/cobalt-museum.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-airmail-postcard",
+      "oldName": "航空邮笺",
+      "name": "航空邮笺",
+      "slug": "airmail-postcard",
+      "htmlFile": "documents/airmail-postcard.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-violet-labbook",
+      "oldName": "紫罗兰实验簿",
+      "name": "紫罗兰实验簿",
+      "slug": "violet-labbook",
+      "htmlFile": "documents/violet-labbook.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-folded-zine",
+      "oldName": "折页独立刊",
+      "name": "折页独立刊",
+      "slug": "folded-zine",
+      "htmlFile": "documents/folded-zine.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-edition-electric-riso",
+      "oldName": "电光孔版印刷",
+      "name": "电光孔版印刷",
+      "slug": "electric-riso",
+      "htmlFile": "documents/electric-riso.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-3aac7f530c50",
+      "oldName": "自然疗愈：回归本真的健康生活",
+      "name": "三彩圆角",
+      "slug": "tricolor-rounded",
+      "htmlFile": "documents/tricolor-rounded.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-b103a179400b",
+      "oldName": "全频带阻塞干扰影视化分析",
+      "name": "墨灰分节",
+      "slug": "ink-gray-sections",
+      "htmlFile": "documents/ink-gray-sections.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-45a20f70feda",
+      "oldName": "其他 · template10",
+      "name": "香槟金笺",
+      "slug": "champagne-gold-paper",
+      "htmlFile": "documents/champagne-gold-paper.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-862bd94eceef",
+      "oldName": "徒步拐杖的真相",
+      "name": "蓝灰弧角",
+      "slug": "slate-blue-curves",
+      "htmlFile": "documents/slate-blue-curves.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-2b6fbb7e503b",
+      "oldName": "CrewAI 排版配置指南",
+      "name": "钴蓝圆角",
+      "slug": "cobalt-rounded",
+      "htmlFile": "documents/cobalt-rounded.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-347bbd4d52aa",
+      "oldName": "其他 · template4",
+      "name": "红蓝侧线",
+      "slug": "red-blue-rails",
+      "htmlFile": "documents/red-blue-rails.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-86b86f995cca",
+      "oldName": "虎扑|什么才叫人间尤物？",
+      "name": "紫韵图文",
+      "slug": "violet-photo-panels",
+      "htmlFile": "documents/violet-photo-panels.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-b1d2768c927f",
+      "oldName": "其他 · template6",
+      "name": "绛紫横线",
+      "slug": "plum-horizontal-rules",
+      "htmlFile": "documents/plum-horizontal-rules.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-fc952e8d640b",
+      "oldName": "公公给儿媳的陪嫁猫做三层榫卯床",
+      "name": "樱粉折页",
+      "slug": "cherry-pink-folio",
+      "htmlFile": "documents/cherry-pink-folio.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-86c80086ebd5",
+      "oldName": "其他 · template8",
+      "name": "海蓝卡片",
+      "slug": "ocean-blue-cards",
+      "htmlFile": "documents/ocean-blue-cards.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-15d91ebe4f26",
+      "oldName": "其他 · template9",
+      "name": "薄荷格栅",
+      "slug": "mint-grid",
+      "htmlFile": "documents/mint-grid.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-fd813e3df8d0",
+      "oldName": "娱乐圈内幕",
+      "name": "绯红圆卡",
+      "slug": "crimson-rounded-cards",
+      "htmlFile": "documents/crimson-rounded-cards.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-b8fe0c7ddffe",
+      "oldName": "第一章：南方来的绿信封",
+      "name": "青墨长笺",
+      "slug": "teal-ink-letter",
+      "htmlFile": "documents/teal-ink-letter.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-8a5cb33cbbba",
+      "oldName": "其他 · template13",
+      "name": "夜紫亮页",
+      "slug": "midnight-violet-pages",
+      "htmlFile": "documents/midnight-violet-pages.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-7837ce2d2d98",
+      "oldName": "武汉暴雨专题报道",
+      "name": "雨蓝分栏",
+      "slug": "rain-blue-columns",
+      "htmlFile": "documents/rain-blue-columns.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-fd0de906bf50",
+      "oldName": "其他 · template18",
+      "name": "灰蓝层页",
+      "slug": "gray-blue-layers",
+      "htmlFile": "documents/gray-blue-layers.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-e00f36e1c367",
+      "oldName": "其他 · template21",
+      "name": "浅灰圆框",
+      "slug": "light-gray-round-frame",
+      "htmlFile": "documents/light-gray-round-frame.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-ab5aa1f8e36c",
+      "oldName": "特朗普：洛杉矶骚乱是\"外国入侵\"",
+      "name": "深蓝白卡",
+      "slug": "navy-white-cards",
+      "htmlFile": "documents/navy-white-cards.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-b264aa657bb7",
+      "oldName": "本周热点 - 全球视角",
+      "name": "朱红线报",
+      "slug": "vermilion-news-lines",
+      "htmlFile": "documents/vermilion-news-lines.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-1ed22d77e9ba",
+      "oldName": "星辰大学周报",
+      "name": "学院蓝笺",
+      "slug": "academic-blue-letter",
+      "htmlFile": "documents/academic-blue-letter.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-9e6a899e7014",
+      "oldName": "情感与心理的平衡艺术",
+      "name": "青粉双调",
+      "slug": "teal-pink-duotone",
+      "htmlFile": "documents/teal-pink-duotone.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-d1220d0fcf3d",
+      "oldName": "那些年：数十载的光阴画卷",
+      "name": "银灰时光",
+      "slug": "silver-gray-timeline",
+      "htmlFile": "documents/silver-gray-timeline.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-313463a17e1e",
+      "oldName": "教育学习 · t1",
+      "name": "鸢尾圆卡",
+      "slug": "iris-rounded-cards",
+      "htmlFile": "documents/iris-rounded-cards.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-8722b23d6019",
+      "oldName": "全球视野",
+      "name": "藏蓝简报",
+      "slug": "navy-briefing",
+      "htmlFile": "documents/navy-briefing.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-f5eee48b2a81",
+      "oldName": "当代生活美学",
+      "name": "电蓝留白",
+      "slug": "electric-blue-space",
+      "htmlFile": "documents/electric-blue-space.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-3ac31a8c292c",
+      "oldName": "科技数码 · t1",
+      "name": "蓝桃拼色",
+      "slug": "blue-peach-panels",
+      "htmlFile": "documents/blue-peach-panels.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-9f2e6aa8cb0c",
+      "oldName": "寻味之旅 | 探索城市里的美食秘境",
+      "name": "森绿餐笺",
+      "slug": "forest-green-menu",
+      "htmlFile": "documents/forest-green-menu.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-51277cdd70b7",
+      "oldName": "立夏时节 | 回望北京的春天",
+      "name": "素粉叠卡",
+      "slug": "soft-pink-layered-cards",
+      "htmlFile": "documents/soft-pink-layered-cards.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-18137d753aff",
+      "oldName": "立夏时节 | 回望北京的春天",
+      "name": "夜粉叠卡",
+      "slug": "night-pink-layered-cards",
+      "htmlFile": "documents/night-pink-layered-cards.html",
+      "status": "重复，已删除",
+      "replacement": "aiwritex-html-51277cdd70b7",
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-6e26b9b87264",
+      "oldName": "职场进阶之道",
+      "name": "钢蓝双调",
+      "slug": "steel-blue-duotone",
+      "htmlFile": "documents/steel-blue-duotone.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "aiwritex-html-3b542ae5c377",
+      "oldName": "财经投资 · t1",
+      "name": "红蓝账页",
+      "slug": "red-blue-ledger",
+      "htmlFile": "documents/red-blue-ledger.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-wechat-teal",
+      "oldName": "青绿解读",
+      "name": "青绿解读",
+      "slug": "teal-editorial",
+      "htmlFile": "documents/teal-editorial.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-knowledge",
+      "oldName": "清爽知识型",
+      "name": "雾蓝提纲",
+      "slug": "mist-blue-outline",
+      "htmlFile": "documents/mist-blue-outline.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-magazine",
+      "oldName": "品牌杂志型",
+      "name": "米棕杂志",
+      "slug": "beige-brown-magazine",
+      "htmlFile": "documents/beige-brown-magazine.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-story",
+      "oldName": "温暖故事型",
+      "name": "暖棕叙事",
+      "slug": "warm-brown-narrative",
+      "htmlFile": "documents/warm-brown-narrative.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-minimal",
+      "oldName": "极简现代型",
+      "name": "朱红极简",
+      "slug": "vermilion-minimal",
+      "htmlFile": "documents/vermilion-minimal.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-opinion",
+      "oldName": "观点评论型",
+      "name": "米纸赤线",
+      "slug": "rice-paper-red-lines",
+      "htmlFile": "documents/rice-paper-red-lines.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-guide",
+      "oldName": "实用指南型",
+      "name": "青蓝序列",
+      "slug": "teal-blue-sequence",
+      "htmlFile": "documents/teal-blue-sequence.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-report",
+      "oldName": "数据报告型",
+      "name": "蓝灰报告",
+      "slug": "blue-gray-report",
+      "htmlFile": "documents/blue-gray-report.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-warm-feature",
+      "oldName": "暖金专题型",
+      "name": "暖金专题",
+      "slug": "warm-gold-feature",
+      "htmlFile": "documents/warm-gold-feature.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-essay",
+      "oldName": "人文随笔型",
+      "name": "米纸随笔",
+      "slug": "cream-paper-essay",
+      "htmlFile": "documents/cream-paper-essay.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-dark-editorial",
+      "oldName": "黑金序号型",
+      "name": "黑金序号",
+      "slug": "black-gold-numbers",
+      "htmlFile": "documents/black-gold-numbers.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-civic-explainer",
+      "oldName": "民生解读型",
+      "name": "橄榄金笺",
+      "slug": "olive-gold-paper",
+      "htmlFile": "documents/olive-gold-paper.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-tech-briefing",
+      "oldName": "科技公告型",
+      "name": "浅蓝公告",
+      "slug": "pale-blue-notice",
+      "htmlFile": "documents/pale-blue-notice.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-apricot-healing",
+      "oldName": "暖杏疗愈文",
+      "name": "暖杏便笺",
+      "slug": "warm-apricot-notes",
+      "htmlFile": "documents/warm-apricot-notes.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-rose-selflove",
+      "oldName": "玫瑰自爱文",
+      "name": "玫瑰题签",
+      "slug": "rose-title-labels",
+      "htmlFile": "documents/rose-title-labels.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-sage-calm",
+      "oldName": "墨绿松弛文",
+      "name": "墨绿留白",
+      "slug": "sage-green-space",
+      "htmlFile": "documents/sage-green-space.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-ai-workflow-lab",
+      "oldName": "AI工作流实录",
+      "name": "暗紫终端",
+      "slug": "dark-violet-terminal",
+      "htmlFile": "documents/dark-violet-terminal.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-opinion-stage",
+      "oldName": "赤色观点海报",
+      "name": "赤色海报",
+      "slug": "scarlet-poster",
+      "htmlFile": "documents/scarlet-poster.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-catalog-3-3-center-poster",
+      "oldName": "焦点公告",
+      "name": "橄榄居中",
+      "slug": "olive-centered",
+      "htmlFile": "documents/olive-centered.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-tech-briefing-offset",
+      "oldName": "科技观察",
+      "name": "蓝轨错列",
+      "slug": "blue-track-offset",
+      "htmlFile": "documents/blue-track-offset.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-opinion-manifesto",
+      "oldName": "观点宣言",
+      "name": "赤线大字",
+      "slug": "red-rule-display",
+      "htmlFile": "documents/red-rule-display.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-catalog-3-4-graphic-poster",
+      "oldName": "图形公告",
+      "name": "赭色双区",
+      "slug": "ochre-dual-panels",
+      "htmlFile": "documents/ochre-dual-panels.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-civic-explainer-gazette",
+      "oldName": "城市民生报",
+      "name": "棕金双线",
+      "slug": "brown-gold-double-rules",
+      "htmlFile": "documents/brown-gold-double-rules.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-report-data",
+      "oldName": "数据焦点",
+      "name": "蓝色焦点",
+      "slug": "blue-focus",
+      "htmlFile": "documents/blue-focus.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-report-data-ledger",
+      "oldName": "研究纪要",
+      "name": "靛蓝账页",
+      "slug": "indigo-ledger",
+      "htmlFile": "documents/indigo-ledger.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-report-dossier",
+      "oldName": "专题档案",
+      "name": "蓝灰卷宗",
+      "slug": "blue-gray-dossier",
+      "htmlFile": "documents/blue-gray-dossier.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-story-feature",
+      "oldName": "街巷纪事",
+      "name": "暖棕影叙",
+      "slug": "warm-brown-photo-story",
+      "htmlFile": "documents/warm-brown-photo-story.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-catalog-10-7-folio",
+      "oldName": "代码札记",
+      "name": "青墨等宽",
+      "slug": "teal-ink-monospace",
+      "htmlFile": "documents/teal-ink-monospace.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-knowledge-chapter-front",
+      "oldName": "阅读章节",
+      "name": "草绿扉页",
+      "slug": "grass-green-chapter",
+      "htmlFile": "documents/grass-green-chapter.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-knowledge-timeline",
+      "oldName": "学习路径",
+      "name": "雾蓝节点",
+      "slug": "mist-blue-nodes",
+      "htmlFile": "documents/mist-blue-nodes.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-minimal-poem",
+      "oldName": "静读诗页",
+      "name": "素纸窄页",
+      "slug": "plain-paper-narrow",
+      "htmlFile": "documents/plain-paper-narrow.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-essay-side-note",
+      "oldName": "页边随笔",
+      "name": "棕色页边",
+      "slug": "brown-margin-notes",
+      "htmlFile": "documents/brown-margin-notes.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-essay-long-letter",
+      "oldName": "一封长信",
+      "name": "暖纸长信",
+      "slug": "warm-paper-letter",
+      "htmlFile": "documents/warm-paper-letter.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-essay-columnist",
+      "oldName": "人物侧写",
+      "name": "米棕错列",
+      "slug": "beige-brown-offset",
+      "htmlFile": "documents/beige-brown-offset.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-report-exhibit",
+      "oldName": "数据展签",
+      "name": "米金展签",
+      "slug": "beige-gold-exhibit",
+      "htmlFile": "documents/beige-gold-exhibit.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-magazine-photo-spread",
+      "oldName": "生活画册",
+      "name": "草绿跨页",
+      "slug": "grass-green-spread",
+      "htmlFile": "documents/grass-green-spread.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-magazine-atlas",
+      "oldName": "草木图鉴",
+      "name": "墨绿图鉴",
+      "slug": "dark-green-atlas",
+      "htmlFile": "documents/dark-green-atlas.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-magazine-photo-cover",
+      "oldName": "影像封面刊",
+      "name": "素金影页",
+      "slug": "muted-gold-photo-pages",
+      "htmlFile": "documents/muted-gold-photo-pages.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-story-photo-essay",
+      "oldName": "旅途影记",
+      "name": "棕调影记",
+      "slug": "brown-photo-journal",
+      "htmlFile": "documents/brown-photo-journal.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-knowledge-image-note",
+      "oldName": "图说笔记",
+      "name": "青蓝图注",
+      "slug": "teal-blue-caption",
+      "htmlFile": "documents/teal-blue-caption.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-atelier-magazine-diptych",
+      "oldName": "双页相册",
+      "name": "米金双页",
+      "slug": "beige-gold-diptych",
+      "htmlFile": "documents/beige-gold-diptych.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-education",
+      "oldName": "教育·课堂笔记",
+      "name": "蓝墨扉页",
+      "slug": "blue-ink-chapter",
+      "htmlFile": "documents/blue-ink-chapter.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-fire",
+      "oldName": "消防·安全手册",
+      "name": "赤橙手册",
+      "slug": "red-orange-handbook",
+      "htmlFile": "documents/red-orange-handbook.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-recruitment",
+      "oldName": "招聘·岗位公告",
+      "name": "晴蓝分区",
+      "slug": "sky-blue-panels",
+      "htmlFile": "documents/sky-blue-panels.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-exam",
+      "oldName": "考试·备考清单",
+      "name": "褐金清单",
+      "slug": "brown-gold-checklist",
+      "htmlFile": "documents/brown-gold-checklist.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-training",
+      "oldName": "培训·课程路径",
+      "name": "松绿路径",
+      "slug": "pine-green-path",
+      "htmlFile": "documents/pine-green-path.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-ecommerce",
+      "oldName": "电商·商品橱窗",
+      "name": "琥珀图鉴",
+      "slug": "amber-atlas",
+      "htmlFile": "documents/amber-atlas.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-home",
+      "oldName": "家居·空间画册",
+      "name": "橄榄画册",
+      "slug": "olive-photo-book",
+      "htmlFile": "documents/olive-photo-book.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-tourism",
+      "oldName": "旅游·行旅手记",
+      "name": "青绿行笺",
+      "slug": "teal-travel-pages",
+      "htmlFile": "documents/teal-travel-pages.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-finance",
+      "oldName": "金融·市场观察",
+      "name": "藏蓝账页",
+      "slug": "navy-ledger",
+      "htmlFile": "documents/navy-ledger.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-beauty",
+      "oldName": "美容·护理专栏",
+      "name": "玫红细线",
+      "slug": "rose-red-fine-rules",
+      "htmlFile": "documents/rose-red-fine-rules.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-food",
+      "oldName": "美食·风味笔记",
+      "name": "焦糖图页",
+      "slug": "caramel-photo-pages",
+      "htmlFile": "documents/caramel-photo-pages.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-game",
+      "oldName": "游戏·版本情报",
+      "name": "暗青分区",
+      "slug": "dark-teal-panels",
+      "htmlFile": "documents/dark-teal-panels.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-pets",
+      "oldName": "萌宠·陪伴日记",
+      "name": "栗棕贴签",
+      "slug": "chestnut-labels",
+      "htmlFile": "documents/chestnut-labels.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-dance",
+      "oldName": "舞蹈·舞台记事",
+      "name": "绛紫舞页",
+      "slug": "plum-stage-pages",
+      "htmlFile": "documents/plum-stage-pages.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-environment",
+      "oldName": "环保·自然观察",
+      "name": "草绿档案",
+      "slug": "grass-green-archive",
+      "htmlFile": "documents/grass-green-archive.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-wedding",
+      "oldName": "婚礼·誓言信笺",
+      "name": "豆沙信笺",
+      "slug": "dusty-rose-letter",
+      "htmlFile": "documents/dusty-rose-letter.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-traffic",
+      "oldName": "交通·出行指南",
+      "name": "浅蓝轨线",
+      "slug": "pale-blue-track",
+      "htmlFile": "documents/pale-blue-track.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-books",
+      "oldName": "图书影音·文化评论",
+      "name": "青灰专栏",
+      "slug": "teal-gray-column",
+      "htmlFile": "documents/teal-gray-column.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-fresh",
+      "oldName": "小清新·青笺日常",
+      "name": "嫩绿轻笺",
+      "slug": "fresh-green-notes",
+      "htmlFile": "documents/fresh-green-notes.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-classical",
+      "oldName": "古风·水墨长卷",
+      "name": "宣纸水墨",
+      "slug": "rice-paper-ink",
+      "htmlFile": "documents/rice-paper-ink.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-spring",
+      "oldName": "春天·春日来信",
+      "name": "新绿春笺",
+      "slug": "spring-green-letter",
+      "htmlFile": "documents/spring-green-letter.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-summer",
+      "oldName": "夏天·海风画册",
+      "name": "海蓝双页",
+      "slug": "ocean-blue-diptych",
+      "htmlFile": "documents/ocean-blue-diptych.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-autumn",
+      "oldName": "秋天·秋色随记",
+      "name": "秋金侧记",
+      "slug": "autumn-gold-notes",
+      "htmlFile": "documents/autumn-gold-notes.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-winter",
+      "oldName": "冬天·冬日阅读",
+      "name": "冰蓝细框",
+      "slug": "ice-blue-fine-frame",
+      "htmlFile": "documents/ice-blue-fine-frame.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-festival",
+      "oldName": "传统节日·节庆长卷",
+      "name": "朱红金线",
+      "slug": "vermilion-gold-rules",
+      "htmlFile": "documents/vermilion-gold-rules.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-topic-solar-terms",
+      "oldName": "二十四节气·时序札记",
+      "name": "草绿时序",
+      "slug": "grass-green-season",
+      "htmlFile": "documents/grass-green-season.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-decor-leaf",
+      "oldName": "青叶信笺",
+      "name": "青叶信笺",
+      "slug": "green-leaf-letter",
+      "htmlFile": "documents/green-leaf-letter.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-decor-mist",
+      "oldName": "晨雾蓝",
+      "name": "晨雾蓝笺",
+      "slug": "morning-mist-blue",
+      "htmlFile": "documents/morning-mist-blue.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1419",
+      "oldName": "鎏金表彰",
+      "name": "红金桂冠",
+      "slug": "red-gold-laurel",
+      "htmlFile": "documents/red-gold-laurel.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1462",
+      "oldName": "热点蓝报",
+      "name": "点阵蓝报",
+      "slug": "blue-dot-news",
+      "htmlFile": "documents/blue-dot-news.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1433",
+      "oldName": "静简生活",
+      "name": "苔绿拼纸",
+      "slug": "moss-green-collage",
+      "htmlFile": "documents/moss-green-collage.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1499",
+      "oldName": "山河假日",
+      "name": "朱金山河",
+      "slug": "vermilion-gold-landscape",
+      "htmlFile": "documents/vermilion-gold-landscape.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1502",
+      "oldName": "小城漫游",
+      "name": "琥珀城图",
+      "slug": "amber-city-map",
+      "htmlFile": "documents/amber-city-map.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-909",
+      "oldName": "每日蓝讯",
+      "name": "浅蓝地球",
+      "slug": "pale-blue-globe",
+      "htmlFile": "documents/pale-blue-globe.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1422",
+      "oldName": "暖龄指南",
+      "name": "暖橙花纹",
+      "slug": "warm-orange-floral",
+      "htmlFile": "documents/warm-orange-floral.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1386",
+      "oldName": "黑白智界",
+      "name": "黑白几何",
+      "slug": "black-white-geometry",
+      "htmlFile": "documents/black-white-geometry.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1346",
+      "oldName": "职场第一课",
+      "name": "晴蓝阶梯",
+      "slug": "sky-blue-steps",
+      "htmlFile": "documents/sky-blue-steps.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1498",
+      "oldName": "产业新动能",
+      "name": "青蓝城影",
+      "slug": "teal-blue-city",
+      "htmlFile": "documents/teal-blue-city.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-404",
+      "oldName": "年度蓝图",
+      "name": "蓝色建筑",
+      "slug": "blue-architecture",
+      "htmlFile": "documents/blue-architecture.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1497",
+      "oldName": "逐风赛场",
+      "name": "橙蓝线稿",
+      "slug": "orange-blue-linework",
+      "htmlFile": "documents/orange-blue-linework.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1484",
+      "oldName": "桂月团圆",
+      "name": "月白金笺",
+      "slug": "moon-white-gold",
+      "htmlFile": "documents/moon-white-gold.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1356",
+      "oldName": "追风少年",
+      "name": "浅蓝跑道",
+      "slug": "pale-blue-runway",
+      "htmlFile": "documents/pale-blue-runway.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1424",
+      "oldName": "算力潮汐",
+      "name": "深蓝电路",
+      "slug": "deep-blue-circuit",
+      "htmlFile": "documents/deep-blue-circuit.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1483",
+      "oldName": "数创之翼",
+      "name": "蓝色天幕",
+      "slug": "blue-canopy",
+      "htmlFile": "documents/blue-canopy.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1397",
+      "oldName": "夏野研学",
+      "name": "青山云页",
+      "slug": "green-mountain-clouds",
+      "htmlFile": "documents/green-mountain-clouds.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1344",
+      "oldName": "企业晴蓝",
+      "name": "淡蓝金点",
+      "slug": "pale-blue-gold-dots",
+      "htmlFile": "documents/pale-blue-gold-dots.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1518",
+      "oldName": "十月慢信",
+      "name": "秋叶信纸",
+      "slug": "autumn-leaf-paper",
+      "htmlFile": "documents/autumn-leaf-paper.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1477",
+      "oldName": "家校花开",
+      "name": "暖金花笺",
+      "slug": "warm-gold-floral",
+      "htmlFile": "documents/warm-gold-floral.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1425",
+      "oldName": "晴空智能",
+      "name": "蓝金轨迹",
+      "slug": "blue-gold-tracks",
+      "htmlFile": "documents/blue-gold-tracks.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1341",
+      "oldName": "黑白建构",
+      "name": "灰阶建构",
+      "slug": "grayscale-structure",
+      "htmlFile": "documents/grayscale-structure.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1486",
+      "oldName": "北境秋行",
+      "name": "金色山峦",
+      "slug": "golden-mountains",
+      "htmlFile": "documents/golden-mountains.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    },
+    {
+      "id": "cw-html-aligned-1352",
+      "oldName": "向新出发",
+      "name": "蓝金阶梯",
+      "slug": "blue-gold-steps",
+      "htmlFile": "documents/blue-gold-steps.html",
+      "status": "保留；名称与三类文件引用一致",
+      "replacement": null,
+      "checks": "4组原尺寸全文证据SHA通过；保留项HTML、JSON、JPEG与已验收版本字节一致"
+    }
+  ],
+  "applicationPackageReleased": false
+}
