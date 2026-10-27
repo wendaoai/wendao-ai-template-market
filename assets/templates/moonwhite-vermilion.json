@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "cw-html-wechat-vermilion",
+  "type": "html-template",
+  "name": "月白朱红",
+  "layoutPrompt": "[cw-imported-style:{\"root\":\"box-sizing:border-box;width:100%;padding:16px;background-color:#ffffff;color:#222222;font-family:-apple-system,BlinkMacSystemFont,\\\"PingFang SC\\\",\\\"Microsoft YaHei\\\",sans-serif;font-size:17px;line-height:1.75;letter-spacing:0.5px;overflow-wrap:anywhere;\",\"elements\":{\"h1\":\"margin:0 0 24px;color:#222222;font-size:26px;font-weight:700;line-height:1.4;\",\"h2\":\"margin:32px 0 24px;color:#bb3326;font-size:50px;font-weight:400;line-height:1.3;letter-spacing:2px;text-align:center;overflow-wrap:anywhere;\",\"h3\":\"margin:32px 0 24px;color:#bb3326;font-size:50px;font-weight:400;line-height:1.3;letter-spacing:2px;text-align:center;overflow-wrap:anywhere;\",\"h4\":\"margin:28px 0 20px;color:#222222;font-size:20px;font-weight:700;line-height:1.6;\",\"p\":\"margin:0 0 24px;color:#222222;font-size:17px;line-height:1.75;text-align:justify;\",\"strong\":\"font-weight:700;color:inherit;\",\"em\":\"font-style:italic;\",\"a\":\"color:#576b95;text-decoration:underline;overflow-wrap:anywhere;\",\"blockquote\":\"margin:24px 0;padding:0;color:#222222;font-size:17px;line-height:1.75;\",\"ul\":\"margin:0 0 24px;padding-left:24px;\",\"ol\":\"margin:0 0 24px;padding-left:24px;\",\"li\":\"margin:0 0 10px;line-height:1.75;\",\"img\":\"display:block;width:100%;max-width:100%;height:auto;margin:24px auto;\",\"table\":\"width:100%;table-layout:fixed;border-collapse:collapse;margin:24px 0;font-size:15px;\",\"th\":\"border:1px solid #dddddd;padding:10px;text-align:left;font-weight:700;word-break:break-word;\",\"td\":\"border:1px solid #dddddd;padding:10px;word-break:break-word;\",\"pre\":\"margin:24px 0;padding:16px;background-color:#f7f7f7;white-space:pre-wrap;overflow-wrap:anywhere;\",\"code\":\"font-family:Menlo,Consolas,monospace;font-size:14px;\",\"hr\":\"border:0;border-top:1px solid #dddddd;margin:32px 0;\"}}]",
+  "nativePreset": {
+    "id": "wechat-vermilion",
+    "label": "月白朱红",
+    "category": "简约清爽",
+    "topics": [
+      "新闻",
+      "文艺",
+      "简约"
+    ],
+    "instruction": "黑色标题左齐，正文导出遵循独立标题规则。\n白底黑字，首段与正文同字号。\n保留原有章节，推荐使用 01、02 等纯数字标题，朱红大号居中；不自动增加编号。\n开放白底引用，保留原有文字。\n保留原有加粗，正文两端对齐，无背景卡片。\n正文自然结束，不添加署名、口号或推荐链接。",
+    "keywords": "公众号 朱红 数字章节 评论 情感 长文",
+    "summary": "白底黑字、朱红大号章节，17px 正文与 24px 段距，适合数字分节的评论和长文。",
+    "visualFamily": "editorial",
+    "supportsImages": true,
+    "layoutPrompt": "[cw-imported-style:{\"root\":\"box-sizing:border-box;width:100%;padding:16px;background-color:#ffffff;color:#222222;font-family:-apple-system,BlinkMacSystemFont,\\\"PingFang SC\\\",\\\"Microsoft YaHei\\\",sans-serif;font-size:17px;line-height:1.75;letter-spacing:0.5px;overflow-wrap:anywhere;\",\"elements\":{\"h1\":\"margin:0 0 24px;color:#222222;font-size:26px;font-weight:700;line-height:1.4;\",\"h2\":\"margin:32px 0 24px;color:#bb3326;font-size:50px;font-weight:400;line-height:1.3;letter-spacing:2px;text-align:center;overflow-wrap:anywhere;\",\"h3\":\"margin:32px 0 24px;color:#bb3326;font-size:50px;font-weight:400;line-height:1.3;letter-spacing:2px;text-align:center;overflow-wrap:anywhere;\",\"h4\":\"margin:28px 0 20px;color:#222222;font-size:20px;font-weight:700;line-height:1.6;\",\"p\":\"margin:0 0 24px;color:#222222;font-size:17px;line-height:1.75;text-align:justify;\",\"strong\":\"font-weight:700;color:inherit;\",\"em\":\"font-style:italic;\",\"a\":\"color:#576b95;text-decoration:underline;overflow-wrap:anywhere;\",\"blockquote\":\"margin:24px 0;padding:0;color:#222222;font-size:17px;line-height:1.75;\",\"ul\":\"margin:0 0 24px;padding-left:24px;\",\"ol\":\"margin:0 0 24px;padding-left:24px;\",\"li\":\"margin:0 0 10px;line-height:1.75;\",\"img\":\"display:block;width:100%;max-width:100%;height:auto;margin:24px auto;\",\"table\":\"width:100%;table-layout:fixed;border-collapse:collapse;margin:24px 0;font-size:15px;\",\"th\":\"border:1px solid #dddddd;padding:10px;text-align:left;font-weight:700;word-break:break-word;\",\"td\":\"border:1px solid #dddddd;padding:10px;word-break:break-word;\",\"pre\":\"margin:24px 0;padding:16px;background-color:#f7f7f7;white-space:pre-wrap;overflow-wrap:anywhere;\",\"code\":\"font-family:Menlo,Consolas,monospace;font-size:14px;\",\"hr\":\"border:0;border-top:1px solid #dddddd;margin:32px 0;\"}}]",
+    "design": {
+      "id": "wechat-vermilion",
+      "label": "月白朱红",
+      "category": "观点",
+      "visualFamily": "editorial",
+      "keywords": "公众号 朱红 数字章节 评论 情感 长文",
+      "summary": "白底黑字、朱红大号章节，17px 正文与 24px 段距，适合数字分节的评论和长文。",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#ffffff",
+        "ink": "#222222",
+        "muted": "#777777",
+        "accent": "#bb3326",
+        "panel": "#ffffff"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 26,
+        "titleWeight": 700,
+        "bodySize": 17,
+        "lineHeight": 1.75,
+        "paragraphGap": 24
+      },
+      "rules": {
+        "title": "黑色标题左齐，正文导出遵循独立标题规则。",
+        "lead": "白底黑字，首段与正文同字号。",
+        "section": "保留原有章节，推荐使用 01、02 等纯数字标题，朱红大号居中；不自动增加编号。",
+        "quote": "开放白底引用，保留原有文字。",
+        "emphasis": "保留原有加粗，正文两端对齐，无背景卡片。",
+        "ending": "正文自然结束，不添加署名、口号或推荐链接。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          6,
+          70,
+          12,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          22,
+          70,
+          10,
+          "plain",
+          "left"
+        ],
+        [
+          "heading",
+          31,
+          37,
+          24,
+          12,
+          "large",
+          "center"
+        ],
+        [
+          "body",
+          8,
+          54,
+          70,
+          16,
+          "plain",
+          "left"
+        ],
+        [
+          "ending",
+          8,
+          94,
+          70,
+          10,
+          "plain",
+          "left"
+        ]
+      ]
+    }
+  },
+  "original": {
+    "id": "wechat-vermilion",
+    "label": "月白朱红",
+    "category": "观点",
+    "topics": [
+      "新闻",
+      "文艺",
+      "简约"
+    ],
+    "instruction": "黑色标题左齐，正文导出遵循独立标题规则。\n白底黑字，首段与正文同字号。\n保留原有章节，推荐使用 01、02 等纯数字标题，朱红大号居中；不自动增加编号。\n开放白底引用，保留原有文字。\n保留原有加粗，正文两端对齐，无背景卡片。\n正文自然结束，不添加署名、口号或推荐链接。",
+    "keywords": "公众号 朱红 数字章节 评论 情感 长文",
+    "summary": "白底黑字、朱红大号章节，17px 正文与 24px 段距，适合数字分节的评论和长文。",
+    "visualFamily": "editorial",
+    "supportsImages": true,
+    "layoutPrompt": "[cw-imported-style:{\"root\":\"box-sizing:border-box;width:100%;padding:16px;background-color:#ffffff;color:#222222;font-family:-apple-system,BlinkMacSystemFont,\\\"PingFang SC\\\",\\\"Microsoft YaHei\\\",sans-serif;font-size:17px;line-height:1.75;letter-spacing:0.5px;overflow-wrap:anywhere;\",\"elements\":{\"h1\":\"margin:0 0 24px;color:#222222;font-size:26px;font-weight:700;line-height:1.4;\",\"h2\":\"margin:32px 0 24px;color:#bb3326;font-size:50px;font-weight:400;line-height:1.3;letter-spacing:2px;text-align:center;overflow-wrap:anywhere;\",\"h3\":\"margin:32px 0 24px;color:#bb3326;font-size:50px;font-weight:400;line-height:1.3;letter-spacing:2px;text-align:center;overflow-wrap:anywhere;\",\"h4\":\"margin:28px 0 20px;color:#222222;font-size:20px;font-weight:700;line-height:1.6;\",\"p\":\"margin:0 0 24px;color:#222222;font-size:17px;line-height:1.75;text-align:justify;\",\"strong\":\"font-weight:700;color:inherit;\",\"em\":\"font-style:italic;\",\"a\":\"color:#576b95;text-decoration:underline;overflow-wrap:anywhere;\",\"blockquote\":\"margin:24px 0;padding:0;color:#222222;font-size:17px;line-height:1.75;\",\"ul\":\"margin:0 0 24px;padding-left:24px;\",\"ol\":\"margin:0 0 24px;padding-left:24px;\",\"li\":\"margin:0 0 10px;line-height:1.75;\",\"img\":\"display:block;width:100%;max-width:100%;height:auto;margin:24px auto;\",\"table\":\"width:100%;table-layout:fixed;border-collapse:collapse;margin:24px 0;font-size:15px;\",\"th\":\"border:1px solid #dddddd;padding:10px;text-align:left;font-weight:700;word-break:break-word;\",\"td\":\"border:1px solid #dddddd;padding:10px;word-break:break-word;\",\"pre\":\"margin:24px 0;padding:16px;background-color:#f7f7f7;white-space:pre-wrap;overflow-wrap:anywhere;\",\"code\":\"font-family:Menlo,Consolas,monospace;font-size:14px;\",\"hr\":\"border:0;border-top:1px solid #dddddd;margin:32px 0;\"}}]",
+    "design": {
+      "id": "wechat-vermilion",
+      "label": "月白朱红",
+      "category": "观点",
+      "visualFamily": "editorial",
+      "keywords": "公众号 朱红 数字章节 评论 情感 长文",
+      "summary": "白底黑字、朱红大号章节，17px 正文与 24px 段距，适合数字分节的评论和长文。",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#ffffff",
+        "ink": "#222222",
+        "muted": "#777777",
+        "accent": "#bb3326",
+        "panel": "#ffffff"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 26,
+        "titleWeight": 700,
+        "bodySize": 17,
+        "lineHeight": 1.75,
+        "paragraphGap": 24
+      },
+      "rules": {
+        "title": "黑色标题左齐，正文导出遵循独立标题规则。",
+        "lead": "白底黑字，首段与正文同字号。",
+        "section": "保留原有章节，推荐使用 01、02 等纯数字标题，朱红大号居中；不自动增加编号。",
+        "quote": "开放白底引用，保留原有文字。",
+        "emphasis": "保留原有加粗，正文两端对齐，无背景卡片。",
+        "ending": "正文自然结束，不添加署名、口号或推荐链接。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          6,
+          70,
+          12,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          22,
+          70,
+          10,
+          "plain",
+          "left"
+        ],
+        [
+          "heading",
+          31,
+          37,
+          24,
+          12,
+          "large",
+          "center"
+        ],
+        [
+          "body",
+          8,
+          54,
+          70,
+          16,
+          "plain",
+          "left"
+        ],
+        [
+          "ending",
+          8,
+          94,
+          70,
+          10,
+          "plain",
+          "left"
+        ]
+      ]
+    }
+  },
+  "html": "<section style=\"box-sizing: border-box; width: 100%; padding: 16px; background-color: #ffffff; color: #222222; font-family: -apple-system,BlinkMacSystemFont,&quot;PingFang SC&quot;,&quot;Microsoft YaHei&quot;,sans-serif; font-size: 17px; line-height: 1.75; letter-spacing: 0.5px; overflow-wrap: anywhere\"><section><p style=\"margin: 0 0 24px; color: #222222; font-size: 17px; line-height: 1.75; text-align: justify\">文章的第一眼，决定读者愿不愿意停下来。好排版让观点先被看见，再让细节慢慢展开。</p><h2 style=\"margin: 32px 0 24px; color: #bb3326; font-size: 50px; font-weight: 400; line-height: 1.3; letter-spacing: 2px; text-align: center; overflow-wrap: anywhere\">01</h2><p style=\"margin: 0 0 24px; color: #222222; font-size: 17px; line-height: 1.75; text-align: justify\">标题需要一个清楚的重心。<strong style=\"font-weight: 700; color: inherit\">重点句只强调一次</strong>，其余正文让段落长度、行距和留白承担节奏。</p><blockquote style=\"margin: 24px 0; padding: 0; color: #222222; font-size: 17px; line-height: 1.75\"><p style=\"margin: 0 0 24px; color: #222222; font-size: 17px; line-height: 1.75; text-align: justify\">排版的任务，是把内容的关系呈现出来。</p></blockquote><p style=\"margin: 0 0 24px; color: #222222; font-size: 17px; line-height: 1.75; text-align: justify\">每种风格都应该有自己的声音，同时让正文保持完整、清楚和可读。</p><h2 style=\"margin: 32px 0 24px; color: #bb3326; font-size: 50px; font-weight: 400; line-height: 1.3; letter-spacing: 2px; text-align: center; overflow-wrap: anywhere\">02</h2><ul style=\"margin: 0 0 24px; padding-left: 24px\"><li style=\"margin: 0 0 10px; line-height: 1.75\">标题是否有独立的视觉重心</li><li style=\"margin: 0 0 10px; line-height: 1.75\">章节之间是否留出呼吸空间</li><li style=\"margin: 0 0 10px; line-height: 1.75\">重点是否与普通正文形成清楚层级</li></ul><table style=\"width: 100%; table-layout: fixed; border-collapse: collapse; margin: 24px 0; font-size: 15px\"><thead><tr><th style=\"border: 1px solid #dddddd; padding: 10px; text-align: left; font-weight: 700; word-break: break-word\">检查项</th><th style=\"border: 1px solid #dddddd; padding: 10px; text-align: left; font-weight: 700; word-break: break-word\">观察方式</th></tr></thead><tbody><tr><td style=\"border: 1px solid #dddddd; padding: 10px; word-break: break-word\">标题</td><td style=\"border: 1px solid #dddddd; padding: 10px; word-break: break-word\">第一眼能否找到主题</td></tr><tr><td style=\"border: 1px solid #dddddd; padding: 10px; word-break: break-word\">正文</td><td style=\"border: 1px solid #dddddd; padding: 10px; word-break: break-word\">是否能够连续阅读</td></tr><tr><td style=\"border: 1px solid #dddddd; padding: 10px; word-break: break-word\">引用</td><td style=\"border: 1px solid #dddddd; padding: 10px; word-break: break-word\">是否与作者叙述区分</td></tr></tbody></table><h2 style=\"margin: 32px 0 24px; color: #bb3326; font-size: 50px; font-weight: 400; line-height: 1.3; letter-spacing: 2px; text-align: center; overflow-wrap: anywhere\">03</h2><p style=\"margin: 0 0 24px; color: #222222; font-size: 17px; line-height: 1.75; text-align: justify\">报纸用硬边栏线建立秩序，杂志用大留白放慢速度，信笺让段落像一次自然的交谈。</p><p style=\"margin: 0 0 24px; color: #222222; font-size: 17px; line-height: 1.75; text-align: justify\">一个完整的句子，不应该为了装饰被删掉。一张原有的表格，也不应该被换成没有事实来源的数字。</p><p style=\"margin: 0 0 24px; color: #222222; font-size: 17px; line-height: 1.75; text-align: justify\">读完之后，留下一个清楚的观点，比留下许多重复的色块更有价值。</p></section></section>"
+}
