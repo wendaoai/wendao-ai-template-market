@@ -1,14 +1,14 @@
 {
   "schemaVersion": 2,
   "type": "html-templates",
-  "version": "1.3.6",
+  "version": "1.3.7",
   "resources": [
     {
       "id": "cw-html-wechat-vermilion",
       "type": "html-template",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "name": "月白朱红",
-      "description": "白底黑字、朱红大号章节，17px 正文与 24px 段距，适合数字分节的评论和长文。",
+      "description": "白底黑字、朱红大号章节，17px 正文与 24px 段距，自动将文字章节显示为 01、02 等数字，适合评论和长文。 需要支持数字章节排版的新版狐文。",
       "tags": [
         "白底黑字",
         "数字章节",
@@ -18,27 +18,28 @@
       ],
       "assetPath": "assets/templates/moonwhite-vermilion.json",
       "previewPath": "previews/templates/moonwhite-vermilion.jpg",
-      "byteSize": 15238,
-      "previewByteSize": 98473,
-      "sha256": "f6d80e72d36a1dcc9b595a79918e90b1561938aca273ecbcefaafa72f38375a2",
-      "previewSha256": "320dfceddc5c23fee0c92023f534b6204f622f678e29f4f6cd5db7df1e4f511a",
+      "byteSize": 15694,
+      "previewByteSize": 86682,
+      "sha256": "be248006eec760411e7d96b1fdb9c9438a4186909ae07ecc72e23758d7309601",
+      "previewSha256": "43db2613eaf6ec4df39afb2803643a3cfd6c5828e44004712f5c2ba17d081801",
       "mimeType": "application/json",
       "previewMimeType": "image/jpeg",
       "license": "workbench-original",
       "attribution": "狐文排版模板；样式参考用户提供的公众号页面，未收录原文与素材",
       "featured": true,
-      "updatedAt": "2026-10-27T07:34:16.163Z",
+      "updatedAt": "2026-10-27T15:53:09+08:00",
       "details": {
         "category": "简约清爽",
         "categoryId": "minimal",
         "compatible": true,
-        "adaptation": "imported-style-v1",
+        "adaptation": "workbench-imported-style-v2",
         "supportsImages": true,
         "backgroundKind": "none",
         "originalPresetId": "wechat-vermilion",
         "documentPath": "documents/moonwhite-vermilion.html",
         "slug": "moonwhite-vermilion",
-        "sourceCategory": "简约清爽"
+        "sourceCategory": "简约清爽",
+        "compatibilityNote": "需升级至支持数字章节排版的新版狐文；旧版应用无法安装此版本。"
       }
     },
     {
