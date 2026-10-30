@@ -1,12 +1,12 @@
 {
   "schemaVersion": 2,
   "type": "html-templates",
-  "version": "1.3.9",
+  "version": "1.3.10",
   "resources": [
     {
       "id": "cw-html-wechat-cream-home",
       "type": "html-template",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "name": "奶油中古",
       "description": "暖米白底、居中导语、椭圆编号与右齐章节，搭配全宽图片，适合家居案例、空间设计和生活图文。 需使用支持章节编号槽位的新版狐文。原文 SVG 自动轮播和横滑相册适配为静态顺序图片，纹理背景改为米白底；不包含原文照片、品牌及联系方式。",
       "tags": [
@@ -18,15 +18,15 @@
       "assetPath": "assets/templates/cream-vintage-home.json",
       "previewPath": "previews/templates/cream-vintage-home.jpg",
       "byteSize": 27949,
-      "previewByteSize": 245335,
+      "previewByteSize": 292960,
       "sha256": "22c51cd44cf520a571ce086b8a32396540e17d7dd3ba5a824c80a19cca9333d4",
-      "previewSha256": "1c3fc1e23a8a8996fb7eb559b039a76a15dd37e43e6c04c6268107333fde7421",
+      "previewSha256": "30e085c2c8f4f9f1878f6be05395f8d0696408a48352fa7d40ba7aa9628c2f0e",
       "mimeType": "application/json",
       "previewMimeType": "image/jpeg",
       "license": "workbench-original",
       "attribution": "参考用户提供的飞墨设计法式中古家居文章排版，由狐文重构；不包含原文文案、图片及品牌素材。",
       "featured": false,
-      "updatedAt": "2026-10-30T03:32:21.355Z",
+      "updatedAt": "2026-10-30T12:44:37+08:00",
       "details": {
         "categoryId": "editorial",
         "category": "杂志图文",
