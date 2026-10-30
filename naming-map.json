@@ -1,5 +1,14 @@
 [
   {
+    "id": "cw-html-wechat-cream-home",
+    "oldName": "奶油中古",
+    "name": "奶油中古",
+    "slug": "cream-vintage-home",
+    "assetPath": "assets/templates/cream-vintage-home.json",
+    "previewPath": "previews/templates/cream-vintage-home.jpg",
+    "documentPath": "documents/cream-vintage-home.html"
+  },
+  {
     "id": "cw-html-edition-cotton-book",
     "oldName": "棉纸书房",
     "name": "棉纸书房",
@@ -1555,5 +1564,14 @@
     "documentPath": "documents/blue-gold-steps.html",
     "assetPath": "assets/templates/blue-gold-steps.json",
     "previewPath": "previews/templates/blue-gold-steps.jpg"
+  },
+  {
+    "id": "cw-html-wechat-vermilion",
+    "oldName": "月白朱红",
+    "name": "月白朱红",
+    "slug": "moonwhite-vermilion",
+    "assetPath": "assets/templates/moonwhite-vermilion.json",
+    "previewPath": "previews/templates/moonwhite-vermilion.jpg",
+    "documentPath": "documents/moonwhite-vermilion.html"
   }
 ]
