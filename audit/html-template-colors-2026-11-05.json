@@ -1,0 +1,337 @@
+{
+  "version": "1.3.12",
+  "generatedAt": "2026-11-05T12:52:00+08:00",
+  "resources": {
+    "html": 175,
+    "markdownUnchanged": 24,
+    "imageUnchanged": 80
+  },
+  "reusableFramesProcessed": 582,
+  "source": {
+    "templates": 175,
+    "errors": 0,
+    "cases": 700,
+    "manualReviewTemplates": 71,
+    "textLossTemplates": 0,
+    "riskTemplates": 0,
+    "clippingTemplates": 0,
+    "unprotectedTemplates": 0
+  },
+  "installedAppliedSavedRefreshed": 350,
+  "export": {
+    "templates": 350,
+    "errors": 0,
+    "cases": 2800,
+    "manualReviewTemplates": 142,
+    "textLossTemplates": 0,
+    "riskTemplates": 0,
+    "clippingTemplates": 0,
+    "unprotectedTemplates": 0
+  },
+  "repairs": [
+    "Full-width heading with horizontal margins in violet-photo-panels.",
+    "Explicit quote text color in academic-blue-letter.",
+    "Explicit fallback h3/h4 ink in academic-blue-letter, teal-ink-letter and cherry-pink-folio."
+  ],
+  "preserved": [
+    "Stable IDs and original upstream attribution objects",
+    "Source text, image URLs and embedded GIFs",
+    "Markdown/image catalogs and assets",
+    "Shared sample photo bytes"
+  ],
+  "manualReview": [
+    {
+      "id": "cw-html-edition-blueprint-studio",
+      "name": "蓝图设计室"
+    },
+    {
+      "id": "cw-html-edition-ruled-schoolbook",
+      "name": "横线练习簿"
+    },
+    {
+      "id": "cw-html-edition-vinyl-jazz",
+      "name": "黑金唱片"
+    },
+    {
+      "id": "cw-html-edition-sonar-console",
+      "name": "深海声呐"
+    },
+    {
+      "id": "cw-html-edition-terminal-log",
+      "name": "终端日志"
+    },
+    {
+      "id": "cw-html-edition-pixel-checkpoint",
+      "name": "像素存档点"
+    },
+    {
+      "id": "cw-html-edition-midnight-cinema",
+      "name": "午夜电影票"
+    },
+    {
+      "id": "cw-html-edition-indigo-planetarium",
+      "name": "靛蓝天文馆"
+    },
+    {
+      "id": "cw-html-edition-bauhaus-workshop",
+      "name": "包豪斯工坊"
+    },
+    {
+      "id": "cw-html-edition-ink-comic",
+      "name": "黑白漫画格"
+    },
+    {
+      "id": "cw-html-edition-poolside-wave",
+      "name": "泳池边来信"
+    },
+    {
+      "id": "cw-html-edition-peach-horizon",
+      "name": "蜜桃地平线"
+    },
+    {
+      "id": "cw-html-edition-botanical-specimen",
+      "name": "植物标本册"
+    },
+    {
+      "id": "cw-html-edition-alpine-fog",
+      "name": "山间雾信"
+    },
+    {
+      "id": "cw-html-edition-rainy-window",
+      "name": "听雨窗边"
+    },
+    {
+      "id": "cw-html-edition-ocean-cartography",
+      "name": "海图航线"
+    },
+    {
+      "id": "cw-html-edition-forest-lantern",
+      "name": "林间灯火"
+    },
+    {
+      "id": "cw-html-edition-autumn-collection",
+      "name": "秋叶收集册"
+    },
+    {
+      "id": "cw-html-edition-tea-room",
+      "name": "茶席素笺"
+    },
+    {
+      "id": "cw-html-edition-copper-architecture",
+      "name": "铜色建筑志"
+    },
+    {
+      "id": "cw-html-edition-violet-labbook",
+      "name": "紫罗兰实验簿"
+    },
+    {
+      "id": "cw-html-edition-folded-zine",
+      "name": "折页独立刊"
+    },
+    {
+      "id": "cw-html-edition-electric-riso",
+      "name": "电光孔版印刷"
+    },
+    {
+      "id": "aiwritex-html-b103a179400b",
+      "name": "墨灰分节"
+    },
+    {
+      "id": "aiwritex-html-45a20f70feda",
+      "name": "香槟金笺"
+    },
+    {
+      "id": "aiwritex-html-862bd94eceef",
+      "name": "蓝灰弧角"
+    },
+    {
+      "id": "aiwritex-html-86b86f995cca",
+      "name": "紫韵图文"
+    },
+    {
+      "id": "aiwritex-html-b1d2768c927f",
+      "name": "绛紫横线"
+    },
+    {
+      "id": "aiwritex-html-fc952e8d640b",
+      "name": "樱粉折页"
+    },
+    {
+      "id": "aiwritex-html-86c80086ebd5",
+      "name": "海蓝卡片"
+    },
+    {
+      "id": "aiwritex-html-15d91ebe4f26",
+      "name": "薄荷格栅"
+    },
+    {
+      "id": "aiwritex-html-fd813e3df8d0",
+      "name": "绯红圆卡"
+    },
+    {
+      "id": "aiwritex-html-e00f36e1c367",
+      "name": "浅灰圆框"
+    },
+    {
+      "id": "aiwritex-html-ab5aa1f8e36c",
+      "name": "深蓝白卡"
+    },
+    {
+      "id": "aiwritex-html-b264aa657bb7",
+      "name": "朱红线报"
+    },
+    {
+      "id": "aiwritex-html-1ed22d77e9ba",
+      "name": "学院蓝笺"
+    },
+    {
+      "id": "aiwritex-html-9e6a899e7014",
+      "name": "青粉双调"
+    },
+    {
+      "id": "aiwritex-html-d1220d0fcf3d",
+      "name": "银灰时光"
+    },
+    {
+      "id": "aiwritex-html-313463a17e1e",
+      "name": "鸢尾圆卡"
+    },
+    {
+      "id": "aiwritex-html-8722b23d6019",
+      "name": "藏蓝简报"
+    },
+    {
+      "id": "aiwritex-html-f5eee48b2a81",
+      "name": "电蓝留白"
+    },
+    {
+      "id": "aiwritex-html-3ac31a8c292c",
+      "name": "蓝桃拼色"
+    },
+    {
+      "id": "aiwritex-html-51277cdd70b7",
+      "name": "素粉叠卡"
+    },
+    {
+      "id": "aiwritex-html-6e26b9b87264",
+      "name": "钢蓝双调"
+    },
+    {
+      "id": "aiwritex-html-3b542ae5c377",
+      "name": "红蓝账页"
+    },
+    {
+      "id": "cw-html-decor-leaf",
+      "name": "青叶信笺"
+    },
+    {
+      "id": "cw-html-decor-mist",
+      "name": "晨雾蓝笺"
+    },
+    {
+      "id": "cw-html-aligned-1419",
+      "name": "红金桂冠"
+    },
+    {
+      "id": "cw-html-aligned-1462",
+      "name": "点阵蓝报"
+    },
+    {
+      "id": "cw-html-aligned-1433",
+      "name": "苔绿拼纸"
+    },
+    {
+      "id": "cw-html-aligned-1499",
+      "name": "朱金山河"
+    },
+    {
+      "id": "cw-html-aligned-1502",
+      "name": "琥珀城图"
+    },
+    {
+      "id": "cw-html-aligned-909",
+      "name": "浅蓝地球"
+    },
+    {
+      "id": "cw-html-aligned-1422",
+      "name": "暖橙花纹"
+    },
+    {
+      "id": "cw-html-aligned-1386",
+      "name": "黑白几何"
+    },
+    {
+      "id": "cw-html-aligned-1346",
+      "name": "晴蓝阶梯"
+    },
+    {
+      "id": "cw-html-aligned-1498",
+      "name": "青蓝城影"
+    },
+    {
+      "id": "cw-html-aligned-404",
+      "name": "蓝色建筑"
+    },
+    {
+      "id": "cw-html-aligned-1497",
+      "name": "橙蓝线稿"
+    },
+    {
+      "id": "cw-html-aligned-1484",
+      "name": "月白金笺"
+    },
+    {
+      "id": "cw-html-aligned-1356",
+      "name": "浅蓝跑道"
+    },
+    {
+      "id": "cw-html-aligned-1424",
+      "name": "深蓝电路"
+    },
+    {
+      "id": "cw-html-aligned-1483",
+      "name": "蓝色天幕"
+    },
+    {
+      "id": "cw-html-aligned-1397",
+      "name": "青山云页"
+    },
+    {
+      "id": "cw-html-aligned-1344",
+      "name": "淡蓝金点"
+    },
+    {
+      "id": "cw-html-aligned-1518",
+      "name": "秋叶信纸"
+    },
+    {
+      "id": "cw-html-aligned-1477",
+      "name": "暖金花笺"
+    },
+    {
+      "id": "cw-html-aligned-1425",
+      "name": "蓝金轨迹"
+    },
+    {
+      "id": "cw-html-aligned-1341",
+      "name": "灰阶建构"
+    },
+    {
+      "id": "cw-html-aligned-1486",
+      "name": "金色山峦"
+    },
+    {
+      "id": "cw-html-aligned-1352",
+      "name": "蓝金阶梯"
+    }
+  ],
+  "limitations": [
+    "Dark checks use a browser opt-out model, not a native WeChat client.",
+    "Image/gradient text contrast is unresolved by the automated color calculation.",
+    "Dynamically inserted article text still requires client export protection; resource markup alone does not protect every generated descendant.",
+    "Historical article snapshots require updating the template and applying it again.",
+    "Existing offline-v1.1.0 ZIPs unchanged; offline publication blocked by unrelated prompt catalog model/font validation."
+  ],
+  "nativeWechatVerified": false,
+  "appPackageReleased": false
+}

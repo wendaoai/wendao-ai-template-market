@@ -1,0 +1,9 @@
+{
+  "name": "wendao-ai-template-market",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "validate": "node scripts/validate-market.mjs",
+    "sync-index": "node scripts/sync-index.mjs"
+  }
+}
