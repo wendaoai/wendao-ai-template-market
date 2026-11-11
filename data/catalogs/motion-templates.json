@@ -1,0 +1,304 @@
+{
+  "schemaVersion": 2,
+  "type": "motion-templates",
+  "version": "1.0.0",
+  "resources": [
+    {
+      "id": "motion-template-cute-character-lyric-mv",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "萌系角色歌词 MV",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/cute-character-lyric-mv.json",
+      "byteSize": 484023,
+      "sha256": "1b9d4757cc9155fca1e227234e866ada027c547dddeacb189bfe19952d1f8752",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/cute-character-lyric-mv.png",
+      "previewByteSize": 5741,
+      "previewSha256": "c8621dccae31d5c412b3f40a572bb1199570e10d455ef874e333a620a14ad272",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "cute-character-lyric-mv",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic",
+        "payloadKind": "native-document"
+      }
+    },
+    {
+      "id": "motion-template-documentary",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "光影纪录片",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/documentary.json",
+      "byteSize": 189253,
+      "sha256": "9fcb60c9369b749b41a53c072b1fde28addcc5162436ca90f495d3b441f75a3b",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/documentary.png",
+      "previewByteSize": 5740,
+      "previewSha256": "dac1e9df9f836b1a6d7db9359af4202ef8549d41f8793030c25e26756c068227",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "documentary",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic"
+      }
+    },
+    {
+      "id": "motion-template-spatial-field",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "空间场域",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/spatial-field.json",
+      "byteSize": 350869,
+      "sha256": "f455939b765416750c45003ebcb02f48007f58ca85c98a5ca212326c052d7391",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/spatial-field.png",
+      "previewByteSize": 5285,
+      "previewSha256": "184118de84779d0024250d3460dee3c207a97257bf30c5a15e4ca544d7eeaf29",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "spatial-field",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic"
+      }
+    },
+    {
+      "id": "motion-template-creator-promo",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "创作者宣传片",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/creator-promo.json",
+      "byteSize": 290711,
+      "sha256": "23611b72ecd0d3fc9992a6c219a600a74e7e5adae443e2caa32e0b1c1185e3a3",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/creator-promo.png",
+      "previewByteSize": 5576,
+      "previewSha256": "7167243c3cb5f19dc351d905d51112bfc0167c4f00141098dce0f10c5f772fb1",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "creator-promo",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic"
+      }
+    },
+    {
+      "id": "motion-template-kinetic-title",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "动感标题",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/kinetic-title.json",
+      "byteSize": 16099,
+      "sha256": "7209eaf024157b27f5c67e0e603f3f8304ed62e8cc714546b34c47e5f1cf23af",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/kinetic-title.png",
+      "previewByteSize": 5131,
+      "previewSha256": "e8b1192c040b312d0a968fdc2eec1075937bb194f6f3724da5aed59b5e569fab",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "kinetic-title",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic",
+        "payloadKind": "native-document"
+      }
+    },
+    {
+      "id": "motion-template-spring-cards",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "弹性卡片",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/spring-cards.json",
+      "byteSize": 117930,
+      "sha256": "8ed8fa9a097e5998f8df7bdf1a15f2c2054536193e50809c0f6564c283704af6",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/spring-cards.png",
+      "previewByteSize": 5669,
+      "previewSha256": "e423a8542bd4ef1d94f6d1514b5b0c78994379c8c3554a39c2a93302d59bec40",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "spring-cards",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic",
+        "payloadKind": "native-document"
+      }
+    },
+    {
+      "id": "motion-template-image-reveal",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "图片揭幕",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/image-reveal.json",
+      "byteSize": 9349,
+      "sha256": "c4bb94022944e80a9e0cb77838215df4ed0559f9007c9d9f20a8b645f656580d",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/image-reveal.png",
+      "previewByteSize": 5472,
+      "previewSha256": "0f507fde6a4bc51c386739b105ed127e02702efda1f3c37fb48d09f59b473ec8",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "image-reveal",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic",
+        "payloadKind": "native-document"
+      }
+    },
+    {
+      "id": "motion-template-parallax-album",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "视差相册",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/parallax-album.json",
+      "byteSize": 16922,
+      "sha256": "915cd607b49197e6ddfaae75209d72c4dfce549700fc3ced7b13fa1bb5e26aa9",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/parallax-album.png",
+      "previewByteSize": 5470,
+      "previewSha256": "8412fbe6a9812071d1deba561d5dab50cc66d2537f6821a674fbe634129a5bdd",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "parallax-album",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic",
+        "payloadKind": "native-document"
+      }
+    },
+    {
+      "id": "motion-template-data-story",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "数据故事",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/data-story.json",
+      "byteSize": 13415,
+      "sha256": "2b4e1170eda3132480140ec34ab9a5deb5eb4e59e5be6901da910ed5ef8cc650",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/data-story.png",
+      "previewByteSize": 5503,
+      "previewSha256": "54571420dd28d001cc8c34d44d36ff7391d509960a586f3f2ac5fd417d25834f",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "data-story",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic",
+        "payloadKind": "native-document"
+      }
+    },
+    {
+      "id": "motion-template-product-launch",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "产品发布",
+      "description": "下载模板数据后创建独立可编辑工程，保留图层、关键帧及本地素材替换能力。",
+      "tags": [
+        "视频动效",
+        "可编辑模板"
+      ],
+      "assetPath": "assets/motion/product-launch.json",
+      "byteSize": 22869,
+      "sha256": "6cf99b21fb1539e4622522761a2557e251b85e5c6680014c2d23025ed34493bb",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/product-launch.png",
+      "previewByteSize": 5577,
+      "previewSha256": "512577070071c4ab074357f29e14ab79b8e4c46181937aee9e7dbae768ce6397",
+      "previewMimeType": "image/png",
+      "license": "Huwen original composition",
+      "licenseURL": "",
+      "attribution": "狐文原创模板",
+      "featured": true,
+      "updatedAt": "2026-11-11T12:00:00+08:00",
+      "details": {
+        "templateId": "product-launch",
+        "engine": "huwen-motion-v1",
+        "previewKind": "schematic",
+        "payloadKind": "native-document"
+      }
+    }
+  ]
+}

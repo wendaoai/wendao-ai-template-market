@@ -1,0 +1,245 @@
+{
+  "version": 1,
+  "width": 1920,
+  "height": 1080,
+  "fps": {
+    "numerator": 30,
+    "denominator": 1
+  },
+  "seed": 11010,
+  "scenes": [
+    {
+      "id": "c9bb47f5-48cf-4556-956b-1d1c821337b6",
+      "name": "图片揭幕",
+      "durationFrames": 210,
+      "html": "<section id=\"cw-layout-editable-design\" data-canvas-width=\"1920\" data-canvas-height=\"1080\" style=\"position:relative;width:1920px;height:1080px;overflow:hidden;background:#202824;font-family:system-ui,sans-serif\"><div data-layer-id=\"image-mat\" data-layer-label=\"图片主题底板\" style=\"position:absolute;left:760px;top:90px;width:1060px;height:900px;box-sizing:border-box;background:#91cdb7;border-radius:24px\"></div><img data-layer-id=\"hero-image\" data-layer-label=\"hero-image\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjMjUzYjQyIi8+PGNpcmNsZSBjeD0iODAwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiM5MWNkYjciLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iIzkxY2RiNyIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+\" alt=\"\" style=\"position:absolute;left:760px;top:90px;width:1060px;height:900px;object-fit:cover;border-radius:24px;\"/><div data-layer-id=\"eyebrow\" data-layer-label=\"FIELD NOTES / 2026\" class=\"cw-design-text\" style=\"position:absolute;left:115px;top:200px;width:600px;height:60px;box-sizing:border-box;font-size:24px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#91cdb7;letter-spacing:2px\">FIELD NOTES / 2026</div><div data-layer-id=\"title\" data-layer-label=\"留一刻，给风景\" class=\"cw-design-text\" style=\"position:absolute;left:110px;top:350px;width:600px;height:300px;box-sizing:border-box;font-size:128.57142857142856px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">留一刻，给风景</div><div data-layer-id=\"subtitle\" data-layer-label=\"日常之外，还有值得停留的画面。\" class=\"cw-design-text\" style=\"position:absolute;left:115px;top:710px;width:565px;height:210px;box-sizing:border-box;font-size:34px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#b5bcb7;\">日常之外，还有值得停留的画面。</div></section>",
+      "tracks": [
+        {
+          "id": "764c586d-31f8-496b-8e02-b34106d74c8a",
+          "targetId": "hero-image",
+          "property": "reveal",
+          "keyframes": [
+            {
+              "id": "40c6643c-8e95-414a-b370-0c5aec595205",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "5581609e-37f7-4232-917b-8ef82fcda667",
+              "frame": 17,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "5d3cacbe-d659-41f5-9256-1400bac01374",
+              "frame": 84,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "a194d4f4-9964-4cba-bac8-55bc72e5a13a",
+          "targetId": "hero-image",
+          "property": "scaleX",
+          "keyframes": [
+            {
+              "id": "70fa2da2-563f-40da-9b4d-2088d32e057f",
+              "frame": 0,
+              "value": 1.04,
+              "easing": "linear"
+            },
+            {
+              "id": "a378f5ab-7c7e-4fe7-abba-d28b7d8a25bc",
+              "frame": 209,
+              "value": 1,
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "id": "2e333aa4-1a4d-474c-91b8-2fdc7141deae",
+          "targetId": "hero-image",
+          "property": "scaleY",
+          "keyframes": [
+            {
+              "id": "0cafd29d-b224-431c-b8e8-9a347b801cc0",
+              "frame": 0,
+              "value": 1.04,
+              "easing": "linear"
+            },
+            {
+              "id": "e759dc30-615c-4c94-8950-886f79dffbcf",
+              "frame": 209,
+              "value": 1,
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "id": "7044c6af-3bce-430f-81b6-f94d32949ba8",
+          "targetId": "eyebrow",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "511803be-8290-47dd-965c-ae6c4ef60c41",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "52e1f540-eeef-4dc2-aad5-68d6bc0a477f",
+              "frame": 10,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "7ad88276-52e8-47ea-964a-01bb6fc5cf6d",
+              "frame": 42,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "01a3a5d0-b7ef-4df1-a4d8-d496480f50a3",
+          "targetId": "eyebrow",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "6caf208e-ac83-44dc-b2cb-e70f71635f41",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "22b81d56-c323-4904-8fe1-527fd545d777",
+              "frame": 10,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "b6b6226e-3fc4-44b0-832c-2f391b66d8f5",
+              "frame": 42,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "182bc627-bc90-49e7-91ad-bcf50cfb5f24",
+          "targetId": "title",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "17905cff-3396-4f24-b263-7f5c9dcf1e68",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "06c627cd-cb51-4f8e-b2b8-9b09ac02be3c",
+              "frame": 50,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "945334e6-7311-491c-8da3-82d0c40badea",
+              "frame": 82,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "e7bc1596-5b7d-4a26-81df-f3a666a22e69",
+          "targetId": "title",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "a88ed1a6-0727-48c7-87c5-156e3f16e2f5",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "2a2a57f3-ce6c-4e9c-b8c9-74ef6af1e111",
+              "frame": 50,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "612f6c4e-113f-41c6-82eb-d326db2951fa",
+              "frame": 82,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "ce2f6428-f6b4-408b-aace-a2b17400756a",
+          "targetId": "subtitle",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "ac29ae53-d61f-477a-bf53-6c56af04878f",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "c63bf4bd-1b9f-43ee-88ed-06287b8ffa11",
+              "frame": 84,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "a54a2dc6-965a-412c-bcf2-2959eba4a42c",
+              "frame": 115,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "1fff8c31-b4bf-4d92-b5c3-9f9a5173778d",
+          "targetId": "subtitle",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "2c70ac69-c27b-443d-89bf-23bb78e88116",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "2ee3b11e-fffe-4bdf-9001-72520454581e",
+              "frame": 84,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "fefe83fa-9a44-457a-9e37-5ef81b2d24ac",
+              "frame": 115,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ],
+      "transition": {
+        "type": "none",
+        "durationFrames": 0
+      }
+    }
+  ],
+  "audioClips": [],
+  "assets": [
+    {
+      "id": "635917b4-9252-41da-87e3-9bf0593945b6",
+      "kind": "image",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjMjUzYjQyIi8+PGNpcmNsZSBjeD0iODAwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiM5MWNkYjciLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iIzkxY2RiNyIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+"
+    }
+  ]
+}

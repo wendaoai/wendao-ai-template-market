@@ -1,0 +1,406 @@
+{
+  "version": 1,
+  "width": 1920,
+  "height": 1080,
+  "fps": {
+    "numerator": 30,
+    "denominator": 1
+  },
+  "seed": 11010,
+  "scenes": [
+    {
+      "id": "fa315784-cd33-4813-a352-56d7ead1f982",
+      "name": "视差相册",
+      "durationFrames": 270,
+      "html": "<section id=\"cw-layout-editable-design\" data-canvas-width=\"1920\" data-canvas-height=\"1080\" style=\"position:relative;width:1920px;height:1080px;overflow:hidden;background:#20212e;font-family:system-ui,sans-serif\"><div data-layer-id=\"title\" data-layer-label=\"把路上的片刻留下\" class=\"cw-design-text\" style=\"position:absolute;left:140px;top:100px;width:1640px;height:215px;box-sizing:border-box;font-size:86px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">把路上的片刻留下</div><div data-layer-id=\"subtitle\" data-layer-label=\"三张照片，一段自己的旅程。\" class=\"cw-design-text\" style=\"position:absolute;left:145px;top:235px;width:1620px;height:80px;box-sizing:border-box;font-size:32px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#b6b7c5;\">三张照片，一段自己的旅程。</div><img data-layer-id=\"photo-0\" data-layer-label=\"photo-0\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjMjUzYjQyIi8+PGNpcmNsZSBjeD0iODAwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiNhN2JiZmYiLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iI2E3YmJmZiIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+\" alt=\"\" style=\"position:absolute;left:140px;top:405px;width:510px;height:460px;object-fit:cover;border-radius:24px;transform:rotate(-5deg);border:12px solid #f3f1eb;box-shadow:0 24px 55px #0005\"/><div data-layer-id=\"caption-0\" data-layer-label=\"山野\" class=\"cw-design-text\" style=\"position:absolute;left:155px;top:950px;width:480px;height:75px;box-sizing:border-box;font-size:30px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#a7bbff;\">山野</div><img data-layer-id=\"photo-1\" data-layer-label=\"photo-1\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjMWQzNDRjIi8+PGNpcmNsZSBjeD0iNjYwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiNhN2JiZmYiLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iI2E3YmJmZiIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+\" alt=\"\" style=\"position:absolute;left:700px;top:340px;width:510px;height:460px;object-fit:cover;border-radius:24px;transform:rotate(3deg);border:12px solid #f3f1eb;box-shadow:0 24px 55px #0005\"/><div data-layer-id=\"caption-1\" data-layer-label=\"海边\" class=\"cw-design-text\" style=\"position:absolute;left:715px;top:950px;width:480px;height:75px;box-sizing:border-box;font-size:30px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#a7bbff;\">海边</div><img data-layer-id=\"photo-2\" data-layer-label=\"photo-2\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjNGIzNTQ1Ii8+PGNpcmNsZSBjeD0iNTIwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiNhN2JiZmYiLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iI2E3YmJmZiIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+\" alt=\"\" style=\"position:absolute;left:1260px;top:405px;width:510px;height:460px;object-fit:cover;border-radius:24px;transform:rotate(-3deg);border:12px solid #f3f1eb;box-shadow:0 24px 55px #0005\"/><div data-layer-id=\"caption-2\" data-layer-label=\"落日\" class=\"cw-design-text\" style=\"position:absolute;left:1275px;top:950px;width:480px;height:75px;box-sizing:border-box;font-size:30px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#a7bbff;\">落日</div></section>",
+      "tracks": [
+        {
+          "id": "661992dc-9e04-438e-9571-e57147226588",
+          "targetId": "title",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "658b3c59-b2b5-4045-8374-3c4fa674027b",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "a3c3ebc1-6af5-4f47-9ef0-80939c820ce1",
+              "frame": 5,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "a2d5aa48-2d29-4dae-9bf1-d393a9db8f26",
+              "frame": 46,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "f7ebcb52-8a0f-4f74-b503-18d551d9eb5a",
+          "targetId": "title",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "4ab9d2d4-eb72-4b60-96c3-ba93fe19a544",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "11889f25-252d-420b-99cf-586daad578a9",
+              "frame": 5,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "1604827b-d451-4676-824a-3ec23f0bdbad",
+              "frame": 46,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "52400421-3e9f-4b7a-a199-92209dcc36c2",
+          "targetId": "subtitle",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "4364c84c-9c21-4abe-89a4-ad2234594b6f",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "8ea18aeb-3bc2-43ae-b884-247dddba2334",
+              "frame": 22,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "13cbbb9a-090d-4afc-8deb-29cebd890b37",
+              "frame": 62,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "bace9f67-e105-4959-be9f-a0cd53d16d1c",
+          "targetId": "subtitle",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "e384c109-219a-47a5-8fc0-a56169fb2689",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "a594c594-84a8-42d8-a2f8-f1a78bc37a72",
+              "frame": 22,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "bc319ac7-78d4-4ede-8263-1e3599a2d272",
+              "frame": 62,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "f458addd-e14c-4d1d-bd8e-9e2dba777138",
+          "targetId": "photo-0",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "383edd1f-25db-4d1f-85a3-363f29f9d769",
+              "frame": 0,
+              "value": -45,
+              "easing": "linear"
+            },
+            {
+              "id": "905a407b-8b94-4703-bb0f-2d0496ce9a85",
+              "frame": 269,
+              "value": 30,
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "id": "0b49f4ad-72ed-47f2-a928-2d4e6a0cef9e",
+          "targetId": "photo-0",
+          "property": "rotation",
+          "keyframes": [
+            {
+              "id": "1745e6b7-5f3a-414c-9167-a362b5ea9455",
+              "frame": 0,
+              "value": 5,
+              "easing": "linear"
+            },
+            {
+              "id": "b2764a3f-ffd3-4728-9be8-242278172a53",
+              "frame": 269,
+              "value": -1.25,
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "id": "d828dcc7-ac8f-43c2-bdd4-6a3f8c92ac16",
+          "targetId": "caption-0",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "0bc556d8-9025-4f9a-96f1-0c0644deb0f0",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "c2951dec-c98b-4260-814e-1be3fbf343f3",
+              "frame": 94,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "7289dd6e-b685-479e-add0-642b7016f9a0",
+              "frame": 135,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "6de167bf-d15b-4cab-8f36-a6d67a959535",
+          "targetId": "caption-0",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "e7dfe458-245f-4cfd-8356-fcbf59561a5c",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "ed320422-d754-4803-b566-184177ff5480",
+              "frame": 94,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "9bc5c977-ac16-4c63-9c36-d5362b67df59",
+              "frame": 135,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "26db0dcf-bb82-4ec6-80cf-cf756269af46",
+          "targetId": "photo-1",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "b2c7d34e-8ed3-496d-8969-95a2b5ff5fe7",
+              "frame": 0,
+              "value": 130,
+              "easing": "linear"
+            },
+            {
+              "id": "ce9840b5-7ad2-415a-a3b4-5fdd0dc0da21",
+              "frame": 269,
+              "value": -30,
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "id": "a6beb3c3-5ca2-4d29-a081-7dc22e9994da",
+          "targetId": "photo-1",
+          "property": "rotation",
+          "keyframes": [
+            {
+              "id": "5f1dc7ba-f440-4699-9a6b-342752f5d775",
+              "frame": 0,
+              "value": -3,
+              "easing": "linear"
+            },
+            {
+              "id": "bd027df3-2e1d-40ca-9a83-b993d115b55b",
+              "frame": 269,
+              "value": 0.75,
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "id": "3fac31e9-39c8-42d1-94c7-4fb426a31ba2",
+          "targetId": "caption-1",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "c3a4bcdf-0551-4e62-a71d-067629dc5e2b",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "34ed6d33-df87-4020-81be-2cc8b660b6b4",
+              "frame": 110,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "cd6a086d-4c2f-4c6d-91ca-403ff70b6751",
+              "frame": 151,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "ff25b7fb-7d22-42a6-a767-7c9eb19bbfc5",
+          "targetId": "caption-1",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "a45f2f1b-927c-41a3-97cb-1c19947edce7",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "4096e928-88fd-4b0a-a778-00fe6dd44b15",
+              "frame": 110,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "031e75ea-8b5a-453e-bb21-b9ad9669b04a",
+              "frame": 151,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "c8e96736-313b-494d-9d43-9a26abbf370f",
+          "targetId": "photo-2",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "fb647a09-932f-4e65-9f11-f81b20eb5832",
+              "frame": 0,
+              "value": -45,
+              "easing": "linear"
+            },
+            {
+              "id": "a0eb8c85-4374-4cb0-88c9-3222d05803af",
+              "frame": 269,
+              "value": 30,
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "id": "0980669f-6f86-4a04-9298-4e56ce880606",
+          "targetId": "photo-2",
+          "property": "rotation",
+          "keyframes": [
+            {
+              "id": "6197d622-6a22-4572-9d41-9cd6456f0454",
+              "frame": 0,
+              "value": 3,
+              "easing": "linear"
+            },
+            {
+              "id": "be91e07a-364a-467e-a87e-9dc7ed5c7f2f",
+              "frame": 269,
+              "value": -0.75,
+              "easing": "linear"
+            }
+          ]
+        },
+        {
+          "id": "d5516e09-b9f2-4eab-b011-9bf450cad14b",
+          "targetId": "caption-2",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "52c81a72-1b87-41f4-9a50-7256266cedb2",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "75b75fcf-78e9-4723-8edf-f1139e68d663",
+              "frame": 126,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "d491a53a-f730-476f-91cd-1bfaaf7fc9b1",
+              "frame": 167,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "004b9c6d-2544-4078-9cfb-42118157f280",
+          "targetId": "caption-2",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "42296225-8259-4df4-bdd3-7bb9787077d9",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "8abd7ef2-e12e-4267-a7b2-ba9349f19d04",
+              "frame": 126,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "88dcba02-2bc3-4096-96ba-fa09db7af981",
+              "frame": 167,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ],
+      "transition": {
+        "type": "none",
+        "durationFrames": 0
+      }
+    }
+  ],
+  "audioClips": [],
+  "assets": [
+    {
+      "id": "42bdd1f9-e5fa-4b54-9e3c-85e15549ede7",
+      "kind": "image",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjMjUzYjQyIi8+PGNpcmNsZSBjeD0iODAwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiNhN2JiZmYiLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iI2E3YmJmZiIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+"
+    },
+    {
+      "id": "ed1551ae-960d-4edb-bbce-5210188d4a91",
+      "kind": "image",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjMWQzNDRjIi8+PGNpcmNsZSBjeD0iNjYwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiNhN2JiZmYiLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iI2E3YmJmZiIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+"
+    },
+    {
+      "id": "a42f96bb-48f7-4d77-b676-2e805db9eb5b",
+      "kind": "image",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjNGIzNTQ1Ii8+PGNpcmNsZSBjeD0iNTIwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiNhN2JiZmYiLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iI2E3YmJmZiIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+"
+    }
+  ]
+}

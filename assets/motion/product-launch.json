@@ -1,0 +1,606 @@
+{
+  "version": 1,
+  "width": 1920,
+  "height": 1080,
+  "fps": {
+    "numerator": 30,
+    "denominator": 1
+  },
+  "seed": 11010,
+  "scenes": [
+    {
+      "id": "0a1abc76-fb16-4eca-ba6f-731f72a4f638",
+      "name": "开场 · 产品亮相",
+      "durationFrames": 108,
+      "html": "<section id=\"cw-layout-editable-design\" data-canvas-width=\"1920\" data-canvas-height=\"1080\" style=\"position:relative;width:1920px;height:1080px;overflow:hidden;background:#24202c;font-family:system-ui,sans-serif\"><div data-layer-id=\"tag\" data-layer-label=\"INTRODUCING\" class=\"cw-design-text\" style=\"position:absolute;left:130px;top:170px;width:800px;height:60px;box-sizing:border-box;font-size:24px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#e6b2ff;letter-spacing:8px\">INTRODUCING</div><div data-layer-id=\"title\" data-layer-label=\"为专注，留出空间\" class=\"cw-design-text\" style=\"position:absolute;left:125px;top:325px;width:920px;height:300px;box-sizing:border-box;font-size:126.9px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">为专注，留出空间</div><div data-layer-id=\"subtitle\" data-layer-label=\"从容安排每一件值得完成的事。\" class=\"cw-design-text\" style=\"position:absolute;left:130px;top:715px;width:830px;height:85px;box-sizing:border-box;font-size:34px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#bec1cb;\">从容安排每一件值得完成的事。</div><img data-layer-id=\"product\" data-layer-label=\"product\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjMjUzYjQyIi8+PGNpcmNsZSBjeD0iODAwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiNlNmIyZmYiLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iI2U2YjJmZiIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+\" alt=\"\" style=\"position:absolute;left:1110px;top:150px;width:660px;height:780px;object-fit:cover;border-radius:24px;transform:rotate(6deg)\"/></section>",
+      "tracks": [
+        {
+          "id": "2d38d3c2-e031-4b4e-a086-6f85d9368260",
+          "targetId": "tag",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "3e2a9008-5ea7-4972-8ade-984b50b45ef7",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "90ade925-48b7-477d-afdd-6ce1ba638018",
+              "frame": 2,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "c7f64940-15e4-4774-95f0-37ee037fe312",
+              "frame": 18,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "22e143c6-bcd6-44c6-80a9-8d2672e20e75",
+          "targetId": "tag",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "8d27caff-91f8-4aa0-ba82-7b85f67fe43c",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "383b23d5-d07f-405f-a7b4-afaf8b3b7388",
+              "frame": 2,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "63c039b9-9faa-4ce6-b6e3-dd074f215f37",
+              "frame": 18,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "061ad6ee-683c-45c7-aa48-0c8f78587748",
+          "targetId": "title",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "ce00ec5f-91c0-44c1-aec7-b5056b955152",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "855fd6a3-bbf9-4e95-9bee-5b7d42bd8e2d",
+              "frame": 9,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "d1b060ee-cd5b-4717-8e94-7380b5182da2",
+              "frame": 25,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "672a50b4-b88b-4d2b-97c6-64f4d8c57fd2",
+          "targetId": "title",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "695e8978-5ef1-4597-a409-18061918132d",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "60279de6-8d0c-48d4-8112-1f16cdcd5cac",
+              "frame": 9,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "eb46d00a-ed76-4098-a4c9-851cdf97f3cf",
+              "frame": 25,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "480fbc38-ff16-48bf-a41a-7d13af4cdb6e",
+          "targetId": "subtitle",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "982fe107-acd9-4f35-9864-191c2d4ac1f2",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "d7648b9f-0086-4913-a585-dc80020e71c8",
+              "frame": 27,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "e4a5db20-c96d-4c33-815a-a912902e44bc",
+              "frame": 43,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "89c87984-e454-4dd1-92c8-f5c85624c545",
+          "targetId": "subtitle",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "cf8f517f-fb41-452a-94d7-05fd84547071",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "866a13b9-0594-406f-8047-ed0831a99d80",
+              "frame": 27,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "485eb345-b97e-4ee7-aef2-0e90f3b34c82",
+              "frame": 43,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "09a0fdeb-30ca-45d9-a9e6-f2f5ebe1204e",
+          "targetId": "product",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "f2ba2aaa-1401-429e-8ead-9979427baee1",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "399811b1-cf42-4556-9ccc-055a2242cb1d",
+              "frame": 13,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "336db66d-7678-4bdf-9117-e4dab94f83cd",
+              "frame": 29,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "cd7831ef-8e63-472f-9d8d-2e0322cb5040",
+          "targetId": "product",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "23126eef-65d5-4fa1-a51d-a2823ec62b6b",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "6d81cd2a-2efc-4a9f-8968-0487df6eea85",
+              "frame": 13,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "de370836-64be-42f7-b2d8-af4112f49764",
+              "frame": 29,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ],
+      "transition": {
+        "type": "none",
+        "durationFrames": 0
+      }
+    },
+    {
+      "id": "8ea2f686-64f6-4c43-a634-aeb793c0fb97",
+      "name": "亮点 · 两个好处",
+      "durationFrames": 144,
+      "html": "<section id=\"cw-layout-editable-design\" data-canvas-width=\"1920\" data-canvas-height=\"1080\" style=\"position:relative;width:1920px;height:1080px;overflow:hidden;background:#24202c;font-family:system-ui,sans-serif\"><img data-layer-id=\"product\" data-layer-label=\"product\" src=\"data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjMjUzYjQyIi8+PGNpcmNsZSBjeD0iODAwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiNlNmIyZmYiLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iI2U2YjJmZiIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+\" alt=\"\" style=\"position:absolute;left:130px;top:120px;width:720px;height:840px;object-fit:cover;border-radius:24px;\"/><div data-layer-id=\"heading\" data-layer-label=\"把精力留给重要的事\" class=\"cw-design-text\" style=\"position:absolute;left:970px;top:180px;width:800px;height:165px;box-sizing:border-box;font-size:66px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">把精力留给重要的事</div><div data-layer-id=\"line\" data-layer-label=\"主题分隔线\" style=\"position:absolute;left:975px;top:325px;width:760px;height:5px;box-sizing:border-box;background:#e6b2ff\"></div><div data-layer-id=\"feature-one\" data-layer-label=\"01  清晰安排\" class=\"cw-design-text\" style=\"position:absolute;left:975px;top:425px;width:780px;height:145px;box-sizing:border-box;font-size:58px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">01  清晰安排</div><div data-layer-id=\"feature-two\" data-layer-label=\"02  轻松开始\" class=\"cw-design-text\" style=\"position:absolute;left:975px;top:650px;width:780px;height:145px;box-sizing:border-box;font-size:58px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">02  轻松开始</div></section>",
+      "tracks": [
+        {
+          "id": "49d64631-9717-4dd2-bd14-525eac8fc515",
+          "targetId": "heading",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "e52de9ec-76c4-4538-9a58-3664c0f304e8",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "7bce980c-3860-417c-ad4a-de656aa4117c",
+              "frame": 7,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "def087b5-5866-4d0f-abbf-2f41c77eca8b",
+              "frame": 29,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "9468f670-39f7-4218-9654-56d1d8653646",
+          "targetId": "heading",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "313c3f15-ea3e-456b-9521-b6438bbabadd",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "3852c647-a26a-433a-9fc1-5d9e237ae8c4",
+              "frame": 7,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "8274872a-b1a6-43a1-af63-9dff82451a7a",
+              "frame": 29,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "17d4b6cd-f66b-48e0-b772-bf077cde8bc7",
+          "targetId": "feature-one",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "05029f76-68fb-49ee-8ddf-f4e8213b1eb7",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "9d54e163-a3ba-40fb-ac16-0c4fa8e11ba2",
+              "frame": 21,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "f62c4ad1-f742-4660-ba7c-4917c98486fe",
+              "frame": 43,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "3f95707b-bcf0-4347-a725-0714f07a0290",
+          "targetId": "feature-one",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "f57ecc16-f781-456a-92c9-ac1d6476dfc2",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "89eaf844-6f34-4ec9-af23-5bb26ac90cbe",
+              "frame": 21,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "92fa8958-77e4-4375-a5ca-1dd4b44b1835",
+              "frame": 43,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "f7642048-31c6-4a5b-b9c9-fba21a9e3e61",
+          "targetId": "feature-two",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "bc36577e-d3d9-4589-92af-c90d0b3d1cf1",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "7139a129-2c48-4eba-9128-6ef369fa8e64",
+              "frame": 53,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "7e524a19-637b-4171-a2e6-0cb44d92a1a8",
+              "frame": 74,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "0f3e32dd-201d-46ee-965a-5e2a3b987c45",
+          "targetId": "feature-two",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "c5ac1319-291e-462a-8728-e2d1ea0917ec",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "6474f018-7ae6-4e71-ba87-29d065f8d9b5",
+              "frame": 53,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "3883ce16-e5b9-4d86-aed5-fa04673ef2bd",
+              "frame": 74,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ],
+      "transition": {
+        "type": "slide",
+        "durationFrames": 18
+      }
+    },
+    {
+      "id": "60aa1e3a-2dac-44f3-9753-599381879e2d",
+      "name": "收尾 · 行动邀请",
+      "durationFrames": 108,
+      "html": "<section id=\"cw-layout-editable-design\" data-canvas-width=\"1920\" data-canvas-height=\"1080\" style=\"position:relative;width:1920px;height:1080px;overflow:hidden;background:#24202c;font-family:system-ui,sans-serif\"><div data-layer-id=\"panel\" data-layer-label=\"收尾卡片\" style=\"position:absolute;left:180px;top:180px;width:1560px;height:720px;box-sizing:border-box;background:#e6b2ff;border-radius:40px\"></div><div data-layer-id=\"title\" data-layer-label=\"为专注，留出空间\" class=\"cw-design-text\" style=\"position:absolute;left:290px;top:300px;width:1340px;height:250px;box-sizing:border-box;font-size:100px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#24202c;text-align:center\">为专注，留出空间</div><div data-layer-id=\"invitation\" data-layer-label=\"现在，开始你的下一件作品\" class=\"cw-design-text\" style=\"position:absolute;left:310px;top:560px;width:1300px;height:135px;box-sizing:border-box;font-size:54px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#24202c;text-align:center\">现在，开始你的下一件作品</div><div data-layer-id=\"subtitle\" data-layer-label=\"从容安排每一件值得完成的事。\" class=\"cw-design-text\" style=\"position:absolute;left:310px;top:740px;width:1300px;height:75px;box-sizing:border-box;font-size:30px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#453a4c;text-align:center\">从容安排每一件值得完成的事。</div></section>",
+      "tracks": [
+        {
+          "id": "3e81b140-62b2-4a3d-8822-3f6e71ed0740",
+          "targetId": "panel",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "742e9188-953d-4120-bc73-9f5bd55bd3f0",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "64f9687b-51e0-4873-b6a0-eb51f4598ce3",
+              "frame": 2,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "8ca7b1f5-1099-41fd-b14e-460d090b13fe",
+              "frame": 18,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "24a9fa73-e12e-4f95-917c-33c8377bd0dd",
+          "targetId": "panel",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "20330d81-9721-44a6-8ffe-d05f1de6209f",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "f8ff9bc5-6b2c-4c3c-8835-4cc93212b7f9",
+              "frame": 2,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "31c054a6-8638-447e-a13f-4f41a0bd4ca8",
+              "frame": 18,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "74eeec8b-32a4-4b55-94a0-90739215f034",
+          "targetId": "title",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "d18a08e4-ddad-4c59-9791-7c5e5f79dba6",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "c6daba02-af21-478c-9f4c-892c8dcee5cf",
+              "frame": 9,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "e7f5ce14-f1f2-4c17-bc2a-80cfa08d8838",
+              "frame": 25,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "2e69b571-8496-4e4e-a1fb-d16498f4f0e8",
+          "targetId": "title",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "34009510-3b1e-4ab2-a715-9b688296ad8a",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "5d967b67-056a-4428-b3e5-07b20f70fb1d",
+              "frame": 9,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "e3662ba9-e74a-450d-bdd6-292d5b67d7a9",
+              "frame": 25,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "b5a92475-de8f-47d8-ae16-0b83844e25e2",
+          "targetId": "invitation",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "b192a427-5ed8-4042-b97d-c3963a7ae1d1",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "404a9833-43c9-43f3-a303-4683ff073c62",
+              "frame": 27,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "06cc202e-595e-42a9-bfde-d94944e2d930",
+              "frame": 43,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "40d9a752-f3fc-4ace-a0c3-def3d022b1d6",
+          "targetId": "invitation",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "12afd9d4-3985-414c-bc49-1a25bba6c357",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "e1540b86-3baf-4873-ad84-e103bec96510",
+              "frame": 27,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "5c5a2ec2-8762-4e4e-976f-222f9a908afb",
+              "frame": 43,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "ab0006fd-7b05-4555-8ad5-323009244806",
+          "targetId": "subtitle",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "9f7ec246-3d5d-417a-9a28-59e49ba3cad9",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "58366f4c-8a50-4e04-aed9-7cb3ece5221c",
+              "frame": 43,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "50690ab4-a1b5-4a50-915d-f4c9194fcc4e",
+              "frame": 59,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "f9975754-2354-4c13-81ba-3e5d60aa60b4",
+          "targetId": "subtitle",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "02f98d70-f5fd-4eb1-a8ea-ddc0715251f2",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "187971fe-22f6-44e5-a12e-9302e1041d61",
+              "frame": 43,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "d2a468f3-e7cc-4388-bb50-c12a0833436d",
+              "frame": 59,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ],
+      "transition": {
+        "type": "fade",
+        "durationFrames": 15
+      }
+    }
+  ],
+  "audioClips": [],
+  "assets": [
+    {
+      "id": "ad252f62-6cbb-4b16-b145-03f595f9de4f",
+      "kind": "image",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjAwIDkwMCI+PHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iOTAwIiBmaWxsPSIjMjUzYjQyIi8+PGNpcmNsZSBjeD0iODAwIiBjeT0iMjUwIiByPSIxMTAiIGZpbGw9IiNlNmIyZmYiLz48cGF0aCBkPSJNMCA2ODAgMzAwIDI5MCA2MjAgNjkwIDkyMCAzODAgMTIwMCA2NTBWOTAwSDBaIiBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIuMTYiLz48cGF0aCBkPSJNMCA3ODAgNDQwIDUxMCA4NDAgODAwIDEyMDAgNTQwVjkwMEgwWiIgZmlsbD0iI2U2YjJmZiIgb3BhY2l0eT0iLjQ1Ii8+PHBhdGggZD0iTTAgODQwUTQ1MCA2NTAgMTIwMCA4MjBWOTAwSDBaIiBmaWxsPSIjMTAxYTIyIi8+PC9zdmc+"
+    }
+  ]
+}

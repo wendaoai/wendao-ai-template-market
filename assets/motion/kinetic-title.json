@@ -1,0 +1,476 @@
+{
+  "version": 1,
+  "width": 1920,
+  "height": 1080,
+  "fps": {
+    "numerator": 30,
+    "denominator": 1
+  },
+  "seed": 11010,
+  "scenes": [
+    {
+      "id": "6fa7a6dc-9017-43d4-9508-ed72c4d5fea2",
+      "name": "逐字标题",
+      "durationFrames": 180,
+      "html": "<section id=\"cw-layout-editable-design\" data-canvas-width=\"1920\" data-canvas-height=\"1080\" style=\"position:relative;width:1920px;height:1080px;overflow:hidden;background:#16181a;font-family:system-ui,sans-serif\"><div data-layer-id=\"accent\" data-layer-label=\"主题色标记\" style=\"position:absolute;left:900px;top:250px;width:120px;height:12px;box-sizing:border-box;background:#d2ff5a;border-radius:6px\"></div><div data-layer-id=\"glyph-0\" data-layer-label=\"让\" class=\"cw-design-text\" style=\"position:absolute;left:552px;top:385px;width:144px;height:340px;box-sizing:border-box;font-size:136px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">让</div><div data-layer-id=\"glyph-1\" data-layer-label=\"想\" class=\"cw-design-text\" style=\"position:absolute;left:688px;top:385px;width:144px;height:340px;box-sizing:border-box;font-size:136px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">想</div><div data-layer-id=\"glyph-2\" data-layer-label=\"法\" class=\"cw-design-text\" style=\"position:absolute;left:824px;top:385px;width:144px;height:340px;box-sizing:border-box;font-size:136px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">法</div><div data-layer-id=\"glyph-3\" data-layer-label=\"被\" class=\"cw-design-text\" style=\"position:absolute;left:960px;top:385px;width:144px;height:340px;box-sizing:border-box;font-size:136px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">被</div><div data-layer-id=\"glyph-4\" data-layer-label=\"看\" class=\"cw-design-text\" style=\"position:absolute;left:1096px;top:385px;width:144px;height:340px;box-sizing:border-box;font-size:136px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">看</div><div data-layer-id=\"glyph-5\" data-layer-label=\"见\" class=\"cw-design-text\" style=\"position:absolute;left:1232px;top:385px;width:144px;height:340px;box-sizing:border-box;font-size:136px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#f8f6f1;\">见</div><div data-layer-id=\"subtitle\" data-layer-label=\"把灵感，变成下一件作品。\" class=\"cw-design-text\" style=\"position:absolute;left:240px;top:585px;width:1440px;height:100px;box-sizing:border-box;font-size:40px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#b1b7bb;text-align:center\">把灵感，变成下一件作品。</div><div data-layer-id=\"signature\" data-layer-label=\"CREATIVE NOTES · 01\" class=\"cw-design-text\" style=\"position:absolute;left:260px;top:850px;width:1400px;height:60px;box-sizing:border-box;font-size:24px;font-weight:600;line-height:1.2;white-space:pre-wrap;overflow-wrap:anywhere;color:#d2ff5a;text-align:center;letter-spacing:5px\">CREATIVE NOTES · 01</div></section>",
+      "tracks": [
+        {
+          "id": "8dc88e96-4131-4e8c-8dea-0e8170ae9e4f",
+          "targetId": "glyph-0",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "25f8db4e-b58b-4ed6-ad4b-4b6aa6aabad2",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "8425ab8f-2f8b-4906-a70e-7c3cd2fe01c7",
+              "frame": 7,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "17335409-3d49-453f-9314-d9641321b266",
+              "frame": 34,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "288d1a19-b919-48d7-babb-15349d2a0dd1",
+          "targetId": "glyph-0",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "17be5fb7-88b2-43f2-bba1-1d19d945e41b",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "585b3f02-f10b-4add-895c-1612e32c49d2",
+              "frame": 7,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "ec0ba3d7-e061-4448-b91d-90a28de712a4",
+              "frame": 34,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "84d296f1-72d6-4c85-a313-2f02977f9f04",
+          "targetId": "glyph-1",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "1c808572-8237-4194-922d-76c0aedc3eb0",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "1cec1d66-2367-410b-b93b-6ce4a30c6a51",
+              "frame": 18,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "d9528644-cea9-46ed-b6bf-4f9bc435e0ec",
+              "frame": 45,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "9c26cd95-cdb4-4ef6-949c-119b64747e94",
+          "targetId": "glyph-1",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "10ab6e62-0c60-4a3b-ad1e-e8b46e48186e",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "a7af7a70-1225-4146-b2af-45f79dfb0200",
+              "frame": 18,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "fb769d9d-ecf1-414e-abc0-c43b28145937",
+              "frame": 45,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "6b5b13a8-facb-4d98-86b3-94d9fcb683fb",
+          "targetId": "glyph-2",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "81ab42a6-11d3-4082-b950-7aa2305c309e",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "c84c833b-bde6-488b-9425-7c338f4f6df2",
+              "frame": 29,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "f66531b9-8026-4c44-944c-c10ad8a9bd23",
+              "frame": 55,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "2557a114-a57d-449a-9bbe-565ca11908e7",
+          "targetId": "glyph-2",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "2ebb076a-dc7e-4a41-ab5b-68756260ba75",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "715b1622-0561-40c5-a044-1f7c96506bfa",
+              "frame": 29,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "ffd68aca-7e1f-4913-ba27-99af511123ce",
+              "frame": 55,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "c5974bb1-cf91-4a0c-b7ee-211d0196386e",
+          "targetId": "glyph-3",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "7567a985-3af9-4e7c-a7fe-9a0a97d7d3de",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "c4aff8ed-8c90-44ae-b12f-058a482ae165",
+              "frame": 39,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "1dd84ff9-d817-4f40-9b04-70d98fe6c326",
+              "frame": 66,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "e1609202-739e-408e-9146-0889ff721e67",
+          "targetId": "glyph-3",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "38a8508d-9df0-4be2-af38-780409ee5958",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "a6d12631-68af-474b-bea1-fa93bfbe0dcd",
+              "frame": 39,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "0668700f-1363-4ab6-8db3-714fde72bf51",
+              "frame": 66,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "df1d560e-0164-4038-8350-6efacbb0fbcc",
+          "targetId": "glyph-4",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "0e38b185-0be3-449b-90e5-3dd1e8ce21b6",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "b259c4bc-b9dc-49c6-af94-20d868e6898d",
+              "frame": 50,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "b8d84092-7d24-4ec6-95b4-230121801ec2",
+              "frame": 77,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "6334cd8b-263d-4afc-8f95-c8593c1184cd",
+          "targetId": "glyph-4",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "a2521d1e-2167-4029-9679-8d46a6efe4f2",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "2c7da77d-9a5f-4e46-929a-4048ffee86fe",
+              "frame": 50,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "9528fd2c-babe-4b30-93e5-234b3469c0eb",
+              "frame": 77,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "f5ffe1cb-2dc3-4f16-9c9d-02008fd12516",
+          "targetId": "glyph-5",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "5d691264-fa88-49ef-9bd8-225c078d9306",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "0f6e1b1c-4e72-4cc4-a5d6-b4fd26981f34",
+              "frame": 61,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "e4b4478d-9dc9-46d3-a6ab-5f2b05c39020",
+              "frame": 88,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "7be93a48-12cf-4604-b1bd-a9088186687b",
+          "targetId": "glyph-5",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "bb27ff48-a329-4598-9b50-743eedb71a48",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "a431121c-1146-4c49-9c40-4de911e89cc9",
+              "frame": 61,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "dac32314-2ea6-438f-a598-bf9efea325c9",
+              "frame": 88,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "22394965-cafa-4738-9521-acff00f22e86",
+          "targetId": "accent",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "adcea9b8-86db-49ae-bba7-9605c8ba11c2",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "8a14e717-8fd9-478c-a71c-1e99e89af97c",
+              "frame": 4,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "3b3a0972-f89a-4e4b-a981-d3c480e5fcf1",
+              "frame": 30,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "1e9f9f5d-065d-4249-8008-f767adcffbb4",
+          "targetId": "accent",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "4dabdaa7-3c1b-4111-9cca-2d417ec35ce3",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "85269a18-b7ad-4f99-81dc-fb139cf15fb3",
+              "frame": 4,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "40ed4944-c670-4816-9f0f-ebcd287f59d8",
+              "frame": 30,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "66ae94f4-d3dc-4a1c-9a42-eea6a7652606",
+          "targetId": "subtitle",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "95e22b1b-58ac-4660-a05a-bcba33072bba",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "99552949-34a7-484d-ad13-f2c74a81083a",
+              "frame": 77,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "ea5b5350-5cb2-4268-8473-d49fb02f57f5",
+              "frame": 104,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "44b8709d-d6c1-40e2-a4c6-2e6f2cd7d52f",
+          "targetId": "subtitle",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "3326f756-c87c-4c5f-970f-d864e48223c9",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "b270b64e-3492-42b0-8e42-7bf6c86b2108",
+              "frame": 77,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "8de392e8-668a-404a-b7fc-9bcd11bf9058",
+              "frame": 104,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "a87295c7-2546-49be-ba18-5744359afe07",
+          "targetId": "signature",
+          "property": "y",
+          "keyframes": [
+            {
+              "id": "ff2df12e-cba1-4cb3-9b0d-256de79d4e08",
+              "frame": 0,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "d7c7d44b-b261-4cb4-aa9c-410d3aae5ab2",
+              "frame": 98,
+              "value": 65,
+              "easing": "ease-out"
+            },
+            {
+              "id": "966d28f7-5cbe-4b4e-a600-26750ccac935",
+              "frame": 125,
+              "value": 0,
+              "easing": "ease-out"
+            }
+          ]
+        },
+        {
+          "id": "458fc5c4-bf67-40a8-be9c-ddaa66a1a12d",
+          "targetId": "signature",
+          "property": "opacity",
+          "keyframes": [
+            {
+              "id": "458b6832-e45e-4bd9-a8c5-b6646c4d91f4",
+              "frame": 0,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "6cad8d48-4934-4058-867d-ec71bb7e486d",
+              "frame": 98,
+              "value": 0,
+              "easing": "ease-out"
+            },
+            {
+              "id": "c9aed38a-c210-42e8-86a7-691b8365845c",
+              "frame": 125,
+              "value": 1,
+              "easing": "ease-out"
+            }
+          ]
+        }
+      ],
+      "transition": {
+        "type": "none",
+        "durationFrames": 0
+      }
+    }
+  ],
+  "audioClips": [],
+  "assets": []
+}
