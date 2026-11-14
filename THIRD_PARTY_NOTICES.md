@@ -15,3 +15,19 @@
 ## 共享排版示例图片
 
 `sample-images/reading-still-life.jpg` 为2026年10月24日通过Content Workbench已配置图片服务（gpt-image-2）生成的通用排版示例图，无文字、标识或水印。173套HTML资源共同引用同一JPEG；旧5张示例照片不再随当前市场资源分发。模板原有来源署名与许可证说明保留。
+# 完整视频工程示例（2026-11-15）
+
+`assets/motion/project-*.motion.json` 为狐文原生可编辑工程。原有模板数据许可继续适用；
+示例中的品牌、截图和第三方媒体保留其原有权利，不因工程许可转移商标或媒体所有权。
+复用时请替换与自己作品无关的品牌、账号、公司数据、画面与旁白。
+
+- 模块拼贴宣传（`project-creator-collage`）含 Scott Buckley 的《Origami》，CC BY 4.0。
+  发布含此音乐的作品时保留：`'Origami' by Scott Buckley - released under CC-BY 4.0. www.scottbuckley.com.au`。
+  来源：https://www.scottbuckley.com.au/library/origami/ ；许可：https://creativecommons.org/licenses/by/4.0/ 。
+  示例截取前102秒，调整响度并淡入淡出。可自行替换音乐。
+- 狐文宣纸手卷（`project-foxwen-handscroll`）的连续纸面、墨线与镜头编排参考用户提供的
+  MotionGit「宣纸手卷 · 品牌叙事」公开视觉参考（https://motiongit.com/）。工程为狐文原生重建，
+  未复制或解密受保护模板代码、媒体或字体；旁白与原创程序配乐来自本次制作。
+- 人文纪录片、数字城市光场、薄荷兔 MV、狐文内容工作流和科技工业宣传保留各作品的
+  已生成旁白与媒体。它们是完整示例，不表示其中涉及的第三方产品为本项目背书。
+
