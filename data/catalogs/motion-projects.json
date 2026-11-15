@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "type": "motion-projects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "resources": [
     {
       "id": "motion-template-project-creator-collage",
@@ -244,6 +244,42 @@
         "previewKind": "rendered-frame",
         "durationSeconds": 74.0,
         "sceneCount": 2,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "id": "motion-template-project-enterprise-mg",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "原创企业 MG · 让创意流动",
+      "description": "五幕原创企业 MG：人物关节行走与键盘操作、纸飞机和文稿传递、立体协作、数据生长及折纸品牌收尾。含原创配乐，图层、关键帧与镜头均可编辑。",
+      "tags": [
+        "完整工程",
+        "企业宣传",
+        "MG动画",
+        "原生可编辑"
+      ],
+      "assetPath": "assets/motion/project-enterprise-mg.motion.json",
+      "byteSize": 3141369,
+      "sha256": "2ca0f3c15799728d809ba6aad302f2aeea7a1ba188b34e28b573a85e2eae4b56",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/project-enterprise-mg.png",
+      "previewByteSize": 160801,
+      "previewSha256": "27d5c5a7a55a1bc4aeebc2d100da7c172cb45552c1823328b0aaa41055e0b9c8",
+      "previewMimeType": "image/png",
+      "license": "狐文原创工程示例；可在狐文内复用和修改，品牌标识请按自己的作品替换",
+      "licenseURL": "",
+      "attribution": "狐文原创矢量素材、关节动画及配乐",
+      "featured": true,
+      "updatedAt": "2026-11-15T20:30:48+08:00",
+      "details": {
+        "templateId": "project-enterprise-mg",
+        "engine": "huwen-motion-v1",
+        "payloadKind": "full-project",
+        "previewKind": "rendered-frame",
+        "durationSeconds": 30,
+        "sceneCount": 5,
         "width": 1920,
         "height": 1080
       }
