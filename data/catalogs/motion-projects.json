@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "type": "motion-projects",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "resources": [
     {
       "id": "motion-template-project-creator-collage",
@@ -280,6 +280,43 @@
         "previewKind": "rendered-frame",
         "durationSeconds": 30,
         "sceneCount": 5,
+        "width": 1920,
+        "height": 1080
+      }
+    },
+    {
+      "id": "motion-template-project-tongsuan-ai-energy",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "同算时代 AI智控节能 · 完整工程",
+      "description": "210秒、18场景的企业科技宣传工程。保留原稿整图关系、案例照片、证书、管路与镜头动画，含配音、电子配乐及工作台动画库效果。动画以源码组件编排，需支持源码组件的新版客户端；复用时按自己的作品替换品牌、资料与旁白。",
+      "tags": [
+        "完整工程",
+        "企业宣传",
+        "科技节能",
+        "整图动画",
+        "源码组件"
+      ],
+      "assetPath": "assets/motion/project-tongsuan-ai-energy.motion.json",
+      "byteSize": 83919500,
+      "sha256": "9edb341fe32b97e18b7aeac09a114a83a1ad47b0586c1e6530f1b65e7ac8ebf0",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/project-tongsuan-ai-energy.jpg",
+      "previewByteSize": 279784,
+      "previewSha256": "84c3002c13ee562b87675c98662dc4b64a5c47e2148dbe61fc6506b4d87892c6",
+      "previewMimeType": "image/jpeg",
+      "license": "狐文工程示例；可在狐文内复用和修改，品牌与用户提供媒体的权利归原权利人，详见 THIRD_PARTY_NOTICES.md",
+      "licenseURL": "",
+      "attribution": "用户提供同算时代企业资料与图片；狐文动画编排、原创动画库和程序配乐；MiniMax合成旁白",
+      "featured": true,
+      "updatedAt": "2026-11-18T05:43:39+08:00",
+      "details": {
+        "templateId": "project-tongsuan-ai-energy",
+        "engine": "huwen-motion-v1",
+        "payloadKind": "full-project",
+        "previewKind": "rendered-frame",
+        "durationSeconds": 210,
+        "sceneCount": 18,
         "width": 1920,
         "height": 1080
       }
