@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "type": "motion-templates",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "resources": [
     {
       "id": "motion-template-cute-character-lyric-mv",
@@ -303,7 +303,7 @@
     {
       "id": "motion-template-picture-golden-reveal",
       "type": "motion-template",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "name": "图片金线显影",
       "description": "选择一张图片，生成金线逐渐点亮再显现彩图的可编辑动画。内含墨言示例，可在工程操作中替换图片并调整参数。",
       "tags": [
@@ -316,19 +316,19 @@
       "sha256": "5c5170fa9fda103dc70652e8c5e6555ad927cda5b679810f4b1bb003503cca1a",
       "mimeType": "application/json",
       "previewPath": "previews/motion/project-golden-moyan.png",
-      "previewByteSize": 1156294,
-      "previewSha256": "536d5b7c29cd4dab552382754f2804171a8cb5e0750f41621532994a3e904b08",
+      "previewByteSize": 1236092,
+      "previewSha256": "c7e07a5780cfed7d45aa950b58be2095d07bf76ca85a2d42304c76db8f84897e",
       "previewMimeType": "image/png",
       "license": "狐文原创工程及AI生成墨言插画",
       "licenseURL": "",
       "attribution": "狐文原生动画；终帧由狐文图片服务调用 gpt-image-2.5-flare 生成",
       "featured": true,
-      "updatedAt": "2026-11-18T13:44:21+08:00",
+      "updatedAt": "2026-11-18T14:06:31+08:00",
       "details": {
         "templateId": "picture-golden-reveal",
         "engine": "huwen-motion-v1",
         "payloadKind": "native-document",
-        "previewKind": "rendered-frame",
+        "previewKind": "rendered-contact-sheet",
         "durationSeconds": 5,
         "sceneCount": 1,
         "width": 1080,
