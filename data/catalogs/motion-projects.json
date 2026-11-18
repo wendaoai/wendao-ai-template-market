@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "type": "motion-projects",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "resources": [
     {
       "id": "motion-template-project-creator-collage",
@@ -319,6 +319,80 @@
         "sceneCount": 18,
         "width": 1920,
         "height": 1080
+      }
+    },
+    {
+      "id": "motion-template-project-golden-moyan",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "墨言金线显影 · 完整工程",
+      "description": "真实图片模型生成终帧，金线柔和扫亮后显现完整彩图。内嵌原图、轮廓和逐帧源码，支持换图、颜色、辉光与时长编辑。",
+      "tags": [
+        "完整工程",
+        "视频动效",
+        "金线显影",
+        "原生可编辑"
+      ],
+      "assetPath": "assets/motion/project-golden-moyan.motion.json",
+      "byteSize": 12330745,
+      "sha256": "3956ba4db4368445d0aef7c243e2074b35f966d806e53a254fc9b350304ce2c3",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/project-golden-moyan.png",
+      "previewByteSize": 1156294,
+      "previewSha256": "536d5b7c29cd4dab552382754f2804171a8cb5e0750f41621532994a3e904b08",
+      "previewMimeType": "image/png",
+      "license": "狐文原创工程及AI生成墨言插画",
+      "licenseURL": "",
+      "attribution": "狐文原生动画；终帧由狐文图片服务调用 gpt-image-2.5-flare 生成",
+      "featured": true,
+      "updatedAt": "2026-11-18T13:44:21+08:00",
+      "details": {
+        "templateId": "project-golden-moyan",
+        "engine": "huwen-motion-v1",
+        "payloadKind": "full-project",
+        "previewKind": "rendered-frame",
+        "durationSeconds": 5,
+        "sceneCount": 1,
+        "width": 1080,
+        "height": 1920,
+        "generationModel": "gpt-image-2.5-flare"
+      }
+    },
+    {
+      "id": "motion-template-project-golden-portrait",
+      "type": "motion-template",
+      "version": "1.0.0",
+      "name": "绯扇金华 · 人像金线显影 · 完整工程",
+      "description": "真实图片模型生成终帧，金线柔和扫亮后显现完整彩图。内嵌原图、轮廓和逐帧源码，支持换图、颜色、辉光与时长编辑。",
+      "tags": [
+        "完整工程",
+        "视频动效",
+        "金线显影",
+        "原生可编辑"
+      ],
+      "assetPath": "assets/motion/project-golden-portrait.motion.json",
+      "byteSize": 14372210,
+      "sha256": "bdeffe850bed4817f76457e7931b1243c24f2a25df289f5aa8e37713a6c0ff94",
+      "mimeType": "application/json",
+      "previewPath": "previews/motion/project-golden-portrait.png",
+      "previewByteSize": 1271950,
+      "previewSha256": "3427a3d5d595ec8257a340677602e92fddd0ef4e2e6d952447edfc1660d3dc0e",
+      "previewMimeType": "image/png",
+      "license": "狐文工程示例；参考图及人物形象权利归原权利人",
+      "licenseURL": "",
+      "attribution": "狐文原生动画；终帧由狐文图片服务调用 gpt-image-2.5-sunburst 生成",
+      "featured": true,
+      "updatedAt": "2026-11-18T13:44:21+08:00",
+      "details": {
+        "templateId": "project-golden-portrait",
+        "engine": "huwen-motion-v1",
+        "payloadKind": "full-project",
+        "previewKind": "rendered-frame",
+        "durationSeconds": 5,
+        "sceneCount": 1,
+        "width": 1080,
+        "height": 1920,
+        "generationModel": "gpt-image-2.5-sunburst"
       }
     }
   ]
