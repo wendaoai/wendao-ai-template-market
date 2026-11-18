@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "type": "motion-templates",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "resources": [
     {
       "id": "motion-template-cute-character-lyric-mv",
@@ -303,27 +303,27 @@
     {
       "id": "motion-template-picture-golden-reveal",
       "type": "motion-template",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "name": "图片金线显影",
-      "description": "选择一张图片，生成金线逐渐点亮再显现彩图的可编辑动画。内含墨言示例，可在工程操作中替换图片并调整参数。",
+      "description": "边框、装饰、主体依次沿轮廓描出金线，再逐渐显现完整彩图。内嵌插画、平滑轮廓与逐帧源码，支持换图、颜色、光晕和时长编辑。",
       "tags": [
         "视频动效",
         "可编辑模板",
         "金线显影"
       ],
       "assetPath": "assets/motion/picture-golden-reveal.json",
-      "byteSize": 12330519,
-      "sha256": "5c5170fa9fda103dc70652e8c5e6555ad927cda5b679810f4b1bb003503cca1a",
+      "byteSize": 9693713,
+      "sha256": "04a77650d2e8b1eac56f158c97afe4e2399302207bdb04392e6784c6ca741194",
       "mimeType": "application/json",
       "previewPath": "previews/motion/project-golden-moyan.png",
-      "previewByteSize": 1236092,
-      "previewSha256": "c7e07a5780cfed7d45aa950b58be2095d07bf76ca85a2d42304c76db8f84897e",
+      "previewByteSize": 1013459,
+      "previewSha256": "65c762d479e58254bc26253bc9183b3dea2f26d3f3be2aac096b62415207e96e",
       "previewMimeType": "image/png",
       "license": "狐文原创工程及AI生成墨言插画",
       "licenseURL": "",
       "attribution": "狐文原生动画；终帧由狐文图片服务调用 gpt-image-2.5-flare 生成",
       "featured": true,
-      "updatedAt": "2026-11-18T14:06:31+08:00",
+      "updatedAt": "2026-11-18T15:57:20+08:00",
       "details": {
         "templateId": "picture-golden-reveal",
         "engine": "huwen-motion-v1",
@@ -333,7 +333,8 @@
         "sceneCount": 1,
         "width": 1080,
         "height": 1920,
-        "generationModel": "gpt-image-2.5-flare"
+        "generationModel": "gpt-image-2.5-flare",
+        "revealMethod": "contour-paths-frame-ornament-subject"
       }
     }
   ]

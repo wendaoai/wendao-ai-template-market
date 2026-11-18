@@ -1,8 +1,8 @@
 {
   "schemaVersion": 2,
   "marketId": "wendao-ai-template-market",
-  "marketVersion": "1.3.21",
-  "generatedAt": "2026-11-18T14:06:32+08:00",
+  "marketVersion": "1.3.22",
+  "generatedAt": "2026-11-18T15:57:20+08:00",
   "catalogs": [
     {
       "type": "html-templates",
@@ -27,16 +27,16 @@
     },
     {
       "type": "motion-templates",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "path": "catalogs/motion-templates.json",
-      "sha256": "3426a97902a6988693226792ad66ff0fd494d86edf75ce34d6965e5d64fa3ce1",
+      "sha256": "a648a9011cafc94cb7e40bb9537fa1281a393cba46a2c0e1561c7c226cdc0282",
       "count": 11
     },
     {
       "type": "motion-projects",
       "path": "catalogs/motion-projects.json",
-      "version": "1.0.4",
-      "sha256": "6757dd39eb9942f913b03f9b489ca1b04d13af7687ac38d06b74b06daa9ab687",
+      "version": "1.0.5",
+      "sha256": "55bf4ed268571c41073af9eef1f6fce3a5f3447726f5d49e5c37485ea6fcca82",
       "count": 11
     }
   ],
