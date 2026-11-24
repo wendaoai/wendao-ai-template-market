@@ -1,4 +1,8 @@
-# 狐文｜AI 写作、图文设计与影音创作工坊
+# 狐文（Huwen / Content Workbench）
+
+**微信公众号 AI 写作、逐节去 AI 味、智能排版与小红书图文桌面工作台**
+
+*Local-first desktop workbench for AI writing, WeChat Official Account editing, and Xiaohongshu content on macOS and Windows.*
 
 [![最新版本](https://img.shields.io/github/v/release/wendaoai/wendao-content-workbench?label=%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC&style=flat-square&color=167D8D)](https://github.com/wendaoai/wendao-content-workbench/releases/latest) [![下载量](https://img.shields.io/github/downloads/wendaoai/wendao-content-workbench/total?label=%E4%B8%8B%E8%BD%BD%E9%87%8F&style=flat-square&color=07C160)](https://github.com/wendaoai/wendao-content-workbench/releases) [![收藏](https://img.shields.io/github/stars/wendaoai/wendao-content-workbench?label=%E6%94%B6%E8%97%8F&style=flat-square&color=D99428)](https://github.com/wendaoai/wendao-content-workbench/stargazers)
 
@@ -12,21 +16,44 @@
 
 小助手可以搜索资料、创建草稿、改稿、生图和制作视频。创作工具还包括可视化工作流、角色与音色管理、剪辑字幕、3D 导演台、资源市场，以及多账号运营与收入查看。稿件、工程和创作记录在本机管理，AI 服务按需要配置。
 
-![狐文桌面创作首页：主题输入、写作技能与模型选择](https://cdn.jsdelivr.net/gh/wendaoai/wendao-content-workbench@f4bf23153860d7dfd22528133a1b0c27a15654c3/assets/screens/v204-home.webp)
+![狐文 v0.0.236 创作首页，展示平台与账号选择、写作技能和实时热榜](https://www.asfop.top/assets/screens/v236-zh-home.webp)
 
-以下产品界面截图来自 v0.0.204，可点击查看大图；文字介绍已补充至 v0.0.227 的功能，新增工作区以安装后的实际界面为准。
+首页和正文编辑截图来自 v0.0.236，其余标有 v204 的图片来自 v0.0.204。新版官网可以按步骤查看热点发现、起稿、技能选择、排版、画布和账号管理。
+
+[中文创作流程](https://www.asfop.top/#workflow) · [Workflow in English](https://www.asfop.top/en/#workflow)
+
+## 按你的创作任务开始
+
+| 创作任务 | 可用功能 |
+| --- | --- |
+| 今天写什么 | 用热点雷达和营销日历整理选题。 |
+| 把初稿改到可以发布 | 写稿后逐节处理 AI 腔，按需查看腾讯朱雀 AI 检测或独立审稿结果。 |
+| 检查并推送公众号草稿 | 查看违禁词检查与智能排版预览。连接公众号后，推送至草稿箱。 |
+| 同一个题目做成多种内容 | 用原稿制作小红书图文、知识卡片、多页可编辑海报或视频内容。 |
+| 长期维护多个公众号 | 管理账号定位与稿件，安排定时创作，在公众号后台确认发布。 |
 
 ## 下载与开始使用
 
-公开安装包已在 [GitCode Releases](https://gitcode.com/wendao-ai/wendao-ai-updates/releases) 和 [GitHub Releases](https://github.com/wendaoai/wendao-content-workbench/releases/latest) 提供。前往[官网下载页](https://www.asfop.top/#download)，按系统和芯片选择对应安装包；具体平台与格式以当前附件为准。
+公开安装包已在 [GitCode Releases](https://gitcode.com/wendao-ai/wendao-ai-updates/releases) 和 [GitHub Releases](https://github.com/wendaoai/wendao-content-workbench/releases/latest) 提供。也可查看 [Gitee Releases](https://gitee.com/wendaoai/wendao-content-workbench/releases)。前往[官网下载页](https://www.asfop.top/#download)，按系统和芯片选择对应安装包；具体平台与格式以当前附件为准。
 
 安装后，在设置中配置 AI 服务，也可以按应用提供的体验额度开始创作。模型、图片、语音、音乐、视频、联网搜索和外部检测等服务的额度与费用，按实际配置及服务商规则计算。
+
+## 配置自己的 AI 服务
+
+| 模型服务 | 开始前准备 |
+| --- | --- |
+| DeepSeek | 在官方控制台或所用兼容服务获取地址、模型 ID 和 API Key。 |
+| OpenAI、Claude、Gemini | 按供应商支持的接口或兼容接入方式填写模型连接，并在设置里测试。 |
+
+稿件、工程与创作记录可保存在本机。模型生成、联网搜索和第三方检测按所用服务连接外部接口。不同模型的能力与费用取决于实际配置。
+
+[查看 AI 服务设置](https://www.asfop.top/features/model-settings/) · [使用帮助](https://ccnczqdy0ar6.feishu.cn/wiki/KcBAwnmFJiugFtkgIqlcccr3nPg)
 
 ## 平台热点、订阅资讯与 AI 选题
 
 浏览平台热点、热点雷达和营销日历，结合账号定位整理选题，把临时灵感留下来。选定主题后进入写作，让热点发现和文章创作接在一起。
 
-订阅资讯支持 RSS/Atom 来源管理、采集、链接去重与多来源整理，阅读后可讨论或加入选题。账号分析用于研究公众号和已有内容，热文榜单支持导入、搜索标题与查看来源；各平台在线采集能力以应用当前入口为准。
+订阅资讯支持 RSS/Atom 来源管理、采集、链接去重与多来源整理，阅读后可讨论或加入选题。账号分析用于研究公众号和已有内容。各平台在线采集能力以应用当前入口为准。
 
 [了解选题与热点功能](https://www.asfop.top/features/topic-planning/)
 
@@ -40,7 +67,7 @@
 
 [了解 AI 文章写作](https://www.asfop.top/features/ai-writing/) · [创作模板与写作技能](https://www.asfop.top/features/creation-templates/)
 
-![文章编辑与排版预览：在同一工作区修改正文、查看图文效果](https://cdn.jsdelivr.net/gh/wendaoai/wendao-content-workbench@f4bf23153860d7dfd22528133a1b0c27a15654c3/assets/screens/v204-editor.webp)
+![狐文 v0.0.236 正文编辑与实时排版预览](https://www.asfop.top/assets/screens/v236-zh-editor.webp)
 
 ## 小助手：查资料、写稿、生图与制作视频
 
@@ -120,7 +147,7 @@
 
 导入产品资料和视觉素材，在创作画布连接策划、镜头、图片与成品。制作产品介绍、种草图文与营销套图，也可以组织视频分镜，接入支持视频生成的模型继续制作。
 
-[产品营销套图](https://www.asfop.top/features/product-images/) · [视频分镜与生成](https://www.asfop.top/features/video-storyboard/) · [可视化创作画布](https://www.asfop.top/features/canvas/)
+[产品营销套图](https://www.asfop.top/features/product-images/) · [可视化创作画布](https://www.asfop.top/features/canvas/)
 
 ![可视化创作画布：从内容策划连接到图片与成品](https://cdn.jsdelivr.net/gh/wendaoai/wendao-content-workbench@f4bf23153860d7dfd22528133a1b0c27a15654c3/assets/screens/v204-canvas-plan.webp)
 
@@ -179,6 +206,8 @@
 应用默认使用系统字体，额外字体通过市场下载或本地导入。已用于作品的素材随作品保存，便于继续编辑和导出。智能压缩支持本地批量图片压缩，并提供 ZIP、RAR、7z 解压入口。
 
 ## 问题反馈
+
+如果狐文对你的工作有帮助，欢迎在 [GitHub](https://github.com/wendaoai/wendao-content-workbench) 点个 Star。
 
 欢迎在 [Issues](https://github.com/wendaoai/wendao-content-workbench/issues) 反馈问题和建议。请附上系统、应用版本与复现步骤，不要上传 API Key、账号凭据或私人稿件。
 
