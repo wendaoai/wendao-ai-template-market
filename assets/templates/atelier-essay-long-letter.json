@@ -1,0 +1,142 @@
+{
+  "html": "\u003csection data-no-dark=\"\" id=\"cw-layout-letter\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #fffaf4; box-sizing: border-box; color: #534236; font-family: Georgia, \u0026#39;Songti SC\u0026#39;, SimSun, serif; font-size: 17px; line-height: 1.8; margin-left: 0; margin-right: 0; overflow-wrap: anywhere; padding: 24px; padding-left: 24px; padding-right: 24px; width: 100%; word-break: break-word\"\u003e\u003csection style=\"box-sizing: border-box; margin: 0 auto; margin-left: 0; margin-right: 0; max-width: 100%; width: 100%\"\u003e\u003csection style=\"border-bottom: 1px solid #9a7250; box-sizing: border-box; margin: 0 auto 28px; margin-left: 0; margin-right: 0; max-width: 100%; padding: 24px 0 24px; text-align: left; width: 100%\"\u003e\u003cp style=\"color: #534236; font-size: 18px; font-style: italic; line-height: 1.8; margin: 0; text-align: left\"\u003e见字如面。把这一周来不及当面说的话，慢慢写进这一张带细框的暖色信笺里。\u003c/p\u003e\u003c/section\u003e\u003csection style=\"box-sizing: border-box; margin: 28px auto 28px; margin-left: 0; margin-right: 0; padding: 6px 0 12px; width: 100%\"\u003e\u003ch2 style=\"color: #534236; font-family: Georgia, \u0026#39;Songti SC\u0026#39;, SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; text-align: left; text-indent: 0\"\u003e给长文一份书信般的温度\u003c/h2\u003e\u003cp style=\"background-color: #f5ebdc; color: #534236; line-height: 1.8; margin: 0 12px 20px; padding: 16px 18px; text-align: left\"\u003e克制的信笺边框收住阅读视线，没有大色块轰炸，读起来像拆开朋友从远方寄来的手写信。\u003c/p\u003e\u003csection style=\"margin: 20px auto 20px; padding: 10px 0 10px; width: 84%\"\u003e\u003cblockquote style=\"background-color: #f5ebdc; color: #534236; font-size: 18px; line-height: 1.8; margin: 0 12px 0; padding: 12px 18px 12px; text-align: left\"\u003e\u003cp style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\"\u003e慢一点写，慢一点读，有些心事只有在长信里才说得清。\u003c/p\u003e\u003c/blockquote\u003e\u003c/section\u003e\u003c/section\u003e\u003csection style=\"box-sizing: border-box; margin: 28px auto 28px; margin-left: 0; margin-right: 0; padding: 6px 0 12px; width: 100%\"\u003e\u003ch2 style=\"color: #534236; font-family: Georgia, \u0026#39;Songti SC\u0026#39;, SimSun, serif; font-size: 22px; font-weight: 700; line-height: 1.5; margin: 0 0 12px; text-align: left; text-indent: 0\"\u003e收尾留一缕余温\u003c/h2\u003e\u003cp style=\"background-color: #f5ebdc; color: #534236; line-height: 1.8; margin: 0 12px 20px; padding: 16px 18px; text-align: left\"\u003e无论是年终致谢、周更通讯还是生活感悟，这种温润克制的书信体都能拉近和读者的距离。\u003c/p\u003e\u003cp style=\"box-sizing: border-box; line-height: 1.8; margin: 20px 0 20px; text-align: left\"\u003e\u003cimg src=\"https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/sample-images/rainy-window.jpg\" alt=\"雨天窗边远山与柔和雾气\" style=\"display: block; height: auto; margin: 0; width: 100%\"/\u003e\u003c/p\u003e\u003csection style=\"box-sizing: border-box; margin: 20px 0 0 auto; margin-left: 0; margin-right: 0; padding: 12px 0 0; text-align: right; width: 100%\"\u003e\u003cp style=\"color: #534236; line-height: 1.8; margin: 0 0 0; text-align: left\"\u003e此致，愿你平安顺遂，下封信再叙。\u003c/p\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e",
+  "id": "cw-html-atelier-essay-long-letter",
+  "layoutPrompt": "[cw-layout-family:letter]\n[cw-layout-design:{\"id\":\"atelier-essay-long-letter\",\"palette\":{\"paper\":\"#fffaf4\",\"ink\":\"#534236\",\"muted\":\"#776659\",\"accent\":\"#9a7250\",\"panel\":\"#f5ebdc\"},\"typography\":{\"font\":\"serif\",\"titleSize\":35,\"titleWeight\":500,\"bodySize\":17,\"lineHeight\":2,\"paragraphGap\":20},\"composition\":{\"opening\":\"letter\",\"frame\":\"open\",\"inset\":24,\"measure\":92,\"titleFont\":\"serif\",\"titleSize\":35,\"titleWeight\":500,\"headerTreatment\":\"plain\",\"headerAlign\":\"left\",\"headerMeasure\":84,\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"plain\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"plain\",\"rhythm\":\"airy\"},\"blocks\":[{\"role\":\"title\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"lead\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"heading\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"body\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"quote\",\"treatment\":\"inset\",\"align\":\"left\"},{\"role\":\"image\",\"treatment\":\"plain\",\"align\":\"left\"},{\"role\":\"ending\",\"treatment\":\"plain\",\"align\":\"left\"}]}]",
+  "name": "暖纸长信",
+  "nativePreset": {
+    "id": "atelier-essay-long-letter",
+    "label": "暖纸长信",
+    "category": "娱乐八卦",
+    "topics": [
+      "图书影音",
+      "文艺"
+    ],
+    "keywords": "娱乐八卦 工作台原创",
+    "summary": "书信题签 · 内缩长文 · 自然落款",
+    "visualFamily": "letter",
+    "supportsImages": true,
+    "instruction": "采用「一封长信」这一套独立版式设计，不得套用其他方向的结构、卡片、标题处理或配色。\n设计分类：书信散文。分类只用于查找，不得用分类的通用版式覆盖本套独立设计。\n本套构图：{\"opening\":\"letter\",\"frame\":\"open\",\"inset\":24,\"measure\":92,\"titleFont\":\"serif\",\"titleSize\":35,\"titleWeight\":500,\"headerTreatment\":\"plain\",\"headerAlign\":\"left\",\"headerMeasure\":84,\"headerLayout\":\"stacked\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"plain\",\"quoteTreatment\":\"inset\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"plain\",\"rhythm\":\"airy\"}。标题字体、大小、对齐、宽度与处理方式，纸面框架、正文宽度、段落节奏及各内容组件必须按此配置执行。\n版式骨架（按正文实际存在的内容取舍，不新增内容）：title/plain/left → lead/plain/left → heading/plain/left → body/inset/left → quote/inset/left → image/plain/left → ending/plain/left。\n标题：serif 字体，35px / 500，left 对齐，宽度 84%，stacked 构图，plain 处理。\n导语：plain；章节：plain；引用：inset。\n重点与数据：连续内缩正文配轻衬线章节，引用沿用内缩；结尾保留原文自然落款。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。\n结尾：plain；已有配图：plain。\n正文排印：serif 字体，正文 17px，行高 2，段落间距约 20px；正文宽度 92%，airy 阅读节奏。\n色彩角色：纸面 #fffaf4，正文 #534236，辅助 #776659，强调 #9a7250，信息区 #f5ebdc。\n视觉手法必须落地：构图配置优先于骨架中的旧处理方式，骨架其余组件可采用 plain、inset。正文中没有对应内容时省略组件；不得全部退化成普通段落加统一圆角卡片。\n只排版本文已有内容；不新增事实、引语、数据或结论。引用、图片、表格、编号和数据区只有在正文真实存在时才使用，不能编造事实。",
+    "design": {
+      "id": "atelier-essay-long-letter",
+      "label": "暖纸长信",
+      "category": "人文",
+      "topics": [
+        "文艺",
+        "图书影音"
+      ],
+      "visualFamily": "letter",
+      "keywords": "娱乐八卦 工作台原创",
+      "summary": "书信题签 · 内缩长文 · 自然落款",
+      "supportsImages": true,
+      "palette": {
+        "paper": "#fffaf4",
+        "ink": "#534236",
+        "muted": "#776659",
+        "accent": "#9a7250",
+        "panel": "#f5ebdc"
+      },
+      "composition": {
+        "opening": "letter",
+        "frame": "open",
+        "inset": 24,
+        "measure": 92,
+        "titleFont": "serif",
+        "titleSize": 35,
+        "titleWeight": 500,
+        "headerTreatment": "plain",
+        "headerAlign": "left",
+        "headerMeasure": 84,
+        "headerLayout": "stacked",
+        "leadTreatment": "plain",
+        "headingTreatment": "plain",
+        "quoteTreatment": "inset",
+        "endingTreatment": "plain",
+        "imageTreatment": "plain",
+        "rhythm": "airy"
+      },
+      "typography": {
+        "font": "serif",
+        "titleSize": 35,
+        "titleWeight": 500,
+        "bodySize": 17,
+        "lineHeight": 2,
+        "paragraphGap": 20
+      },
+      "rules": {
+        "title": "采用完整书信纸页语言；称呼、署名和日期只取原文已有内容。",
+        "lead": "本套导语采用 plain，保留原文开场，不补写摘要。",
+        "section": "连续内缩正文配轻衬线章节，引用沿用内缩；结尾保留原文自然落款。",
+        "quote": "本套原文引用采用 inset；没有引用时省略，不把普通段落造为引语。",
+        "emphasis": "连续内缩正文配轻衬线章节，引用沿用内缩；结尾保留原文自然落款。 不新增事实、编号、日期、数据、图注或二维码；列表、表格仅使用原文内容。",
+        "ending": "原文结尾使用 plain；保留最后一段，不增加落款或宣传语。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          5,
+          70,
+          8,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          16,
+          70,
+          8,
+          "plain",
+          "left"
+        ],
+        [
+          "heading",
+          8,
+          27,
+          70,
+          8,
+          "plain",
+          "left"
+        ],
+        [
+          "body",
+          8,
+          38,
+          70,
+          8,
+          "inset",
+          "left"
+        ],
+        [
+          "quote",
+          8,
+          49,
+          70,
+          8,
+          "inset",
+          "left"
+        ],
+        [
+          "image",
+          8,
+          60,
+          70,
+          8,
+          "plain",
+          "left"
+        ],
+        [
+          "ending",
+          8,
+          71,
+          70,
+          8,
+          "plain",
+          "left"
+        ]
+      ]
+    }
+  },
+  "schemaVersion": 1,
+  "type": "html-template"
+}

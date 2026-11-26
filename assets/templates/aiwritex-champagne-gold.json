@@ -1,0 +1,134 @@
+{
+  "html": "\u003csection style=\"box-sizing: border-box\" id=\"cw-layout-imported\"\u003e\u003csection style=\"box-sizing: border-box; color: #333; font-family: \u0026#39;Noto Serif SC\u0026#39;, serif; line-height: 1.6; margin: 0; max-width: 100%; overflow-x: hidden; padding: 0\"\u003e\u003csection style=\"background: linear-gradient(to right, #D4AF37, #FFC72C); box-sizing: border-box; color: #493b1b; display: block; padding: 25px 20px\" data-no-dark=\"\"\u003e\u003csection style=\"box-sizing: border-box; width: 100%\" data-no-dark=\"\"\u003e\u003cp style=\"box-sizing: border-box; font-size: 24px; font-weight: 300; overflow-wrap: anywhere; text-indent: 0\" data-no-dark=\"\"\u003e一整块温润的香槟暖金稳稳托住卷首导语，不张扬却自带杂志特辑的高光仪式感。\u003c/p\u003e\u003c/section\u003e\u003c/section\u003e\u003csection style=\"background: #fff; border: 1px solid rgba(0,0,0,0.08); border-radius: 8px; box-sizing: border-box; margin: 20px 0; padding: 20px\" data-no-dark=\"\"\u003e\u003ch2 style=\"box-sizing: border-box; color: #94751b; display: inline-block; font-size: 20px; font-weight: 700; margin-bottom: 15px; overflow-wrap: anywhere; text-indent: 0\" data-no-dark=\"\"\u003e暖金色块撑起专访气质\u003cspan style=\"background: linear-gradient(to right, #D4AF37, transparent); box-sizing: border-box; display: block; height: 2px; margin-top: 3px; width: 100%\" data-no-dark=\"\"\u003e\u003c/span\u003e\u003c/h2\u003e\u003csection\u003e\u003cp style=\"box-sizing: border-box; color: #333; font-size: 16px; line-height: 1.8; margin: 0 0 8px 0; text-align: justify\"\u003e香槟金开场卡与清爽白纸形成干脆利落的视觉分区，在模板市场一众黑白蓝绿中格外耀眼。\u003c/p\u003e\u003c/section\u003e\u003csection\u003e\u003cblockquote style=\"border: 0; border-left: 0; margin: 0; padding: 0\"\u003e\u003cp style=\"box-sizing: border-box; color: #666; font-size: 15px; font-style: italic; line-height: 1.8; margin: 0\"\u003e真正珍贵的洞察，经得起金线般精准的提炼。\u003c/p\u003e\u003c/blockquote\u003e\u003c/section\u003e\u003csection\u003e\u003cimg src=\"https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/sample-images/reading-still-life.jpg\" alt=\"暖光书桌上的手账与咖啡\" style=\"display: block; height: auto; margin: 16px 0; max-width: 100%; width: 100%\"/\u003e\u003c/section\u003e\u003c/section\u003e\u003csection style=\"background: #fff; border: 1px solid rgba(0,0,0,0.08); border-radius: 8px; box-sizing: border-box; margin: 20px 0; padding: 25px 20px\" data-no-dark=\"\"\u003e\u003ch2 style=\"box-sizing: border-box; color: #94751b; display: inline-block; font-size: 20px; font-weight: 700; margin-bottom: 25px; overflow-wrap: anywhere; text-indent: 0\" data-no-dark=\"\"\u003e香槟金笺的推荐用法\u003cspan style=\"background: linear-gradient(to right, #D4AF37, transparent); box-sizing: border-box; display: block; height: 2px; margin-top: 3px; width: 100%\" data-no-dark=\"\"\u003e\u003c/span\u003e\u003c/h2\u003e\u003csection\u003e\u003cul style=\"color: #333\"\u003e\u003cli\u003e人物专访、品牌创业史与年度回顾\u003c/li\u003e\u003cli\u003e品质生活方式与美学好物推荐\u003c/li\u003e\u003cli\u003e简洁利落，长短文章皆能稳稳驾驭\u003c/li\u003e\u003c/ul\u003e\u003c/section\u003e\u003csection style=\"box-sizing: border-box; display: block; margin-bottom: 30px; padding-left: 15px\"\u003e\u003csection style=\"border-left: 2px solid #D4AF37; box-sizing: border-box; padding-left: 15px; width: 100%\"\u003e\u003csection style=\"background: #f8f5f0; border-radius: 6px; box-sizing: border-box; margin-bottom: 10px; padding: 15px\" data-no-dark=\"\"\u003e\u003cp style=\"box-sizing: border-box; color: #333; font-size: 15px; line-height: 1.8; margin: 0 0 8px 0\"\u003e留住闪光的观点，让好内容历久弥新。\u003c/p\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e",
+  "id": "aiwritex-html-45a20f70feda",
+  "layoutPrompt": "[cw-imported-style:{\"root\":\"box-sizing: border-box\",\"elements\":{\"blockquote\":\"border-left:3px solid #94a3b8;padding:12px 16px;margin:18px 0\",\"img\":\"display:block;width:100%;max-width:100%;height:auto;margin:16px 0\",\"p\":\"box-sizing: border-box; font-size: 15px; line-height: 1.8; margin: 0 0 8px 0\",\"table\":\"width:100%;border-collapse:collapse;table-layout:fixed;margin:18px 0\",\"td\":\"border:1px solid #d8dee5;padding:8px;overflow-wrap:anywhere\",\"th\":\"border:1px solid #d8dee5;padding:8px;overflow-wrap:anywhere\"},\"structure\":{\"version\":2,\"frame\":\"\u003csection style=\\\"box-sizing: border-box\\\"\u003e\u003csection style=\\\"box-sizing: border-box; color: #333; font-family: 'Noto Serif SC', serif; line-height: 1.6; margin: 0; max-width: 100%; overflow-x: hidden; padding: 0\\\"\u003e\u003csection style=\\\"background: linear-gradient(to right, #D4AF37, #FFC72C); box-sizing: border-box; color: #493b1b; display: block; padding: 25px 20px\\\" data-no-dark=\\\"\\\"\u003e\u003csection style=\\\"box-sizing: border-box; width: 100%\\\" data-no-dark=\\\"\\\"\u003e\u003ch1 style=\\\"box-sizing: border-box; font-size: 28px; font-weight: 800; letter-spacing: -0.5px; margin-bottom: 5px; overflow-wrap: anywhere; text-indent: 0\\\" data-no-dark=\\\"\\\"\u003e{{title}}\u003c/h1\u003e\u003cp style=\\\"box-sizing: border-box; font-size: 24px; font-weight: 300; overflow-wrap: anywhere; text-indent: 0\\\" data-no-dark=\\\"\\\"\u003e{{subtitle}}\u003c/p\u003e\u003c/section\u003e\u003c/section\u003e{{body}}\u003c/section\u003e\u003c/section\u003e\",\"headerLead\":true,\"lead\":{\"frame\":\"\u003csection style=\\\"background: #fff; border: 1px solid rgba(0,0,0,0.08); border-radius: 8px; box-sizing: border-box; margin: 20px 0; padding: 20px\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\",\"style\":\"box-sizing: border-box; color: #333; font-size: 16px; line-height: 1.8; text-align: justify\"},\"sections\":{\"2\":[{\"frame\":\"\u003csection style=\\\"background: #fff; border: 1px solid rgba(0,0,0,0.08); border-radius: 8px; box-sizing: border-box; margin: 20px 0; padding: 20px\\\" data-no-dark=\\\"\\\"\u003e\u003ch2 style=\\\"box-sizing: border-box; color: #94751b; display: inline-block; font-size: 20px; font-weight: 700; margin-bottom: 15px; overflow-wrap: anywhere; text-indent: 0\\\" data-no-dark=\\\"\\\"\u003e{{heading}}\u003cspan style=\\\"background: linear-gradient(to right, #D4AF37, transparent); box-sizing: border-box; display: block; height: 2px; margin-top: 3px; width: 100%\\\" data-no-dark=\\\"\\\"\u003e\u003c/span\u003e\u003c/h2\u003e{{body}}\u003c/section\u003e\",\"paragraph\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\",\"style\":\"box-sizing: border-box; color: #333; font-size: 16px; line-height: 1.8; text-align: justify\"},\"image\":{\"frame\":\"\"}},{\"frame\":\"\u003csection style=\\\"background: #fff; border: 1px solid rgba(0,0,0,0.08); border-radius: 8px; box-sizing: border-box; margin: 20px 0; padding: 25px 20px\\\" data-no-dark=\\\"\\\"\u003e\u003ch2 style=\\\"box-sizing: border-box; color: #94751b; display: inline-block; font-size: 20px; font-weight: 700; margin-bottom: 25px; overflow-wrap: anywhere; text-indent: 0\\\" data-no-dark=\\\"\\\"\u003e{{heading}}\u003cspan style=\\\"background: linear-gradient(to right, #D4AF37, transparent); box-sizing: border-box; display: block; height: 2px; margin-top: 3px; width: 100%\\\" data-no-dark=\\\"\\\"\u003e\u003c/span\u003e\u003c/h2\u003e{{body}}\u003c/section\u003e\",\"paragraph\":{\"frame\":\"\u003csection style=\\\"box-sizing: border-box; display: block; margin-bottom: 30px; padding-left: 15px\\\"\u003e\u003csection style=\\\"border-left: 2px solid #D4AF37; box-sizing: border-box; padding-left: 15px; width: 100%\\\"\u003e\u003csection style=\\\"background: #f8f5f0; border-radius: 6px; box-sizing: border-box; margin-bottom: 10px; padding: 15px\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\",\"style\":\"box-sizing: border-box; color: #333; font-size: 15px; margin: 0 0 8px 0\"},\"image\":{\"frame\":\"\"}},{\"frame\":\"\u003csection style=\\\"background: #fff; border: 1px solid rgba(0,0,0,0.08); border-radius: 8px; box-sizing: border-box; margin: 20px 0; padding: 25px 20px\\\" data-no-dark=\\\"\\\"\u003e\u003ch2 style=\\\"box-sizing: border-box; color: #94751b; display: inline-block; font-size: 20px; font-weight: 700; margin-bottom: 20px; overflow-wrap: anywhere; text-indent: 0\\\" data-no-dark=\\\"\\\"\u003e{{heading}}\u003cspan style=\\\"background: linear-gradient(to right, #D4AF37, transparent); box-sizing: border-box; display: block; height: 2px; margin-top: 3px; width: 100%\\\" data-no-dark=\\\"\\\"\u003e\u003c/span\u003e\u003c/h2\u003e\u003csection style=\\\"box-sizing: border-box; display: block\\\" data-no-dark=\\\"\\\"\u003e{{body}}\u003c/section\u003e\u003c/section\u003e\",\"paragraph\":{\"frame\":\"\u003csection style=\\\"box-sizing: border-box; width: 100%\\\"\u003e\u003csection style=\\\"background: #fff; border: 1px solid #eee; border-radius: 8px; box-sizing: border-box\\\" data-no-dark=\\\"\\\"\u003e\u003csection style=\\\"box-sizing: border-box; display: block; margin-top: 0\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\",\"style\":\"background: #D4AF37; border: 1px solid rgba(0,0,0,0.08); border-radius: 15px; box-sizing: border-box; color: #fff; font-size: 14px; font-weight: 500; padding: 4px 15px; text-align: center; width: 100%;color:#493b1b\"},\"image\":{\"frame\":\"\"}}],\"3\":[{\"frame\":\"\u003csection style=\\\"box-sizing: border-box; display: block; margin-bottom: 30px; padding-left: 15px\\\"\u003e\u003csection style=\\\"border-left: 2px solid #D4AF37; box-sizing: border-box; padding-left: 15px; width: 100%\\\"\u003e\u003ch3 style=\\\"box-sizing: border-box; color: #333; font-size: 18px; font-weight: 600; margin-bottom: 12px; overflow-wrap: anywhere; text-indent: 0\\\"\u003e{{heading}}\u003c/h3\u003e\u003csection style=\\\"background: #f8f5f0; border-radius: 6px; box-sizing: border-box; margin-bottom: 10px; padding: 15px\\\" data-no-dark=\\\"\\\"\u003e{{body}}\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\",\"paragraph\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\",\"style\":\"box-sizing: border-box; color: #333; font-size: 15px; margin: 0 0 8px 0\"},\"image\":{\"frame\":\"\"}},{\"frame\":\"\u003csection style=\\\"box-sizing: border-box; display: block; margin-bottom: 30px; padding-left: 15px\\\"\u003e\u003csection style=\\\"border-left: 2px solid #996515; box-sizing: border-box; padding-left: 15px; width: 100%\\\"\u003e\u003ch3 style=\\\"box-sizing: border-box; color: #333; font-size: 18px; font-weight: 600; margin-bottom: 12px; overflow-wrap: anywhere; text-indent: 0\\\"\u003e{{heading}}\u003c/h3\u003e\u003csection style=\\\"background: #f8f5f0; border-radius: 6px; box-sizing: border-box; margin-bottom: 10px; padding: 15px\\\" data-no-dark=\\\"\\\"\u003e{{body}}\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\",\"paragraph\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\",\"style\":\"box-sizing: border-box; color: #333; font-size: 15px; margin: 0 0 8px 0\"},\"image\":{\"frame\":\"\"}},{\"frame\":\"\u003csection style=\\\"box-sizing: border-box; display: block; margin-bottom: 30px; padding-left: 15px\\\"\u003e\u003csection style=\\\"border-left: 2px solid #D4AF37; box-sizing: border-box; padding-left: 15px; width: 100%\\\"\u003e\u003ch3 style=\\\"box-sizing: border-box; color: #333; font-size: 18px; font-weight: 600; margin-bottom: 12px; overflow-wrap: anywhere; text-indent: 0\\\"\u003e{{heading}}\u003c/h3\u003e\u003csection style=\\\"background: #f8f5f0; border-radius: 6px; box-sizing: border-box; margin-bottom: 10px; padding: 15px\\\" data-no-dark=\\\"\\\"\u003e{{body}}\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\",\"paragraph\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\",\"style\":\"box-sizing: border-box; color: #333; font-size: 15px; margin: 0 0 8px 0\"},\"image\":{\"frame\":\"\"}}]},\"blocks\":{\"body\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\",\"style\":\"box-sizing: border-box; font-size: 15px; line-height: 1.8; margin: 0 0 8px 0\"},\"image\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\"},\"list\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\"},\"note\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\"},\"quote\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\",\"style\":\"border: 0; border-left: 0; margin: 0; padding: 0\",\"textStyle\":\"box-sizing: border-box; color: #666; font-size: 15px; font-style: italic; line-height: 1.8; margin: 0\"},\"rule\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\"},\"table\":{\"frame\":\"\u003csection\u003e{{content}}\u003c/section\u003e\"}}}}]",
+  "name": "香槟金笺",
+  "nativePreset": {
+    "id": "aiwritex-html-45a20f70feda",
+    "label": "香槟金笺",
+    "category": "其他",
+    "topics": [],
+    "keywords": "其他",
+    "summary": "适用于其他的 HTML 排版示例。",
+    "visualFamily": "editorial",
+    "instruction": "",
+    "design": {
+      "id": "aiwritex-html-45a20f70feda",
+      "visualFamily": "editorial",
+      "label": "香槟金笺",
+      "category": "知识",
+      "keywords": "其他",
+      "summary": "白底青绿 · 左齐标题 · 连续正文",
+      "palette": {
+        "paper": "#ffffff",
+        "ink": "#34444b",
+        "muted": "#627177",
+        "accent": "#087f8c",
+        "panel": "#edf7f7"
+      },
+      "typography": {
+        "font": "sans",
+        "titleSize": 28,
+        "titleWeight": 800,
+        "bodySize": 16,
+        "lineHeight": 1.92,
+        "paragraphGap": 15
+      },
+      "composition": {
+        "frame": "open",
+        "inset": 12,
+        "measure": 100,
+        "titleFont": "sans",
+        "headingFont": "sans",
+        "titleSize": 28,
+        "titleWeight": 800,
+        "headerTreatment": "plain",
+        "headerAlign": "left",
+        "headerMeasure": 100,
+        "headerLayout": "compact",
+        "leadTreatment": "plain",
+        "headingTreatment": "plain",
+        "quoteTreatment": "plain",
+        "endingTreatment": "plain",
+        "imageTreatment": "plain",
+        "rhythm": "chapter"
+      },
+      "rules": {
+        "title": "黑色标题左齐，标题区下方用浅灰细线分隔。",
+        "lead": "首段保持开放正文，左齐连续阅读，不整段居中。",
+        "section": "黑色粗体章节左齐，用青绿色数字方签标识阅读顺序，完整保留原有标题。",
+        "quote": "原有引用使用浅青绿色提示区，不编造摘要。",
+        "emphasis": "原有独立加粗重点句使用深色区，原有清单用浅灰底和暖橙细线。",
+        "ending": "原有末段以浅青绿色底和青绿顶线收束，文尾用 END 小字和暖橙、青绿短线结束。"
+      },
+      "blocks": [
+        [
+          "title",
+          8,
+          7,
+          70,
+          14,
+          "plain",
+          "left"
+        ],
+        [
+          "lead",
+          8,
+          25,
+          70,
+          14,
+          "plain",
+          "left"
+        ],
+        [
+          "heading",
+          8,
+          44,
+          70,
+          7,
+          "plain",
+          "left"
+        ],
+        [
+          "body",
+          8,
+          55,
+          70,
+          15,
+          "plain",
+          "left"
+        ],
+        [
+          "quote",
+          8,
+          74,
+          70,
+          11,
+          "plain",
+          "left"
+        ],
+        [
+          "list",
+          8,
+          88,
+          70,
+          10,
+          "plain",
+          "left"
+        ],
+        [
+          "ending",
+          8,
+          102,
+          70,
+          6,
+          "plain",
+          "left"
+        ]
+      ]
+    },
+    "supportsImages": true
+  },
+  "schemaVersion": 1,
+  "type": "html-template"
+}

@@ -1,359 +1,47 @@
 {
-  "schemaVersion": 1,
-  "id": "cw-html-edition-ink-comic",
-  "type": "html-template",
-  "layoutPrompt": "[cw-layout-family:magazine]\n[cw-layout-design:{\"id\":\"edition-ink-comic\",\"palette\":{\"paper\":\"#ffffff\",\"ink\":\"#202020\",\"muted\":\"#626262\",\"accent\":\"#202020\",\"panel\":\"#eeeeeb\"},\"typography\":{\"font\":\"sans\",\"titleSize\":34,\"titleWeight\":500,\"bodySize\":16,\"lineHeight\":1.9,\"paragraphGap\":18},\"composition\":{\"opening\":\"manifesto\",\"frame\":\"open\",\"inset\":24,\"measure\":100,\"titleFont\":\"sans\",\"headingFont\":\"sans\",\"titleSize\":34,\"titleWeight\":500,\"headerTreatment\":\"plain\",\"headerAlign\":\"left\",\"headerMeasure\":100,\"headerLayout\":\"compact\",\"leadTreatment\":\"plain\",\"headingTreatment\":\"plain\",\"quoteTreatment\":\"plain\",\"endingTreatment\":\"plain\",\"imageTreatment\":\"plain\",\"rhythm\":\"chapter\"},\"editorial\":{\"paper\":{\"padding\":\"16px\",\"background-color\":\"#ffffff\",\"color\":\"#202020\",\"border\":\"3px solid #202020\"},\"content\":{\"width\":\"100%\",\"margin\":\"0\",\"padding\":\"0\",\"color\":\"#202020\"},\"header\":{\"width\":\"100%\",\"margin\":\"0 0 26px\",\"box-sizing\":\"border-box\",\"padding\":\"28px 18px\",\"border\":\"3px solid #202020\",\"background-image\":\"repeating-linear-gradient(135deg,transparent 0,transparent 9px,#2020200c 10px,#2020200c 11px)\"},\"roles\":{\"title\":{\"display\":\"block\",\"width\":\"auto\",\"max-width\":\"100%\",\"background\":\"transparent\",\"border\":\"0\",\"padding\":\"12px\",\"color\":\"#202020\",\"font-size\":\"42px\",\"font-weight\":\"900\",\"line-height\":\"1.3\",\"text-align\":\"center\",\"letter-spacing\":\"1px\",\"background-color\":\"#ffffff\"},\"lead\":{\"display\":\"block\",\"width\":\"auto\",\"max-width\":\"100%\",\"box-sizing\":\"border-box\",\"font-size\":\"17px\",\"line-height\":\"1.95\",\"color\":\"#202020\",\"text-align\":\"left\",\"border\":\"0\",\"background\":\"transparent\",\"padding\":\"0\",\"margin\":\"24px 0\"},\"body\":{\"font-size\":\"16px\",\"line-height\":\"1.95\",\"color\":\"#202020\",\"margin\":\"0 0 18px\"},\"heading\":{\"display\":\"block\",\"width\":\"auto\",\"color\":\"#ffffff\",\"background\":\"transparent\",\"border\":\"0\",\"padding\":\"12px 16px\",\"margin\":\"0 0 16px\",\"line-height\":\"1.5\",\"font-size\":\"25px\",\"font-weight\":\"900\",\"background-color\":\"#202020\"},\"quote\":{\"margin\":\"24px 0\",\"line-height\":\"1.85\",\"color\":\"#202020\",\"font-size\":\"20px\",\"font-weight\":\"700\",\"border\":\"2px solid #202020\",\"border-radius\":\"50%\",\"padding\":\"30px 24px\",\"text-align\":\"center\",\"background-color\":\"#ffffff\"},\"ending\":{\"font-size\":\"16px\",\"color\":\"#202020\",\"line-height\":\"1.95\",\"margin\":\"32px 0 0\",\"border\":\"0\",\"border-top\":\"1px solid #626262\",\"padding\":\"18px 0 0\"},\"image\":{\"margin\":\"24px 0\"},\"table\":{\"font-size\":\"15px\",\"line-height\":\"1.7\"}},\"chapters\":[{\"width\":\"100%\",\"padding\":\"0 14px 8px\",\"margin\":\"26px 0 0\",\"border\":\"2px solid #202020\",\"background\":\"transparent\"}],\"headingSurface\":{},\"bodySurface\":{},\"initial\":{}},\"blocks\":[]}]",
+  "html": "\u003csection style=\"box-sizing: border-box; width: 100%; padding: 16px 14px 24px; background-color: #fcfcfc; background-image: url(\u0026#34;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEX8/PzS0tLTnYHVAAAAEUlEQVR42mNggAEBBhwARQIAA2AAIbzCmO4AAAAASUVORK5CYII=\u0026#34;); background-repeat: repeat; background-size: 16px 16px; color: #111111; font-family: -apple-system, BlinkMacSystemFont, \u0026#39;PingFang SC\u0026#39;, \u0026#39;Microsoft YaHei\u0026#39;, sans-serif; overflow-wrap: anywhere\" data-no-dark=\"\" id=\"cw-layout-imported\"\u003e\u003csection style=\"background-color: #ffffff; border: 3px solid #111111; padding: 16px 15px 20px; box-shadow: 5px 5px 0 #111111\" data-no-dark=\"\"\u003e\u003csection style=\"margin: 0 0 12px; display: table; width: 100%\" data-no-dark=\"\"\u003e\u003cspan data-cw-decor=\"1\" style=\"display: inline-block; padding: 3px 10px; background-color: #111111; color: #ffffff; font-size: 11px; font-weight: 900; letter-spacing: 2px\" data-no-dark=\"\"\u003eCOMIC PANEL\u003c/span\u003e\u003c/section\u003e\u003csection data-no-dark=\"\"\u003e\u003csection style=\"margin: 0 0 18px; padding: 12px 14px; background-color: #f5f5f5; border: 2px solid #111111\" data-no-dark=\"\"\u003e\u003cp style=\"color: #111111; font-family: -apple-system, BlinkMacSystemFont, \u0026#39;PingFang SC\u0026#39;, \u0026#39;Microsoft YaHei\u0026#39;, sans-serif; font-size: 14.5px; font-weight: 600; letter-spacing: 0.4px; line-height: 1.85; margin: 0\"\u003e粗黑分镜边框配经典漫画网点纸，不用一滴彩色油墨，单靠黑白反差就能讲出高能故事。\u003c/p\u003e\u003c/section\u003e\u003csection style=\"margin: 24px 0 0\" data-no-dark=\"\"\u003e\u003csection style=\"margin: 0 0 14px; padding: 8px 12px; background-color: #ffffff; border: 2.5px solid #111111; box-shadow: 4px 4px 0 #111111; display: table; width: 100%; box-sizing: border-box\" data-no-dark=\"\"\u003e\u003csection style=\"display: table-cell; width: 64px; vertical-align: middle\" data-no-dark=\"\"\u003e\u003cspan style=\"display: inline-block; padding: 2px 7px; background-color: #111111; color: #ffffff; font-size: 12px; font-weight: 900; font-family: Menlo, Consolas, \u0026#39;PingFang SC\u0026#39;, monospace\" data-no-dark=\"\"\u003e\u003cspan data-cw-decor=\"1\" style=\"margin-right: 2px\" data-no-dark=\"\"\u003eEP.\u003c/span\u003e01\u003c/span\u003e\u003c/section\u003e\u003ch2 style=\"display: table-cell; vertical-align: middle; margin: 0; font-size: 17.5px; font-weight: 900; color: #111111\" data-no-dark=\"\"\u003e把文章切成一格格高能分镜\u003c/h2\u003e\u003c/section\u003e\u003csection data-no-dark=\"\"\u003e\u003csection data-no-dark=\"\"\u003e\u003cp style=\"color: #111111; font-family: -apple-system, BlinkMacSystemFont, \u0026#39;PingFang SC\u0026#39;, \u0026#39;Microsoft YaHei\u0026#39;, sans-serif; font-size: 15px; letter-spacing: 0.4px; line-height: 1.85; margin: 0 0 15px\"\u003e外围网点纸托起\u003cstrong style=\"color: #000000; font-weight: 700\"\u003e3px 粗黑漫画分镜主框\u003c/strong\u003e，章节采用 EP.01 黑底白字与圆角对话气泡引用。\u003c/p\u003e\u003c/section\u003e\u003csection style=\"margin: 18px 0; padding: 14px 16px; background-color: #ffffff; border: 2.5px solid #111111; border-radius: 18px; box-shadow: 3px 3px 0 #111111\" data-no-dark=\"\"\u003e\u003cblockquote style=\"border: 0; margin: 0; padding: 0\"\u003e\u003cp style=\"color: #111111; font-family: -apple-system, BlinkMacSystemFont, \u0026#39;PingFang SC\u0026#39;, \u0026#39;Microsoft YaHei\u0026#39;, sans-serif; font-size: 14.5px; font-weight: 700; letter-spacing: 0.4px; line-height: 1.85; margin: 0\"\u003e故事的节奏感，就藏在每一格分镜的停顿与反转里！\u003c/p\u003e\u003c/blockquote\u003e\u003c/section\u003e\u003csection style=\"margin: 18px 0; padding: 4px; background-color: #111111; border: 2px solid #111111\" data-no-dark=\"\"\u003e\u003cimg src=\"https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/sample-images/minimal-architecture.jpg\" alt=\"强黑白光影对比的建筑几何构图\" style=\"display: block; height: auto; margin: 0; max-width: 100%; width: 100%\"/\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\u003csection style=\"margin: 24px 0 0\" data-no-dark=\"\"\u003e\u003csection style=\"margin: 0 0 14px; padding: 8px 12px; background-color: #ffffff; border: 2.5px solid #111111; box-shadow: 4px 4px 0 #111111; display: table; width: 100%; box-sizing: border-box\" data-no-dark=\"\"\u003e\u003csection style=\"display: table-cell; width: 64px; vertical-align: middle\" data-no-dark=\"\"\u003e\u003cspan style=\"display: inline-block; padding: 2px 7px; background-color: #111111; color: #ffffff; font-size: 12px; font-weight: 900; font-family: Menlo, Consolas, \u0026#39;PingFang SC\u0026#39;, monospace\" data-no-dark=\"\"\u003e\u003cspan data-cw-decor=\"1\" style=\"margin-right: 2px\" data-no-dark=\"\"\u003eEP.\u003c/span\u003e02\u003c/span\u003e\u003c/section\u003e\u003ch2 style=\"display: table-cell; vertical-align: middle; margin: 0; font-size: 17.5px; font-weight: 900; color: #111111\" data-no-dark=\"\"\u003e漫画分镜风的趣味玩法\u003c/h2\u003e\u003c/section\u003e\u003csection data-no-dark=\"\"\u003e\u003csection style=\"margin: 14px 0\" data-no-dark=\"\"\u003e\u003cul style=\"color: #111111; font-family: -apple-system, BlinkMacSystemFont, \u0026#39;PingFang SC\u0026#39;, \u0026#39;Microsoft YaHei\u0026#39;, sans-serif; font-size: 14.5px; line-height: 1.85; margin: 0; padding-left: 20px\"\u003e\u003cli style=\"margin: 0 0 7px\"\u003e16px 细腻漫画网点纸复刻单行本印刷\u003c/li\u003e\u003cli style=\"margin: 0 0 7px\"\u003e18px 大圆角粗黑框模拟漫画台词气泡\u003c/li\u003e\u003cli style=\"margin: 0 0 7px\"\u003eTO BE CONTINUED 尾标自带追更仪式感\u003c/li\u003e\u003c/ul\u003e\u003c/section\u003e\u003csection style=\"margin: 16px 0\" data-no-dark=\"\"\u003e\u003ctable style=\"border-collapse: collapse; color: #111111; font-size: 14px; line-height: 1.7; table-layout: fixed; width: 100%\"\u003e\u003cthead\u003e\u003ctr\u003e\u003cth style=\"background-color: #111111; border: 1px solid #111111; color: #ffffff; font-weight: 700; padding: 8px 10px; text-align: left\"\u003e维度\u003c/th\u003e\u003cth style=\"background-color: #111111; border: 1px solid #111111; color: #ffffff; font-weight: 700; padding: 8px 10px; text-align: left\"\u003e版式表现\u003c/th\u003e\u003c/tr\u003e\u003c/thead\u003e\u003ctbody\u003e\u003ctr\u003e\u003ctd style=\"background-color: #ffffff; border: 1px solid #111111; color: #111111; padding: 8px 10px\"\u003e纸面网点\u003c/td\u003e\u003ctd style=\"background-color: #ffffff; border: 1px solid #111111; color: #111111; padding: 8px 10px\"\u003e黑白漫画网点 PNG\u003c/td\u003e\u003c/tr\u003e\u003ctr\u003e\u003ctd style=\"background-color: #ffffff; border: 1px solid #111111; color: #111111; padding: 8px 10px\"\u003e推荐题材\u003c/td\u003e\u003ctd style=\"background-color: #ffffff; border: 1px solid #111111; color: #111111; padding: 8px 10px\"\u003e故事吐槽 / 漫评 / 趣味科普\u003c/td\u003e\u003c/tr\u003e\u003c/tbody\u003e\u003c/table\u003e\u003c/section\u003e\u003csection style=\"margin: 24px 0 0; padding: 10px 12px; border-top: 2.5px solid #111111; text-align: center\" data-no-dark=\"\"\u003e\u003cp style=\"color: #333333; font-family: -apple-system, BlinkMacSystemFont, \u0026#39;PingFang SC\u0026#39;, \u0026#39;Microsoft YaHei\u0026#39;, sans-serif; font-size: 13.5px; font-weight: 600; letter-spacing: 0.4px; line-height: 1.8; margin: 0; text-align: center\"\u003e本话完结，下回剧情更精彩，记得点个在看催更！\u003c/p\u003e\u003cspan data-cw-decor=\"1\" style=\"display: block; margin-top: 6px; font-size: 11px; font-weight: 900; letter-spacing: 2px; color: #111111\" data-no-dark=\"\"\u003eTO BE CONTINUED\u003c/span\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e",
+  "id": "cw-html-v3-ink-comic",
+  "layoutPrompt": "[cw-imported-style-v3:{\"root\":\"box-sizing:border-box;width:100%;background-color:#fcfcfc;color:#111111;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;font-size:15px;line-height:1.85;\",\"elements\":{\"p\":\"margin:0 0 15px;color:#111111;font-size:15px;line-height:1.85;letter-spacing:0.4px;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;\",\"h3\":\"margin:18px 0 10px;color:#111111;font-size:16px;font-weight:700;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;\",\"strong\":\"font-weight:700;color:#000000;\",\"em\":\"font-style:italic;color:#444444;\",\"a\":\"color:#111111;text-decoration:underline;overflow-wrap:anywhere;\",\"img\":\"display:block;width:100%;max-width:100%;height:auto;margin:0;\",\"blockquote\":\"margin:0;padding:0;border:0;\",\"ul\":\"margin:0;padding-left:20px;color:#111111;font-size:14.5px;line-height:1.85;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;\",\"ol\":\"margin:0;padding-left:20px;color:#111111;font-size:14.5px;line-height:1.85;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;\",\"li\":\"margin:0 0 7px;\",\"table\":\"width:100%;table-layout:fixed;border-collapse:collapse;font-size:14px;line-height:1.7;color:#111111;\",\"th\":\"border:1px solid #111111;padding:8px 10px;background-color:#111111;color:#ffffff;text-align:left;font-weight:700;\",\"td\":\"border:1px solid #111111;padding:8px 10px;background-color:#ffffff;color:#111111;\",\"pre\":\"margin:0;padding:12px;background-color:#f2f2f2;color:#111111;font-family:Menlo, Consolas, 'PingFang SC', monospace;font-size:13px;white-space:pre-wrap;\",\"hr\":\"border:0;border-top:1px solid #111111;margin:20px 0;\"},\"structure\":{\"version\":3,\"frame\":\"\u003csection style=\\\"box-sizing:border-box;width:100%;padding:16px 14px 24px;background-color:#fcfcfc;background-image:url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEX8/PzS0tLTnYHVAAAAEUlEQVR42mNggAEBBhwARQIAA2AAIbzCmO4AAAAASUVORK5CYII=');background-repeat:repeat;background-size:16px 16px;color:#111111;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;overflow-wrap:anywhere;\\\" data-no-dark=\\\"\\\"\u003e\u003csection style=\\\"background-color:#ffffff;border:3px solid #111111;padding:16px 15px 20px;box-shadow:5px 5px 0 #111111;\\\" data-no-dark=\\\"\\\"\u003e\u003csection style=\\\"margin:0 0 12px;display:table;width:100%;\\\" data-no-dark=\\\"\\\"\u003e\u003cspan data-cw-decor=\\\"1\\\" style=\\\"display:inline-block;padding:3px 10px;background-color:#111111;color:#ffffff;font-size:11px;font-weight:900;letter-spacing:2px;\\\" data-no-dark=\\\"\\\"\u003eCOMIC PANEL\u003c/span\u003e\u003c/section\u003e\u003csection data-no-dark=\\\"\\\"\u003e{{body}}\u003c/section\u003e\u003c/section\u003e\u003c/section\u003e\",\"lead\":{\"frame\":\"\u003csection style=\\\"margin:0 0 18px;padding:12px 14px;background-color:#f5f5f5;border:2px solid #111111;\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\",\"style\":\"margin:0;color:#111111;font-size:14.5px;font-weight:600;line-height:1.85;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;\"},\"sections\":{\"2\":[{\"numbered\":true,\"numberFormat\":\"pad2\",\"frame\":\"\u003csection style=\\\"margin:24px 0 0;\\\" data-no-dark=\\\"\\\"\u003e\u003csection style=\\\"margin:0 0 14px;padding:8px 12px;background-color:#ffffff;border:2.5px solid #111111;box-shadow:4px 4px 0 #111111;display:table;width:100%;box-sizing:border-box;\\\" data-no-dark=\\\"\\\"\u003e\u003csection style=\\\"display:table-cell;width:64px;vertical-align:middle;\\\" data-no-dark=\\\"\\\"\u003e\u003cspan style=\\\"display:inline-block;padding:2px 7px;background-color:#111111;color:#ffffff;font-size:12px;font-weight:900;font-family:Menlo, Consolas, 'PingFang SC', monospace;\\\" data-no-dark=\\\"\\\"\u003e\u003cspan data-cw-decor=\\\"1\\\" style=\\\"margin-right:2px;\\\" data-no-dark=\\\"\\\"\u003eEP.\u003c/span\u003e{{number}}\u003c/span\u003e\u003c/section\u003e\u003ch2 style=\\\"display:table-cell;vertical-align:middle;margin:0;font-size:17.5px;font-weight:900;color:#111111;\\\" data-no-dark=\\\"\\\"\u003e{{heading}}\u003c/h2\u003e\u003c/section\u003e\u003csection data-no-dark=\\\"\\\"\u003e{{body}}\u003c/section\u003e\u003c/section\u003e\",\"paragraph\":{\"frame\":\"\u003csection data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\",\"style\":\"margin:0 0 15px;color:#111111;font-size:15px;line-height:1.85;letter-spacing:0.4px;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;\"}}]},\"blocks\":{\"body\":{\"frame\":\"\u003csection data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\"},\"quote\":{\"frame\":\"\u003csection style=\\\"margin:18px 0;padding:14px 16px;background-color:#ffffff;border:2.5px solid #111111;border-radius:18px;box-shadow:3px 3px 0 #111111;\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\",\"textStyle\":\"margin:0;color:#111111;font-size:14.5px;font-weight:700;line-height:1.85;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;\"},\"image\":{\"frame\":\"\u003csection style=\\\"margin:18px 0;padding:4px;background-color:#111111;border:2px solid #111111;\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\"},\"list\":{\"frame\":\"\u003csection style=\\\"margin:14px 0;\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\"},\"table\":{\"frame\":\"\u003csection style=\\\"margin:16px 0;\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\"},\"note\":{\"frame\":\"\u003csection style=\\\"margin:14px 0;\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\"},\"rule\":{\"frame\":\"\u003csection style=\\\"margin:16px 0;\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003c/section\u003e\"},\"ending\":{\"frame\":\"\u003csection style=\\\"margin:24px 0 0;padding:10px 12px;border-top:2.5px solid #111111;text-align:center;\\\" data-no-dark=\\\"\\\"\u003e{{content}}\u003cspan data-cw-decor=\\\"1\\\" style=\\\"display:block;margin-top:6px;font-size:11px;font-weight:900;letter-spacing:2px;color:#111111;\\\" data-no-dark=\\\"\\\"\u003eTO BE CONTINUED\u003c/span\u003e\u003c/section\u003e\",\"style\":\"margin:0;color:#333333;font-size:13.5px;font-weight:600;line-height:1.8;text-align:center;font-family:-apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif;\"}}}}]",
+  "name": "黑白漫画分镜格",
   "nativePreset": {
-    "id": "edition-ink-comic",
-    "label": "黑白漫画格",
-    "category": "娱乐八卦",
-    "topics": [],
-    "instruction": "",
-    "keywords": "娱乐八卦 娱乐游戏 独立设计50 内联排版",
-    "summary": "黑白漫画粗框、反白章节和对白气泡，完全可编辑的真实正文。",
+    "id": "v3-ink-comic",
+    "label": "黑白漫画分镜格",
+    "category": "多彩创意",
+    "topics": [
+      "背景图",
+      "黑白漫画",
+      "分镜框"
+    ],
+    "instruction": "经典黑白漫画网点纸底、粗黑分镜外框、EP.01 硬阴影标题与圆角对话气泡引语，张力十足，适合二次元吐槽、故事连载与创意科普。",
+    "keywords": "背景图 黑白漫画 分镜框 故事连载",
+    "summary": "经典黑白漫画网点纸底、粗黑分镜外框、EP.01 硬阴影标题与圆角对话气泡引语，张力十足，适合二次元吐槽、故事连载与创意科普。",
+    "visualFamily": "poster",
     "supportsImages": true,
-    "visualFamily": "magazine",
     "design": {
-      "id": "edition-ink-comic",
-      "label": "黑白漫画格",
-      "visualFamily": "magazine",
-      "category": "娱乐游戏",
-      "keywords": "娱乐八卦 娱乐游戏 独立设计50 内联排版",
-      "summary": "黑白漫画粗框、反白章节和对白气泡，完全可编辑的真实正文。",
+      "id": "v3-ink-comic",
+      "label": "黑白漫画分镜格",
+      "category": "多彩创意",
+      "visualFamily": "poster",
+      "keywords": "背景图 黑白漫画 分镜框 故事连载",
+      "summary": "经典黑白漫画网点纸底、粗黑分镜外框、EP.01 硬阴影标题与圆角对话气泡引语，张力十足，适合二次元吐槽、故事连载与创意科普。",
       "supportsImages": true,
       "palette": {
-        "paper": "#ffffff",
-        "ink": "#202020",
-        "muted": "#626262",
-        "accent": "#202020",
-        "panel": "#eeeeeb"
+        "paper": "#f8f6f1",
+        "ink": "#222222",
+        "muted": "#94a3b8",
+        "accent": "#d63628",
+        "panel": "#ffffff"
       },
       "typography": {
         "font": "sans",
-        "titleSize": 34,
-        "titleWeight": 500,
-        "bodySize": 16,
+        "titleSize": 22,
+        "titleWeight": 700,
+        "bodySize": 15,
         "lineHeight": 1.9,
-        "paragraphGap": 18
-      },
-      "composition": {
-        "opening": "manifesto",
-        "frame": "open",
-        "inset": 24,
-        "measure": 100,
-        "titleFont": "sans",
-        "headingFont": "sans",
-        "titleSize": 34,
-        "titleWeight": 500,
-        "headerTreatment": "plain",
-        "headerAlign": "left",
-        "headerMeasure": 100,
-        "headerLayout": "compact",
-        "leadTreatment": "plain",
-        "headingTreatment": "plain",
-        "quoteTreatment": "plain",
-        "endingTreatment": "plain",
-        "imageTreatment": "plain",
-        "rhythm": "chapter"
-      },
-      "editorial": {
-        "paper": {
-          "padding": "16px",
-          "background-color": "#ffffff",
-          "color": "#202020",
-          "border": "3px solid #202020"
-        },
-        "content": {
-          "width": "100%",
-          "margin": "0",
-          "padding": "0",
-          "color": "#202020"
-        },
-        "header": {
-          "width": "100%",
-          "margin": "0 0 26px",
-          "box-sizing": "border-box",
-          "padding": "28px 18px",
-          "border": "3px solid #202020",
-          "background-image": "repeating-linear-gradient(135deg,transparent 0,transparent 9px,#2020200c 10px,#2020200c 11px)"
-        },
-        "roles": {
-          "title": {
-            "display": "block",
-            "width": "auto",
-            "max-width": "100%",
-            "background": "transparent",
-            "border": "0",
-            "padding": "12px",
-            "color": "#202020",
-            "font-size": "42px",
-            "font-weight": "900",
-            "line-height": "1.3",
-            "text-align": "center",
-            "letter-spacing": "1px",
-            "background-color": "#ffffff"
-          },
-          "lead": {
-            "display": "block",
-            "width": "auto",
-            "max-width": "100%",
-            "box-sizing": "border-box",
-            "font-size": "17px",
-            "line-height": "1.95",
-            "color": "#202020",
-            "text-align": "left",
-            "border": "0",
-            "background": "transparent",
-            "padding": "0",
-            "margin": "24px 0"
-          },
-          "body": {
-            "font-size": "16px",
-            "line-height": "1.95",
-            "color": "#202020",
-            "margin": "0 0 18px"
-          },
-          "heading": {
-            "display": "block",
-            "width": "auto",
-            "color": "#ffffff",
-            "background": "transparent",
-            "border": "0",
-            "padding": "12px 16px",
-            "margin": "0 0 16px",
-            "line-height": "1.5",
-            "font-size": "25px",
-            "font-weight": "900",
-            "background-color": "#202020"
-          },
-          "quote": {
-            "margin": "24px 0",
-            "line-height": "1.85",
-            "color": "#202020",
-            "font-size": "20px",
-            "font-weight": "700",
-            "border": "2px solid #202020",
-            "border-radius": "50%",
-            "padding": "30px 24px",
-            "text-align": "center",
-            "background-color": "#ffffff"
-          },
-          "ending": {
-            "font-size": "16px",
-            "color": "#202020",
-            "line-height": "1.95",
-            "margin": "32px 0 0",
-            "border": "0",
-            "border-top": "1px solid #626262",
-            "padding": "18px 0 0"
-          },
-          "image": {
-            "margin": "24px 0"
-          },
-          "table": {
-            "font-size": "15px",
-            "line-height": "1.7"
-          }
-        },
-        "chapters": [
-          {
-            "width": "100%",
-            "padding": "0 14px 8px",
-            "margin": "26px 0 0",
-            "border": "2px solid #202020",
-            "background": "transparent"
-          }
-        ],
-        "headingSurface": {},
-        "bodySurface": {},
-        "initial": {}
-      },
-      "rules": {
-        "title": "黑白漫画粗框、反白章节和对白气泡，完全可编辑的真实正文。",
-        "lead": "保留真实导语",
-        "section": "按文章原章节排版",
-        "quote": "仅排版原文引语",
-        "emphasis": "保留原文强调",
-        "ending": "保留原文收尾"
-      },
-      "blocks": []
+        "paragraphGap": 16
+      }
     }
   },
-  "original": {
-    "id": "edition-ink-comic",
-    "label": "黑白漫画格",
-    "category": "娱乐游戏",
-    "topics": [],
-    "instruction": "",
-    "keywords": "娱乐游戏 黑白漫画格",
-    "summary": "黑白漫画粗框、反白章节和对白气泡，完全可编辑的真实正文。",
-    "supportsImages": true,
-    "visualFamily": "magazine",
-    "design": {
-      "id": "edition-ink-comic",
-      "label": "黑白漫画格",
-      "visualFamily": "magazine",
-      "category": "娱乐游戏",
-      "keywords": "娱乐游戏 黑白漫画格",
-      "summary": "黑白漫画粗框、反白章节和对白气泡，完全可编辑的真实正文。",
-      "supportsImages": true,
-      "palette": {
-        "paper": "#ffffff",
-        "ink": "#202020",
-        "muted": "#626262",
-        "accent": "#202020",
-        "panel": "#eeeeeb"
-      },
-      "typography": {
-        "font": "sans",
-        "titleSize": 34,
-        "titleWeight": 500,
-        "bodySize": 16,
-        "lineHeight": 1.9,
-        "paragraphGap": 18
-      },
-      "composition": {
-        "opening": "manifesto",
-        "frame": "open",
-        "inset": 24,
-        "measure": 100,
-        "titleFont": "sans",
-        "headingFont": "sans",
-        "titleSize": 34,
-        "titleWeight": 500,
-        "headerTreatment": "plain",
-        "headerAlign": "left",
-        "headerMeasure": 100,
-        "headerLayout": "compact",
-        "leadTreatment": "plain",
-        "headingTreatment": "plain",
-        "quoteTreatment": "plain",
-        "endingTreatment": "plain",
-        "imageTreatment": "plain",
-        "rhythm": "chapter"
-      },
-      "editorial": {
-        "paper": {
-          "padding": "16px",
-          "background-color": "#ffffff",
-          "color": "#202020",
-          "border": "3px solid #202020"
-        },
-        "content": {
-          "width": "100%",
-          "margin": "0",
-          "padding": "0"
-        },
-        "header": {
-          "width": "100%",
-          "margin": "0 0 26px",
-          "box-sizing": "border-box",
-          "padding": "28px 18px",
-          "border": "3px solid #202020",
-          "background-image": "repeating-linear-gradient(135deg,transparent 0,transparent 9px,#2020200c 10px,#2020200c 11px)"
-        },
-        "roles": {
-          "title": {
-            "display": "block",
-            "width": "auto",
-            "max-width": "100%",
-            "background": "transparent",
-            "border": "0",
-            "padding": "12px",
-            "color": "#202020",
-            "font-size": "42px",
-            "font-weight": "900",
-            "line-height": "1.3",
-            "text-align": "center",
-            "letter-spacing": "1px",
-            "background-color": "#ffffff"
-          },
-          "lead": {
-            "display": "block",
-            "width": "auto",
-            "max-width": "100%",
-            "box-sizing": "border-box",
-            "font-size": "17px",
-            "line-height": "1.95",
-            "color": "#202020",
-            "text-align": "left",
-            "border": "0",
-            "background": "transparent",
-            "padding": "0",
-            "margin": "24px 0"
-          },
-          "body": {
-            "font-size": "16px",
-            "line-height": "1.95",
-            "color": "#202020",
-            "margin": "0 0 18px"
-          },
-          "heading": {
-            "display": "block",
-            "width": "auto",
-            "color": "#ffffff",
-            "background": "transparent",
-            "border": "0",
-            "padding": "12px 16px",
-            "margin": "0 0 16px",
-            "line-height": "1.5",
-            "font-size": "25px",
-            "font-weight": "900",
-            "background-color": "#202020"
-          },
-          "quote": {
-            "margin": "24px 0",
-            "line-height": "1.85",
-            "color": "#202020",
-            "font-size": "20px",
-            "font-weight": "700",
-            "border": "2px solid #202020",
-            "border-radius": "50%",
-            "padding": "30px 24px",
-            "text-align": "center",
-            "background-color": "#ffffff"
-          },
-          "ending": {
-            "font-size": "16px",
-            "color": "#202020",
-            "line-height": "1.95",
-            "margin": "32px 0 0",
-            "border": "0",
-            "border-top": "1px solid #626262",
-            "padding": "18px 0 0"
-          },
-          "image": {
-            "margin": "24px 0"
-          },
-          "table": {
-            "font-size": "15px",
-            "line-height": "1.7"
-          }
-        },
-        "chapters": [
-          {
-            "width": "100%",
-            "padding": "0 14px 8px",
-            "margin": "26px 0 0",
-            "border": "2px solid #202020",
-            "background": "transparent"
-          }
-        ],
-        "headingSurface": {},
-        "bodySurface": {},
-        "initial": {}
-      },
-      "rules": {
-        "title": "黑白漫画粗框、反白章节和对白气泡，完全可编辑的真实正文。",
-        "lead": "保留真实导语",
-        "section": "按文章原章节排版",
-        "quote": "仅排版原文引语",
-        "emphasis": "保留原文强调",
-        "ending": "保留原文收尾"
-      },
-      "blocks": []
-    }
-  },
-  "html": "<section id=\"cw-layout-magazine\" class=\"cw-reading-rhythm-v3\" style=\"background-color: #ffffff; border: 3px solid #202020; box-sizing: border-box; color: #202020; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 16px; line-height: 1.8; overflow-wrap: anywhere; padding: 16px; width: 100%; word-break: break-word\" data-no-dark=\"\"><section style=\"box-sizing: border-box; color: #202020; margin: 0; max-width: 100%; padding: 0; width: 100%\" data-no-dark=\"\"><section style=\"background-image: repeating-linear-gradient(135deg, transparent 0px, transparent 9px, rgba(32, 32, 32, 0.047) 10px, rgba(32, 32, 32, 0.047) 11px); border: 3px solid rgb(32, 32, 32); box-sizing: border-box; margin: 0px; padding: 28px 18px; width: 100%;\" data-no-dark=\"\"><p style=\"background: transparent; border: 0px; box-sizing: border-box; color: rgb(32, 32, 32); display: block; font-size: 17px; line-height: 1.95; margin: 0px 0px 24px; max-width: 100%; padding: 0px; text-align: left; width: auto;\" data-no-dark=\"\">开场第一段：比赛结束后，人们先看到了比分。阅读一篇文章，也需要先交代背景，让读者知道事情从哪里开始。</p></section><p style=\"color: #202020; font-size: 16px; line-height: 1.95; margin: 0 0 18px\" data-no-dark=\"\">开场第二段：比分接近，真正需要讨论的是关键时刻的判断。连续的正文应留在同一个阅读容器里，左右都应有清楚的留白。</p><p style=\"color: #202020; font-size: 16px; line-height: 1.95; margin: 0 0 18px\" data-no-dark=\"\">开场第三段：接下来再进入具体章节。段落数量改变时，不应丢失内容，不应贴边，也不应为每段重复一层巨大的卡片内边距。</p><p style=\"box-sizing: border-box; line-height: 1.8; margin: 24px 0; text-align: left\" data-no-dark=\"\"><img src=\"https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/sample-images/reading-still-life.jpg?ref=master&amp;v=0537832c544b1da46e9132fbf0b360b50d94e840b6077ec13a6f57c5c0ab925c\" alt=\"自然光下的阅读与写作静物\" style=\"display: block; height: auto; margin: 0; width: 100%\" data-no-dark=\"\"></p><section style=\"background: transparent; border: 2px solid #202020; box-sizing: border-box; margin: 26px 0 0; margin-left: 0; margin-right: 0; padding: 0 14px 8px; width: 100%\" data-no-dark=\"\"><h2 style=\"background: transparent; background-color: #202020; border: 0; color: #ffffff; display: block; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 25px; font-weight: 900; line-height: 1.5; margin: 0 0 16px; padding: 12px 16px; text-align: left; text-indent: 0; width: auto\" data-no-dark=\"\">从标题开始，建立阅读节奏</h2><p style=\"color: #202020; font-size: 16px; line-height: 1.95; margin: 0 0 18px\" data-no-dark=\"\">标题需要一个清楚的重心。<strong style=\"font-weight: 700\" data-no-dark=\"\">重点句只强调一次</strong>，其余正文让段落长度、行距和留白承担节奏。</p><blockquote style=\"background-color: #ffffff; border: 2px solid #202020; border-radius: 50%; color: #202020; font-size: 20px; font-weight: 700; line-height: 1.85; margin: 24px 0; padding: 30px 24px; text-align: center\" data-no-dark=\"\"><p style=\"color: inherit; font-size: inherit; font-weight: inherit; line-height: inherit; margin: 0 0 12px\" data-no-dark=\"\">排版的任务，是把内容的关系呈现出来。</p></blockquote><p style=\"color: #202020; font-size: 16px; line-height: 1.95; margin: 0 0 18px\" data-no-dark=\"\">每种风格都应该有自己的声音，同时让正文保持完整、清楚和可读。</p></section><section style=\"background: transparent; border: 2px solid #202020; box-sizing: border-box; margin: 26px 0 0; margin-left: 0; margin-right: 0; padding: 0 14px 8px; width: 100%\" data-no-dark=\"\"><h2 style=\"background: transparent; background-color: #202020; border: 0; color: #ffffff; display: block; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 25px; font-weight: 900; line-height: 1.5; margin: 0 0 16px; padding: 12px 16px; text-align: left; text-indent: 0; width: auto\" data-no-dark=\"\">三个可以马上检查的地方</h2><ul style=\"margin: 0 0 16px; padding-left: 22px\" data-no-dark=\"\"><li style=\"margin: 0 0 8px; padding-left: 3px\" data-no-dark=\"\">标题是否有独立的视觉重心</li><li style=\"margin: 0 0 8px; padding-left: 3px\" data-no-dark=\"\">章节之间是否留出呼吸空间</li><li style=\"margin: 0 0 8px; padding-left: 3px\" data-no-dark=\"\">重点是否与普通正文形成清楚层级</li></ul><p style=\"box-sizing: border-box; line-height: 1.8; margin: 24px 0; text-align: left\" data-no-dark=\"\"><img src=\"https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/sample-images/reading-still-life.jpg?ref=master&amp;v=0537832c544b1da46e9132fbf0b360b50d94e840b6077ec13a6f57c5c0ab925c\" alt=\"自然光下的阅读与写作静物\" style=\"display: block; height: auto; margin: 0; width: 100%\" data-no-dark=\"\"></p><p style=\"box-sizing: border-box; line-height: 1.8; margin: 24px 0; text-align: left\" data-no-dark=\"\"><img src=\"https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/sample-images/reading-still-life.jpg?ref=master&amp;v=0537832c544b1da46e9132fbf0b360b50d94e840b6077ec13a6f57c5c0ab925c\" alt=\"自然光下的阅读与写作静物\" style=\"display: block; height: auto; margin: 0; width: 100%\" data-no-dark=\"\"></p><table style=\"border-collapse: collapse; color: inherit; font-family: inherit; font-size: 15px; line-height: 1.7; margin: 20px 0 20px; table-layout: fixed; width: 100%\" data-no-dark=\"\"><thead data-no-dark=\"\"><tr data-no-dark=\"\"><th style=\"background-color: #202020; border: 1px solid #626262; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\" data-no-dark=\"\">检查项</th><th style=\"background-color: #202020; border: 1px solid #626262; color: #ffffff; font-weight: 700; padding: 9px 8px; vertical-align: top; word-break: break-word\" data-no-dark=\"\">观察方式</th></tr></thead><tbody data-no-dark=\"\"><tr data-no-dark=\"\"><td style=\"border: 1px solid #626262; padding: 9px 8px; vertical-align: top; word-break: break-word\" data-no-dark=\"\">标题</td><td style=\"border: 1px solid #626262; padding: 9px 8px; vertical-align: top; word-break: break-word\" data-no-dark=\"\">第一眼能否找到主题</td></tr><tr data-no-dark=\"\"><td style=\"border: 1px solid #626262; padding: 9px 8px; vertical-align: top; word-break: break-word\" data-no-dark=\"\">正文</td><td style=\"border: 1px solid #626262; padding: 9px 8px; vertical-align: top; word-break: break-word\" data-no-dark=\"\">是否能够连续阅读</td></tr><tr data-no-dark=\"\"><td style=\"border: 1px solid #626262; padding: 9px 8px; vertical-align: top; word-break: break-word\" data-no-dark=\"\">引用</td><td style=\"border: 1px solid #626262; padding: 9px 8px; vertical-align: top; word-break: break-word\" data-no-dark=\"\">是否与作者叙述区分</td></tr></tbody></table><p style=\"box-sizing: border-box; line-height: 1.8; margin: 24px 0; text-align: left\" data-no-dark=\"\"><img src=\"https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/sample-images/reading-still-life.jpg?ref=master&amp;v=0537832c544b1da46e9132fbf0b360b50d94e840b6077ec13a6f57c5c0ab925c\" alt=\"自然光下的阅读与写作静物\" style=\"display: block; height: auto; margin: 0; width: 100%\" data-no-dark=\"\"></p></section><section style=\"background: transparent; border: 2px solid #202020; box-sizing: border-box; margin: 26px 0 0; margin-left: 0; margin-right: 0; padding: 0 14px 8px; width: 100%\" data-no-dark=\"\"><h2 style=\"background: transparent; background-color: #202020; border: 0; color: #ffffff; display: block; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', sans-serif; font-size: 25px; font-weight: 900; line-height: 1.5; margin: 0 0 16px; padding: 12px 16px; text-align: left; text-indent: 0; width: auto\" data-no-dark=\"\">把风格落实到每一个细节</h2><p style=\"color: #202020; font-size: 16px; line-height: 1.95; margin: 0 0 18px\" data-no-dark=\"\">报纸用硬边栏线建立秩序，杂志用大留白放慢速度，信笺让段落像一次自然的交谈。</p><p style=\"box-sizing: border-box; line-height: 1.8; margin: 24px 0; text-align: left\" data-no-dark=\"\"><img src=\"https://api.gitcode.com/api/v5/repos/wendao-ai/wendao-ai-template-market/raw/sample-images/reading-still-life.jpg?ref=master&amp;v=0537832c544b1da46e9132fbf0b360b50d94e840b6077ec13a6f57c5c0ab925c\" alt=\"自然光下的阅读与写作静物\" style=\"display: block; height: auto; margin: 0; width: 100%\" data-no-dark=\"\"></p><p style=\"color: #202020; font-size: 16px; line-height: 1.95; margin: 0 0 18px\" data-no-dark=\"\">一个完整的句子，不应该为了装饰被删掉。一张原有的表格，也不应该被换成没有事实来源的数字。</p><p style=\"border: 0; border-top: 1px solid #626262; color: #202020; font-size: 16px; line-height: 1.95; margin: 32px 0 0; padding: 18px 0 0; text-align: left\" data-no-dark=\"\">读完之后，留下一个清楚的观点，比留下许多重复的色块更有价值。</p></section></section></section>",
-  "name": "黑白漫画格"
+  "schemaVersion": 1,
+  "type": "html-template"
 }
